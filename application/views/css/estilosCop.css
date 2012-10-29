@@ -1,0 +1,1395 @@
+/* 
+    Document   : estilos
+    Created on : 17/01/2011, 02:47:45 PM
+    Author     : kcapote
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+*{
+	outline: 0;
+	margin: 0;
+	padding: 0;
+}
+
+html,body {
+	width: 100%;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+.sinbordes {
+	padding: 0em 0em;
+}
+
+.sin_scroll {
+	overflow: hidden;
+}
+
+.fondoAzulClaro {
+	background: #EFF5FB;
+}
+
+.fondoAzulOscuro {
+	background: #D0D8E8;
+}
+
+.fondoAqua {
+	background: #B0C4DE;
+}
+
+.cabeceraBusqueda {
+	font-size: 15px;
+	font-weight: bold;
+	color: #B83614;
+}
+
+.cabeceraCumpleaneros {
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.cabeceraMensajeCumpleaneros {
+	font-size: 15px;
+	font-weight: bold;
+	color: #CC0000;
+}
+
+.cabeceraTitulo {
+	text-align: center;
+	color: #000066;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.bordeNegro {
+	border: 1px;
+	border-top: 1px solid #A4A4A4;
+	border-right: 1px solid #A4A4A4;
+	border-bottom: 1px solid #A4A4A4;
+	border-left: 1px solid #A4A4A4;
+}
+
+/* Bordes */
+.sinborde {
+	border: 0px;
+}
+
+.bordeTablas{
+	empty-cells: hide;
+  	border-collapse: collapse;	
+}
+
+.sinBordeNegro {
+	border: 0px;
+	border-top: 0px;
+	border-right: 0px;
+	border-bottom: 0px;
+	border-left: 0px;
+}
+
+.bordeInferiorSuperior {
+	border-bottom: 1px;
+	border-top: 1px;
+}
+
+.bordeDerechoNoSolido {
+	border-right: 1px;
+}
+
+.bordeIzquierdoNoSolido {
+	border-left: 1px;
+}
+
+.bordeSuperiorNoSolido {
+	border-top: 1px;
+}
+
+.bordeInferiorNoSolido {
+	border-bottom: 1px;
+}
+
+.bordeDerecho {
+	border-right: 1px solid #A4A4A4;
+}
+
+.bordeIzquierdo {
+	border-left: 1px solid #A4A4A4;
+}
+
+.bordeSuperior {
+	border-top: 1px solid #A4A4A4;
+}
+
+.bordeInferior {
+	border-bottom: 1px solid #A4A4A4;
+}
+
+.estiloLetra {
+	text-align: center;
+	margin: 0 auto;
+	font-family: Verdana;
+}
+
+/* Tamanos de cajas */
+.anchoDiv {
+	width: 670px;
+}
+
+.anchoDivGrande {
+	width: 800px;/*670*/
+}
+
+.anchoDiv_398 {
+	width: 398px;
+}
+
+.anchoDiv_665 {
+	width: 665px;
+}
+
+.anchoDiv_650 {
+	width: 650px;
+}
+
+.anchoDiv_605 {
+	width: 605px;
+}
+
+.anchoDiv_570 {
+	width: 570px;
+}
+
+.anchoDiv_355 {
+	width: 355px;
+}
+
+.anchoDiv_353 {
+	width: 353px;
+}
+
+.anchoDiv_350 {
+	width: 350px;
+}
+
+.anchoDiv_310 {
+	width: 310px;
+}
+
+.anchoDiv_270 {
+	width: 270px;
+}
+
+.anchoDiv_255 {
+	width: 255px;
+}
+
+.anchoDiv_200 {
+	width: 200px;
+}
+
+.anchoDiv_60 {
+	width: 60px;
+}
+
+.largoDiv_140 {
+	height: 140px;
+}
+
+.largoDiv_180 {
+	height: 180px;
+}
+
+.largoDiv_200 {
+	height: 200px;
+}
+
+.largoDiv_225 {
+	height: 225px;
+}
+
+.largoDiv_250 {
+	height: 250px;
+}
+
+.marginTop10 {
+	margin-top: 10px;
+}
+
+.margenSuperior2 {
+	margin-top: 2px;
+}
+
+.margenSuperior {
+	margin-top: 15px;
+}
+
+.margenInferior {
+	margin-bottom: 10px;
+}
+
+.margenInferior30 {
+	margin-bottom: 30px;
+}
+
+.margen3px {
+	margin: 3px;
+}
+
+.margen4px {
+	margin: 4px;
+}
+
+.Cuerpo {
+	width: 700px;
+	height: 650px;
+}
+
+.posicionRelativa {
+	position: relative;
+}
+
+.tamano10 {
+	width: 10%;
+	height: 2.3em;
+}
+
+.tamano15 {
+	width: 15%;
+	height: 2.3em;
+}
+
+.tamano20 {
+	width: 20%;
+	height: 2.3em;
+}
+
+.tamano25 {
+	width: 25%;
+	height: 2em;
+}
+
+.tamano30 {
+	width: 30%;
+	height: 2.3em;
+}
+
+.entreLineas {
+	height: 2em;
+}
+
+.tamano40 {
+	width: 40%;
+	height: 2.3em;
+}
+
+.tamano35 {
+	width: 35%;
+	height: 2.3em;
+}
+
+.tamano60 {
+	width: 60%;
+	height: 1.8em;
+}
+
+.tamano60Peq {
+	width: 60%;
+	height: 2.3em;
+}
+
+.tamano75 {
+	width: 75%;
+	height: 1.8em;
+}
+
+.tamano100 {
+	width: 100%;
+	height: 2.3em;
+}
+
+.tamano100Peq {
+	width: 100%;
+	height: 2em;
+}
+
+.tamano100px {
+	width: 100px;
+	height: 1.8em;
+}
+
+/* Tamano de los botones de la paginacion*/
+.tamano_botones_pag {
+	margin-top: 6px;
+	background: #FFFFFF;
+	border: 0px;
+	border-collapse: collapse;
+	color: #2E6E9E;
+	font-weight: bold;
+}
+
+/*Tamano de los botones JQuery */
+.tamano_botones {
+	height: 17px;
+	margin-top: 4px;
+}
+
+.tamano_botones_jquery {
+	height: 17px;
+	width: 17px;
+}
+
+.tamano_botones_autocompletar {
+	height: 16px;
+	margin-top: -4px;
+	top: 4.5px;
+}
+
+.marginTop-12px {
+	margin-top: -12px;
+}
+
+.marginLeft3px {
+	margin-left: 3px;
+	margin-right: 4px;
+}
+
+.marginLeft50px {
+	margin-left: 45px;
+}
+
+.marginLeft70px {
+	margin-left: 70px;
+}
+
+.marginRight3px {
+	margin-right: 3px;
+}
+
+.marginBottom5px {
+	margin-bottom: 5px;
+}
+
+.marginBottom10px {
+	margin-bottom: 10px;
+}
+
+/* Tamanos celdas PORCENTAJES*/
+.tamano_2 {
+	width: 2%;
+}
+
+.tamano_3_5 {
+	width: 3.5%;
+}
+
+.tamano_5 {
+	width: 5%;
+}
+
+.tamano_10 {
+	width: 10%;
+}
+
+.tamano_11 {
+	width: 11%;
+}
+
+.tamano_15 {
+	width: 15%;
+}
+
+.tamano_18 {
+	width: 18%;
+}
+
+.tamano_20 {
+	width: 20%;
+}
+
+.tamano_25 {
+	width: 25%;
+}
+
+.tamano_30 {
+	width: 30%;
+}
+
+.tamano_35 {
+	width: 35%;
+}
+
+.tamano_40 {
+	width: 40%;
+}
+
+.tamano_45 {
+	width: 45%;
+}
+
+.tamano_50 {
+	width: 50%;
+}
+
+.tamano_55 {
+	width: 55%;
+}
+
+.tamano_60 {
+	width: 60%;
+}
+
+.tamano_65 {
+	width: 65%;
+}
+
+.tamano_70 {
+	width: 70%;
+}
+
+.tamano_75 {
+	width: 75%;
+}
+
+.tamano_80 {
+	width: 80%;
+}
+
+.tamano_90 {
+	width: 90%;
+}
+
+.tamano_95{
+	width: 95%;
+}	
+
+.tamano_100 {
+	width: 100%;
+}
+
+/* Tamanos celdas PIXELES*/
+.tamano_40px {
+	width: 40px;
+}
+
+.tamano_50px {
+	width: 50px;
+}
+
+.tamano_75px {
+	width: 75px;
+}
+
+.tamano_80px {
+	width: 80px;
+}
+
+.tamano_85px {
+	width: 85px;
+}
+
+.tamano_90px {
+	width: 90px;
+}
+
+.tamano_100px {
+	width: 100px;
+}
+
+.tamano_115px {
+	width: 115px;
+}
+
+.tamano_135px {
+	width: 135px;
+}
+
+.tamano_300px {
+	width: 300px;
+}
+
+.tamano_70px {
+	width: 70px;
+}
+
+.tamano_370px {
+	width: 370px;
+}
+
+.tamano_500px {
+	width: 500px;
+}
+
+.tamano_600px {
+	width: 600px;
+}
+
+.ancho_268px {
+	width: 268px;
+}
+
+/* Fuentes y Formatos Celdas Formularios*/
+.separacion_cajas {
+	height: 1.8em;
+}
+
+.tamano_Caja_Ari {
+	width: 0px;
+	height: 0px;
+}
+
+.negrita {
+	font-weight: bold;
+}
+
+.letra_8px {
+	text-align: left;
+	color: #000000;
+	font-size: 8px;
+	font-family: Arial;
+}
+
+.letra_9px {
+	color: #000000;
+	font-size: 9px;
+	font-family: Arial;
+}
+
+.letra_Cen_8px {
+	text-align: center;
+	color: #000000;
+	font-size: 8px;
+	font-family: Arial;
+}
+
+.letraIzq_8px {
+	text-align: right;
+	font-size: 8px;
+	font-family: Arial;
+}
+
+.letraN_8px {
+	text-align: left;
+	color: #000000;
+	font-size: 8px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.letra_10px {
+	text-align: left;
+	color: #000000;
+	font-size: 10px;
+	font-family: Arial;
+}
+
+.letra_Cen_10px {
+	text-align: center;
+	color: #000000;
+	font-size: 10px;
+	font-family: Arial;
+}
+
+.letraIzq_10px {
+	text-align: left;
+	font-size: 10px;
+	font-family: Arial;
+}
+
+.letraDer_10px {
+	text-align: right;
+	font-size: 10px;
+	font-family: Arial;
+}
+
+.letraIzq_11px {
+	text-align: right;
+	font-size: 11px;
+	font-family: Arial;
+}
+
+.letra_11px {
+	text-align: left;
+	color: #000000;
+	font-size: 11px;
+	font-family: Arial;
+}
+
+.letraN_12px {
+	text-align: left;
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.letraN_12px_der {
+	text-align: right;
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.letra_12px {
+	text-align: left;
+	color: #000000;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+.letraIzq_12px {
+	text-align: right;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+.letraIzq_13px {
+	text-align: left;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.letra_Cen_12px {
+	text-align: center;
+	color: #000000;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+.letra_13px {
+	text-align: left;
+	color: #000000;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.letraN_13px {
+	text-align: left;
+	color: #000000;
+	font-weight: bold;
+	font-size: 13px;
+	font-family: Arial;
+}
+
+.interlineado {
+	line-height: 20px;
+}
+
+/* Fuentes y Formatos Celdas*/
+.titulos_encabezados {
+	text-align: center;
+	background: #006699;
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 11px;
+	height: 1.8em;
+	font-weight: bold;
+}
+
+.titulos_encabezados_clave {
+	text-align: center;
+	background: #FFFFFF;
+	color: #000000;
+	font-family: Arial;
+	font-size: 11px;
+	height: 1.8em;
+	font-weight: bold;
+}
+
+.fondo_azul_oscuro_der {
+	text-align: right;
+	background: #D0D8E8;
+	color: #4D4D4D;
+	font-family: Arial;
+	font-size: 11px;
+	padding-right: 3px;
+	height: 1.8em;
+}
+
+.fondo_azul_oscuro_izq {
+	text-align: left;
+	background: #D0D8E8;
+	color: #4D4D4D;
+	font-family: Arial;
+	font-size: 11px;
+	padding-left: 3px;
+	height: 1.8em;
+}
+
+.fondo_azul_oscuro_cen {
+	text-align: center;
+	background: #D0D8E8;
+	color: #4D4D4D;
+	font-family: Arial;
+	font-size: 11px;
+	height: 1.8em;
+}
+
+.fondo_azul_claro_der {
+	text-align: right;
+	background: #E9EDF4;
+	color: #4D4D4D;
+	font-family: Arial;
+	font-size: 11px;
+	padding-right: 3px;
+	height: 1.8em;
+}
+
+.fondo_azul_claro_izq {
+	text-align: left;
+	background: #E9EDF4;
+	color: #4D4D4D;
+	font-family: Arial;
+	font-size: 11px;
+	padding-left: 3px;
+	height: 1.8em;
+}
+
+.fondo_azul_claro_cen {
+	text-align: center;
+	background: #E9EDF4;
+	color: #4D4D4D;
+	font-family: Arial;
+	font-size: 11px;
+	height: 1.8em;
+}
+
+.fondo_blanco_izq {
+	text-align: left;
+	background: #FFFFFF;
+	color: #4D4D4D;
+	font-family: Arial;
+	font-size: 9px;
+	height: 1.8em;
+}
+
+.fondo_blanco_cen {
+	text-align: center;
+	background: #FFFFFF;
+	color: #4D4D4D;
+	font-family: Arial;
+	font-size: 9px;
+	height: 1.8em;
+}
+
+.fondo_gris_claro {
+	background: #E9EDF4;
+	color: #A4A4A4;
+}
+
+.fondo_azul_claro {
+	background: #E9EDF4;
+}
+
+.fondo_amarillo {
+	background: #FFFF33;
+	color: #A4A4A4;
+}
+
+.fondo_naranja {
+	background: #FF6633;
+	color: #A4A4A4;
+}
+
+.fondo_gris_oscuro {
+	background: #CCCCCC;
+	color: #000000;
+	font-family: Helvetica;
+	font-weight: bold;
+}	
+
+.letras_Negra {
+	font-size: 11px;
+	color: #4D4D4D;
+}
+
+.letras_Rojas {
+	font-size: 11px;
+	text-align: left;
+	font-family: Arial;
+	padding-left: 3px;
+	height: 1.8em;
+	color: #CC0000;
+}
+
+.letras_Naranjas {
+	font-size: 11px;
+	text-align: left;
+	font-family: Arial;
+	padding-left: 3px;
+	height: 1.8em;
+	color: #FF8029;
+}
+
+.letras_Gris {
+	font-size: 11px;
+	text-align: left;
+	font-family: Arial;
+	padding-left: 3px;
+	height: 1.8em;
+	color: #A4A4A4;
+}
+
+.letras12px {
+	font-size: 12px;
+}
+
+.letras_blancas_13px {
+	font-size: 13px;
+	color: #FFFFFF;
+}
+
+.letras_negras_13px {
+	font-size: 13px;
+	color: #000000;
+}
+
+.letras_mensajes_info {
+	text-align: center;
+	background: #E9EDF4;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #1279ae;
+	padding-left: 3px;
+	height: 1.8em;
+}
+
+.letras_mensajes_info2 {
+	text-align: center;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #1279ae;
+	padding-left: 3px;
+	height: 1.8em;
+}
+
+.letras_mensajes_info_sin_tamano {
+	text-align: center;
+	background: #E9EDF4;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #1279ae;
+	padding-left: 3px;
+}
+
+.letra_tabla {
+	color: #4D4D4D !important;
+	font-family: Arial !important;
+	font-size: 11px !important;
+	height: 1.8em !important;
+	padding-left: 3px;
+}
+
+/* Bordes redondeados */
+.borde_radius_3px {
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	behavior: url(" ../css/pie.htc");
+}
+
+.color_Rojo {
+	color: #CC0000;
+}
+
+.color_Azul {
+	color: #000066;
+}
+
+.fondo_AzulCeleste {
+	background: #99CCFF;
+}
+
+.subTitulo {
+	text-align: center;
+	color: #000066;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.divPersonaDatos {
+	text-align: left;
+	margin: 0 0 0 auto;
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.divPersonaDesc {
+	text-align: left;
+	margin: 0 0 0 auto;
+	color: #000000;
+	font-size: 11px;
+}
+
+.datosIteracionDer {
+	text-align: right;
+	font-size: 11px;
+}
+
+.datosIteracionIzq {
+	text-align: left;
+	font-size: 11px;
+}
+
+.datosIteracionCen {
+	text-align: center;
+	font-size: 11px;
+}
+
+.datosIteracionDerPeq {
+	text-align: right;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.datosIteracionIzqPeq {
+	text-align: left;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.datosIteracionCenPeq {
+	text-align: center;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.datosBoldNegro {
+	text-align: center;
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.datosBoldNegro10 {
+	text-align: center;
+	color: #000000;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.datosAzul11 {
+	text-align: center;
+	color: #000066;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.datosBoldAzul {
+	text-align: center;
+	color: #000066;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.datosBoldAzul12 {
+	color: #D0D8E8;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.datosBoldAzul11 {
+	text-align: center;
+	color: #000066;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.datosBoldBlanco {
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.datosBoldPeq {
+	text-align: center;
+	color: #000066;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.datosBoldNegroPeq {
+	text-align: center;
+	color: #000000;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.datosBoldAzulDer {
+	text-align: right;
+	color: #000066;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.colorAmarillo {
+	color: #F0B00E;
+}
+
+.letrasAzul {
+	font-size: 12px;
+	color: #333399;
+}
+
+.letrasAzul8 {
+	font-size: 8px;
+	color: #333399;
+}
+
+.letrasNegra {
+	font-size: 12px;
+	color: #000000;
+}
+
+.letrasNegra10 {
+	text-align: left;
+	font-size: 10px;
+	color: #000000;
+}
+
+.letrasMayuscula {
+	text-transform: uppercase;
+}
+
+/* Justificaciones */
+.separarBordeDer {
+	padding-right: 3px;
+}
+
+.separarBordeIzq {
+	padding-left: 3px;
+}
+
+/*
+ * Alineaciones
+ */
+.alinearDerecha {
+	text-align: right;
+}
+
+.alinearIzquierda {
+	text-align: left;
+}
+
+.alinearCentro {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alinearJustificado{
+	text-align: justify;
+}
+
+/* Elementos flotantes*/
+.floatLeft {
+	float: left;
+}
+
+.floatRight {
+	float: right;
+}
+
+.clearBoth {
+	clear: both;
+}
+
+/* cursores */
+.cursorPointer {
+	cursor: pointer;
+}
+
+.distanciaTop {
+	padding-top: 150px;
+}
+
+.distanciaTop3 {
+	position: relative;
+	bottom: 10px;
+	left: 160px;
+}
+
+.subrayado {
+	text-decoration: underline;
+}
+
+.margenDerecho {
+	margin-right: 30px;
+}
+
+.margenIzquierdo {
+	margin-left: 30px;
+}
+
+.listaSinVineta{
+	list-style-type: none;
+}
+
+/* Menu interno de ficha del trabajador */
+#menu {
+	text-align: center;
+	font-size: 0.6em;
+	width: 670px;
+	margin: 10px auto;
+	position: relative;
+}
+
+#menu ul {
+	list-style-type: none;
+}
+
+#menu ul li.nivel1 {
+	float: left;
+	width: 165px;
+	margin-right: 2px;
+	position: relative;
+}
+
+#menu ul li {
+	float: left;
+}
+
+#menu ul li span {
+	display: block;
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #D0D8E8;
+	border: solid 1px #FFFFFF;
+	padding: 8px;
+	position: relative;
+}
+
+#menu ul li span.nivel1 {
+	display: block;
+	text-align: center;
+}
+
+#menu ul li:hover span.nivel1 {
+	cursor: pointer;
+}
+
+#menu .activa span {
+	background: #006699;
+}
+
+#menu .activa {
+	background: #006699;
+}
+
+#menu ul li:focus ul,#menu ul li:active ul {
+	display: block;
+	position: absolute;
+	width: 816px;
+	border: solid 1px #FFFFFF;
+	border-top: none;
+	background-color: #006699;
+}
+
+#menu ul li:focus span,#menu ul li:active span {
+	background-color: #006699;
+	border-bottom: solid 1px #006699;
+	color: #FFFFFF;
+}
+
+/* Errores del sistema */
+#error {
+	border: 0.15em dashed #E40000;
+	margin: 2em auto 0em auto;
+	text-align: center;
+	background: #FFDDDD;
+}
+
+.errorInformacion {
+	border: 0.15em dashed #E40000;
+	margin: 2em auto 0em auto;
+	text-align: center;
+	background: #FFDDDD;
+}
+
+.errorMessage {
+	color: #E40000;
+	font-weight: bold;
+	padding: 1em;
+	list-style: none;
+	text-align: center;
+}
+
+/* Mensaje de no existencia de datos */
+#sin_datos {
+	border: 0.15em solid #5E87B0;
+	margin: 1.5em auto 0em auto;
+	text-align: center;
+	background: #CAD3E4;
+}
+
+.mensaje_sin_datos {
+	color: #235682;
+	font-weight: bold;
+	padding: 1em;
+	list-style: none;
+	text-align: center;
+}
+
+.mensaje_operacion_exitosa {
+	color: #235682;
+	font-weight: bold;
+	padding: 1em;
+	list-style: none;
+	text-align: left;
+}
+
+.mensaje_operacion_fallida {
+	color: #CC0000;
+	font-weight: bold;
+	padding: 1em;
+	list-style: none;
+	text-align: left;
+}
+
+/* La clase siguiente modifica el estilo de la biblioteca JqueryUI usado en la aplicacion*/
+.ui-icon-search {
+	float: right;
+	margin: 0.4em 0.2em 0 0;
+}
+
+.boton {
+	padding: .3em;
+	text-decoration: none;
+	width: 70px;
+}
+
+.botonExpande {
+	padding: .3em;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.tamanoIconosImagenes17px {
+	height: 17px;
+	width: 17px;
+}
+
+.tamanoIconosPeq {
+	height: 9px;
+	width: 25px;
+}
+
+/*Esta clase se encarga de desactivar los campos editables de un formulario*/
+.camposEditablesDesac {
+	border-style: solid;
+	border-width: 0;
+	font-size: 11px;
+	color: #4D4D4D;
+	background: #E9EDF4;
+	font-family: Arial;
+	width: 100%;
+}
+
+/*Esta clase se encarga de desactivar los campos editables de un formulario*/
+.camposEditablesD {
+	border-style: solid;
+	border-width: 0;
+	font-size: 11px;
+	color: #4D4D4D;
+	background: #E9EDF4;
+	font-family: Arial;
+}
+
+.ocultarCampoTexto {
+	border-style: solid;
+	border-width: 0;
+	color: #4D4D4D;
+	background: #EFF5FB;
+}
+
+.fondoBlanco {
+	background: #FFFFFF;
+}
+
+.camposEditables {
+	border: 1px solid #FF8533;
+	font-size: 11px;
+	color: #4D4D4D;
+	letter-spacing: 1px;
+	font-family: Arial;
+	width: 100%;
+}
+
+.camposEditablesFecha {
+	border: 1px solid #FF8533;
+	font-size: 11px;
+	color: #4D4D4D;
+	letter-spacing: 1px;
+	font-family: Arial;
+	width: 90%;
+}
+
+.camposEditables100px {
+	border: 1px solid #FF8533;
+	font-size: 11px;
+	color: #4D4D4D;
+	letter-spacing: 1px;
+	font-family: Arial;
+	width: 100px;
+}
+
+.camposEditables390px {
+	border: 1px solid #FF8533;
+	font-size: 11px;
+	color: #4D4D4D;
+	letter-spacing: 1px;
+	font-family: Arial;
+	width: 390px;
+}
+
+/*Esta clase se encarga de activar los campos editables de un formulario, especificamente los autocombo input del formulario de direccion*/
+.camposEditablesDireccionJQuery {
+	border: 1px solid #FF8533;
+	font-size: 11px;
+	color: #4D4D4D;
+	letter-spacing: 1px;
+	font-family: Arial;
+	width: 75%;
+}
+
+/*Esta clase se encarga de desactivar los campos editables de un formulario, especificamente los autocombo input del formulario de direccion*/
+.camposEditablesDesacDireccionJQuery {
+	border-style: solid;
+	border-width: 0;
+	font-size: 11px;
+	color: #4D4D4D;
+	background: #E9EDF4;
+	font-family: Arial;
+	width: 75%;
+}
+
+.camposError {
+	border: 1px solid #CC0000;
+	font-size: 12px;
+	color: #4D4D4D;
+	letter-spacing: 1px;
+	font-family: Arial;
+}
+
+.evitarRedimension {
+	resize: none;
+}
+
+.ocultarCampo{
+	display: none;
+}
+
+.sinSepBorde{
+	padding-left: 0px
+}
