@@ -36,6 +36,26 @@ define('FOPEN_READ_WRITE_CREATE',				'a+b');
 define('FOPEN_WRITE_CREATE_STRICT',				'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
+/*
+|--------------------------------------------------------------------------
+| CONSTANTES DEFINIDAS PARA EL DESARROLLO PROPIO DE LA APLICACION
+|--------------------------------------------------------------------------
+| 
+|
+*/
+
+// Constantes generales
+define("PDF" , ".pdf");
+define("FECHA_ARCHIVO" , "d-m-Y His");
+define("FECHA_COMPLETA", "d/m/Y H:i:s");
+define("SOLO_FECHA", "d/m/Y");
+define("OPERACION_ELIMINAR", "ELIMINAR");
+define("OPERACION_ACTUALIZAR", "ACTUALIZAR");
+define("OPERACION_INSERTAR", "INSERTAR");
+
+// Constantes de la funcinalidad Auditoria
+define("NOMBRE_REPORTE_AUDITORIA", "\Auditoria");
+define("RUTA_REPORTE_AUDITORIA", "C:\Documents and Settings\yrios\Mis documentos\Yolimar_Rios\Universidad\Proyecto\Documentos");
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */

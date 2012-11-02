@@ -150,5 +150,24 @@ function modificarMensajes(){
     });
     
 }
+//******************************Auditoria*************************************
+
+function aplicarPaginacionAuditoria() {
+      $("#ajax_paginacion_auditoria a").click(function() {
+        var url = $(this).attr("href");
+        $.ajax({
+          type: "POST",
+          url: url,
+          beforeSend: function() {
+            $("#general").html("");
+          },
+          success: function(msg) {
+            $("#general").html(msg);
+            applyPagination();
+          }
+        });
+        return false;
+      });
+    }
 
 

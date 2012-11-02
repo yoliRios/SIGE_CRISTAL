@@ -41,6 +41,7 @@
                 <li><a href="">Facturas</a></li>
                 <li><a href="">Orden de Pago</a></li>
                 <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Empresa/departamento');" >Departamento</a></li>
+                <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Auditoria/Auditoria_controller/auditoria');" >Auditoria</a></li>
             </ul>        
         </div> <!-- end of templatemo_menu -->
 
