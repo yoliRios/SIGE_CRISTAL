@@ -8,6 +8,7 @@
     <meta name="description" content="Eye Candy - free website template using blue and dark gray background. This layout includes a Flash XML Slider." />
     <link href="<?php echo base_url(); ?>application/views/css/templatemo_style.css" rel="stylesheet" type="text/css" />  
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>application/views/css/estilos.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>application/views/css/estilos_submenu.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>application/views/css/estilosJquery/jquery-ui.custom.css" />
     <script type="text/javascript" src="<?php echo base_url(); ?>application/views/js/swfobject.js"></script>
     <script type="text/javascript">
@@ -24,6 +25,7 @@
     <script language="javascript" type="text/javascript" src="<?php echo base_url(); ?>application/views/js/inicio.js"></script>
     <script language="javascript" type="text/javascript" src="<?php echo base_url(); ?>application/views/js/jquery-ui.custom.min.js"></script>
     <script language="javascript" type="text/javascript" src="<?php echo base_url(); ?>application/views/js/empresa.js"></script>
+    <script language="javascript" type="text/javascript" src="<?php echo base_url(); ?>application/views/js/rol.js"></script>
 </head>
 <body>
     <div id="templatemo_wrapper">
@@ -39,7 +41,7 @@
                 <li><a href="">Pedidos</a></li>
                 <li><a href="">Clientes</a></li>
                 <li><a href="">Facturas</a></li>
-                <li><a href="">Orden de Pago</a></li>
+                <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/rol');">Roles</a></li>
                 <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Empresa/departamento');" >Departamento</a></li>
                 <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Auditoria/Auditoria_controller/auditoria');" >Auditoria</a></li>
             </ul>        

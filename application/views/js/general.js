@@ -150,6 +150,31 @@ function modificarMensajes(){
     });
     
 }
+
+function verificaSeleccion(mensaje, idForm, direccion, codigo) {
+    if($('[name="eliminarProd"]:checked').val() == codigo ){  
+        enviarFormPreg(mensaje, idForm , direccion);
+    }  
+}
+
+function applyPagination() {
+      $("#ajax_paging a").click(function() {
+        var url = $(this).attr("href");
+        $.ajax({
+          type: "POST",
+          url: url,
+          beforeSend: function() {
+            $("#general").html("");
+          },
+          success: function(msg) {
+            $("#general").html(msg);
+            applyPagination();
+          }
+        });
+        return false;
+      });
+}
+    
 //******************************Auditoria*************************************
 
 function aplicarPaginacionAuditoria() {
