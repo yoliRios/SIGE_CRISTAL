@@ -11,7 +11,7 @@
         <ul id="subMenu" >
             <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/rol');">Crear Roles</a></li>
             <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/servicio');" >Asignar Servicios</a></li>
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Auditoria/Auditoria_controller/auditoria');" >Asignar Roles</a></li>
+            <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/usuario');" >Asignar Roles</a></li>
         </ul>
     </div>
     <div id="titulo" class="alinearIzquierda borde_radius_3px separarBordes" >
@@ -47,37 +47,49 @@
                 <tr class="encabezadoFondo alinearCentro">
                         <th class="tamano10"> </th>
                         <th class="tamano10">Código</th>
-                        <th class="tamano30">Nombre</th>
-                        <th class="tamano40">Descripción</th>
-                        <th class="tamano10"> </th>
+                        <th class="tamano25">Nombre</th>
+                        <th class="tamano30">Descripción</th>
+                        <th class="tamano5">Estado</th>
+                        <th class="tamano10">Mod</th>
+                        <th class="tamano10">Desac</th>
                     </tr>
             </thead>
             <tbody>
             <?php foreach ($rol as $roles):?>
                 <tr class="alinearCentro fondoTabla">
-                    <td><input type="radio" id="eliminarProd" name="eliminarProd" value="<?php echo $roles->cod_rol ?>" /></td>
+                    <input type="hidden" id="seleccion" />
+                    <td><input type="radio" id="eliminarProd" name="eliminarProd" value="<?php echo $roles->cod_rol ?>" onclick="verificaSeleccionModRol('<?php echo $roles->cod_rol ?>', '<?php echo $roles->estado ?>');" /></td>
                     <td><?php echo sprintf('%03d',$roles->cod_rol) ?></td>
                     <td><?php echo $roles->tipo_rol ?></td>
                     <td><?php echo $roles->descr_rol ?></td>
                     <td>
-                        <?php if ($roles->cant_reg == 0){ ?>
+                        <label id="estadoL<?php echo $roles->cod_rol ?>"><?php echo $roles->estado == 'E' ? 'Inactivo' : 'Activo' ?> </label>                   
+                        <select id="estado<?php echo $roles->cod_rol ?>" name="estado<?php echo $roles->cod_rol ?>" class="letra_13px ocultarCampo">
+                            <option value="A">Activo</option>
+                        </select>
+                    </td>
+                    <td>
+                        <a><img onclick=" verificaSeleccion('MensajeModificar', 'rol' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/updateRol', <?php echo $roles->cod_rol ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Write Document.ico" /></a>                     
+                    </td>
+                    <td>
+                        <?php if ($roles->cant_reg == 0 && $roles->estado == 'A'){ ?>
                             <a><img onclick=" verificaSeleccion('MensajeEliminar', 'rol' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/deleteRol', <?php echo $roles->cod_rol ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Delete.ico" /></a>                     
                         <?php } ?>
                     </td>
                 </tr>
             <?php endforeach;?>
-                <tr class="alinearCentro fondoTabla">
-                    <td>
-                        <img onclick="verificarIngresoRol('rol', 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/insertRol');" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
-                    </td>
-                    <td>
-                        <input type="hidden" id="codigoNew" name="codigoNew" value="<?php echo $ultCod ?>" />
-                        <?php echo sprintf('%03d',$ultCod) ?>
-                    </td>
-                    <td><input type="text" id="nombreROL" name="nombreROL" size="40" maxlength="40" onclick="this.value = '';"/> </td>
-                    <td><input type="text" id="descrROL" name="descrROL" size="70" maxlength="70" onclick="this.value = '';"/> </td>
-                    <td></td>
-                </tr>
+            <tr class="alinearCentro fondoTabla">
+                <td>
+                    <img onclick="verificarIngresoRol('rol', 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/insertRol');" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
+                </td>
+                <td>
+                    <input type="hidden" id="codigoNew" name="codigoNew" value="<?php echo $ultCod ?>" />
+                    <?php echo sprintf('%03d',$ultCod) ?>
+                </td>
+                <td><input type="text" id="nombreROL" name="nombreROL" size="30" maxlength="30" onclick="this.value = '';"/> </td>
+                <td><input type="text" id="descrROL" name="descrROL" size="70" maxlength="70" onclick="this.value = '';"/> </td>
+                <td colspan="3"></td>
+            </tr>
             </tbody>
         </table>
         <div id="ajax_paging">
@@ -96,10 +108,16 @@
                 Está seguro de ingresar el rol?
         </p>
     </div>
+    <div id ="MensajeModificar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
+        <p class='alinearCentro'>
+            <span class='ui-icon ui-icon-notice floatLeft'/>
+                Está seguro de Modificar el rol?
+        </p>
+    </div>
     <div id ="MensajeEliminar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
-                Está seguro de Eliminar el rol?
+                Está seguro de Desactivar el rol?
         </p>
     </div>
     <?php }?>     

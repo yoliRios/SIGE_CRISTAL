@@ -11,7 +11,7 @@
         <ul id="subMenu" >
             <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/rol');">Crear Roles</a></li>
             <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/servicio');" >Asignar Servicios</a></li>
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Auditoria/Auditoria_controller/auditoria');" >Asignar Roles</a></li>
+            <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/usuario');" >Asignar Roles</a></li>
         </ul>
     </div>
     <div id="titulo" class="alinearIzquierda borde_radius_3px separarBordes" >
