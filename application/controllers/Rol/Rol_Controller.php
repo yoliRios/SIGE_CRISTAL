@@ -83,6 +83,9 @@ class Rol_Controller extends CI_Controller {
     
     /*
      * Funcion encargada de realizar la paginacion de un departamento
+     * @param  $modelo :  Modelo a usar en la paginacion
+     * @param  $codigo :  Codigo del rol a paginar (puede ser un valor null)
+     * @param  $nombre :  Nombre del rol a paginar (puede ser un valor null)
      */
     function pagination($modelo, $codigo, $nombre){
         log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: pagination()]');

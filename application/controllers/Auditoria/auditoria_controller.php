@@ -12,22 +12,23 @@ class Auditoria_controller extends CI_Controller {
     *   Metodo de inicializacion de la funcionalidad Auditoria 
     */
     function auditoria(){
-        $this->load->library('session');
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . $this->session->userdata('usuario') . '][ACCION: auditoria()]');
+        //$this->load->library('session');
+        //log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . $this->session->userdata('usuario') . '][ACCION: auditoria()]');
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: auditoria()]');
         $data['page_title'] = "Auditoria";
         $data['num_reg'] = -1;
-        $this->load->view('views/Auditoria/auditoria_view', $data);
+        $this->load->view('Auditoria/auditoria_view', $data);
         $data['operaciones']= array("INSERTAR" =>OPERACION_INSERTAR,
                                     "ACTUALIZAR" =>OPERACION_ACTUALIZAR,
                                     "ELIMINAR" =>OPERACION_ELIMINAR);
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . $this->session->userdata('usuario') . '][ACCION: auditoria()]');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: auditoria()]');
     }    
     /**
      *  Metodo que se encarga de realizar la consulta de las operaciones realizadas sobre las BDD
      */    
     function consultar_operaciones(){
-        $this->load->library('session');
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . $this->session->userdata('usuario') . '][ACCION: consultar_operaciones()]');
+        //$this->load->library('session');
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: consultar_operaciones()]');
         //Cargamos las librerias que se necesitan
         $this->load->helper(array('text','form','url'));
         $this->load->library('pagination'); 
@@ -82,7 +83,7 @@ class Auditoria_controller extends CI_Controller {
             log_message('error', '[EXCEPCION] ' . '[USUARIO CONECTADO: ][ACCION: consultar_operaciones()][MENSAJE:'.$e->getMessage().' '._LINE.' ]');
         }       
         // Se carga la vista con los resultados de la consulta
-        $this->load->view('views/Auditoria/auditoria_view', $data);
+        $this->load->view('Auditoria/auditoria_view', $data);
         log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ][ACCION: consultar_operaciones()]');
     }
     

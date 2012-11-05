@@ -20,7 +20,7 @@
         {   
             $this->db->select('r.*,  (
                                         SELECT count(1)
-                                        FROM  `rol_servicio` s
+                                        FROM  `usuario` s
                                         WHERE s.cod_rol = r.cod_rol
                                      )cant_reg');
             $this->db->from('rol r');
@@ -33,13 +33,15 @@
 	 
         /*
          * Busca el total de la consulta de roles sin paginacion
+          * @param  $codigo :  Codigo del rol a consultar
+          * @param  $nombre :  Nombre del rol a consultar
          */
         function buscarTotalRol($codigo, $nombre)
 
         {   
             $this->db->select('r.*,  (
                                         SELECT count(1)
-                                        FROM  `rol_servicio` s
+                                        FROM  `usuario` s
                                         WHERE s.cod_rol = r.cod_rol
                                      )cant_reg');
             $this->db->from('rol r');
@@ -51,7 +53,9 @@
         }	
 	 
         /*
-         * Busca el codigo del ultimo departamento a ingresar
+         * Busca el codigo del ultimo rol a ingresar
+          * @param  $codigo :  Codigo del rol a consultar
+          * @param  $nombre :  Nombre del rol a consultar
          */
         function ultimoRol($codigo, $nombre)
 
@@ -64,7 +68,8 @@
         } 
 	 
         /*
-         * Inserta un rol
+         * Inserta un rol especifico
+          * @param  $data :  Arreglo con la informacion a insertar en la tabla rol
          */
 	function insertRol($data) {		
 		 $this->db->set('cod_rol', $data['codigoNew']);
@@ -75,7 +80,8 @@
 	 }	 
 		
          /*
-          * Elimina un rol
+          * Elimina un rol especifico
+          * @param  $codigoElim :  Codigo del rol a eliminar
           */
 	function delete($codigoElim) {
 		 $this->db->set('estado', 'E');
@@ -86,8 +92,7 @@
          //************************************ASIGNACION DE SERVICIOS A ROLES *************************************
          
          /*
-          * Se encarga de realizar una consulta de los roles por
-          * codigo y nombre con paginacion
+          * Se encarga de realizar una consulta de los roles existentes
           */
         function buscarRoles()
 
@@ -100,7 +105,9 @@
         }
         
          /*
-          * Busca los servicios existentes en bdd
+          * Busca los servicios existentes en bdd que no pertenezcan al rol
+          * buscado
+          * @param  $codigo :  Codigo del rol a buscar
           */         
         function buscarServicios($codigo)
 
@@ -118,7 +125,8 @@
         }	
 	 
         /*
-         * Busca el total de la consulta de roles sin paginacion
+         * Busca los servicios pertenecientes a un rol especifico
+         * @param  $codigo :  Codigo del rol a buscar
          */
         function buscarServRol($codigo)
 
@@ -127,13 +135,15 @@
             $this->db->from('servicio s');
             $this->db->join('rol_servicio rs', 's.cod_servicio = rs.cod_servicio');
             $this->db->where('((' . $codigo .' is null) or (rs.cod_rol = ' . $codigo .'))');
+            $this->db->limit(10, $this->uri->segment(20));
             $servicio = $this->db->get();
             return $servicio;
 
         }	
 	 
         /*
-         * Busca el total de la consulta de roles sin paginacion
+         * Busca los servicios pertenecientes a un rol especifico sin paginacion
+         * @param  $codigo :  Codigo del rol a buscar
          */
         function buscarTotalServ($codigo)
 
@@ -148,7 +158,8 @@
         }	 
 	 
         /*
-         * Inserta un servicio a un rol
+         * Inserta un servicio a un rol especifico
+         * @param  $data :  Arreglo con inf. a insertar en rol_servicio
          */
 	function insertServRol($data) {		
 		 $this->db->set('cod_servicio', $data['codServ']);
@@ -157,7 +168,8 @@
 	 }	 
 		
          /*
-          * Elimina un servicio de un rol
+          * Elimina un servicio de un rol especifico
+         * @param  $data :  Arreglo con inf. a insertar en rol_servicio
           */
 	function deleteServRol($data) {
 		 $this->db->where('cod_servicio', $data['codServ']);

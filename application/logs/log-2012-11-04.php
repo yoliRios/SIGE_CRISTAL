@@ -6031,3 +6031,67 @@ DEBUG - 2012-11-04 06:58:50 --> Pagination Class Initialized
 DEBUG - 2012-11-04 06:58:50 --> Model Class Initialized
 DEBUG - 2012-11-04 06:58:51 --> Model Class Initialized
 INFO  - 2012-11-04 06:58:51 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: pagination()]
+DEBUG - 2012-11-04 07:06:47 --> Config Class Initialized
+DEBUG - 2012-11-04 07:06:47 --> Hooks Class Initialized
+DEBUG - 2012-11-04 07:06:47 --> Utf8 Class Initialized
+DEBUG - 2012-11-04 07:06:47 --> UTF-8 Support Enabled
+DEBUG - 2012-11-04 07:06:47 --> URI Class Initialized
+DEBUG - 2012-11-04 07:06:47 --> Router Class Initialized
+DEBUG - 2012-11-04 07:06:47 --> Output Class Initialized
+DEBUG - 2012-11-04 07:06:48 --> Security Class Initialized
+DEBUG - 2012-11-04 07:06:48 --> Input Class Initialized
+DEBUG - 2012-11-04 07:06:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-04 07:06:48 --> Language Class Initialized
+DEBUG - 2012-11-04 07:06:48 --> Loader Class Initialized
+DEBUG - 2012-11-04 07:06:48 --> Database Driver Class Initialized
+DEBUG - 2012-11-04 07:06:48 --> Controller Class Initialized
+DEBUG - 2012-11-04 07:06:48 --> Helper loaded: url_helper
+DEBUG - 2012-11-04 07:06:48 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-04 07:06:48 --> Final output sent to browser
+DEBUG - 2012-11-04 07:06:48 --> Total execution time: 1.5687
+DEBUG - 2012-11-04 07:06:52 --> Config Class Initialized
+DEBUG - 2012-11-04 07:06:52 --> Hooks Class Initialized
+DEBUG - 2012-11-04 07:06:52 --> Utf8 Class Initialized
+DEBUG - 2012-11-04 07:06:52 --> UTF-8 Support Enabled
+DEBUG - 2012-11-04 07:06:52 --> URI Class Initialized
+DEBUG - 2012-11-04 07:06:52 --> Router Class Initialized
+DEBUG - 2012-11-04 07:06:52 --> Output Class Initialized
+DEBUG - 2012-11-04 07:06:52 --> Security Class Initialized
+DEBUG - 2012-11-04 07:06:52 --> Input Class Initialized
+DEBUG - 2012-11-04 07:06:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-04 07:06:52 --> Language Class Initialized
+DEBUG - 2012-11-04 07:06:53 --> Loader Class Initialized
+DEBUG - 2012-11-04 07:06:53 --> Database Driver Class Initialized
+DEBUG - 2012-11-04 07:06:53 --> Controller Class Initialized
+INFO  - 2012-11-04 07:06:53 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: rol()]
+DEBUG - 2012-11-04 07:06:53 --> File loaded: application/views/rol/crearRol_view.php
+INFO  - 2012-11-04 07:06:53 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: rol()]
+DEBUG - 2012-11-04 07:06:53 --> Final output sent to browser
+DEBUG - 2012-11-04 07:06:53 --> Total execution time: 1.3989
+DEBUG - 2012-11-04 07:06:57 --> Config Class Initialized
+DEBUG - 2012-11-04 07:06:57 --> Hooks Class Initialized
+DEBUG - 2012-11-04 07:06:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-04 07:06:57 --> UTF-8 Support Enabled
+DEBUG - 2012-11-04 07:06:57 --> URI Class Initialized
+DEBUG - 2012-11-04 07:06:57 --> Router Class Initialized
+DEBUG - 2012-11-04 07:06:57 --> Output Class Initialized
+DEBUG - 2012-11-04 07:06:57 --> Security Class Initialized
+DEBUG - 2012-11-04 07:06:58 --> Input Class Initialized
+DEBUG - 2012-11-04 07:06:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-04 07:06:58 --> Language Class Initialized
+DEBUG - 2012-11-04 07:06:58 --> Loader Class Initialized
+DEBUG - 2012-11-04 07:06:58 --> Database Driver Class Initialized
+DEBUG - 2012-11-04 07:06:58 --> Controller Class Initialized
+INFO  - 2012-11-04 07:06:58 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarRol()]
+DEBUG - 2012-11-04 07:06:58 --> Helper loaded: text_helper
+DEBUG - 2012-11-04 07:06:58 --> Helper loaded: form_helper
+DEBUG - 2012-11-04 07:06:58 --> Helper loaded: url_helper
+DEBUG - 2012-11-04 07:06:58 --> Pagination Class Initialized
+DEBUG - 2012-11-04 07:06:58 --> Model Class Initialized
+DEBUG - 2012-11-04 07:06:58 --> Model Class Initialized
+INFO  - 2012-11-04 07:06:59 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: pagination()]
+INFO  - 2012-11-04 07:06:59 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: pagination()]
+INFO  - 2012-11-04 07:06:59 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarRol()]
+DEBUG - 2012-11-04 07:06:59 --> File loaded: application/views/rol/crearRol_view.php
+DEBUG - 2012-11-04 07:06:59 --> Final output sent to browser
+DEBUG - 2012-11-04 07:06:59 --> Total execution time: 1.9587
