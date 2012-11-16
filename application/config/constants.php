@@ -52,6 +52,8 @@ define("SOLO_FECHA", "d/m/Y");
 define("OPERACION_ELIMINAR", "ELIMINAR");
 define("OPERACION_ACTUALIZAR", "ACTUALIZAR");
 define("OPERACION_INSERTAR", "INSERTAR");
+define("OPERACION_DESACTIVAR", "DESACTIVAR");
+define("FECHA_REGISTRO", "Y-m-d H:i:s");
 
 // Constantes de la funcinalidad Auditoria
 define("NOMBRE_REPORTE_AUDITORIA", "\Auditoria");

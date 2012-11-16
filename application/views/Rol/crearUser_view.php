@@ -7,13 +7,6 @@
   });
 </script>
 <div id="general">    
-    <div class="alinearIzquierda">        
-        <ul id="subMenu" >
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/rol');">Crear Roles</a></li>
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/servicio');" >Asignar Servicios</a></li>
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/usuario');" >Asignar Roles</a></li>
-        </ul>
-    </div>
     <div id="titulo" class="alinearIzquierda borde_radius_3px separarBordes" >
         <h1><span class="posicitionAbsoluta separarBordes"><?php echo $page_title?></span></h1>
     </div>
@@ -80,11 +73,11 @@
                         </select>
                     </td>
                     <td>
-                        <a><img onclick=" verificaSeleccion('MensajeModificar', 'rolUser' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/updateUserRol', <?php echo $user->cod_usuario ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Write Document.ico" /></a>                     
+                        <a><img onclick=" verificaSeleccion('MensajeModificar', 'rolUser' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/modificarUsuarioRol', <?php echo $user->cod_usuario ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Write Document.ico" /></a>                     
                     </td>
                     <td>
                         <?php if ($user->estado == 'A'){ ?>
-                            <a><img onclick=" verificaSeleccion('MensajeEliminar', 'rolUser' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/deleteUserRol', <?php echo $user->cod_usuario ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Delete.ico" /></a>                     
+                            <a><img onclick=" verificaSeleccion('MensajeEliminar', 'rolUser' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/desactivarUsuarioRol', <?php echo $user->cod_usuario ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Delete.ico" /></a>                     
                         <?php } ?>
                     </td>
                 </tr>
@@ -92,7 +85,7 @@
             <?php if($num_emp > 0){ ?>
                 <tr class="alinearCentro fondoTabla">
                     <td>
-                        <img id="ingreso" onclick="enviarFormPreg('MensajeIngresar', 'rolUser' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/insertUserRol');" class="tamano_botones cursorPointer ocultarCampo" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
+                        <img id="ingreso" onclick="enviarFormPreg('MensajeIngresar', 'rolUser' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/insertarUsuarioRol');" class="tamano_botones cursorPointer ocultarCampo" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
                     </td>
                     <td>
                         <select id="ced" name="ced" class="letra_13px">
@@ -122,6 +115,7 @@
                 </td>
                 <td>
                 </td>
+                <td></td>
                 <td></td>
                 </tr>                  
             <?php }?>

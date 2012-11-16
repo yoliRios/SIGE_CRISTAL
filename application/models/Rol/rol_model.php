@@ -25,7 +25,7 @@
                                      )cant_reg');
             $this->db->from('rol r');
             $this->db->where('((' . $codigo .' is null) or (cod_rol = ' . $codigo .'))and (("'. $nombre .'" is null or tipo_rol LIKE "%' . $nombre .'%"))');
-            //$this->db->where('estado', 'A');
+            $this->db->where('cod_rol != 0');
             $this->db->limit(10, $this->uri->segment(20));
             $contacto = $this->db->get();    
             return $contacto;
@@ -46,7 +46,7 @@
                                      )cant_reg');
             $this->db->from('rol r');
             $this->db->where('((' . $codigo .' is null) or (cod_rol = ' . $codigo .'))and (("'. $nombre .'" is null or tipo_rol LIKE "%' . $nombre .'%"))');
-            //$this->db->where('estado', 'A');
+            $this->db->where('cod_rol != 0');
             $numReg = $this->db->get();
             return $numReg->num_rows();
 
@@ -71,7 +71,7 @@
          * Inserta un rol especifico
           * @param  $data :  Arreglo con la informacion a insertar en la tabla rol
          */
-	function insertRol($data) {		
+	function insertarRol($data) {		
 		 $this->db->set('cod_rol', $data['codigoNew']);
 		 $this->db->set('tipo_rol', $data['nombre']);
 		 $this->db->set('descr_rol', $data['descripcion']);
@@ -83,7 +83,7 @@
           * Elimina un rol especifico
           * @param  $codigoElim :  Codigo del rol a eliminar
           */
-	function delete($codigoElim) {
+	function desactivarRol($codigoElim) {
 		 $this->db->set('estado', 'E');
 		 $this->db->where('cod_rol', $codigoElim);
 		 $this->db->update('rol'); //Nombre de la tabla
@@ -93,8 +93,10 @@
           * Modifica un rol especifico
           * @param  $data :  Arreglo con inf. a eliminar
           */
-	function updateRol($data) {
+	function modificarRol($data) {
 		 $this->db->set('estado', $data['estado']);
+		 $this->db->set('tipo_rol', $data['tipoRol']);
+		 $this->db->set('descr_rol', $data['descrRol']);
 		 $this->db->where('cod_rol', $data['codRol']);
 		 $this->db->update('rol'); //Nombre de la tabla
 	 }
@@ -110,6 +112,7 @@
             $this->db->select('*');
             $this->db->from('rol');
             $this->db->where('estado', 'A');
+            $this->db->where('cod_rol != 0');
             $contacto = $this->db->get();
             return $contacto;
         }
@@ -129,7 +132,8 @@
                                                         FROM rol_servicio
                                                         WHERE cod_rol = '. $codigo . 
                                                      ')');    
-            $this->db->where('ruta != ""');
+            $this->db->where('s.cod_servicio > 7');    
+            $this->db->where('ruta != "inicio/subMenu"');
             $servicio = $this->db->get();
             return $servicio;
         }	
@@ -171,7 +175,7 @@
          * Inserta un servicio a un rol especifico
          * @param  $data :  Arreglo con inf. a insertar en rol_servicio
          */
-	function insertServRol($data) {		
+	function insertarServRol($data) {		
 		 $this->db->set('cod_servicio', $data['codServ']);
 		 $this->db->set('cod_rol', $data['codRol']);
 		 $this->db->insert('rol_servicio'); //Nombre de la tabla
@@ -181,7 +185,7 @@
           * Elimina un servicio de un rol especifico
          * @param  $data :  Arreglo con inf. a insertar en rol_servicio
           */
-	function deleteServRol($data) {
+	function eliminarServRol($data) {
 		 $this->db->where('cod_servicio', $data['codServ']);
 		 $this->db->where('cod_rol', $data['codRol']);
 		 $this->db->delete('rol_servicio'); //Nombre de la tabla
@@ -222,6 +226,7 @@
             $this->db->join('rol r', 'r.cod_rol = u.cod_rol');
             $this->db->where('e.estado = "A"');
             $this->db->where('((' . $cedula .' is null) or (e.cedula = ' . $cedula .'))and (("'. $user .'" is null or u.usuario LIKE "%' . $user .'%"))');
+            $this->db->where('r.cod_rol != 0');
             $this->db->limit(10, $this->uri->segment(20));
             $servicio = $this->db->get();
             return $servicio;
@@ -242,6 +247,7 @@
             $this->db->join('rol r', 'r.cod_rol = u.cod_rol');
             $this->db->where('e.estado = "A"');
             $this->db->where('((' . $cedula .' is null) or (e.cedula = ' . $cedula .'))and (("'. $user .'" is null or u.usuario LIKE "%' . $user .'%"))');
+            $this->db->where('r.cod_rol != 0');
             $rolUser = $this->db->get();
             return $rolUser->num_rows();
 
@@ -279,7 +285,7 @@
          * @param  $data :  Arreglo con la informacion a insertar en la tabla 
          * usuario
          */
-	function insertUserRol($data) {		
+	function insertarUsuarioRol($data) {		
 		 $this->db->set('cod_usuario', $data['ultCod']);
 		 $this->db->set('cod_rol', $data['codRol']);
 		 $this->db->set('cod_sucursal', $data['codSuc']);
@@ -295,7 +301,7 @@
           * Elimina un usuario especifico
           * @param  $data :  Arreglo con inf. a eliminar
           */
-	function deleteUserRol($data) {
+	function desactivarUsuarioRol($data) {
 		 $this->db->set('estado', 'E');
 		 $this->db->where('cod_usuario', $data['codUser']);
 		 $this->db->update('usuario'); //Nombre de la tabla
@@ -305,7 +311,7 @@
           * Modifica un rol de un usuario especifico
           * @param  $data :  Arreglo con inf. a eliminar
           */
-	function updateUserRol($data) {
+	function modificarUsuarioRol($data) {
 		 $this->db->set('cod_rol', $data['codRol']);
 		 $this->db->set('estado', $data['estado']);
 		 $this->db->where('cod_usuario', $data['codUser']);

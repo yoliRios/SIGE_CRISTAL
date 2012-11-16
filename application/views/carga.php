@@ -35,16 +35,17 @@
             </div>    
         </div> <!-- end of header -->
     
-        <div id="templatemo_menu">    
-            <ul>
-                <li><a href="" class="current">Personal</a></li>
-                <li><a href="">Pedidos</a></li>
-                <li><a href="">Clientes</a></li>
-                <li><a href="">Facturas</a></li>
-                <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/rol');">Roles</a></li>
-                <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Empresa/departamento');" >Departamento</a></li>
-                <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Auditoria/Auditoria_controller/auditoria');" >Auditoria</a></li>
-            </ul>        
+        <div id="templatemo_menu">  
+            <form id="servicio" name="servicio" method="POST">  
+                <ul>
+                    <?php foreach ($menu as $m):
+                        if($m->ruta == 'inicio/subMenu'){?>
+                        <li ><a href="javascript:abrirAjaxHtml('menuHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/<?php echo $m->ruta ?>?opcion=<?php echo $m->cod_servicio ?>', 'menu');"><?php echo $m->nombre_servicio ?></a></li>
+                   <?php }else{ ?> 
+                        <li ><a href="javascript:abrirAjaxHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/<?php echo $m->ruta ?>', 'menu');"><?php echo $m->nombre_servicio ?></a></li>
+                   <?php } endforeach;?>
+                </ul> 
+            </form>
         </div> <!-- end of templatemo_menu -->
 
         <div id="templatemo_slider">  
@@ -65,8 +66,9 @@
                 <span id="fecha_hora" class="floatRight">Fecha: <?php echo date("d/m/Y"); ?> Hora: <?php echo date("H:i"); ?></span>
             </div>
             <div id="cuerpoHTML" class="posicition">
+                <div id="menuHTML" >
+                </div>
                 <div id="ajaxHTML" >
-
                 </div>
             </div>
             <div class="cleaner"></div>

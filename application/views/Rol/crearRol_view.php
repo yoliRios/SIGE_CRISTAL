@@ -6,14 +6,7 @@
     applyPagination();    
   });
 </script>
-<div id="general">    
-    <div class="alinearIzquierda">        
-        <ul id="subMenu" >
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/rol');">Crear Roles</a></li>
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/servicio');" >Asignar Servicios</a></li>
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/usuario');" >Asignar Roles</a></li>
-        </ul>
-    </div>
+<div id="general">  
     <div id="titulo" class="alinearIzquierda borde_radius_3px separarBordes" >
         <h1><span class="posicitionAbsoluta separarBordes"><?php echo $page_title?></span></h1>
     </div>
@@ -60,8 +53,14 @@
                     <input type="hidden" id="seleccion" />
                     <td><input type="radio" id="eliminarProd" name="eliminarProd" value="<?php echo $roles->cod_rol ?>" onclick="verificaSeleccionModRol('<?php echo $roles->cod_rol ?>', '<?php echo $roles->estado ?>');" /></td>
                     <td><?php echo sprintf('%03d',$roles->cod_rol) ?></td>
-                    <td><?php echo $roles->tipo_rol ?></td>
-                    <td><?php echo $roles->descr_rol ?></td>
+                    <td>
+                        <label id="tipoRolL<?php echo $roles->cod_rol ?>"><?php echo $roles->tipo_rol ?></label>                   
+                        <input type="text" id="tipoRol<?php echo $roles->cod_rol ?>" name="tipoRol<?php echo $roles->cod_rol ?>" class="ocultarCampo" size="30" maxlength="30" value="<?php echo $roles->tipo_rol ?>" />
+                    </td>
+                    <td>
+                        <label id="descrRolL<?php echo $roles->cod_rol ?>"><?php echo $roles->descr_rol ?></label>                   
+                        <input type="text" id="descrRol<?php echo $roles->cod_rol ?>" name="descrRol<?php echo $roles->cod_rol ?>" class="ocultarCampo" size="70" maxlength="70" value="<?php echo $roles->descr_rol ?>" />
+                    </td>
                     <td>
                         <label id="estadoL<?php echo $roles->cod_rol ?>"><?php echo $roles->estado == 'E' ? 'Inactivo' : 'Activo' ?> </label>                   
                         <select id="estado<?php echo $roles->cod_rol ?>" name="estado<?php echo $roles->cod_rol ?>" class="letra_13px ocultarCampo">
@@ -69,18 +68,18 @@
                         </select>
                     </td>
                     <td>
-                        <a><img onclick=" verificaSeleccion('MensajeModificar', 'rol' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/updateRol', <?php echo $roles->cod_rol ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Write Document.ico" /></a>                     
+                        <a><img onclick=" verificaSeleccion('MensajeModificar', 'rol' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/modificarRol', <?php echo $roles->cod_rol ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Write Document.ico" /></a>                     
                     </td>
                     <td>
                         <?php if ($roles->cant_reg == 0 && $roles->estado == 'A'){ ?>
-                            <a><img onclick=" verificaSeleccion('MensajeEliminar', 'rol' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/deleteRol', <?php echo $roles->cod_rol ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Delete.ico" /></a>                     
+                            <a><img onclick=" verificaSeleccion('MensajeEliminar', 'rol' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/desactivarRol', <?php echo $roles->cod_rol ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Delete.ico" /></a>                     
                         <?php } ?>
                     </td>
                 </tr>
             <?php endforeach;?>
             <tr class="alinearCentro fondoTabla">
                 <td>
-                    <img onclick="verificarIngresoRol('rol', 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/insertRol');" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
+                    <img onclick="verificarIngresoRol('rol', 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/insertarRol');" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
                 </td>
                 <td>
                     <input type="hidden" id="codigoNew" name="codigoNew" value="<?php echo $ultCod ?>" />

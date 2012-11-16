@@ -7,13 +7,6 @@
   });
 </script>
 <div id="general">    
-    <div class="alinearIzquierda">        
-        <ul id="subMenu" >
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/rol');">Crear Roles</a></li>
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/servicio');" >Asignar Servicios</a></li>
-            <li><a href="javascript:abrirHtml('ajaxHTML', '' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/usuario');" >Asignar Roles</a></li>
-        </ul>
-    </div>
     <div id="titulo" class="alinearIzquierda borde_radius_3px separarBordes" >
         <h1><span class="posicitionAbsoluta separarBordes"><?php echo $page_title?></span></h1>
     </div>
@@ -63,14 +56,14 @@
                     <td><?php echo $serv->nombre_servicio ?></td>
                     <td><?php echo $serv->descr_servicio ?></td>
                     <td>
-                        <a><img onclick=" verificaSeleccion('MensajeEliminar', 'rol' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/deleteServRol', <?php echo $serv->cod_servicio ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Delete.ico" /></a>                     
+                        <a><img onclick=" verificaSeleccion('MensajeEliminar', 'rol' , 'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/eliminarServRol', <?php echo $serv->cod_servicio ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Delete.ico" /></a>                     
                     </td>
                 </tr>
             <?php endforeach;?>
                 <?php if($num_serv > 0){ ?>
                     <tr class="alinearCentro fondoTabla">
                         <td>
-                            <img onclick="enviarFormPreg('MensajeIngresar', 'rol' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/insertServRol');" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
+                            <img onclick="enviarFormPreg('MensajeIngresar', 'rol' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/insertarServRol');" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
                         </td>
                         <td colspan="4">
                             <input type="hidden" name="rol" value="<?php echo $cod_rol ?>" />

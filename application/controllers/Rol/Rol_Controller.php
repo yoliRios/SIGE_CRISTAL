@@ -39,7 +39,7 @@ class Rol_Controller extends CI_Controller {
 	$nombre = empty($_POST['nombre']) == 1 ? NULL : $_POST['nombre'];
 
         //Obtener datos de la tabla 'Rol'	
-        $rol = $this->pagination($this->rol_model, $codigo, $nombre);
+        $rol = $this->paginacion($this->rol_model, $codigo, $nombre);
         $data['rol'] = $rol->result();
         $data['numReg'] = $rol->num_rows();	
         $data['ultCod'] = $this->rol_model->ultimoRol($codigo, $nombre)->row()->ultCod == NULL ? 0 : $this->rol_model->ultimoRol($codigo, $nombre)->row()->ultCod;	
@@ -55,15 +55,15 @@ class Rol_Controller extends CI_Controller {
      * @param  $codigo :  Codigo del rol a paginar (puede ser un valor null)
      * @param  $nombre :  Nombre del rol a paginar (puede ser un valor null)
      */
-    function pagination($modelo, $codigo, $nombre){
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: pagination()]');
+    function paginacion($modelo, $codigo, $nombre){
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacion()]');
         $config['base_url'] = base_url().'/Rol/Rol_Controller/buscarRol'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
         $config['total_rows'] = $modelo->buscarTotalRol($codigo, $nombre); 
         $config['num_links'] = 2; //Numero de links mostrados en la paginación
         $config['per_page'] = 10;
         $this->pagination->initialize($config);         
         $rol =  $modelo->buscarRol($codigo, $nombre);
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: pagination()]');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacion()]');
         
         return $rol;
 		
@@ -72,16 +72,17 @@ class Rol_Controller extends CI_Controller {
     /*
      * Funcion encargada del ingreso de un departamento
      */
-    function insertRol() {
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertRol()]');
+    function insertarRol() {
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertarRol()]');
         //recogemos los datos obtenidos por POST
         $data['codigoNew'] = $_POST['codigoNew'];
         $data['nombre'] = $_POST['nombreROL'];
         $data['descripcion'] = $_POST['descrROL'];
         //llamamos al modelo, concretamente a la funci�n insert() para que nos haga el insert en la base de datos.
-        $this->load->model('rol/rol_model');
-        $this->rol_model->insertRol($data);
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertRol()]');
+        $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
+        $this->rol_model->insertarRol($data);
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_INSERTAR, 'USUARIO', 1, 'ROL');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertarRol()]');
         //volvemos a visualizar la tabla
         $this->buscarRol();
     }
@@ -89,32 +90,36 @@ class Rol_Controller extends CI_Controller {
         /*
         * Funcion encargada de la eliminacion de un rol
         */
-    function deleteRol() {        
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: deleteRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');        
+    function desactivarRol() {        
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: desactivarRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');        
         //obtenemos el nombre
         $codigoElim = $_POST['eliminarProd'];
         //cargamos el modelo y llamamos a la funci�n baja(), pasandole el codigo del registro a eliminar.
-        $this->load->model('rol/rol_model');
-        $this->rol_model->delete($codigoElim);
+        $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
+        $this->rol_model->desactivarRol($codigoElim);
         //mostramos la vista de nuevo.
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: deleteRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');   
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_DESACTIVAR, 'USUARIO', 1, 'ROL');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: desactivarRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');   
         $this->buscarRol();
     }
     
     /*
     * Funcion encargada de modificar los datos de un rol
     */
-    function updateRol() {        
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: updateRol()] [MODIFICAR: '. $_POST['eliminarProd'].']');        
+    function modificarRol() {        
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: modificarRol()] [MODIFICAR: '. $_POST['eliminarProd'].']');        
         //obtenemos el nombre
         $data['codRol'] = $_POST['eliminarProd'];
         $codRol = $_POST['eliminarProd'];
         $data['estado'] = $_POST['estado'.$codRol];
+        $data['tipoRol'] = $_POST['tipoRol'.$codRol];
+        $data['descrRol'] = $_POST['descrRol'.$codRol];
         //cargamos el modelo y llamamos a la funci�n baja(), pasandole el codigo del registro a eliminar.
-        $this->load->model('rol/rol_model');
-        $this->rol_model->updateRol($data);
+        $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
+        $this->rol_model->modificarRol($data);
         //mostramos la vista de nuevo.
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: updateRol()] [MODIFICAR: '. $_POST['eliminarProd'].']');   
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_ACTUALIZAR, 'USUARIO', 1, 'ROL');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: modificarRol()] [MODIFICAR: '. $_POST['eliminarProd'].']');   
         $this->buscarRol();
     }
     
@@ -152,7 +157,7 @@ class Rol_Controller extends CI_Controller {
         $data['page_title'] = "Asignación de Servicios";
 
         //Obtener datos de la tabla 'Rol'	
-        $servicio = $this->paginationServ($this->rol_model, $codigo);
+        $servicio = $this->paginacionServ($this->rol_model, $codigo);
         $data['servicio'] = $servicio->result();
         $data['numReg'] = $servicio->num_rows();
         $servicios = $this->rol_model->buscarServicios($codigo);
@@ -169,15 +174,16 @@ class Rol_Controller extends CI_Controller {
     /*
      * Funcion encargada del ingreso de un servicio a un rol
      */
-    function insertServRol() {
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertServRol()]');
+    function insertarServRol() {
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertarServRol()]');
         //recogemos los datos obtenidos por POST
         $data['codServ'] = $_POST['servicios'];
         $data['codRol'] = $_POST['rol'];
         //llamamos al modelo, concretamente a la funci�n insert() para que nos haga el insert en la base de datos.
-        $this->load->model('rol/rol_model');
-        $this->rol_model->insertServRol($data);
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertServRol()]');
+        $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
+        $this->rol_model->insertarServRol($data);
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_INSERTAR, 'USUARIO', 1, 'SERVICIO');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertarServRol()]');
         //volvemos a visualizar la tabla
         $this->buscarServicios();
     }
@@ -185,31 +191,32 @@ class Rol_Controller extends CI_Controller {
         /*
         * Funcion encargada de la eliminacion de un rol
         */
-    function deleteServRol() {        
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: deleteServRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');        
+    function eliminarServRol() {        
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: eliminarServRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');        
         //obtenemos el nombre
         $data['codServ'] = $_POST['eliminarProd'];
         $data['codRol'] = $_POST['rol'];
         //cargamos el modelo y llamamos a la funci�n baja(), pasandole el codigo del registro a eliminar.
-        $this->load->model('rol/rol_model');
-        $this->rol_model->deleteServRol($data);
+        $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
+        $this->rol_model->eliminarServRol($data);
         //mostramos la vista de nuevo.
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: deleteServRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');   
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_ELIMINAR, 'USUARIO', 1, 'SERVICIO');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: eliminarServRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');   
         $this->buscarServicios();
     }
     
     /*
      * Funcion encargada de realizar la paginacion de la asignacion de servicios
      */
-    function paginationServ($modelo, $codigo){
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginationServ()]');
+    function paginacionServ($modelo, $codigo){
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionServ()]');
         $config['base_url'] = base_url().'/Rol/Rol_Controller/buscarServicios'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
         $config['total_rows'] = $modelo->buscarTotalServ($codigo); 
         $config['num_links'] = 2; //Numero de links mostrados en la paginación
         $config['per_page'] = 10;
         $this->pagination->initialize($config);         
         $servicio =  $modelo->buscarServRol($codigo);
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginationServ()]');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionServ()]');
         
         return $servicio;
 		
@@ -249,7 +256,7 @@ class Rol_Controller extends CI_Controller {
 	$user = empty($_POST['user']) == 1 ? NULL : $_POST['user'];
 
         //Obtener datos de la tabla 'Rol'	
-        $usuario = $this->paginationUser($this->rol_model, $cedula, $user);
+        $usuario = $this->paginacionUser($this->rol_model, $cedula, $user);
         $data['userRol'] = $usuario->result();
         $data['numReg'] = $usuario->num_rows();   
         //Lista de cedula de empleados
@@ -288,15 +295,15 @@ class Rol_Controller extends CI_Controller {
      * @param  $cedula :  Cedula del usuario a buscar
      * @param  $user :  Nombre del usuario a buscar
      */
-    function paginationUser($modelo, $cedula, $user){
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginationUser()]');
+    function paginacionUser($modelo, $cedula, $user){
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionUser()]');
         $config['base_url'] = base_url().'/Rol/Rol_Controller/buscarRolUser'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
         $config['total_rows'] = $modelo->buscarTotalRolUser($cedula, $user); 
         $config['num_links'] = 2; //Numero de links mostrados en la paginación
         $config['per_page'] = 10;
         $this->pagination->initialize($config);         
         $servicio =  $modelo->buscarRolUser($cedula, $user);
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginationUser()]');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionUser()]');
         
         return $servicio;
 		
@@ -305,9 +312,9 @@ class Rol_Controller extends CI_Controller {
     /*
      * Funcion encargada del ingreso de un usuario con su rol
      */
-    function insertUserRol() {
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertUserRol()] [USUARIO: ' . $_POST['ced'] . ']');
-        $this->load->model('rol/rol_model');
+    function insertarUsuarioRol() {
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertarUsuarioRol()] [USUARIO: ' . $_POST['ced'] . ']');
+        $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
         //recogemos los datos obtenidos por POST
         $data['cedula'] = $_POST['ced'];
         $data['codRol'] = $_POST['rolesEmp'];
@@ -317,8 +324,9 @@ class Rol_Controller extends CI_Controller {
         $data['codEmp'] = $empleado->cod_emp;        	
         //llamamos al modelo, concretamente a la funci�n insert() para que nos haga el insert en la base de datos.
         $data['ultCod'] = $this->rol_model->ultimoUser()->row()->ultCod == NULL ? 0 : $this->rol_model->ultimoUser()->row()->ultCod;
-        $this->rol_model->insertUserRol($data);
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertUserRol()] [USUARIO: ' . $_POST['ced'] . ']');
+        $this->rol_model->insertarUsuarioRol($data);
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_INSERTAR, 'USUARIO', 1, 'USUARIO');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertarUsuarioRol()] [USUARIO: ' . $_POST['ced'] . ']');
         //volvemos a visualizar la tabla
         $this->buscarRolUser();
     }
@@ -326,33 +334,35 @@ class Rol_Controller extends CI_Controller {
     /*
     * Funcion encargada de la eliminacion de un usuario
     */
-    function deleteUserRol() {        
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: deleteUserRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');        
+    function desactivarUsuarioRol() {        
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: desactivarUsuarioRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');        
         //obtenemos el nombre
         $data['codUser'] = $_POST['eliminarProd'];
         //cargamos el modelo y llamamos a la funci�n baja(), pasandole el codigo del registro a eliminar.
-        $this->load->model('rol/rol_model');
-        $this->rol_model->deleteUserRol($data);
+        $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
+        $this->rol_model->desactivarUsuarioRol($data);
         //mostramos la vista de nuevo.
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: deleteUserRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');   
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_DESACTIVAR, 'USUARIO', 1, 'USUARIO');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: desactivarUsuarioRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');   
         $this->buscarRolUser();
     }
     
     /*
     * Funcion encargada de modificar un rol de un usuario
     */
-    function updateUserRol() {        
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: updateUserRol()] [MODIFICAR: '. $_POST['eliminarProd'].']');        
+    function modificarUsuarioRol() {        
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: modificarUsuarioRol()] [MODIFICAR: '. $_POST['eliminarProd'].']');        
         //obtenemos el nombre
         $data['codUser'] = $_POST['eliminarProd'];
         $codUser = $_POST['eliminarProd'];
         $data['codRol'] = $_POST['rolEmp'.$codUser];
         $data['estado'] = $_POST['estado'.$codUser];
         //cargamos el modelo y llamamos a la funci�n baja(), pasandole el codigo del registro a eliminar.
-        $this->load->model('rol/rol_model');
-        $this->rol_model->updateUserRol($data);
+        $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
+        $this->rol_model->modificarUsuarioRol($data);
         //mostramos la vista de nuevo.
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: updateUserRol()] [MODIFICAR: '. $_POST['eliminarProd'].']');   
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_ACTUALIZAR, 'USUARIO', 1, 'USUARIO');
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: modificarUsuarioRol()] [MODIFICAR: '. $_POST['eliminarProd'].']');   
         $this->buscarRolUser();
     }
 }

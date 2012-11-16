@@ -70,9 +70,18 @@ function verificaSeleccionModRol(idObjRol, estado) {
     if(codActual != ''){        
         $("#estadoL" + codActual).show("slow");
         $("#estado" + codActual).hide("slow");
+        $("#tipoRolL" + codActual).show("slow");
+        $("#tipoRol" + codActual).hide("slow");
+        $("#descrRolL" + codActual).show("slow");
+        $("#descrRol" + codActual).hide("slow");
     }
     //Se muestra el actual
-    if(estado == 'E'){        
+    if(estado == 'A'){
+        $("#tipoRol" + idObjRol).show("slow");
+        $("#tipoRolL" + idObjRol).hide("slow");  
+        $("#descrRol" + idObjRol).show("slow");
+        $("#descrRolL" + idObjRol).hide("slow");       
+    }else{        
         $("#estado" + idObjRol).show("slow");
         $("#estadoL" + idObjRol).hide("slow");
     }

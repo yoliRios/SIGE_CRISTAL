@@ -39,34 +39,49 @@
             <thead>
                 <tr class="encabezadoFondo alinearCentro">
                         <th class="tamano10"> </th>
-                        <th class="tamano40">Código</th>
+                        <th class="tamano10">Código</th>
                         <th class="tamano40">Nombre</th>
-                        <th class="tamano10"> </th>
+                        <th class="tamano10">Estado</th>
+                        <th class="tamano10">Mod</th>
+                        <th class="tamano10">Desac</th>
                     </tr>
             </thead>
             <tbody>
             <?php foreach ($departamento as $dpto):?>
                 <tr class="alinearCentro fondoTabla">
-                    <td><input type="radio" id="eliminarProd" name="eliminarProd" value="<?php echo $dpto->cod_dpto ?>" /></td>
+                    <input type="hidden" id="seleccion" />
+                    <td><input type="radio" id="eliminarProd" name="eliminarProd" value="<?php echo $dpto->cod_dpto ?>" onclick="verificaSeleccionModDpto('<?php echo $dpto->cod_dpto ?>', '<?php echo $dpto->estado ?>');" /></td>
                     <td><?php echo sprintf('%03d',$dpto->cod_dpto) ?></td>
-                    <td><?php echo $dpto->nombre_dpto ?></td>
                     <td>
-                        <?php if ($dpto->cant_reg == 0){ ?>
-                            <a><img onclick=" verificaSeleccion('MensajeEliminar', 'departamento' , 'http://127.0.0.1/SIGE_CRISTAL/empresa/deleteDpto', <?php echo $dpto->cod_dpto ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Delete.ico" /></a>                     
+                        <label id="nombreDptoL<?php echo $dpto->cod_dpto ?>"><?php echo $dpto->nombre_dpto ?></label>                   
+                        <input type="text" id="nombreDpto<?php echo $dpto->cod_dpto ?>" name="nombreDpto<?php echo $dpto->cod_dpto ?>" class="ocultarCampo" size="40" maxlength="40" value="<?php echo $dpto->nombre_dpto ?>" />
+                    </td>
+                    <td>
+                        <label id="estadoL<?php echo $dpto->cod_dpto ?>"><?php echo $dpto->estado == 'E' ? 'Inactivo' : 'Activo' ?> </label>                   
+                        <select id="estado<?php echo $dpto->cod_dpto ?>" name="estado<?php echo $dpto->cod_dpto ?>" class="letra_13px ocultarCampo">
+                            <option value="A">Activo</option>
+                        </select>
+                    </td>
+                    <td>
+                        <a><img onclick=" verificaSeleccion('MensajeModificar', 'departamento' , 'http://127.0.0.1/SIGE_CRISTAL/empresa/modificarDpto', <?php echo $dpto->cod_dpto ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Write Document.ico" /></a>                     
+                    </td>
+                    <td>
+                        <?php if ($dpto->cant_reg == 0 && $dpto->estado == 'A'){ ?>
+                            <a><img onclick=" verificaSeleccion('MensajeEliminar', 'departamento' , 'http://127.0.0.1/SIGE_CRISTAL/empresa/desactivarDpto', <?php echo $dpto->cod_dpto ?>)" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Delete.ico" /></a>                     
                         <?php } ?>
                     </td>
                 </tr>
             <?php endforeach;?>
                 <tr class="alinearCentro fondoTabla">
                     <td>
-                        <img onclick="verificarIngresoDpto('departamento', 'http://127.0.0.1/SIGE_CRISTAL/empresa/insertDpto');" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
+                        <img onclick="verificarIngresoDpto('departamento', 'http://127.0.0.1/SIGE_CRISTAL/empresa/insertarDpto');" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
                     </td>
                     <td>
                         <input type="hidden" id="codigoNew" name="codigoNew" value="<?php echo $ultCod ?>" />
                         <?php echo sprintf('%03d',$ultCod) ?>
                     </td>
                     <td><input type="text" id="nombreDPTO" name="nombreDPTO" size="40" maxlength="40" onclick="this.value = '';"/> </td>
-                    <td></td>
+                    <td colspan="3"></td>
                 </tr>
             </tbody>
         </table>
@@ -84,6 +99,12 @@
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
                 Está seguro de ingresar el departamento?
+        </p>
+    </div>
+    <div id ="MensajeModificar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
+        <p class='alinearCentro'>
+            <span class='ui-icon ui-icon-notice floatLeft'/>
+                Está seguro de Modificar el departamento?
         </p>
     </div>
     <div id ="MensajeEliminar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">

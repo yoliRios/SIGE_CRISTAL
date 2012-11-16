@@ -93,7 +93,7 @@ cite span { color: #fff; }
 }
 
 ul {
-	margin: 20px 0 0 30px;
+	margin: 20px 0 0 0px;
 	padding: 0;
 	list-style-image:  url(../images/list_icon.png);
 }

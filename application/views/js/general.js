@@ -36,6 +36,27 @@ function abrirHtml(idAjax, idForm ,arch){
 
 /*
  * Busca el archivo php a mostrar
+ * @param idAjax: id del ajax
+ * @param idForm: id del formulario a enviar
+ * @param arch: archivo a buscar
+ * @param idRemov: id a remover
+ */
+function abrirAjaxHtml(idAjax, idForm ,arch, idRemov){
+   dataString = $("#" + idForm).serialize();
+   $( "#" + idRemov).remove();
+   $( "#general").remove();
+   $.ajax({
+       url: arch,
+       type: "POST",
+       data: dataString,
+       cache: false
+    }).done(function( add ) {
+        $("#" + idAjax).append(add);
+    });
+}
+
+/*
+ * Busca el archivo php a mostrar
  * @param idForm: id del formulario a enviar
  * @param arch: archivo a buscar
  */
