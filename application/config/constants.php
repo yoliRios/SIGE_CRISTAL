@@ -54,10 +54,16 @@ define("OPERACION_ACTUALIZAR", "ACTUALIZAR");
 define("OPERACION_INSERTAR", "INSERTAR");
 define("OPERACION_DESACTIVAR", "DESACTIVAR");
 define("FECHA_REGISTRO", "Y-m-d H:i:s");
+define("NO_EXISTEN_REGISTROS"," Disculpe no existen registros disponibles para su consulta");
+define("ATENCION","Atención! ");
+define("ERROR","Error! ");
+define("ERROR_FECHA_DESDE","Debe introducir la fecha hasta");
+
 
 // Constantes de la funcinalidad Auditoria
 define("NOMBRE_REPORTE_AUDITORIA", "\Auditoria");
-define("RUTA_REPORTE_AUDITORIA", "C:\Documents and Settings\yrios\Mis documentos\Yolimar_Rios\Universidad\Proyecto\Documentos");
+define("RUTA_REPORTE_AUDITORIA", "C:\Reportes");
+define("MENSAJE_REPORTE", "El reporte fue emitido con éxito.");
 define("CIFRAR", "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890#@*-/_");
 define("CORREO_CREAR_USUARIO", "Estimado(a) Sr(a).  *N*, se ha efectuado la creación de su usuario *U* con clave *C* para el ingreso al sistema SIGE_CRISTAL. Que tenga un buen día");
 

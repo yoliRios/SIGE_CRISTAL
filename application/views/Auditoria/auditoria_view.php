@@ -1,6 +1,9 @@
 <!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Transitional//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd”>
 <?php header('Access-Control-Allow-Origin: *'); ?>
 <script> imagenBoton('botonFiltro', 'ui-icon-search'); $( "#dialog:ui-dialog" ).dialog( "destroy" );</script>
+<script> $(function() {
+    calendarioDesdeHasta('#fecha_desde','#fecha_hasta','01/09/2012',fechaActual());
+});</script>
 <script>
   $(function() {
     aplicarPaginacionAuditoria();    
@@ -12,64 +15,78 @@
     </div>
     <form id="auditoria" name="auditoria" method="POST">
         <div>
-            <table id="filtro" class="anchoFiltro borde_radius_3px">
+          <table id="filtro" class="anchoFiltro borde_radius_3px">
                 <tr>
-                    <td class="tamano30"> Desde: 
-                        <input type="text" id="fecha_desde" name="fecha_desde" size="4" maxlength="10" value="<?php echo set_value('fecha_desde'); ?>"/> 
-                    </td>                
-                    <td class="tamano35"> Hasta: 
-                        <input type="text" id="fecha_hasta" name="fecha_hasta" onclick="this.blur" value="<?php echo set_value('fecha_desde'); ?>"/> 
+                    <td class="tamano20"> Fecha desde: 
+                        <input type="text" class="letra_Cen_12px cursorPointer" id="fecha_desde" name="fecha_desde" value="<?php if (isset($_POST['fecha_desde'])) echo $_POST['fecha_desde'];?>" size="7" maxlength="10" onclick="this.value='';this.blur();"/> 
+                    </td>                                                                                                                   
+                    <td class="tamano20"> Fecha hasta: 
+                        <input type="text" class="letra_Cen_12px cursorPointer" id="fecha_hasta" name="fecha_hasta" value="<?php if (isset($_POST['fecha_hasta'])) echo $_POST['fecha_hasta'];?>" size="7" maxlength="10" onclick="this.value='';this.blur();"/>
                     </td>
-                     <td class="tamano35"> Operación:                       
-                        <select id="nomb_operacion" name="nomb_operacion" >
-                        <?php while (list($i,$valor)= each($operaciones)) {?>
-                            <option value="<?php echo $i ?>"><?php echo $valor ?></option>                                                 
-                        <?php } ?>     
-                        </select>  
-                     </td>
+                    <td class="tamano20"> Operación:
+                        <select id="nomb_operacion" name="nomb_operacion" class="letra_Cen_12px cursorPointer" >
+                            <?php while (list($i,$valor)= each($operaciones)) {?>
+                                    <option value="<?php echo $i ?>"<?php if ($tipo_operacion==$i) echo 'selected="selected"';?> ><?php echo $valor ?></option>                                                 
+                            <?php }; ?>     
+                        </select> 
+                    </td>
                     <td class="tamano35 alinearDerecha"> 
-                        <button id="botonFiltro" class="botonExpande" onclick="abrirHtml('ajaxHTML', 'auditoria' ,'http://127.0.0.1/SIGE_CRISTAL/Auditoria/Auditoria_controller/consultar_operaciones');">Buscar</button>                     
+                        <button id="botonFiltro" type="button" class="botonExpande" onclick="verificarBuscarAuditoria('B')">Buscar</button>                     
                     </td>
                 </tr>
             </table>
-        </div> 
+         </div> 
+        <div id="error_fecha"class=" ui-state-error ui-corner-all estiloMensaje ocultarCampo">            
+            <p> <span class="ui-icon ui-icon-alert floatLeft"></span>
+                <strong><?php echo ERROR ?></strong><?php echo ERROR_FECHA_DESDE ?> </p>
+        </div>
+          <?php if($ind_reporte == 0){?>
+        <div id="mensaje_reporte"  class="ui-state-highlight ui-corner-all estiloMensaje" >
+             <p><span class="ui-icon ui-icon-info floatLeft"></span>
+                <strong><?php echo ATENCION ?></strong><?php echo MENSAJE_REPORTE ?></p>
+         </div>            
+        <?php }?> 
         <!-- Se verifica si existen datos de la consulta -->
-        <?php if (num_reg != -1){
-            if (num_reg == 0){?>
-        <div id="SinReg" class="anchoGeneral tamanoMensajes"> 
-                <p class='alinearCentro'>
-                    <span class='ui-icon ui-icon-notice floatLeft'/>
-                    Disculpe no existen registros disponibles
-                </p>
-        </div>
-        <?php }?>        
-        <table border="1" cellpadding="0" cellspacing="0" class="anchoTabla borde_radius_3px">
-            <thead> <!-- Encabezado de la tabla -->
-                <tr class="encabezadoFondo alinearCentro">
-                        <th class="tamano20">Fecha</th>
-                        <th class="tamano20">Usuario</th>
-                        <th class="tamano20">Operacion</th>
-                        <th class="tamano20">Funcionalidad </th>
-                        <th class="tamano20">Cant. Registros </th>
-                    </tr>
-            </thead>
-            <tbody>
-                <!-- Se recorreo el arreglo que contiene los registros de las operaciones
-                y se van mostrando al usuario-->
-            <?php foreach (registro_operaciones as $reg_oper):?>
-                <tr class="alinearCentro fondoTabla"                    
-                    <td><?php echo $reg_oper->fecha_operacion ?></td>
-                    <td><?php echo $reg_oper->usuario ?></td>
-                    <td><?php echo $reg_oper->operacion ?></td>
-                    <td><?php echo $reg_oper->funcionalidad ?></td>
-                    <td><?php echo $reg_oper->cant_registros ?></td>         
-                </tr>
-            <?php endforeach;?>               
-            </tbody>
-        </table>
-        <div id="ajax_paginacion_auditoria">
-            <?php echo $this->pagination->create_links(); ?>
-        </div>
-    </form> 
-    <?php }?>     
+        <?php if ($num_reg != -1){
+                if ($num_reg == 0){?>
+                    <div id="SinReg"  class="ui-state-highlight ui-corner-all estiloMensaje" >
+                        <p><span class="ui-icon ui-icon-notice floatLeft"></span>
+                        <strong><?php echo ATENCION ?></strong><?php echo NO_EXISTEN_REGISTROS ?></p>                            
+                    </div>
+            <?php }?>
+            <?php   if ($num_reg != 0 && $num_reg!= -1){?>
+                <table border="1" cellpadding="" cellspacing="0" class="anchoTabla borde_radius_3px">
+                    <thead> <!-- Encabezado de la tabla -->
+                        <tr class="encabezadoFondo alinearCentro">
+                                <th class="tamano20 cursorPointer">Fecha</th>
+                                <th class="tamano20 cursorPointer">Usuario</th>
+                                <th class="tamano20 cursorPointer">Operacion</th>
+                                <th class="tamano20 cursorPointer">Funcionalidad </th>
+                                <th class="tamano20 cursorPointer">Cant. Registros </th>
+                        </tr>
+                    </thead>
+                        <!-- Se recorreo el arreglo que contiene los registros de las operaciones
+                        y se van mostrando al usuario-->
+                    <?php foreach ($registro_operaciones as $reg_oper):?>                
+                            <tr class="alinearCentro fondoTabla">                    
+                                <td><?php echo date(FECHA_COMPLETA, strtotime($reg_oper->fecha_operacion))?></td>
+                                <td><?php echo $reg_oper->usuario ?></td>
+                                <td><?php echo $reg_oper->operacion ?></td>
+                                <td><?php echo $reg_oper->funcionalidad ?></td>
+                                <td><?php echo $reg_oper->cant_registros ?></td>         
+                            </tr>                 
+                    <?php endforeach;?>               
+
+                </table>             
+                <div id="ajax_paginacion_auditoria">
+                    <?php echo $this->pagination->create_links(); ?>
+                </div>
+                <script>imagenBoton('botonReporte', 'ui-icon-note');</script>
+                <div>
+                <button id="botonReporte"  class="botonExpande" onclick="verificarBuscarAuditoria('R');">Reporte</button>                     
+                </div>
+            <?php }?> 
+       <?php }?> 
+     <input type="hidden" id="indicador" name="indicador" value="" />   
+    </form>        
 </div>

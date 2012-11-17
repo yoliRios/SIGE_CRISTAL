@@ -242,7 +242,11 @@ body{
     color:#000;
     background: #9cf;
 }
-
+/*Estilo para mensajes a usuarios*/
+.estiloMensaje{
+    margin: 1%;
+    width: 100%;
+}
 /*Fondos*/
 .encabezadoFondo{    
     background: #eee;
@@ -264,7 +268,7 @@ body{
 }
 
 .ocultarCampo{
-	display: none;
+	display: none;        
 }
 
 
@@ -993,7 +997,14 @@ body{
 	height: 1.8em;
 	color: #CC0000;
 }
-
+.letras_Rojas_Peq {
+	font-size: 10px;
+	text-align: left;
+	font-family: Arial;
+	padding-left: 3px;
+	height: 1.8em;
+	color: #CC0000;
+}
 .letras_Naranjas {
 	font-size: 11px;
 	text-align: left;

@@ -16,7 +16,7 @@
          function registrar_operacion($fecha, $tipo_operacion, $usuario, $cant_reg, $funcionalidad){
          //    $this->load->library('session');
              log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ][ACCION: model registrar_operacion('.$fecha.' '.$tipo_operacion.' '. $usuario.' '. $cant_reg.' '.$funcionalidad.')]');
-             $this->db->set('fecha_operacion', $fecha);
+             $this->db->set('fecha_operacion',$fecha);
              $this->db->set('operacion', $tipo_operacion);
              $this->db->set('usuario', $usuario);
              $this->db->set('cant_registros', $cant_reg);
@@ -43,16 +43,16 @@
 	 }        
          /**
           * Metodo que realiza la consuta por tipo de operacion
-          * @return $operaciones varable que contiene los registros 
+          * @return $operaciones variable que contiene los registros 
           */
          function buscar_operaciones($data, $paginar){
            //  $this->load->library('session');
              log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_operaciones()]');
              $this->db->select('*');
              $this->db->from ('auditoria');
-             $this->db->where('fecha_operacion BETWEEN '.$data['fechaDesde'].' AND '.$data['fechaHasta']);
-             $this->db->where('operacion',$data['tipoOperacion']);
-             $this->db->order_by("fecha_operacion", "asc"); 
+             $this->db->where('fecha_operacion BETWEEN '."'".$data['fecha_desde']."'".' AND '."'".$data['fecha_hasta']."'");
+             $this->db->where('operacion',$data['tipo_operacion']);
+             $this->db->order_by('fecha_operacion', 'asc'); 
              if ($paginar == "P"){                    
                  $this->db->limit(10, $this->uri->segment(20));
              }
@@ -63,15 +63,15 @@
          /**
           * Metodo que realiza la consuta de las operaciones por rango de fecha y tipos de operacion
           * recibe por parametro en el arreglo $data el nombre de la operacion y la fecha desde y hasta
-          * @return $operaciones varable que contiene los registros 
+          * @return $operaciones variable que contiene los registros 
           */
          function buscar_operaciones_fechas($data,$paginar){
           //   $this->load->library('session');
              log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]');
              $this->db->select('*');
              $this->db->from('auditoria');
-             $this->db->where('fecha_operacion BETWEEN '.$data['fecha_desde'].' AND '.$data['fecha_hasta']);
-             $this->db->order_by("fecha_operacion", "asc"); 
+             $this->db->where('fecha_operacion BETWEEN '."'".$data['fecha_desde']."'".' AND '."'".$data['fecha_hasta']."'");
+              $this->db->order_by('fecha_operacion', 'asc');  
              if ($paginar == "P"){                    
                  $this->db->limit(10, $this->uri->segment(20));
              }
@@ -82,15 +82,15 @@
         /**
         * Metodo que realiza la consuta por tipo de operacion recibe 
         * por parametro el nombre de la operacion
-        * @return $operaciones varable que contiene los registros 
+        * @return $operaciones variable que contiene los registros 
         */
-         function buscar_operaciones_nombre($tipo_Operacionn,$paginar){
+         function buscar_operaciones_nombre($tipo_operacion,$paginar){
           //   $this->load->library('session');
              log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]');
              $this->db->select('*');
              $this->db->from('auditoria');
-             $this->db->where('operacion',$tipo_Operacionn);
-             $this->db->order_by("fecha_operacion", "asc"); 
+             $this->db->where('operacion',$tipo_operacion);
+             $this->db->order_by('fecha_operacion', 'asc'); 
              if ($paginar == "P"){                    
                  $this->db->limit(10, $this->uri->segment(20));
              }
