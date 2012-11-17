@@ -272,6 +272,7 @@ function aplicarPaginacionAuditoria() {
       });
     }
 
+/*Funcion que valida los campos de formulario Auditoria antes de enviarlo*/
 
 function verificarBuscarAuditoria(indicador){    
     document.getElementById('indicador').value = indicador;

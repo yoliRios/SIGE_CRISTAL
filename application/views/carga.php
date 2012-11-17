@@ -24,6 +24,7 @@
     <script language="javascript" type="text/javascript" src="<?php echo base_url(); ?>application/views/js/general.js"></script>
     <script language="javascript" type="text/javascript" src="<?php echo base_url(); ?>application/views/js/inicio.js"></script>
     <script language="javascript" type="text/javascript" src="<?php echo base_url(); ?>application/views/js/jquery-ui.custom.min.js"></script>
+    <script type="text/javascript" src="<?php echo base_url(); ?>application/views/js/jquery.ui.datepicker-es.js"></script>
     <script language="javascript" type="text/javascript" src="<?php echo base_url(); ?>application/views/js/empresa.js"></script>
     <script language="javascript" type="text/javascript" src="<?php echo base_url(); ?>application/views/js/rol.js"></script>
 </head>
