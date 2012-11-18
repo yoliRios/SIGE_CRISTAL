@@ -44,7 +44,7 @@ class Inicio extends CI_Controller
         log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: subMenu()]');
         
     }
-
+    
 }
 
 ?>

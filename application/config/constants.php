@@ -58,6 +58,8 @@ define("FECHA_REGISTRO", "Y-m-d H:i:s");
 // Constantes de la funcinalidad Auditoria
 define("NOMBRE_REPORTE_AUDITORIA", "\Auditoria");
 define("RUTA_REPORTE_AUDITORIA", "C:\Documents and Settings\yrios\Mis documentos\Yolimar_Rios\Universidad\Proyecto\Documentos");
+define("CIFRAR", "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890#@*-/_");
+define("CORREO_CREAR_USUARIO", "Estimado(a) Sr(a).  *N*, se ha efectuado la creación de su usuario *U* con clave *C* para el ingreso al sistema SIGE_CRISTAL. Que tenga un buen día");
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */

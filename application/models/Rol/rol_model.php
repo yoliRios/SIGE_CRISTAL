@@ -346,7 +346,7 @@
 		 $this->db->set('cod_emp', $data['codEmp']);
 		 $this->db->set('cedula', $data['cedula']);
 		 $this->db->set('usuario', $data['user']);
-		 $this->db->set('clave', MD5($data['user']));
+		 $this->db->set('clave', MD5($data['clave']));
 		 $this->db->set('estado', 'A');
 		 $this->db->insert('usuario'); //Nombre de la tabla
 	 }

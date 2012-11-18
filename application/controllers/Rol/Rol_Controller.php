@@ -327,7 +327,7 @@ class Rol_Controller extends CI_Controller {
      */
     function insertarUsuarioRol() {
         log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertarUsuarioRol()] [USUARIO: ' . $_POST['ced'] . ']');
-        $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
+        $this->load->model(array('rol/rol_model','auditoria/auditoria_model', 'email'));
         //recogemos los datos obtenidos por POST
         $data['cedula'] = $_POST['ced'];
         $data['codRol'] = $_POST['rolesEmp'];
@@ -335,9 +335,21 @@ class Rol_Controller extends CI_Controller {
         $data['user'] = substr($empleado->nombre, 0, 2).$empleado->apellido;
         $data['codSuc'] = $empleado->cod_sucursal;
         $data['codEmp'] = $empleado->cod_emp;        	
-        //llamamos al modelo, concretamente a la funci�n insert() para que nos haga el insert en la base de datos.
         $data['ultCod'] = $this->rol_model->ultimoUser()->row()->ultCod == NULL ? 0 : $this->rol_model->ultimoUser()->row()->ultCod;
+        /*Se busca una clave dinamicamente*/
+        $string = CIFRAR; 
+        $clave = ""; 
+        for($i=0;$i<10;$i++) { 
+            $clave .= substr($string,rand(0,62),1); 
+        } 
+        $data['clave'] = $clave;
+         /*Se realiza la insercion del suuario en bd*/
         $this->rol_model->insertarUsuarioRol($data);
+        /*Se envia correo con usuario y clave*/
+        $cuerpo = str_replace('*N*',$empleado->nombre,CORREO_CREAR_USUARIO);
+        $cuerpo = str_replace('*U*',$data['user'],$cuerpo);
+        $cuerpo = str_replace('*C*',$data['clave'],$cuerpo);
+        $this->email->email($empleado->email, 'Asignación de Usuario', 'text',$cuerpo);
         $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_INSERTAR, 'USUARIO', 1, 'USUARIO');
         log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertarUsuarioRol()] [USUARIO: ' . $_POST['ced'] . ']');
         //volvemos a visualizar la tabla
