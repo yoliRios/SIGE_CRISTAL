@@ -172,6 +172,23 @@ class Rol_Controller extends CI_Controller {
     }
     
     /*
+     * Funcion encargada de realizar la paginacion de la asignacion de servicios
+     */
+    function paginacionServ($modelo, $codigo){
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionServ()]');
+        $config['base_url'] = base_url().'/Rol/Rol_Controller/buscarServicios'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
+        $config['total_rows'] = $modelo->buscarTotalServ($codigo); 
+        $config['num_links'] = 2; //Numero de links mostrados en la paginación
+        $config['per_page'] = 10;
+        $this->pagination->initialize($config);         
+        $servicio =  $modelo->buscarServRol($codigo);
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionServ()]');
+        
+        return $servicio;
+		
+    }
+    
+    /*
      * Funcion encargada del ingreso de un servicio a un rol
      */
     function insertarServRol() {
@@ -182,7 +199,13 @@ class Rol_Controller extends CI_Controller {
         //llamamos al modelo, concretamente a la funci�n insert() para que nos haga el insert en la base de datos.
         $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
         $this->rol_model->insertarServRol($data);
-        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_INSERTAR, 'USUARIO', 1, 'SERVICIO');
+        $existeServP =  $this->rol_model->buscarServRolP($data);
+        if($existeServP != 1){
+            $servP = $this->rol_model->buscarDatosServ($data)->row()->cod_serv_P;  
+            $data['codServ'] = $servP;
+            $this->rol_model->insertarServRol($data);            
+        }
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_INSERTAR, 'USUARIO', 2, 'SERVICIO');
         log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: insertarServRol()]');
         //volvemos a visualizar la tabla
         $this->buscarServicios();
@@ -199,27 +222,17 @@ class Rol_Controller extends CI_Controller {
         //cargamos el modelo y llamamos a la funci�n baja(), pasandole el codigo del registro a eliminar.
         $this->load->model(array('rol/rol_model','auditoria/auditoria_model'));
         $this->rol_model->eliminarServRol($data);
+        $servP = $this->rol_model->buscarDatosServ($data)->row()->cod_serv_P; 
+        $datosP['codRol'] = $data['codRol'];
+        $datosP['codServ'] = $servP;
+        $totalHijos =  $this->rol_model->buscarTotalServH($datosP)->row()->NumReg;
+        if($totalHijos == 0){  
+            $this->rol_model->eliminarServRol($datosP);            
+        }
         //mostramos la vista de nuevo.
-        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_ELIMINAR, 'USUARIO', 1, 'SERVICIO');
+        $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_ELIMINAR, 'USUARIO', 2, 'SERVICIO');
         log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: eliminarServRol()] [ELIMINAR: '. $_POST['eliminarProd'].']');   
         $this->buscarServicios();
-    }
-    
-    /*
-     * Funcion encargada de realizar la paginacion de la asignacion de servicios
-     */
-    function paginacionServ($modelo, $codigo){
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionServ()]');
-        $config['base_url'] = base_url().'/Rol/Rol_Controller/buscarServicios'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
-        $config['total_rows'] = $modelo->buscarTotalServ($codigo); 
-        $config['num_links'] = 2; //Numero de links mostrados en la paginación
-        $config['per_page'] = 10;
-        $this->pagination->initialize($config);         
-        $servicio =  $modelo->buscarServRol($codigo);
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionServ()]');
-        
-        return $servicio;
-		
     }
     
     //************************************ASIGNACION DE ROLES A USUARIOS *************************************

@@ -132,7 +132,7 @@
                                                         FROM rol_servicio
                                                         WHERE cod_rol = '. $codigo . 
                                                      ')');    
-            $this->db->where('s.cod_servicio > 7');    
+            $this->db->where('s.tipo_serv', 'G');    
             $this->db->where('ruta != "inicio/subMenu"');
             $servicio = $this->db->get();
             return $servicio;
@@ -148,7 +148,9 @@
             $this->db->select('s.*');
             $this->db->from('servicio s');
             $this->db->join('rol_servicio rs', 's.cod_servicio = rs.cod_servicio');
-            $this->db->where('((' . $codigo .' is null) or (rs.cod_rol = ' . $codigo .'))');
+            $this->db->where('((' . $codigo .' is null) or (rs.cod_rol = ' . $codigo .'))');   
+            $this->db->where('s.tipo_serv', 'G');    
+            $this->db->where('s.ruta != "inicio/subMenu"');
             $this->db->limit(10, $this->uri->segment(20));
             $servicio = $this->db->get();
             return $servicio;
@@ -165,11 +167,63 @@
             $this->db->select('s.*');
             $this->db->from('servicio s');
             $this->db->join('rol_servicio rs', 's.cod_servicio = rs.cod_servicio');
-            $this->db->where('((' . $codigo .' is null) or (rs.cod_rol = ' . $codigo .'))');
+            $this->db->where('((' . $codigo .' is null) or (rs.cod_rol = ' . $codigo .'))');  
+            $this->db->where('s.tipo_serv', 'G');    
+            $this->db->where('s.ruta != "inicio/subMenu"');
             $numReg = $this->db->get();
             return $numReg->num_rows();
 
-        }	 
+        }	
+	 
+        /*
+         * Busca la existencia del servicio padre en la tabla rol_servicio
+         * del servicio seleccionado por el usuario
+         * @param  $data :  Arreglo con inf. de un servicio
+         */
+        function buscarServRolP($data)
+        {   
+            $this->db->select('s.cod_servicio');
+            $this->db->from('servicio s');
+            $this->db->join('rol_servicio rs', 'rs.cod_servicio = s.cod_serv_P');
+            $this->db->where('s.cod_servicio', $data['codServ']);
+            $this->db->where('rs.cod_rol', $data['codRol']);
+            $numReg = $this->db->get();
+            return $numReg->num_rows();
+
+        } 
+	 
+        /*
+         * Busca el total de servicios hijos existentes en rol_servicio
+         * de un servicio padre especifico
+         * @param  $data :  Arreglo con inf. de un servicio
+         */
+        function buscarTotalServH($data)
+        {   
+            $this->db->select('count(rs.cod_servicio) NumReg');
+            $this->db->from('rol_servicio rs');
+            $this->db->where('rs.cod_rol', $data['codRol']);
+            $this->db->where('rs.cod_servicio IN (
+                                                    SELECT cod_servicio
+                                                    FROM servicio
+                                                    WHERE cod_servicio != '. $data['codServ'] .'
+                                                    and cod_serv_P = '. $data['codServ'] . 
+                                               ')');
+            return $this->db->get();
+
+        } 
+	 
+        /*
+         * Busca los registros de un servicio
+         * @param  $data :  Arreglo con inf. del servicio a buscar
+         */
+        function buscarDatosServ($data)
+        {   
+            $this->db->select('s.*');
+            $this->db->from('servicio s');
+            $this->db->where('s.cod_servicio', $data['codServ']);
+            return $this->db->get();
+
+        }
 	 
         /*
          * Inserta un servicio a un rol especifico

@@ -60,13 +60,13 @@
                     </td>
                 </tr>
             <?php endforeach;?>
+                <input type="hidden" name="rol" value="<?php echo $cod_rol ?>" />
                 <?php if($num_serv > 0){ ?>
                     <tr class="alinearCentro fondoTabla">
                         <td>
                             <img onclick="enviarFormPreg('MensajeIngresar', 'rol' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/insertarServRol');" class="tamano_botones cursorPointer" src="http://127.0.0.1/SIGE_CRISTAL/application/views/img/iconos/Add.ico" />                     
                         </td>
                         <td colspan="4">
-                            <input type="hidden" name="rol" value="<?php echo $cod_rol ?>" />
                             <span class="letraN_13px">Asignar Servicio:</span>
                             <select name="servicios" class="letra_13px">
                                 <?php foreach ($servicios as $serv):?>
