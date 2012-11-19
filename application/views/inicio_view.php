@@ -39,7 +39,7 @@
     <div id="templatemo_menu">
     
         <ul>
-            <li><a href="" class="current">Inicio</a></li>
+            <li><a href="javascript:abrirHtml('ajaxHTML', '' , 'http://127.0.0.1/SIGE_CRISTAL/inicio/cargaLogin');" class="current">Inicio</a></li>
             <li><a href="">Empresa</a></li>
             <li><a href="">Productos</a></li>
             <li><a href="">Galería</a></li>
@@ -70,7 +70,30 @@
         <p align="justify">El Lugar Del Cristal ofrece a sus clientes facilidades de pago, así como los precios más bajos del mercado.</p>
       <div class="cleaner_h40"></div>
         
-      <div class="two_column float_l">
+		<div class="two_column float_l">
+        
+        	<ul class="small_gallery">
+            
+            	<li><a href="#"><img src="images/templatemo_image_02.jpg" alt="image 2" /></a></li>
+                
+                <li><a href="#"><img src="images/templatemo_image_03.jpg" alt="image 3" /></a></li>
+                
+                <li><a href="#"><img src="images/templatemo_image_04.jpg" alt="image 4" /></a></li>
+                
+                <li><a href="#"><img src="images/templatemo_image_05.jpg" alt="image 5" /></a></li>
+                
+                <li><a href="#"><img src="images/templatemo_image_06.jpg" alt="image 6" /></a></li>
+                
+                <li><a href="#"><img src="images/templatemo_image_07.jpg" alt="image 7" /></a></li>
+                
+            </ul>
+            
+            <div class="cleaner_h30"></div>
+            <div class="button"><a href="#">Ver más</a></div>
+	</div>
+		
+
+	<div class="two_column float_r">
         
        	  <h3>Web Design Ideas</h3>
         	<p>In ac libero urna. Suspendisse sed odio ut mi auctor blandit. Duis luctus nulla metus, a vulputate mauris.</p>
@@ -84,27 +107,13 @@
             </ul>
         
         </div>
-		
-        <form action="prueba_captcha" method="post">
-        <div class="two_column float_r">
-		        
-             <div class="alineaDerechapantalla ">
-                 <a>Usuario:</a><input type="text"></input>
-			 </div>
-			 <div class="alineaDerechapantalla">
-                 <a >Contraseña: </a><input type="text"></input>
-			 </div>
-<!-- 		 <div class="alineaDerechapantalla">
-				 <img src="images/imgcap.png" alt="captcha" />
-			</div>
-			<div class="alineaDerechapantalla ">
-				 <input type="text" name="captcha" />
-			 </div> -->
-            <div class="cleaner_h30"></div>
-            <div class="button alineaDerechapantalla"><a href="http://localhost/SIGE_CRISTAL/inicio/cargarUser">Ingresar</a></div>    
-        </div>
-		</form>
     	<div class="cleaner"></div>
+		
+		<div id="cuerpoHTML" class="posicition">
+                <div id="ajaxHTML" >
+
+                </div>
+        </div>
 	</div> <!-- end of content --> 
 </div> <!-- end of wrapper -->
 
@@ -144,12 +153,11 @@
     			
                 <p> El Lugar Del Cristal diseña sus ideas y gustos más exigentes, con la mejor calidad y servicio que usted merece.</p>
                 <p> ¡Sólo venga visítenos y compruébelo!</p>
-                
-                <div class="button"><a href="#">More</a></div>
-
 		</div>
 	
     	<div class="cleaner"></div>
+		
+
     </div> <!-- end of footer -->
 </div> <!-- end of footer wrapper -->    
 

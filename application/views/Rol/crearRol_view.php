@@ -14,11 +14,11 @@
         <div>
             <table id="filtro" class="anchoFiltro borde_radius_3px">
                 <tr>
-                    <td class="tamano30"> Código: 
-                        <input type="text" id="codigo" name="codigo" size="4" maxlength="10" onclick="this.value = '';" onkeypress="return acceptNumPos(event,this, true);" /> 
+                    <td class="tamano30"> <?php echo FILTRO_CODIGO ?>
+                        <input type="text" id="codigo" name="codigo" size="4" maxlength="10" value="<?php if (isset($_POST['codigo'])) echo $_POST['codigo'];?>" onclick="this.value = '';" onkeypress="return acceptNumPos(event,this, true);" /> 
                     </td>                
-                    <td class="tamano35"> Nombre: 
-                        <input type="text" id="nombre" name="nombre" onclick="this.value = '';"/> 
+                    <td class="tamano35"> <?php echo FILTRO_NOMBRE ?> 
+                        <input type="text" id="nombre" name="nombre" value="<?php if (isset($_POST['nombre'])) echo $_POST['nombre'];?>" onclick="this.value = '';"/> 
                     </td>
                     <td class="tamano35 alinearDerecha"> 
                         <button id="botonFiltro" class="botonExpande" onclick="abrirHtml('ajaxHTML', 'rol' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/buscarRol');">Buscar</button>                     
@@ -28,10 +28,10 @@
         </div>
         <?php if ($numReg != -1){
             if ($numReg == 0){?>
-        <div id="SinReg" class="anchoGeneral tamanoMensajes"> 
+        <div id="SinReg" class="anchoGeneral ui-state-highlight ui-corner-all tamanoMensajes"> 
                 <p class='alinearCentro'>
                     <span class='ui-icon ui-icon-notice floatLeft'/>
-                    Disculpe no existen registros disponibles
+                    <?php echo NO_EXISTEN_REGISTROS ?></p>                            
                 </p>
         </div>
         <?php }?>        
@@ -39,12 +39,12 @@
             <thead>
                 <tr class="encabezadoFondo alinearCentro">
                         <th class="tamano10"> </th>
-                        <th class="tamano10">Código</th>
-                        <th class="tamano25">Nombre</th>
-                        <th class="tamano30">Descripción</th>
-                        <th class="tamano5">Estado</th>
-                        <th class="tamano10">Mod</th>
-                        <th class="tamano10">Desac</th>
+                        <th class="tamano10"><?php echo CODIGO ?></th>
+                        <th class="tamano25"><?php echo NOMBRE ?></th>
+                        <th class="tamano30"><?php echo DESCRIPCION ?></th>
+                        <th class="tamano5"><?php echo ESTADO ?></th>
+                        <th class="tamano10"><?php echo MOD ?></th>
+                        <th class="tamano10"><?php echo DESAC ?></th>
                     </tr>
             </thead>
             <tbody>
@@ -104,19 +104,19 @@
     <div id ="MensajeIngresar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
-                Está seguro de ingresar el rol?
+            <?php echo MENSAJE_INGRESO ?> rol?
         </p>
     </div>
     <div id ="MensajeModificar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
-                Está seguro de Modificar el rol?
+            <?php echo MENSAJE_ACTUALIZAR ?>  rol?
         </p>
     </div>
     <div id ="MensajeEliminar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
-                Está seguro de Desactivar el rol?
+            <?php echo MENSAJE_DESACTIVAR ?> rol?
         </p>
     </div>
     <?php }?>     

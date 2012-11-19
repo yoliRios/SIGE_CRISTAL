@@ -46,6 +46,24 @@ class Empresa extends CI_Controller {
     }
     
     /*
+     * Funcion encargada de realizar la paginacion de un departamento
+     */
+    function pagination($modelo, $codigo, $nombre){
+        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacion()]'); 
+        $config['base_url'] = base_url().'Empresa/buscarDepartamento'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
+        $config['total_rows'] = $modelo->buscarTotalDepto($codigo, $nombre); 
+        $config['num_links'] = 2; //Numero de links mostrados en la paginación
+        $config['per_page'] = 10;
+        $config['uri_segment'] = '3'; 
+        $this->pagination->initialize($config);         
+        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacion()]'); 
+        $departamento =  $modelo->buscarDepartamento($codigo, $nombre);
+        
+        return $departamento;
+		
+    }
+    
+    /*
      * Funcion encargada del ingreso de un departamento
      */
     function insertarDpto() {
@@ -95,23 +113,6 @@ class Empresa extends CI_Controller {
         $this->auditoria_model->registrar_operacion(date(FECHA_REGISTRO), OPERACION_ACTUALIZAR, 'USUARIO', 1, 'DEPARTAMENTO');
         log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: modificarDpto()] [MODIFICAR: '. $_POST['eliminarProd'].']');   
         $this->buscarDepartamento();
-    }
-    
-    /*
-     * Funcion encargada de realizar la paginacion de un departamento
-     */
-    function pagination($modelo, $codigo, $nombre){
-        log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacion()]'); 
-        $config['base_url'] = base_url().'/Empresa/buscarDepartamento'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
-        $config['total_rows'] = $modelo->buscarTotalDepto($codigo, $nombre); 
-        $config['num_links'] = 2; //Numero de links mostrados en la paginación
-        $config['per_page'] = 10;
-        $this->pagination->initialize($config);         
-        log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacion()]'); 
-        $departamento =  $modelo->buscarDepartamento($codigo, $nombre);
-        
-        return $departamento;
-		
     }
     
     /*
@@ -190,10 +191,11 @@ class Empresa extends CI_Controller {
      * Funcion encargada de realizar la paginacion de un departamento
      */
     function paginationSucursal($modelo, $codigo, $nombre){
-        $config['base_url'] = base_url().'/Empresa/buscarSucursal'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
+        $config['base_url'] = base_url().'Empresa/buscarSucursal'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
         $config['total_rows'] = $modelo->buscarTotalSucursal($codigo, $nombre); 
         $config['num_links'] = 2; //Numero de links mostrados en la paginación
         $config['per_page'] = 10;
+        $config['uri_segment'] = '3'; 
         $this->pagination->initialize($config);         
         $sucursal =  $modelo->buscarSucursal($codigo, $nombre);
         

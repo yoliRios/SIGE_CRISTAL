@@ -14,40 +14,42 @@
         <div>
             <table id="filtro" class="anchoFiltro borde_radius_3px">
                 <tr>    
-                    <td class="tamano30"> Cédula: 
-                        <input type="text" id="cedula" name="cedula" size="10" maxlength="10" onclick="this.value = '';" onkeypress="return acceptNumPos(event,this, true);" /> 
+                    <td class="tamano30"> <?php echo FILTRO_CEDULA ?>
+                        <input type="text" id="cedula" name="cedula" size="10" maxlength="10" value="<?php if (isset($_POST['cedula'])) echo $_POST['cedula'];?>" onclick="this.value = '';" onkeypress="return acceptNumPos(event,this, true);" /> 
                     </td>                
-                    <td class="tamano35"> Usuario: 
-                        <input type="text" id="user" name="user" onclick="this.value = '';"/> 
+                    <td class="tamano35"> <?php echo FILTRO_USUARIO ?> 
+                        <input type="text" id="user" name="user" value="<?php if (isset($_POST['user'])) echo $_POST['user'];?>" onclick="this.value = '';"/> 
                     </td>
                     <td class="tamano35 alinearDerecha"> 
-                        <button id="botonFiltro" class="botonExpande" onclick="abrirHtml('ajaxHTML', 'rol' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/buscarRolUser');">Buscar</button>                     
+                        <button id="botonFiltro" class="botonExpande" onclick="abrirHtml('ajaxHTML', 'rolUser' ,'http://127.0.0.1/SIGE_CRISTAL/Rol/Rol_Controller/buscarRolUser');">Buscar</button>                     
                     </td>
                 </tr>
             </table>
         </div>
         <?php if ($numReg != -1){
             if ($numReg == 0){?>
-        <div id="SinReg" class="anchoGeneral tamanoMensajes"> 
+        <div id="SinReg" class="anchoGeneral ui-state-highlight ui-corner-all tamanoMensajes"> 
                 <p class='alinearCentro'>
                     <span class='ui-icon ui-icon-notice floatLeft'/>
-                    Disculpe no existen servicios disponibles para la consulta
+                    <?php echo NO_EXISTEN_REGISTROS ?>                           
                 </p>
         </div>
         <?php }?>        
         <table border="1" cellpadding="0" cellspacing="0" class="anchoTabla borde_radius_3px">
             <thead>
-                <tr class="encabezadoFondo alinearCentro">
+                <?php if ($numReg > 0 || $num_emp > 0){?> 
+                    <tr class="encabezadoFondo alinearCentro">
                         <th class="tamano10"> </th> 
-                            <th colspan="2" class="tamano10">Cédula</th>
-                            <th class="tamano20">Nombre</th>
-                            <th class="tamano20">Apellido</th>
-                            <th class="tamano10">Usuario</th>
-                            <th class="tamano20">Rol</th>
-                            <th class="tamano5">Estado</th>
-                            <th class="tamano10">Mod</th>
-                            <th class="tamano10">Desac</th>
-                    </tr>
+                        <th colspan="2" class="tamano10"><?php echo CEDULA ?></th>
+                        <th class="tamano20"><?php echo NOMBRE ?></th>
+                        <th class="tamano20"><?php echo APELLIDO ?></th>
+                        <th class="tamano10"><?php echo USUARIO ?></th>
+                        <th class="tamano20"><?php echo ROL ?></th>
+                        <th class="tamano5"><?php echo ESTADO ?></th>
+                        <th class="tamano10"><?php echo MOD ?></th>
+                        <th class="tamano10"><?php echo DESAC ?></th>
+                </tr>
+               <?php }?>
             </thead>
             <tbody>
             <?php foreach ($userRol as $user):?>
@@ -128,19 +130,19 @@
     <div id ="MensajeIngresar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
-                Está seguro de crear el usuario?
+            <?php echo MENSAJE_INGRESO ?> usuario?
         </p>
     </div>
     <div id ="MensajeEliminar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
-                Está seguro de Desactivar el usuario?
+            <?php echo MENSAJE_DESACTIVAR ?> usuario?
         </p>
     </div>
     <div id ="MensajeModificar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
-                Está seguro de Modificar el rol del usuario?
+            <?php echo MENSAJE_ACTUALIZAR ?> rol del usuario?
         </p>
     </div>
     <?php }?>     

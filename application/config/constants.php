@@ -44,20 +44,57 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 |
 */
 
-// Constantes generales
+// Constantes fechas
 define("PDF" , ".pdf");
 define("FECHA_ARCHIVO" , "d-m-Y His");
 define("FECHA_COMPLETA", "d/m/Y H:i:s");
 define("SOLO_FECHA", "d/m/Y");
+define("FECHA_REGISTRO", "Y-m-d H:i:s");
+
+//Constantes de operaciones
 define("OPERACION_ELIMINAR", "ELIMINAR");
 define("OPERACION_ACTUALIZAR", "ACTUALIZAR");
 define("OPERACION_INSERTAR", "INSERTAR");
 define("OPERACION_DESACTIVAR", "DESACTIVAR");
-define("FECHA_REGISTRO", "Y-m-d H:i:s");
-define("NO_EXISTEN_REGISTROS"," Disculpe no existen registros disponibles para su consulta");
+
+//Constantes error
+define("NO_EXISTEN_REGISTROS"," Disculpe no existen registros disponibles para la consulta");
 define("ATENCION","Atención! ");
 define("ERROR","Error! ");
 define("ERROR_FECHA_DESDE","Debe introducir la fecha hasta");
+
+//Constantes de preguntas operaciones
+define("MENSAJE_INGRESO","¿Está seguro de Crear el");
+define("MENSAJE_ACTUALIZAR","¿Está seguro de Modificar el");
+define("MENSAJE_ELIMINAR","¿Está seguro de Eliminar el");
+define("MENSAJE_DESACTIVAR","¿Está seguro de Desactivar el");
+define("MENSAJE_ASIGANCION","¿Está seguro de Asignar el");
+
+//Constantes de filtros
+define("FILTRO_CODIGO","Código:");
+define("FILTRO_NOMBRE","Nombre:");
+define("FILTRO_CEDULA","Cédula:");
+define("FILTRO_USUARIO","Usuario:");
+define("FILTRO_ROL","Rol:");
+define("FILTRO_DESDE","Fecha Desde:");
+define("FILTRO_HASTA","Fecha Hasta:");
+define("FILTRO_OPERACION","Operación:");
+
+//Constantes tablas
+define("CEDULA","Cédula");
+define("CODIGO","Código");
+define("NOMBRE","Nombre");
+define("APELLIDO","Apellido");
+define("USUARIO","Usuario");
+define("ROL","Rol");
+define("ESTADO","Estado");
+define("DESCRIPCION","Descripción");
+define("MOD","Mod");
+define("DESAC","Desac");
+define("FECHA","Fecha");
+define("OPERACION","Operación");
+define("FUNCIONALIDAD","Funcionalidad");
+define("NUM_REGISTROS","Cant. Registros");
 
 
 // Constantes de la funcinalidad Auditoria

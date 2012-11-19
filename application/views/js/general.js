@@ -230,7 +230,6 @@ function verificarOpcion(mensaje, idForm, direccion, codigo) {
     enviarFormPreg(mensaje, idForm , direccion);   
 }
 
-
 function applyPagination() {
       $("#ajax_paging a").click(function() {
         var url = $(this).attr("href");
@@ -250,38 +249,16 @@ function applyPagination() {
 }
     
 //******************************Auditoria*************************************
-
-/**
- * Funcion que se encarga de aplicar la paginacion en la funcionalidad Auditoria
- */
-function aplicarPaginacionAuditoria() {
-      $("#ajax_paginacion_auditoria a").click(function() {
-        var url = $(this).attr("href");
-        $.ajax({
-          type: "POST",
-          url: url,
-          beforeSend: function() {
-            $("#general").html("");
-          },
-          success: function(msg) {
-            $("#general").html(msg);
-            applyPagination();
-          }
-        });
-        return false;
-      });
-    }
-
 /*Funcion que valida los campos de formulario Auditoria antes de enviarlo*/
 
 function verificarBuscarAuditoria(indicador){    
     document.getElementById('indicador').value = indicador;
     
-    if(document.getElementById('fecha_desde').value!= '' && document.getElementById('fecha_hasta').value==''){
+    if(document.getElementById('fecha_desde').value != '' && document.getElementById('fecha_hasta').value == ''){
         document.getElementById('error_fecha').style.display = "inline-block";
         document.getElementById('fecha_hasta').style.border = "2px solid #D62C2C";
-    }else{        
-        abrirHtml('ajaxHTML', 'auditoria' ,'http://127.0.0.1/SIGE_CRISTAL/Auditoria/Auditoria_controller/consultar_operaciones');
+    }else{       
+        abrirHtml('ajaxHTML', 'auditoria' ,'http://127.0.0.1/SIGE_CRISTAL/Auditoria/Auditoria_controller/consultarAuditoria');
     }
 }
 
@@ -332,7 +309,6 @@ function popUp(nombreDiv){
     });
    });
 }
-
 function formDialog(nombre_div){
   
  $("#"+nombre_div).dialog({
@@ -344,7 +320,7 @@ function formDialog(nombre_div){
             resizable: false,
             modal: true,
             buttons: {
-                "Guardar": function() {                    
+                "Ingresar": function() {                    
                  /*   var bValid = true;
                     allFields.removeClass( "ui-state-error" );
  
@@ -378,8 +354,3 @@ function formDialog(nombre_div){
         //$( "#"+nombre_div).dialog({ position: { my: "center", at: "center", of: window } });
         $("#"+nombre_div).dialog( "open" );   
 }
-function validarFechaHasta(){
-    
-}
-
-

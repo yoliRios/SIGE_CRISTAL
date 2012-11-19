@@ -57,10 +57,11 @@ class Rol_Controller extends CI_Controller {
      */
     function paginacion($modelo, $codigo, $nombre){
         log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacion()]');
-        $config['base_url'] = base_url().'/Rol/Rol_Controller/buscarRol'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
+        $config['base_url'] = base_url().'Rol/Rol_Controller/buscarRol'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
         $config['total_rows'] = $modelo->buscarTotalRol($codigo, $nombre); 
         $config['num_links'] = 2; //Numero de links mostrados en la paginación
         $config['per_page'] = 10;
+        $config['uri_segment'] = '4'; 
         $this->pagination->initialize($config);         
         $rol =  $modelo->buscarRol($codigo, $nombre);
         log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacion()]');
@@ -176,10 +177,11 @@ class Rol_Controller extends CI_Controller {
      */
     function paginacionServ($modelo, $codigo){
         log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionServ()]');
-        $config['base_url'] = base_url().'/Rol/Rol_Controller/buscarServicios'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
+        $config['base_url'] = base_url().'Rol/Rol_Controller/buscarServicios'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
         $config['total_rows'] = $modelo->buscarTotalServ($codigo); 
         $config['num_links'] = 2; //Numero de links mostrados en la paginación
         $config['per_page'] = 10;
+        $config['uri_segment'] = '4';
         $this->pagination->initialize($config);         
         $servicio =  $modelo->buscarServRol($codigo);
         log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionServ()]');
@@ -310,10 +312,11 @@ class Rol_Controller extends CI_Controller {
      */
     function paginacionUser($modelo, $cedula, $user){
         log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionUser()]');
-        $config['base_url'] = base_url().'/Rol/Rol_Controller/buscarRolUser'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
+        $config['base_url'] = base_url().'Rol/Rol_Controller/buscarRolUser'; // parametro base de la aplicación, si tenemos un .htaccess nos evitamos el index.php
         $config['total_rows'] = $modelo->buscarTotalRolUser($cedula, $user); 
         $config['num_links'] = 2; //Numero de links mostrados en la paginación
         $config['per_page'] = 10;
+        $config['uri_segment'] = '4';
         $this->pagination->initialize($config);         
         $servicio =  $modelo->buscarRolUser($cedula, $user);
         log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ' . 'usuario' . '][ACCION: paginacionUser()]');

@@ -25,77 +25,23 @@
              log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ][ACCION: model registrar_operacion()]');
          }
          /**
-          * Metodo que devuelve todos los registros de la tabla auditoria
-          * @return $operaciones varable que contiene los registros 
+          * Metodo que realiza la consuta de las auditorias del sistema
+          * @return $data arreglo con filtro a buscar 
+          * @return $paginar variable que indica si se realizara o no la paginacion 
           */
-        function get_auditoria($paginar) {
-           // $this->load->library('session');
-            log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ][ACCION: model get_auditoria()]');
-            $this->db->select('*');
-            $this->db->from('auditoria');
-            $this->db->order_by("fecha_operacion", "asc"); 
-            if ($paginar == "P"){                    
-                $this->db->limit(10, $this->uri->segment(20));
-            }
-            $operaciones = $this->db->get();
-            log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ][ACCION: model get_auditoria()]');
-            return $operaciones;
-	 }        
-         /**
-          * Metodo que realiza la consuta por tipo de operacion
-          * @return $operaciones variable que contiene los registros 
-          */
-         function buscar_operaciones($data, $paginar){
-           //  $this->load->library('session');
-             log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_operaciones()]');
-             $this->db->select('*');
-             $this->db->from ('auditoria');
-             $this->db->where('fecha_operacion BETWEEN '."'".$data['fecha_desde']."'".' AND '."'".$data['fecha_hasta']."'");
-             $this->db->where('operacion',$data['tipo_operacion']);
-             $this->db->order_by('fecha_operacion', 'asc'); 
-             if ($paginar == "P"){                    
-                 $this->db->limit(10, $this->uri->segment(20));
-             }
-             $operaciones = $this->db->get();
-             log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_operaciones()]');
-             return $operaciones;
-         }
-         /**
-          * Metodo que realiza la consuta de las operaciones por rango de fecha y tipos de operacion
-          * recibe por parametro en el arreglo $data el nombre de la operacion y la fecha desde y hasta
-          * @return $operaciones variable que contiene los registros 
-          */
-         function buscar_operaciones_fechas($data,$paginar){
-          //   $this->load->library('session');
-             log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]');
+         function buscar_auditoria($data, $paginar){
+             
+             log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]');
              $this->db->select('*');
              $this->db->from('auditoria');
-             $this->db->where('fecha_operacion BETWEEN '."'".$data['fecha_desde']."'".' AND '."'".$data['fecha_hasta']."'");
+             $this->db->where('(('. $data["fecha_desde"] .' is null) or (fecha_operacion BETWEEN "' . $data["fecha_desde"] .'" AND DATE_ADD("' . $data["fecha_hasta"] .'", INTERVAL 1 DAY)))');
+             $this->db->where('(("'. $data["tipo_operacion"] .'" = "NULL") or (operacion = "' . $data["tipo_operacion"] .'" ))');
               $this->db->order_by('fecha_operacion', 'asc');  
              if ($paginar == "P"){                    
-                 $this->db->limit(10, $this->uri->segment(20));
+                 $this->db->limit(10, $this->uri->segment(4));
              }
              $operaciones = $this->db->get();
-             log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]');
-             return $operaciones;             
-         }     
-        /**
-        * Metodo que realiza la consuta por tipo de operacion recibe 
-        * por parametro el nombre de la operacion
-        * @return $operaciones variable que contiene los registros 
-        */
-         function buscar_operaciones_nombre($tipo_operacion,$paginar){
-          //   $this->load->library('session');
-             log_message('info', '[INICIO] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]');
-             $this->db->select('*');
-             $this->db->from('auditoria');
-             $this->db->where('operacion',$tipo_operacion);
-             $this->db->order_by('fecha_operacion', 'asc'); 
-             if ($paginar == "P"){                    
-                 $this->db->limit(10, $this->uri->segment(20));
-             }
-             $operaciones = $this->db->get();
-             log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]');
+             log_message('info', '[FIN] ' . '[USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]');
              return $operaciones;             
          }
  }

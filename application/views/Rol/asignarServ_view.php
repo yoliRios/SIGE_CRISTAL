@@ -14,7 +14,7 @@
         <div>
             <table id="filtro" class="anchoFiltro borde_radius_3px">
                 <tr>                
-                    <td class="tamano35"> Rol:                        
+                    <td class="tamano35"> <?php echo FILTRO_ROL ?>                        
                         <select name="roles">
                             <?php foreach ($roles as $rol):?>
                                 <option value="<?php echo $rol->cod_rol ?>"><?php echo $rol->tipo_rol ?></option>
@@ -29,10 +29,10 @@
         </div>
         <?php if ($numReg != -1){
             if ($numReg == 0){?>
-        <div id="SinReg" class="anchoGeneral tamanoMensajes"> 
+        <div id="SinReg" class="anchoGeneral ui-state-highlight ui-corner-all tamanoMensajes"> 
                 <p class='alinearCentro'>
                     <span class='ui-icon ui-icon-notice floatLeft'/>
-                    Disculpe no existen servicios disponibles para el rol seleccionado
+                    Disculpe no existen servicios disponibles para el rol seleccionado                           
                 </p>
         </div>
         <?php }?>        
@@ -41,12 +41,12 @@
                 <tr class="encabezadoFondo alinearCentro">
                         <th class="tamano10"> </th>                        
                         <?php if ($numReg == 0){?> <th> </th> <?php } else {?>
-                            <th class="tamano10">Código</th>
-                            <th class="tamano30">Nombre</th>
-                            <th class="tamano40">Descripción</th>
+                            <th class="tamano10"><?php echo CODIGO ?></th>
+                            <th class="tamano30"><?php echo NOMBRE ?></th>
+                            <th class="tamano40"><?php echo DESCRIPCION ?></th>
                             <th class="tamano10"> </th>
                         <?php }?>
-                    </tr>
+                </tr>
             </thead>
             <tbody>
             <?php foreach ($servicio as $serv):?>
@@ -85,13 +85,13 @@
     <div id ="MensajeIngresar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
-                Está seguro de asignar el servicio al rol?
+            <?php echo MENSAJE_ASIGANCION ?> servicio al rol?
         </p>
     </div>
     <div id ="MensajeEliminar" title="Pregunta" class="anchoGeneral tamanoMensajes ocultarCampo ">
         <p class='alinearCentro'>
             <span class='ui-icon ui-icon-notice floatLeft'/>
-                Está seguro de Eliminar el servicio al rol?
+            <?php echo MENSAJE_ELIMINAR ?> servicio al rol?
         </p>
     </div>
     <?php }?>     

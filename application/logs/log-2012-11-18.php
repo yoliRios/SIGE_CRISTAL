@@ -4132,3 +4132,11339 @@ INFO  - 2012-11-18 05:05:53 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: busca
 DEBUG - 2012-11-18 05:05:53 --> File loaded: application/views/rol/crearUser_view.php
 DEBUG - 2012-11-18 05:05:53 --> Final output sent to browser
 DEBUG - 2012-11-18 05:05:53 --> Total execution time: 9.8761
+DEBUG - 2012-11-18 08:16:06 --> Config Class Initialized
+DEBUG - 2012-11-18 08:16:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:16:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:16:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:16:06 --> URI Class Initialized
+DEBUG - 2012-11-18 08:16:06 --> Router Class Initialized
+DEBUG - 2012-11-18 08:16:06 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 08:16:06 --> Output Class Initialized
+DEBUG - 2012-11-18 08:16:06 --> Security Class Initialized
+DEBUG - 2012-11-18 08:16:06 --> Input Class Initialized
+DEBUG - 2012-11-18 08:16:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:16:06 --> Language Class Initialized
+DEBUG - 2012-11-18 08:16:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:16:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:16:07 --> Controller Class Initialized
+DEBUG - 2012-11-18 08:16:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:16:07 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 08:16:07 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 08:16:07 --> Final output sent to browser
+DEBUG - 2012-11-18 08:16:07 --> Total execution time: 1.4750
+DEBUG - 2012-11-18 08:16:12 --> Config Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:16:13 --> URI Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> Router Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> Output Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> Security Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> Input Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:16:13 --> Language Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:16:13 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:16:14 --> Controller Class Initialized
+DEBUG - 2012-11-18 08:16:14 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:16:14 --> Model Class Initialized
+DEBUG - 2012-11-18 08:16:14 --> Model Class Initialized
+DEBUG - 2012-11-18 08:16:15 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 08:16:15 --> Final output sent to browser
+DEBUG - 2012-11-18 08:16:15 --> Total execution time: 2.3885
+DEBUG - 2012-11-18 08:16:43 --> Config Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:16:44 --> URI Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Router Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Output Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Security Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Input Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:16:44 --> Language Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:16:44 --> Controller Class Initialized
+INFO  - 2012-11-18 08:16:45 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 08:16:45 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 08:16:45 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 08:16:45 --> Final output sent to browser
+DEBUG - 2012-11-18 08:16:45 --> Total execution time: 1.3291
+DEBUG - 2012-11-18 08:17:04 --> Config Class Initialized
+DEBUG - 2012-11-18 08:17:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:17:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:17:05 --> URI Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> Router Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> Output Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> Security Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> Input Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:17:05 --> Language Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> Controller Class Initialized
+INFO  - 2012-11-18 08:17:05 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:17:05 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:17:05 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:17:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:17:05 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:17:05 --> Model Class Initialized
+DEBUG - 2012-11-18 08:17:06 --> Model Class Initialized
+INFO  - 2012-11-18 08:17:06 --> valor $indicador: B
+INFO  - 2012-11-18 08:17:06 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por rango de fechas: 2012-11-07 2012-11-17]
+INFO  - 2012-11-18 08:17:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+INFO  - 2012-11-18 08:17:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+DEBUG - 2012-11-18 08:17:06 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:17:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:17:06 --> Final output sent to browser
+DEBUG - 2012-11-18 08:17:06 --> Total execution time: 1.7908
+DEBUG - 2012-11-18 08:17:22 --> Config Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:17:22 --> URI Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Router Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Output Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Security Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Input Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:17:22 --> Language Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:17:22 --> Controller Class Initialized
+INFO  - 2012-11-18 08:17:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:17:23 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:17:23 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:17:23 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:17:23 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:17:23 --> Model Class Initialized
+DEBUG - 2012-11-18 08:17:23 --> Model Class Initialized
+INFO  - 2012-11-18 08:17:23 --> valor $indicador: B
+INFO  - 2012-11-18 08:17:23 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por rango de fechas: 2012-11-07 2012-11-18]
+INFO  - 2012-11-18 08:17:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+INFO  - 2012-11-18 08:17:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+DEBUG - 2012-11-18 08:17:23 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:17:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:17:23 --> Final output sent to browser
+DEBUG - 2012-11-18 08:17:23 --> Total execution time: 1.5194
+DEBUG - 2012-11-18 08:18:43 --> Config Class Initialized
+DEBUG - 2012-11-18 08:18:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:18:43 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:18:43 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:18:43 --> URI Class Initialized
+DEBUG - 2012-11-18 08:18:43 --> Router Class Initialized
+DEBUG - 2012-11-18 08:18:43 --> Output Class Initialized
+DEBUG - 2012-11-18 08:18:44 --> Security Class Initialized
+DEBUG - 2012-11-18 08:18:44 --> Input Class Initialized
+DEBUG - 2012-11-18 08:18:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:18:44 --> Language Class Initialized
+DEBUG - 2012-11-18 08:18:44 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:18:44 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:18:44 --> Controller Class Initialized
+INFO  - 2012-11-18 08:18:44 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:18:44 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:18:44 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:18:44 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:18:44 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:18:44 --> Model Class Initialized
+DEBUG - 2012-11-18 08:18:44 --> Model Class Initialized
+INFO  - 2012-11-18 08:18:45 --> valor $indicador: R
+INFO  - 2012-11-18 08:18:45 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por rango de fechas: 2012-11-07 2012-11-18]
+INFO  - 2012-11-18 08:18:45 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+INFO  - 2012-11-18 08:18:45 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+INFO  - 2012-11-18 08:18:45 --> [INICIO] [USUARIO CONECTADO: ][ACCION: generar_reporte_operaciones()]
+INFO  - 2012-11-18 08:18:45 --> [OPERACION] [USUARIO CONECTADO: ] [ACCION: crearTabla($header,$reg_operaciones)()][MENSAJE: llamado a la Clase Auditoria_PDF encargada de generar el reporte en PDF ]
+INFO  - 2012-11-18 08:18:45 --> [OPERACION] [USUARIO CONECTADO: ] [ACCION:  $pdf->Output($url, F);][MENSAJE: Reporte guardado en la ruta C:\Reportes\Auditoria 18-11-2012 081845.pdf]
+INFO  - 2012-11-18 08:18:45 --> [FIN] [USUARIO CONECTADO: ][ACCION: generar_reporte_operaciones()]
+DEBUG - 2012-11-18 08:18:45 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:18:45 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:18:45 --> Final output sent to browser
+DEBUG - 2012-11-18 08:18:45 --> Total execution time: 2.2314
+DEBUG - 2012-11-18 08:20:06 --> Config Class Initialized
+DEBUG - 2012-11-18 08:20:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:20:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:20:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:20:06 --> URI Class Initialized
+DEBUG - 2012-11-18 08:20:06 --> Router Class Initialized
+DEBUG - 2012-11-18 08:20:06 --> Output Class Initialized
+DEBUG - 2012-11-18 08:20:06 --> Security Class Initialized
+DEBUG - 2012-11-18 08:20:06 --> Input Class Initialized
+DEBUG - 2012-11-18 08:20:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:20:07 --> Language Class Initialized
+DEBUG - 2012-11-18 08:20:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:20:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:20:07 --> Controller Class Initialized
+INFO  - 2012-11-18 08:20:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:20:07 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:20:07 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:20:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:20:07 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:20:07 --> Model Class Initialized
+DEBUG - 2012-11-18 08:20:07 --> Model Class Initialized
+INFO  - 2012-11-18 08:20:07 --> valor $indicador: B
+INFO  - 2012-11-18 08:20:07 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por rango de fechas: 2012-10-03 2012-11-18]
+INFO  - 2012-11-18 08:20:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+INFO  - 2012-11-18 08:20:08 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+DEBUG - 2012-11-18 08:20:08 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:20:08 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:20:08 --> Final output sent to browser
+DEBUG - 2012-11-18 08:20:08 --> Total execution time: 2.0288
+DEBUG - 2012-11-18 08:20:17 --> Config Class Initialized
+DEBUG - 2012-11-18 08:20:17 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:20:18 --> URI Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> Router Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> Output Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> Security Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> Input Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:20:18 --> Language Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:20:18 --> Controller Class Initialized
+INFO  - 2012-11-18 08:20:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:20:18 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:20:18 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:20:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:20:18 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:20:19 --> Model Class Initialized
+DEBUG - 2012-11-18 08:20:19 --> Model Class Initialized
+INFO  - 2012-11-18 08:20:19 --> valor $indicador: B
+INFO  - 2012-11-18 08:20:19 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por rango de fechas: 2012-09-01 2012-11-18]
+INFO  - 2012-11-18 08:20:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+INFO  - 2012-11-18 08:20:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+DEBUG - 2012-11-18 08:20:19 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:20:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:20:19 --> Final output sent to browser
+DEBUG - 2012-11-18 08:20:19 --> Total execution time: 1.7538
+DEBUG - 2012-11-18 08:20:25 --> Config Class Initialized
+DEBUG - 2012-11-18 08:20:25 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:20:25 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:20:25 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:20:25 --> URI Class Initialized
+DEBUG - 2012-11-18 08:20:25 --> Router Class Initialized
+DEBUG - 2012-11-18 08:20:25 --> Output Class Initialized
+DEBUG - 2012-11-18 08:20:25 --> Security Class Initialized
+DEBUG - 2012-11-18 08:20:26 --> Input Class Initialized
+DEBUG - 2012-11-18 08:20:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:20:26 --> Language Class Initialized
+DEBUG - 2012-11-18 08:20:26 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:20:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:20:26 --> Controller Class Initialized
+INFO  - 2012-11-18 08:20:26 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:20:26 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:20:26 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:20:26 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:20:26 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:20:26 --> Model Class Initialized
+DEBUG - 2012-11-18 08:20:26 --> Model Class Initialized
+ERROR - 2012-11-18 08:20:26 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 48
+INFO  - 2012-11-18 08:20:27 --> valor $indicador: 
+ERROR - 2012-11-18 08:20:27 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 08:20:27 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+INFO  - 2012-11-18 08:20:27 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 08:20:27 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 08:20:27 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+DEBUG - 2012-11-18 08:20:27 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:20:27 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:20:27 --> Final output sent to browser
+DEBUG - 2012-11-18 08:20:27 --> Total execution time: 2.1605
+DEBUG - 2012-11-18 08:23:59 --> Config Class Initialized
+DEBUG - 2012-11-18 08:23:59 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:23:59 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:23:59 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:23:59 --> URI Class Initialized
+DEBUG - 2012-11-18 08:23:59 --> Router Class Initialized
+DEBUG - 2012-11-18 08:23:59 --> Output Class Initialized
+DEBUG - 2012-11-18 08:23:59 --> Security Class Initialized
+DEBUG - 2012-11-18 08:24:00 --> Input Class Initialized
+DEBUG - 2012-11-18 08:24:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:24:00 --> Language Class Initialized
+DEBUG - 2012-11-18 08:24:00 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:24:00 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:24:00 --> Controller Class Initialized
+DEBUG - 2012-11-18 08:24:00 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:24:00 --> Model Class Initialized
+DEBUG - 2012-11-18 08:24:00 --> Model Class Initialized
+DEBUG - 2012-11-18 08:24:00 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 08:24:00 --> Final output sent to browser
+DEBUG - 2012-11-18 08:24:00 --> Total execution time: 1.2461
+DEBUG - 2012-11-18 08:24:02 --> Config Class Initialized
+DEBUG - 2012-11-18 08:24:02 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:24:02 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:24:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:24:03 --> URI Class Initialized
+DEBUG - 2012-11-18 08:24:03 --> Router Class Initialized
+DEBUG - 2012-11-18 08:24:03 --> Output Class Initialized
+DEBUG - 2012-11-18 08:24:03 --> Security Class Initialized
+DEBUG - 2012-11-18 08:24:03 --> Input Class Initialized
+DEBUG - 2012-11-18 08:24:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:24:03 --> Language Class Initialized
+DEBUG - 2012-11-18 08:24:03 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:24:03 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:24:04 --> Controller Class Initialized
+INFO  - 2012-11-18 08:24:04 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 08:24:04 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 08:24:04 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 08:24:05 --> Final output sent to browser
+DEBUG - 2012-11-18 08:24:05 --> Total execution time: 2.2581
+DEBUG - 2012-11-18 08:24:14 --> Config Class Initialized
+DEBUG - 2012-11-18 08:24:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:24:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:24:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:24:14 --> URI Class Initialized
+DEBUG - 2012-11-18 08:24:14 --> Router Class Initialized
+DEBUG - 2012-11-18 08:24:15 --> Output Class Initialized
+DEBUG - 2012-11-18 08:24:15 --> Security Class Initialized
+DEBUG - 2012-11-18 08:24:15 --> Input Class Initialized
+DEBUG - 2012-11-18 08:24:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:24:15 --> Language Class Initialized
+DEBUG - 2012-11-18 08:24:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:24:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:24:15 --> Controller Class Initialized
+INFO  - 2012-11-18 08:24:15 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:24:15 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:24:15 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:24:15 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:24:15 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:24:16 --> Model Class Initialized
+DEBUG - 2012-11-18 08:24:16 --> Model Class Initialized
+INFO  - 2012-11-18 08:24:16 --> valor $indicador: P
+INFO  - 2012-11-18 08:24:16 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por rango de fechas: 2012-09-01 2012-11-18]
+INFO  - 2012-11-18 08:24:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+INFO  - 2012-11-18 08:24:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_fechas()]
+DEBUG - 2012-11-18 08:24:16 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:24:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:24:16 --> Final output sent to browser
+DEBUG - 2012-11-18 08:24:16 --> Total execution time: 1.8783
+DEBUG - 2012-11-18 08:28:55 --> Config Class Initialized
+DEBUG - 2012-11-18 08:28:55 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:28:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:28:55 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:28:56 --> URI Class Initialized
+DEBUG - 2012-11-18 08:28:56 --> Router Class Initialized
+DEBUG - 2012-11-18 08:28:56 --> Output Class Initialized
+DEBUG - 2012-11-18 08:28:56 --> Security Class Initialized
+DEBUG - 2012-11-18 08:28:56 --> Input Class Initialized
+DEBUG - 2012-11-18 08:28:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:28:56 --> Language Class Initialized
+DEBUG - 2012-11-18 08:28:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:28:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:28:56 --> Controller Class Initialized
+INFO  - 2012-11-18 08:28:56 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 08:28:56 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 08:28:56 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 08:28:57 --> Final output sent to browser
+DEBUG - 2012-11-18 08:28:57 --> Total execution time: 1.3187
+DEBUG - 2012-11-18 08:29:05 --> Config Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:29:06 --> URI Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Router Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Output Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Security Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Input Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:29:06 --> Language Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:29:06 --> Controller Class Initialized
+INFO  - 2012-11-18 08:29:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:29:07 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:29:07 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:29:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:29:07 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:29:07 --> Model Class Initialized
+DEBUG - 2012-11-18 08:29:07 --> Model Class Initialized
+INFO  - 2012-11-18 08:29:07 --> valor $indicador: P
+INFO  - 2012-11-18 08:29:07 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 08:29:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:29:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+DEBUG - 2012-11-18 08:29:07 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:29:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:29:07 --> Final output sent to browser
+DEBUG - 2012-11-18 08:29:08 --> Total execution time: 2.0133
+DEBUG - 2012-11-18 08:35:11 --> Config Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:35:12 --> URI Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Router Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Output Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Security Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Input Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:35:12 --> Language Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:35:12 --> Controller Class Initialized
+INFO  - 2012-11-18 08:35:12 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 08:35:12 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 08:35:12 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 08:35:12 --> Final output sent to browser
+DEBUG - 2012-11-18 08:35:13 --> Total execution time: 1.0892
+DEBUG - 2012-11-18 08:35:15 --> Config Class Initialized
+DEBUG - 2012-11-18 08:35:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:35:15 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:35:15 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:35:15 --> URI Class Initialized
+DEBUG - 2012-11-18 08:35:15 --> Router Class Initialized
+DEBUG - 2012-11-18 08:35:15 --> Output Class Initialized
+DEBUG - 2012-11-18 08:35:15 --> Security Class Initialized
+DEBUG - 2012-11-18 08:35:16 --> Input Class Initialized
+DEBUG - 2012-11-18 08:35:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:35:16 --> Language Class Initialized
+DEBUG - 2012-11-18 08:35:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:35:16 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:35:16 --> Controller Class Initialized
+INFO  - 2012-11-18 08:35:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:35:16 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:35:16 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:35:16 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:35:16 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:35:16 --> Model Class Initialized
+DEBUG - 2012-11-18 08:35:16 --> Model Class Initialized
+INFO  - 2012-11-18 08:35:16 --> valor $indicador: P
+INFO  - 2012-11-18 08:35:16 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 08:35:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:35:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:35:17 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:35:17 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+DEBUG - 2012-11-18 08:35:17 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:35:17 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:35:17 --> Final output sent to browser
+DEBUG - 2012-11-18 08:35:17 --> Total execution time: 1.8486
+DEBUG - 2012-11-18 08:35:20 --> Config Class Initialized
+DEBUG - 2012-11-18 08:35:20 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:35:21 --> URI Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> Router Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> Output Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> Security Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> Input Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:35:21 --> Language Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:35:21 --> Controller Class Initialized
+INFO  - 2012-11-18 08:35:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:35:22 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:35:22 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:35:22 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:35:22 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:35:22 --> Model Class Initialized
+DEBUG - 2012-11-18 08:35:22 --> Model Class Initialized
+ERROR - 2012-11-18 08:35:22 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 48
+INFO  - 2012-11-18 08:35:22 --> valor $indicador: 
+ERROR - 2012-11-18 08:35:22 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 08:35:22 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+INFO  - 2012-11-18 08:35:22 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 08:35:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 08:35:22 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 08:35:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:35:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+DEBUG - 2012-11-18 08:35:23 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 08:35:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:35:23 --> Final output sent to browser
+DEBUG - 2012-11-18 08:35:23 --> Total execution time: 2.3195
+DEBUG - 2012-11-18 08:40:24 --> Config Class Initialized
+DEBUG - 2012-11-18 08:40:24 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:40:24 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:40:24 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:40:24 --> URI Class Initialized
+DEBUG - 2012-11-18 08:40:24 --> Router Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> Output Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> Security Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> Input Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:40:25 --> Language Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> Controller Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:40:25 --> Model Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> Model Class Initialized
+DEBUG - 2012-11-18 08:40:25 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 08:40:25 --> Final output sent to browser
+DEBUG - 2012-11-18 08:40:25 --> Total execution time: 1.1987
+DEBUG - 2012-11-18 08:40:28 --> Config Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:40:28 --> URI Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Router Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Output Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Security Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Input Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:40:28 --> Language Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:40:28 --> Controller Class Initialized
+INFO  - 2012-11-18 08:40:28 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 08:40:28 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 08:40:28 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 08:40:29 --> Final output sent to browser
+DEBUG - 2012-11-18 08:40:29 --> Total execution time: 0.7115
+DEBUG - 2012-11-18 08:40:30 --> Config Class Initialized
+DEBUG - 2012-11-18 08:40:30 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:40:30 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:40:31 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:40:31 --> URI Class Initialized
+DEBUG - 2012-11-18 08:40:31 --> Router Class Initialized
+DEBUG - 2012-11-18 08:40:31 --> Output Class Initialized
+DEBUG - 2012-11-18 08:40:31 --> Security Class Initialized
+DEBUG - 2012-11-18 08:40:31 --> Input Class Initialized
+DEBUG - 2012-11-18 08:40:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:40:31 --> Language Class Initialized
+DEBUG - 2012-11-18 08:40:31 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:40:31 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:40:31 --> Controller Class Initialized
+INFO  - 2012-11-18 08:40:31 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:40:31 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:40:31 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:40:31 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:40:32 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:40:32 --> Model Class Initialized
+DEBUG - 2012-11-18 08:40:32 --> Model Class Initialized
+INFO  - 2012-11-18 08:40:32 --> valor $indicador: P
+INFO  - 2012-11-18 08:40:32 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 08:40:32 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:40:32 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:40:32 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:40:32 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+DEBUG - 2012-11-18 08:59:10 --> Config Class Initialized
+DEBUG - 2012-11-18 08:59:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:59:10 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:59:10 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:59:10 --> URI Class Initialized
+DEBUG - 2012-11-18 08:59:10 --> Router Class Initialized
+DEBUG - 2012-11-18 08:59:10 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 08:59:10 --> Output Class Initialized
+DEBUG - 2012-11-18 08:59:10 --> Security Class Initialized
+DEBUG - 2012-11-18 08:59:11 --> Input Class Initialized
+DEBUG - 2012-11-18 08:59:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:59:11 --> Language Class Initialized
+DEBUG - 2012-11-18 08:59:11 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:59:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:59:12 --> Controller Class Initialized
+DEBUG - 2012-11-18 08:59:12 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:59:12 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 08:59:12 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 08:59:12 --> Final output sent to browser
+DEBUG - 2012-11-18 08:59:12 --> Total execution time: 2.5076
+DEBUG - 2012-11-18 08:59:22 --> Config Class Initialized
+DEBUG - 2012-11-18 08:59:22 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:59:22 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:59:22 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:59:22 --> URI Class Initialized
+DEBUG - 2012-11-18 08:59:22 --> Router Class Initialized
+DEBUG - 2012-11-18 08:59:23 --> Output Class Initialized
+DEBUG - 2012-11-18 08:59:23 --> Security Class Initialized
+DEBUG - 2012-11-18 08:59:23 --> Input Class Initialized
+DEBUG - 2012-11-18 08:59:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:59:23 --> Language Class Initialized
+DEBUG - 2012-11-18 08:59:23 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:59:23 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:59:24 --> Controller Class Initialized
+DEBUG - 2012-11-18 08:59:24 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:59:24 --> Model Class Initialized
+DEBUG - 2012-11-18 08:59:24 --> Model Class Initialized
+DEBUG - 2012-11-18 08:59:25 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 08:59:25 --> Final output sent to browser
+DEBUG - 2012-11-18 08:59:25 --> Total execution time: 2.6730
+DEBUG - 2012-11-18 08:59:29 --> Config Class Initialized
+DEBUG - 2012-11-18 08:59:29 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:59:29 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:59:29 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:59:29 --> URI Class Initialized
+DEBUG - 2012-11-18 08:59:29 --> Router Class Initialized
+DEBUG - 2012-11-18 08:59:29 --> Output Class Initialized
+DEBUG - 2012-11-18 08:59:30 --> Security Class Initialized
+DEBUG - 2012-11-18 08:59:30 --> Input Class Initialized
+DEBUG - 2012-11-18 08:59:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:59:30 --> Language Class Initialized
+DEBUG - 2012-11-18 08:59:30 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:59:30 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:59:31 --> Controller Class Initialized
+INFO  - 2012-11-18 08:59:31 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 08:59:31 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:59:31 --> Model Class Initialized
+DEBUG - 2012-11-18 08:59:31 --> Model Class Initialized
+DEBUG - 2012-11-18 08:59:31 --> File loaded: application/views/rol/menu_view.php
+INFO  - 2012-11-18 08:59:31 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 08:59:31 --> Final output sent to browser
+DEBUG - 2012-11-18 08:59:31 --> Total execution time: 2.3270
+DEBUG - 2012-11-18 08:59:35 --> Config Class Initialized
+DEBUG - 2012-11-18 08:59:35 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:59:35 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:59:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:59:35 --> URI Class Initialized
+DEBUG - 2012-11-18 08:59:35 --> Router Class Initialized
+DEBUG - 2012-11-18 08:59:35 --> Output Class Initialized
+DEBUG - 2012-11-18 08:59:36 --> Security Class Initialized
+DEBUG - 2012-11-18 08:59:36 --> Input Class Initialized
+DEBUG - 2012-11-18 08:59:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:59:36 --> Language Class Initialized
+DEBUG - 2012-11-18 08:59:36 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:59:36 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:59:36 --> Controller Class Initialized
+INFO  - 2012-11-18 08:59:36 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 08:59:36 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 08:59:36 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 08:59:36 --> Final output sent to browser
+DEBUG - 2012-11-18 08:59:36 --> Total execution time: 1.4936
+DEBUG - 2012-11-18 08:59:39 --> Config Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 08:59:39 --> URI Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Router Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Output Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Security Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Input Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 08:59:39 --> Language Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 08:59:39 --> Controller Class Initialized
+INFO  - 2012-11-18 08:59:39 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 08:59:39 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 08:59:39 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 08:59:40 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 08:59:40 --> Pagination Class Initialized
+DEBUG - 2012-11-18 08:59:40 --> Model Class Initialized
+DEBUG - 2012-11-18 08:59:40 --> Model Class Initialized
+INFO  - 2012-11-18 08:59:40 --> valor $indicador: P
+INFO  - 2012-11-18 08:59:40 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 08:59:40 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:59:40 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:59:40 --> 1
+INFO  - 2012-11-18 08:59:40 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:59:40 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 08:59:40 --> 2
+INFO  - 2012-11-18 08:59:40 --> 3
+DEBUG - 2012-11-18 09:00:16 --> Config Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:00:17 --> URI Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> Router Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> Output Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> Security Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> Input Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:00:17 --> Language Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:00:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:00:18 --> Controller Class Initialized
+DEBUG - 2012-11-18 09:00:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:00:19 --> Model Class Initialized
+DEBUG - 2012-11-18 09:00:19 --> Model Class Initialized
+DEBUG - 2012-11-18 09:00:19 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 09:00:19 --> Final output sent to browser
+DEBUG - 2012-11-18 09:00:19 --> Total execution time: 2.3100
+DEBUG - 2012-11-18 09:00:23 --> Config Class Initialized
+DEBUG - 2012-11-18 09:00:23 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:00:23 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:00:23 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:00:23 --> URI Class Initialized
+DEBUG - 2012-11-18 09:00:23 --> Router Class Initialized
+DEBUG - 2012-11-18 09:00:23 --> Output Class Initialized
+DEBUG - 2012-11-18 09:00:23 --> Security Class Initialized
+DEBUG - 2012-11-18 09:00:23 --> Input Class Initialized
+DEBUG - 2012-11-18 09:00:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:00:24 --> Language Class Initialized
+DEBUG - 2012-11-18 09:00:24 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:00:24 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:00:24 --> Controller Class Initialized
+INFO  - 2012-11-18 09:00:24 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:00:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 09:00:24 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 09:00:24 --> Final output sent to browser
+DEBUG - 2012-11-18 09:00:24 --> Total execution time: 1.2033
+DEBUG - 2012-11-18 09:00:26 --> Config Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:00:26 --> URI Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> Router Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> Output Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> Security Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> Input Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:00:26 --> Language Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:00:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:00:27 --> Controller Class Initialized
+INFO  - 2012-11-18 09:00:27 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:00:27 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:00:27 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:00:27 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:00:27 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:00:27 --> Model Class Initialized
+DEBUG - 2012-11-18 09:00:27 --> Model Class Initialized
+INFO  - 2012-11-18 09:00:27 --> valor $indicador: P
+INFO  - 2012-11-18 09:00:27 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 09:00:27 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:00:27 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:00:27 --> 1
+INFO  - 2012-11-18 09:00:27 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:00:27 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:00:28 --> 2
+INFO  - 2012-11-18 09:00:28 --> 3
+DEBUG - 2012-11-18 09:01:38 --> Config Class Initialized
+DEBUG - 2012-11-18 09:01:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:01:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:01:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:01:39 --> URI Class Initialized
+DEBUG - 2012-11-18 09:01:39 --> Router Class Initialized
+DEBUG - 2012-11-18 09:01:39 --> Output Class Initialized
+DEBUG - 2012-11-18 09:01:39 --> Security Class Initialized
+DEBUG - 2012-11-18 09:01:39 --> Input Class Initialized
+DEBUG - 2012-11-18 09:01:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:01:39 --> Language Class Initialized
+DEBUG - 2012-11-18 09:01:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:01:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:01:39 --> Controller Class Initialized
+DEBUG - 2012-11-18 09:01:39 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:01:39 --> Model Class Initialized
+DEBUG - 2012-11-18 09:01:40 --> Model Class Initialized
+DEBUG - 2012-11-18 09:01:40 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 09:01:40 --> Final output sent to browser
+DEBUG - 2012-11-18 09:01:40 --> Total execution time: 1.4373
+DEBUG - 2012-11-18 09:01:46 --> Config Class Initialized
+DEBUG - 2012-11-18 09:01:46 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:01:46 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:01:46 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:01:46 --> URI Class Initialized
+DEBUG - 2012-11-18 09:01:46 --> Router Class Initialized
+DEBUG - 2012-11-18 09:01:47 --> Output Class Initialized
+DEBUG - 2012-11-18 09:01:47 --> Security Class Initialized
+DEBUG - 2012-11-18 09:01:47 --> Input Class Initialized
+DEBUG - 2012-11-18 09:01:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:01:47 --> Language Class Initialized
+DEBUG - 2012-11-18 09:01:47 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:01:47 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:01:47 --> Controller Class Initialized
+INFO  - 2012-11-18 09:01:47 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:01:47 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 09:01:47 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 09:01:47 --> Final output sent to browser
+DEBUG - 2012-11-18 09:01:48 --> Total execution time: 1.4050
+DEBUG - 2012-11-18 09:01:49 --> Config Class Initialized
+DEBUG - 2012-11-18 09:01:49 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:01:49 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:01:49 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:01:50 --> URI Class Initialized
+DEBUG - 2012-11-18 09:01:50 --> Router Class Initialized
+DEBUG - 2012-11-18 09:01:50 --> Output Class Initialized
+DEBUG - 2012-11-18 09:01:50 --> Security Class Initialized
+DEBUG - 2012-11-18 09:01:50 --> Input Class Initialized
+DEBUG - 2012-11-18 09:01:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:01:50 --> Language Class Initialized
+DEBUG - 2012-11-18 09:01:50 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:01:50 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:01:50 --> Controller Class Initialized
+INFO  - 2012-11-18 09:01:50 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:01:50 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:01:50 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:01:51 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:01:51 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:01:51 --> Model Class Initialized
+DEBUG - 2012-11-18 09:01:51 --> Model Class Initialized
+INFO  - 2012-11-18 09:01:51 --> valor $indicador: P
+INFO  - 2012-11-18 09:01:51 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 09:01:51 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:01:51 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:01:51 --> 1
+INFO  - 2012-11-18 09:01:51 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:01:51 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:01:52 --> 2
+INFO  - 2012-11-18 09:01:52 --> 3
+INFO  - 2012-11-18 09:01:52 --> 4
+DEBUG - 2012-11-18 09:01:52 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:01:52 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:01:52 --> Final output sent to browser
+DEBUG - 2012-11-18 09:01:52 --> Total execution time: 2.6918
+DEBUG - 2012-11-18 09:01:55 --> Config Class Initialized
+DEBUG - 2012-11-18 09:01:55 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:01:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:01:55 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:01:55 --> URI Class Initialized
+DEBUG - 2012-11-18 09:01:55 --> Router Class Initialized
+DEBUG - 2012-11-18 09:01:55 --> Output Class Initialized
+DEBUG - 2012-11-18 09:01:55 --> Security Class Initialized
+DEBUG - 2012-11-18 09:01:55 --> Input Class Initialized
+DEBUG - 2012-11-18 09:01:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:01:56 --> Language Class Initialized
+DEBUG - 2012-11-18 09:01:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:01:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:01:57 --> Controller Class Initialized
+INFO  - 2012-11-18 09:01:57 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:01:57 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:01:57 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:01:57 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:01:57 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:01:57 --> Model Class Initialized
+DEBUG - 2012-11-18 09:01:57 --> Model Class Initialized
+ERROR - 2012-11-18 09:01:57 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 48
+INFO  - 2012-11-18 09:01:57 --> valor $indicador: 
+ERROR - 2012-11-18 09:01:57 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 09:01:57 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+INFO  - 2012-11-18 09:01:57 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 09:01:57 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:01:57 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:01:58 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:01:58 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+DEBUG - 2012-11-18 09:03:10 --> Config Class Initialized
+DEBUG - 2012-11-18 09:03:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:03:10 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:03:10 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:03:10 --> URI Class Initialized
+DEBUG - 2012-11-18 09:03:10 --> Router Class Initialized
+DEBUG - 2012-11-18 09:03:10 --> Output Class Initialized
+DEBUG - 2012-11-18 09:03:10 --> Security Class Initialized
+DEBUG - 2012-11-18 09:03:10 --> Input Class Initialized
+DEBUG - 2012-11-18 09:03:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:03:11 --> Language Class Initialized
+DEBUG - 2012-11-18 09:03:11 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:03:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:03:11 --> Controller Class Initialized
+DEBUG - 2012-11-18 09:03:11 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:03:11 --> Model Class Initialized
+DEBUG - 2012-11-18 09:03:11 --> Model Class Initialized
+DEBUG - 2012-11-18 09:03:11 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 09:03:11 --> Final output sent to browser
+DEBUG - 2012-11-18 09:03:11 --> Total execution time: 1.5799
+DEBUG - 2012-11-18 09:03:14 --> Config Class Initialized
+DEBUG - 2012-11-18 09:03:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:03:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:03:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:03:14 --> URI Class Initialized
+DEBUG - 2012-11-18 09:03:14 --> Router Class Initialized
+DEBUG - 2012-11-18 09:03:15 --> Output Class Initialized
+DEBUG - 2012-11-18 09:03:15 --> Security Class Initialized
+DEBUG - 2012-11-18 09:03:15 --> Input Class Initialized
+DEBUG - 2012-11-18 09:03:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:03:15 --> Language Class Initialized
+DEBUG - 2012-11-18 09:03:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:03:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:03:15 --> Controller Class Initialized
+INFO  - 2012-11-18 09:03:15 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:03:15 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 09:03:15 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 09:03:15 --> Final output sent to browser
+DEBUG - 2012-11-18 09:03:15 --> Total execution time: 0.7882
+DEBUG - 2012-11-18 09:03:17 --> Config Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:03:18 --> URI Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> Router Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> Output Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> Security Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> Input Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:03:18 --> Language Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:03:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:03:19 --> Controller Class Initialized
+INFO  - 2012-11-18 09:03:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:03:19 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:03:19 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:03:19 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:03:19 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:03:19 --> Model Class Initialized
+DEBUG - 2012-11-18 09:03:19 --> Model Class Initialized
+INFO  - 2012-11-18 09:03:19 --> valor $indicador: P
+INFO  - 2012-11-18 09:03:19 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 09:03:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:03:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:03:20 --> 1
+INFO  - 2012-11-18 09:03:20 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:03:20 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:03:20 --> 2
+INFO  - 2012-11-18 09:03:20 --> 3
+INFO  - 2012-11-18 09:03:20 --> 4
+DEBUG - 2012-11-18 09:03:20 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:03:20 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:03:20 --> Final output sent to browser
+DEBUG - 2012-11-18 09:03:20 --> Total execution time: 2.6266
+DEBUG - 2012-11-18 09:03:44 --> Config Class Initialized
+DEBUG - 2012-11-18 09:03:44 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:03:44 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:03:44 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:03:45 --> URI Class Initialized
+DEBUG - 2012-11-18 09:03:45 --> Router Class Initialized
+DEBUG - 2012-11-18 09:03:45 --> Output Class Initialized
+DEBUG - 2012-11-18 09:03:45 --> Security Class Initialized
+DEBUG - 2012-11-18 09:03:45 --> Input Class Initialized
+DEBUG - 2012-11-18 09:03:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:03:45 --> Language Class Initialized
+DEBUG - 2012-11-18 09:03:45 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:03:45 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:03:46 --> Controller Class Initialized
+INFO  - 2012-11-18 09:03:46 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:03:46 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:03:47 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:03:47 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:03:47 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:03:47 --> Model Class Initialized
+DEBUG - 2012-11-18 09:03:47 --> Model Class Initialized
+ERROR - 2012-11-18 09:03:47 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 48
+INFO  - 2012-11-18 09:03:47 --> valor $indicador: 
+ERROR - 2012-11-18 09:03:47 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 09:03:47 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+INFO  - 2012-11-18 09:03:47 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 09:03:47 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:03:47 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:03:47 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:03:48 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+DEBUG - 2012-11-18 09:03:48 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:03:48 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:03:48 --> Final output sent to browser
+DEBUG - 2012-11-18 09:03:48 --> Total execution time: 3.5838
+DEBUG - 2012-11-18 09:09:16 --> Config Class Initialized
+DEBUG - 2012-11-18 09:09:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:09:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:09:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:09:16 --> URI Class Initialized
+DEBUG - 2012-11-18 09:09:17 --> Router Class Initialized
+DEBUG - 2012-11-18 09:09:17 --> Output Class Initialized
+DEBUG - 2012-11-18 09:09:17 --> Security Class Initialized
+DEBUG - 2012-11-18 09:09:17 --> Input Class Initialized
+DEBUG - 2012-11-18 09:09:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:09:17 --> Language Class Initialized
+DEBUG - 2012-11-18 09:09:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:09:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:09:17 --> Controller Class Initialized
+INFO  - 2012-11-18 09:09:17 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:09:17 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:09:17 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:09:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:09:18 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:09:18 --> Model Class Initialized
+DEBUG - 2012-11-18 09:09:18 --> Model Class Initialized
+INFO  - 2012-11-18 09:09:18 --> valor $indicador: P
+INFO  - 2012-11-18 09:09:18 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 09:09:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:09:18 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:09:18 --> 1
+INFO  - 2012-11-18 09:09:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:09:18 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:09:18 --> 2
+INFO  - 2012-11-18 09:09:18 --> 3
+INFO  - 2012-11-18 09:09:19 --> 4
+DEBUG - 2012-11-18 09:09:19 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:09:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:09:19 --> Final output sent to browser
+DEBUG - 2012-11-18 09:09:19 --> Total execution time: 2.6219
+DEBUG - 2012-11-18 09:10:18 --> Config Class Initialized
+DEBUG - 2012-11-18 09:10:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:10:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:10:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:10:18 --> URI Class Initialized
+DEBUG - 2012-11-18 09:10:19 --> Router Class Initialized
+DEBUG - 2012-11-18 09:10:19 --> Output Class Initialized
+DEBUG - 2012-11-18 09:10:19 --> Security Class Initialized
+DEBUG - 2012-11-18 09:10:19 --> Input Class Initialized
+DEBUG - 2012-11-18 09:10:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:10:19 --> Language Class Initialized
+DEBUG - 2012-11-18 09:10:19 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:10:19 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:10:20 --> Controller Class Initialized
+DEBUG - 2012-11-18 09:10:20 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:10:20 --> Model Class Initialized
+DEBUG - 2012-11-18 09:10:21 --> Model Class Initialized
+DEBUG - 2012-11-18 09:10:21 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 09:10:21 --> Final output sent to browser
+DEBUG - 2012-11-18 09:10:21 --> Total execution time: 2.6566
+DEBUG - 2012-11-18 09:10:23 --> Config Class Initialized
+DEBUG - 2012-11-18 09:10:24 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:10:24 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:10:24 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:10:24 --> URI Class Initialized
+DEBUG - 2012-11-18 09:10:24 --> Router Class Initialized
+DEBUG - 2012-11-18 09:10:24 --> Output Class Initialized
+DEBUG - 2012-11-18 09:10:24 --> Security Class Initialized
+DEBUG - 2012-11-18 09:10:24 --> Input Class Initialized
+DEBUG - 2012-11-18 09:10:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:10:24 --> Language Class Initialized
+DEBUG - 2012-11-18 09:10:24 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:10:25 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:10:25 --> Controller Class Initialized
+INFO  - 2012-11-18 09:10:25 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:10:25 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 09:10:25 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 09:10:25 --> Final output sent to browser
+DEBUG - 2012-11-18 09:10:25 --> Total execution time: 1.4796
+DEBUG - 2012-11-18 09:10:29 --> Config Class Initialized
+DEBUG - 2012-11-18 09:10:29 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:10:29 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:10:29 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:10:29 --> URI Class Initialized
+DEBUG - 2012-11-18 09:10:29 --> Router Class Initialized
+DEBUG - 2012-11-18 09:10:29 --> Output Class Initialized
+DEBUG - 2012-11-18 09:10:30 --> Security Class Initialized
+DEBUG - 2012-11-18 09:10:30 --> Input Class Initialized
+DEBUG - 2012-11-18 09:10:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:10:30 --> Language Class Initialized
+DEBUG - 2012-11-18 09:10:30 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:10:30 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:10:30 --> Controller Class Initialized
+INFO  - 2012-11-18 09:10:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:10:30 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:10:30 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:10:30 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:10:31 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:10:31 --> Model Class Initialized
+DEBUG - 2012-11-18 09:10:31 --> Model Class Initialized
+INFO  - 2012-11-18 09:10:31 --> valor $indicador: P
+INFO  - 2012-11-18 09:10:31 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 09:10:31 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:10:31 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:10:31 --> 1
+INFO  - 2012-11-18 09:10:31 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:10:31 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:10:31 --> 2
+INFO  - 2012-11-18 09:10:31 --> 3
+INFO  - 2012-11-18 09:10:31 --> 4
+DEBUG - 2012-11-18 09:10:31 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:10:31 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:10:32 --> Final output sent to browser
+DEBUG - 2012-11-18 09:10:32 --> Total execution time: 2.6341
+DEBUG - 2012-11-18 09:10:34 --> Config Class Initialized
+DEBUG - 2012-11-18 09:10:34 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:10:34 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:10:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:10:35 --> URI Class Initialized
+DEBUG - 2012-11-18 09:10:35 --> Router Class Initialized
+DEBUG - 2012-11-18 09:10:35 --> Output Class Initialized
+DEBUG - 2012-11-18 09:10:35 --> Security Class Initialized
+DEBUG - 2012-11-18 09:10:35 --> Input Class Initialized
+DEBUG - 2012-11-18 09:10:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:10:35 --> Language Class Initialized
+DEBUG - 2012-11-18 09:10:35 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:10:35 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:10:35 --> Controller Class Initialized
+INFO  - 2012-11-18 09:10:35 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:10:35 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:10:35 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:10:35 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:10:35 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:10:36 --> Model Class Initialized
+DEBUG - 2012-11-18 09:10:36 --> Model Class Initialized
+ERROR - 2012-11-18 09:10:36 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 48
+INFO  - 2012-11-18 09:10:36 --> valor $indicador: 
+ERROR - 2012-11-18 09:10:36 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 09:10:36 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+INFO  - 2012-11-18 09:10:36 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 09:10:36 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:10:36 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:10:36 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:10:36 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+DEBUG - 2012-11-18 09:10:36 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:10:36 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:10:36 --> Final output sent to browser
+DEBUG - 2012-11-18 09:10:36 --> Total execution time: 1.9784
+DEBUG - 2012-11-18 09:28:00 --> Config Class Initialized
+DEBUG - 2012-11-18 09:28:00 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:28:01 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:28:01 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:28:01 --> URI Class Initialized
+DEBUG - 2012-11-18 09:28:01 --> Router Class Initialized
+DEBUG - 2012-11-18 09:28:01 --> Output Class Initialized
+DEBUG - 2012-11-18 09:28:01 --> Security Class Initialized
+DEBUG - 2012-11-18 09:28:01 --> Input Class Initialized
+DEBUG - 2012-11-18 09:28:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:28:01 --> Language Class Initialized
+DEBUG - 2012-11-18 09:28:01 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:28:01 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:28:02 --> Controller Class Initialized
+INFO  - 2012-11-18 09:28:02 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:28:02 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 09:28:02 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 09:28:02 --> Final output sent to browser
+DEBUG - 2012-11-18 09:28:02 --> Total execution time: 1.4827
+DEBUG - 2012-11-18 09:28:05 --> Config Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:28:05 --> URI Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> Router Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> Output Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> Security Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> Input Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:28:05 --> Language Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:28:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:28:06 --> Controller Class Initialized
+INFO  - 2012-11-18 09:28:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:28:06 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:28:06 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:28:06 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:28:06 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:28:06 --> Model Class Initialized
+DEBUG - 2012-11-18 09:28:06 --> Model Class Initialized
+INFO  - 2012-11-18 09:28:06 --> valor $indicador: P
+INFO  - 2012-11-18 09:28:06 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 09:28:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:28:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:28:06 --> 1
+INFO  - 2012-11-18 09:28:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:28:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:28:06 --> 2
+INFO  - 2012-11-18 09:28:06 --> 3
+INFO  - 2012-11-18 09:28:06 --> 4
+DEBUG - 2012-11-18 09:28:06 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:28:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:28:07 --> Final output sent to browser
+DEBUG - 2012-11-18 09:28:07 --> Total execution time: 1.8871
+DEBUG - 2012-11-18 09:30:15 --> Config Class Initialized
+DEBUG - 2012-11-18 09:30:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:30:15 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:30:15 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:30:15 --> URI Class Initialized
+DEBUG - 2012-11-18 09:30:15 --> Router Class Initialized
+DEBUG - 2012-11-18 09:30:15 --> Output Class Initialized
+DEBUG - 2012-11-18 09:30:15 --> Security Class Initialized
+DEBUG - 2012-11-18 09:30:15 --> Input Class Initialized
+DEBUG - 2012-11-18 09:30:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:30:15 --> Language Class Initialized
+DEBUG - 2012-11-18 09:30:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:30:16 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:30:16 --> Controller Class Initialized
+INFO  - 2012-11-18 09:30:16 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 09:30:16 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:30:16 --> Model Class Initialized
+DEBUG - 2012-11-18 09:30:16 --> Model Class Initialized
+DEBUG - 2012-11-18 09:30:16 --> File loaded: application/views/rol/menu_view.php
+INFO  - 2012-11-18 09:30:16 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 09:30:16 --> Final output sent to browser
+DEBUG - 2012-11-18 09:30:16 --> Total execution time: 1.7599
+DEBUG - 2012-11-18 09:30:18 --> Config Class Initialized
+DEBUG - 2012-11-18 09:30:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:30:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:30:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:30:19 --> URI Class Initialized
+DEBUG - 2012-11-18 09:30:19 --> Router Class Initialized
+DEBUG - 2012-11-18 09:30:19 --> Output Class Initialized
+DEBUG - 2012-11-18 09:30:19 --> Security Class Initialized
+DEBUG - 2012-11-18 09:30:19 --> Input Class Initialized
+DEBUG - 2012-11-18 09:30:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:30:19 --> Language Class Initialized
+DEBUG - 2012-11-18 09:30:19 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:30:19 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:30:19 --> Controller Class Initialized
+INFO  - 2012-11-18 09:30:19 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: departamento()]
+DEBUG - 2012-11-18 09:30:19 --> File loaded: application/views/php/departamento_view.php
+INFO  - 2012-11-18 09:30:19 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: departamento()]
+DEBUG - 2012-11-18 09:30:19 --> Final output sent to browser
+DEBUG - 2012-11-18 09:30:19 --> Total execution time: 0.8836
+DEBUG - 2012-11-18 09:30:21 --> Config Class Initialized
+DEBUG - 2012-11-18 09:30:21 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:30:21 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:30:21 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:30:21 --> URI Class Initialized
+DEBUG - 2012-11-18 09:30:21 --> Router Class Initialized
+DEBUG - 2012-11-18 09:30:21 --> Output Class Initialized
+DEBUG - 2012-11-18 09:30:21 --> Security Class Initialized
+DEBUG - 2012-11-18 09:30:21 --> Input Class Initialized
+DEBUG - 2012-11-18 09:30:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:30:22 --> Language Class Initialized
+DEBUG - 2012-11-18 09:30:22 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:30:22 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:30:22 --> Controller Class Initialized
+INFO  - 2012-11-18 09:30:22 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 09:30:22 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:30:22 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:30:22 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:30:22 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:30:22 --> Model Class Initialized
+DEBUG - 2012-11-18 09:30:22 --> Model Class Initialized
+INFO  - 2012-11-18 09:30:22 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 09:30:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 09:30:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 09:30:23 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 09:30:23 --> Final output sent to browser
+DEBUG - 2012-11-18 09:30:23 --> Total execution time: 1.9657
+DEBUG - 2012-11-18 09:30:25 --> Config Class Initialized
+DEBUG - 2012-11-18 09:30:25 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:30:25 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:30:25 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:30:26 --> URI Class Initialized
+DEBUG - 2012-11-18 09:30:26 --> Router Class Initialized
+DEBUG - 2012-11-18 09:30:26 --> Output Class Initialized
+DEBUG - 2012-11-18 09:30:26 --> Security Class Initialized
+DEBUG - 2012-11-18 09:30:26 --> Input Class Initialized
+DEBUG - 2012-11-18 09:30:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:30:26 --> Language Class Initialized
+DEBUG - 2012-11-18 09:30:26 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:30:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:30:26 --> Controller Class Initialized
+INFO  - 2012-11-18 09:30:26 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 09:30:26 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:30:26 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:30:27 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:30:27 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:30:27 --> Model Class Initialized
+DEBUG - 2012-11-18 09:30:27 --> Model Class Initialized
+INFO  - 2012-11-18 09:30:27 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 09:30:27 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 09:30:27 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 09:30:27 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 09:30:27 --> Final output sent to browser
+DEBUG - 2012-11-18 09:30:27 --> Total execution time: 2.1603
+DEBUG - 2012-11-18 09:30:37 --> Config Class Initialized
+DEBUG - 2012-11-18 09:30:37 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:30:37 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:30:37 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:30:37 --> URI Class Initialized
+DEBUG - 2012-11-18 09:30:38 --> Router Class Initialized
+DEBUG - 2012-11-18 09:30:38 --> Output Class Initialized
+DEBUG - 2012-11-18 09:30:38 --> Security Class Initialized
+DEBUG - 2012-11-18 09:30:38 --> Input Class Initialized
+DEBUG - 2012-11-18 09:30:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:30:38 --> Language Class Initialized
+DEBUG - 2012-11-18 09:30:38 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:30:38 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:30:38 --> Controller Class Initialized
+INFO  - 2012-11-18 09:30:38 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 09:30:38 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:30:38 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:30:39 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:30:39 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:30:39 --> Model Class Initialized
+DEBUG - 2012-11-18 09:30:39 --> Model Class Initialized
+INFO  - 2012-11-18 09:30:39 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 09:30:39 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 09:30:39 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 09:30:39 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 09:30:39 --> Final output sent to browser
+DEBUG - 2012-11-18 09:30:39 --> Total execution time: 2.0350
+DEBUG - 2012-11-18 09:30:49 --> Config Class Initialized
+DEBUG - 2012-11-18 09:30:49 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:30:49 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:30:49 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:30:49 --> URI Class Initialized
+DEBUG - 2012-11-18 09:30:49 --> Router Class Initialized
+DEBUG - 2012-11-18 09:30:49 --> Output Class Initialized
+DEBUG - 2012-11-18 09:30:49 --> Security Class Initialized
+DEBUG - 2012-11-18 09:30:49 --> Input Class Initialized
+DEBUG - 2012-11-18 09:30:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:30:49 --> Language Class Initialized
+DEBUG - 2012-11-18 09:30:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:30:50 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:30:50 --> Controller Class Initialized
+INFO  - 2012-11-18 09:30:50 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 09:30:50 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:30:50 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:30:50 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:30:50 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:30:50 --> Model Class Initialized
+DEBUG - 2012-11-18 09:30:50 --> Model Class Initialized
+INFO  - 2012-11-18 09:30:50 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 09:30:50 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 09:30:50 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 09:30:50 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 09:30:50 --> Final output sent to browser
+DEBUG - 2012-11-18 09:30:50 --> Total execution time: 1.6412
+DEBUG - 2012-11-18 09:39:48 --> Config Class Initialized
+DEBUG - 2012-11-18 09:39:48 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:39:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:39:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:39:48 --> URI Class Initialized
+DEBUG - 2012-11-18 09:39:48 --> Router Class Initialized
+DEBUG - 2012-11-18 09:39:48 --> Output Class Initialized
+DEBUG - 2012-11-18 09:39:48 --> Security Class Initialized
+DEBUG - 2012-11-18 09:39:48 --> Input Class Initialized
+DEBUG - 2012-11-18 09:39:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:39:49 --> Language Class Initialized
+DEBUG - 2012-11-18 09:39:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:39:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:39:49 --> Controller Class Initialized
+DEBUG - 2012-11-18 09:39:49 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:39:49 --> Model Class Initialized
+DEBUG - 2012-11-18 09:39:49 --> Model Class Initialized
+DEBUG - 2012-11-18 09:39:49 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 09:39:49 --> Final output sent to browser
+DEBUG - 2012-11-18 09:39:50 --> Total execution time: 1.9762
+DEBUG - 2012-11-18 09:39:52 --> Config Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:39:52 --> URI Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> Router Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> Output Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> Security Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> Input Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:39:52 --> Language Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:39:52 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:39:53 --> Controller Class Initialized
+INFO  - 2012-11-18 09:39:53 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:39:53 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 09:39:53 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 09:39:53 --> Final output sent to browser
+DEBUG - 2012-11-18 09:39:53 --> Total execution time: 0.9106
+DEBUG - 2012-11-18 09:39:55 --> Config Class Initialized
+DEBUG - 2012-11-18 09:39:55 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:39:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:39:55 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:39:55 --> URI Class Initialized
+DEBUG - 2012-11-18 09:39:55 --> Router Class Initialized
+DEBUG - 2012-11-18 09:39:56 --> Output Class Initialized
+DEBUG - 2012-11-18 09:39:56 --> Security Class Initialized
+DEBUG - 2012-11-18 09:39:56 --> Input Class Initialized
+DEBUG - 2012-11-18 09:39:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:39:56 --> Language Class Initialized
+DEBUG - 2012-11-18 09:39:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:39:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:39:56 --> Controller Class Initialized
+INFO  - 2012-11-18 09:39:56 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:39:56 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:39:56 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:39:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:39:56 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:39:56 --> Model Class Initialized
+DEBUG - 2012-11-18 09:39:57 --> Model Class Initialized
+INFO  - 2012-11-18 09:39:57 --> valor $indicador: P
+INFO  - 2012-11-18 09:39:57 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 09:39:57 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:39:57 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:39:57 --> 1
+INFO  - 2012-11-18 09:39:57 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:39:57 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:39:57 --> 2
+INFO  - 2012-11-18 09:39:57 --> 3
+INFO  - 2012-11-18 09:39:57 --> 4
+DEBUG - 2012-11-18 09:39:57 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:39:57 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:39:58 --> Final output sent to browser
+DEBUG - 2012-11-18 09:39:58 --> Total execution time: 2.5195
+DEBUG - 2012-11-18 09:40:00 --> Config Class Initialized
+DEBUG - 2012-11-18 09:40:00 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:40:00 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:40:00 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:40:01 --> URI Class Initialized
+DEBUG - 2012-11-18 09:40:01 --> Router Class Initialized
+DEBUG - 2012-11-18 09:40:01 --> Output Class Initialized
+DEBUG - 2012-11-18 09:40:01 --> Security Class Initialized
+DEBUG - 2012-11-18 09:40:01 --> Input Class Initialized
+DEBUG - 2012-11-18 09:40:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:40:01 --> Language Class Initialized
+DEBUG - 2012-11-18 09:40:01 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:40:01 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:40:01 --> Controller Class Initialized
+INFO  - 2012-11-18 09:40:01 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:40:01 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:40:02 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:40:02 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:40:02 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:40:02 --> Model Class Initialized
+DEBUG - 2012-11-18 09:40:02 --> Model Class Initialized
+ERROR - 2012-11-18 09:40:02 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 48
+INFO  - 2012-11-18 09:40:02 --> valor $indicador: 
+ERROR - 2012-11-18 09:40:02 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 09:40:02 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+INFO  - 2012-11-18 09:40:02 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 09:40:02 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:40:03 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:40:03 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:40:03 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+DEBUG - 2012-11-18 09:40:03 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:40:03 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:40:03 --> Final output sent to browser
+DEBUG - 2012-11-18 09:40:03 --> Total execution time: 2.6331
+DEBUG - 2012-11-18 09:43:32 --> Config Class Initialized
+DEBUG - 2012-11-18 09:43:32 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:43:32 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:43:32 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:43:33 --> URI Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Router Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Output Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Security Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Input Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:43:33 --> Language Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Controller Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:43:33 --> Model Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> Model Class Initialized
+DEBUG - 2012-11-18 09:43:33 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 09:43:34 --> Final output sent to browser
+DEBUG - 2012-11-18 09:43:34 --> Total execution time: 1.3520
+DEBUG - 2012-11-18 09:43:36 --> Config Class Initialized
+DEBUG - 2012-11-18 09:43:36 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:43:36 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:43:36 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:43:36 --> URI Class Initialized
+DEBUG - 2012-11-18 09:43:36 --> Router Class Initialized
+DEBUG - 2012-11-18 09:43:37 --> Output Class Initialized
+DEBUG - 2012-11-18 09:43:37 --> Security Class Initialized
+DEBUG - 2012-11-18 09:43:37 --> Input Class Initialized
+DEBUG - 2012-11-18 09:43:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:43:37 --> Language Class Initialized
+DEBUG - 2012-11-18 09:43:37 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:43:37 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:43:37 --> Controller Class Initialized
+INFO  - 2012-11-18 09:43:37 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:43:37 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 09:43:37 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 09:43:37 --> Final output sent to browser
+DEBUG - 2012-11-18 09:43:37 --> Total execution time: 0.8057
+DEBUG - 2012-11-18 09:43:39 --> Config Class Initialized
+DEBUG - 2012-11-18 09:43:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:43:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:43:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:43:39 --> URI Class Initialized
+DEBUG - 2012-11-18 09:43:39 --> Router Class Initialized
+DEBUG - 2012-11-18 09:43:40 --> Output Class Initialized
+DEBUG - 2012-11-18 09:43:40 --> Security Class Initialized
+DEBUG - 2012-11-18 09:43:40 --> Input Class Initialized
+DEBUG - 2012-11-18 09:43:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:43:40 --> Language Class Initialized
+DEBUG - 2012-11-18 09:43:40 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:43:40 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:43:40 --> Controller Class Initialized
+INFO  - 2012-11-18 09:43:40 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:43:40 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:43:40 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:43:40 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:43:40 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:43:40 --> Model Class Initialized
+DEBUG - 2012-11-18 09:43:40 --> Model Class Initialized
+INFO  - 2012-11-18 09:43:41 --> valor $indicador: P
+INFO  - 2012-11-18 09:43:41 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 09:43:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:43:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:43:41 --> 1
+INFO  - 2012-11-18 09:43:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:43:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:43:41 --> 2
+INFO  - 2012-11-18 09:43:41 --> 3
+INFO  - 2012-11-18 09:43:41 --> 4
+DEBUG - 2012-11-18 09:43:41 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:43:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:43:41 --> Final output sent to browser
+DEBUG - 2012-11-18 09:43:41 --> Total execution time: 2.2767
+DEBUG - 2012-11-18 09:43:43 --> Config Class Initialized
+DEBUG - 2012-11-18 09:43:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:43:43 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:43:43 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:43:43 --> URI Class Initialized
+DEBUG - 2012-11-18 09:43:43 --> Router Class Initialized
+DEBUG - 2012-11-18 09:43:44 --> Output Class Initialized
+DEBUG - 2012-11-18 09:43:44 --> Security Class Initialized
+DEBUG - 2012-11-18 09:43:44 --> Input Class Initialized
+DEBUG - 2012-11-18 09:43:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:43:44 --> Language Class Initialized
+DEBUG - 2012-11-18 09:43:44 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:43:44 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:43:44 --> Controller Class Initialized
+INFO  - 2012-11-18 09:43:44 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:43:44 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 09:43:44 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 09:43:44 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:43:44 --> Pagination Class Initialized
+DEBUG - 2012-11-18 09:43:44 --> Model Class Initialized
+DEBUG - 2012-11-18 09:43:44 --> Model Class Initialized
+ERROR - 2012-11-18 09:43:44 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 48
+INFO  - 2012-11-18 09:43:44 --> valor $indicador: 
+ERROR - 2012-11-18 09:43:44 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 09:43:44 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+INFO  - 2012-11-18 09:43:44 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 09:43:44 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:43:44 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 09:43:44 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 09:43:44 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+DEBUG - 2012-11-18 09:43:44 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 09:43:44 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 09:43:44 --> Final output sent to browser
+DEBUG - 2012-11-18 09:43:45 --> Total execution time: 1.2169
+DEBUG - 2012-11-18 09:47:10 --> Config Class Initialized
+DEBUG - 2012-11-18 09:47:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:47:10 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:47:10 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:47:10 --> URI Class Initialized
+DEBUG - 2012-11-18 09:47:10 --> Router Class Initialized
+DEBUG - 2012-11-18 09:47:10 --> Output Class Initialized
+DEBUG - 2012-11-18 09:47:10 --> Security Class Initialized
+DEBUG - 2012-11-18 09:47:11 --> Input Class Initialized
+DEBUG - 2012-11-18 09:47:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:47:11 --> Language Class Initialized
+DEBUG - 2012-11-18 09:47:11 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:47:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:47:12 --> Controller Class Initialized
+DEBUG - 2012-11-18 09:47:12 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:47:12 --> Model Class Initialized
+DEBUG - 2012-11-18 09:47:12 --> Model Class Initialized
+DEBUG - 2012-11-18 09:47:12 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 09:47:12 --> Final output sent to browser
+DEBUG - 2012-11-18 09:47:12 --> Total execution time: 2.6419
+DEBUG - 2012-11-18 09:47:15 --> Config Class Initialized
+DEBUG - 2012-11-18 09:47:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:47:15 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:47:15 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:47:15 --> URI Class Initialized
+DEBUG - 2012-11-18 09:47:15 --> Router Class Initialized
+DEBUG - 2012-11-18 09:47:15 --> Output Class Initialized
+DEBUG - 2012-11-18 09:47:16 --> Security Class Initialized
+DEBUG - 2012-11-18 09:47:16 --> Input Class Initialized
+DEBUG - 2012-11-18 09:47:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:47:16 --> Language Class Initialized
+DEBUG - 2012-11-18 09:47:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:47:16 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:47:16 --> Controller Class Initialized
+INFO  - 2012-11-18 09:47:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:47:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+ERROR - 2012-11-18 09:47:16 --> Severity: Notice  --> Undefined property: CI_Loader::$pagination C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 88
+DEBUG - 2012-11-18 09:52:43 --> Config Class Initialized
+DEBUG - 2012-11-18 09:52:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:52:43 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:52:44 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:52:44 --> URI Class Initialized
+DEBUG - 2012-11-18 09:52:44 --> Router Class Initialized
+DEBUG - 2012-11-18 09:52:44 --> Output Class Initialized
+DEBUG - 2012-11-18 09:52:44 --> Security Class Initialized
+DEBUG - 2012-11-18 09:52:44 --> Input Class Initialized
+DEBUG - 2012-11-18 09:52:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:52:44 --> Language Class Initialized
+DEBUG - 2012-11-18 09:52:44 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:52:45 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:52:46 --> Controller Class Initialized
+DEBUG - 2012-11-18 09:52:46 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:52:46 --> Model Class Initialized
+DEBUG - 2012-11-18 09:52:46 --> Model Class Initialized
+DEBUG - 2012-11-18 09:52:46 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 09:52:46 --> Final output sent to browser
+DEBUG - 2012-11-18 09:52:46 --> Total execution time: 2.7648
+DEBUG - 2012-11-18 09:52:48 --> Config Class Initialized
+DEBUG - 2012-11-18 09:52:48 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:52:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:52:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:52:48 --> URI Class Initialized
+DEBUG - 2012-11-18 09:52:48 --> Router Class Initialized
+DEBUG - 2012-11-18 09:52:48 --> Output Class Initialized
+DEBUG - 2012-11-18 09:52:49 --> Security Class Initialized
+DEBUG - 2012-11-18 09:52:49 --> Input Class Initialized
+DEBUG - 2012-11-18 09:52:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:52:49 --> Language Class Initialized
+DEBUG - 2012-11-18 09:52:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:52:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:52:49 --> Controller Class Initialized
+INFO  - 2012-11-18 09:52:49 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:52:49 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+ERROR - 2012-11-18 09:52:49 --> Severity: Notice  --> Undefined property: CI_Loader::$pagination C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 88
+DEBUG - 2012-11-18 09:57:16 --> Config Class Initialized
+DEBUG - 2012-11-18 09:57:17 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:57:17 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:57:17 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:57:17 --> URI Class Initialized
+DEBUG - 2012-11-18 09:57:17 --> Router Class Initialized
+DEBUG - 2012-11-18 09:57:17 --> Output Class Initialized
+DEBUG - 2012-11-18 09:57:17 --> Security Class Initialized
+DEBUG - 2012-11-18 09:57:17 --> Input Class Initialized
+DEBUG - 2012-11-18 09:57:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:57:17 --> Language Class Initialized
+DEBUG - 2012-11-18 09:57:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:57:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:57:18 --> Controller Class Initialized
+DEBUG - 2012-11-18 09:57:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 09:57:18 --> Model Class Initialized
+DEBUG - 2012-11-18 09:57:18 --> Model Class Initialized
+DEBUG - 2012-11-18 09:57:18 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 09:57:18 --> Final output sent to browser
+DEBUG - 2012-11-18 09:57:18 --> Total execution time: 1.6949
+DEBUG - 2012-11-18 09:57:21 --> Config Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Hooks Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 09:57:21 --> URI Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Router Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Output Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Security Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Input Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 09:57:21 --> Language Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Loader Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 09:57:21 --> Controller Class Initialized
+INFO  - 2012-11-18 09:57:21 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 09:57:21 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+ERROR - 2012-11-18 09:57:21 --> Severity: Notice  --> Undefined property: CI_Loader::$pagination C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 88
+DEBUG - 2012-11-18 10:08:03 --> Config Class Initialized
+DEBUG - 2012-11-18 10:08:03 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:08:03 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:08:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:08:03 --> URI Class Initialized
+DEBUG - 2012-11-18 10:08:04 --> Router Class Initialized
+DEBUG - 2012-11-18 10:08:04 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 10:08:04 --> Output Class Initialized
+DEBUG - 2012-11-18 10:08:04 --> Security Class Initialized
+DEBUG - 2012-11-18 10:08:04 --> Input Class Initialized
+DEBUG - 2012-11-18 10:08:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:08:04 --> Language Class Initialized
+DEBUG - 2012-11-18 10:08:04 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:08:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:08:04 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:08:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:08:05 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 10:08:05 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 10:08:05 --> Final output sent to browser
+DEBUG - 2012-11-18 10:08:05 --> Total execution time: 1.8331
+DEBUG - 2012-11-18 10:08:09 --> Config Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:08:09 --> URI Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Router Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Output Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Security Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Input Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:08:09 --> Language Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:08:09 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:08:10 --> Model Class Initialized
+DEBUG - 2012-11-18 10:08:10 --> Model Class Initialized
+DEBUG - 2012-11-18 10:08:10 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 10:08:10 --> Final output sent to browser
+DEBUG - 2012-11-18 10:08:10 --> Total execution time: 0.9031
+DEBUG - 2012-11-18 10:08:14 --> Config Class Initialized
+DEBUG - 2012-11-18 10:08:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:08:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:08:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:08:14 --> URI Class Initialized
+DEBUG - 2012-11-18 10:08:14 --> Router Class Initialized
+DEBUG - 2012-11-18 10:08:14 --> Output Class Initialized
+DEBUG - 2012-11-18 10:08:14 --> Security Class Initialized
+DEBUG - 2012-11-18 10:08:14 --> Input Class Initialized
+DEBUG - 2012-11-18 10:08:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:08:14 --> Language Class Initialized
+DEBUG - 2012-11-18 10:08:14 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:08:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:08:15 --> Controller Class Initialized
+INFO  - 2012-11-18 10:08:15 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 10:08:15 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+ERROR - 2012-11-18 10:08:15 --> Severity: Notice  --> Undefined property: CI_Loader::$pagination C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 88
+DEBUG - 2012-11-18 10:10:51 --> Config Class Initialized
+DEBUG - 2012-11-18 10:10:51 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:10:51 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:10:51 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:10:51 --> URI Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Router Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Output Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Security Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Input Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:10:52 --> Language Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:10:52 --> Model Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> Model Class Initialized
+DEBUG - 2012-11-18 10:10:52 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 10:10:52 --> Final output sent to browser
+DEBUG - 2012-11-18 10:10:52 --> Total execution time: 1.1459
+DEBUG - 2012-11-18 10:10:54 --> Config Class Initialized
+DEBUG - 2012-11-18 10:10:54 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:10:54 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:10:54 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:10:54 --> URI Class Initialized
+DEBUG - 2012-11-18 10:10:54 --> Router Class Initialized
+DEBUG - 2012-11-18 10:10:54 --> Output Class Initialized
+DEBUG - 2012-11-18 10:10:54 --> Security Class Initialized
+DEBUG - 2012-11-18 10:10:55 --> Input Class Initialized
+DEBUG - 2012-11-18 10:10:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:10:55 --> Language Class Initialized
+DEBUG - 2012-11-18 10:10:55 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:10:55 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:10:55 --> Controller Class Initialized
+INFO  - 2012-11-18 10:10:55 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 10:10:55 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 10:10:55 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 10:10:55 --> Final output sent to browser
+DEBUG - 2012-11-18 10:10:55 --> Total execution time: 0.8672
+DEBUG - 2012-11-18 10:10:57 --> Config Class Initialized
+DEBUG - 2012-11-18 10:10:57 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:10:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:10:57 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:10:57 --> URI Class Initialized
+DEBUG - 2012-11-18 10:10:57 --> Router Class Initialized
+DEBUG - 2012-11-18 10:10:57 --> Output Class Initialized
+DEBUG - 2012-11-18 10:10:57 --> Security Class Initialized
+DEBUG - 2012-11-18 10:10:57 --> Input Class Initialized
+DEBUG - 2012-11-18 10:10:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:10:57 --> Language Class Initialized
+DEBUG - 2012-11-18 10:10:58 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:10:58 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:10:58 --> Controller Class Initialized
+INFO  - 2012-11-18 10:10:58 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:10:58 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:10:58 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:10:58 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:10:58 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:10:58 --> Model Class Initialized
+DEBUG - 2012-11-18 10:10:58 --> Model Class Initialized
+INFO  - 2012-11-18 10:10:58 --> valor $indicador: P
+INFO  - 2012-11-18 10:10:58 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 10:10:58 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:10:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:10:59 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:10:59 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:10:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:10:59 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+DEBUG - 2012-11-18 10:10:59 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 10:10:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:10:59 --> Final output sent to browser
+DEBUG - 2012-11-18 10:10:59 --> Total execution time: 2.4962
+DEBUG - 2012-11-18 10:11:01 --> Config Class Initialized
+DEBUG - 2012-11-18 10:11:01 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:11:01 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:11:01 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:11:01 --> URI Class Initialized
+DEBUG - 2012-11-18 10:11:01 --> Router Class Initialized
+DEBUG - 2012-11-18 10:11:02 --> Output Class Initialized
+DEBUG - 2012-11-18 10:11:02 --> Security Class Initialized
+DEBUG - 2012-11-18 10:11:02 --> Input Class Initialized
+DEBUG - 2012-11-18 10:11:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:11:02 --> Language Class Initialized
+DEBUG - 2012-11-18 10:11:02 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:11:02 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:11:02 --> Controller Class Initialized
+INFO  - 2012-11-18 10:11:02 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:11:02 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:11:02 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:11:02 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:11:02 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:11:02 --> Model Class Initialized
+DEBUG - 2012-11-18 10:11:02 --> Model Class Initialized
+ERROR - 2012-11-18 10:11:02 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+INFO  - 2012-11-18 10:11:02 --> valor $indicador: 
+ERROR - 2012-11-18 10:11:02 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 10:11:02 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 51
+INFO  - 2012-11-18 10:11:02 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 10:11:02 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 10:11:02 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 10:11:02 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:11:02 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:11:02 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:11:03 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+DEBUG - 2012-11-18 10:11:03 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 10:11:03 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:11:03 --> Final output sent to browser
+DEBUG - 2012-11-18 10:11:03 --> Total execution time: 1.4003
+DEBUG - 2012-11-18 10:13:02 --> Config Class Initialized
+DEBUG - 2012-11-18 10:13:02 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:13:02 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:13:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:13:03 --> URI Class Initialized
+DEBUG - 2012-11-18 10:13:03 --> Router Class Initialized
+DEBUG - 2012-11-18 10:13:03 --> Output Class Initialized
+DEBUG - 2012-11-18 10:13:03 --> Security Class Initialized
+DEBUG - 2012-11-18 10:13:03 --> Input Class Initialized
+DEBUG - 2012-11-18 10:13:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:13:03 --> Language Class Initialized
+DEBUG - 2012-11-18 10:13:03 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:13:03 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:13:03 --> Controller Class Initialized
+INFO  - 2012-11-18 10:13:04 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 10:13:04 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 10:13:04 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 10:13:04 --> Final output sent to browser
+DEBUG - 2012-11-18 10:13:04 --> Total execution time: 1.5133
+DEBUG - 2012-11-18 10:13:06 --> Config Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:13:06 --> URI Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Router Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Output Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Security Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Input Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:13:06 --> Language Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:13:06 --> Controller Class Initialized
+INFO  - 2012-11-18 10:13:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:13:07 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:13:07 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:13:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:13:07 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:13:07 --> Model Class Initialized
+DEBUG - 2012-11-18 10:13:07 --> Model Class Initialized
+INFO  - 2012-11-18 10:13:07 --> valor $indicador: P
+INFO  - 2012-11-18 10:13:07 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 10:13:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:13:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:13:07 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:13:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:13:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:13:07 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+DEBUG - 2012-11-18 10:13:07 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 10:13:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:13:08 --> Final output sent to browser
+DEBUG - 2012-11-18 10:13:08 --> Total execution time: 1.8700
+DEBUG - 2012-11-18 10:35:38 --> Config Class Initialized
+DEBUG - 2012-11-18 10:35:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:35:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:35:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:35:38 --> URI Class Initialized
+DEBUG - 2012-11-18 10:35:38 --> Router Class Initialized
+DEBUG - 2012-11-18 10:35:38 --> Output Class Initialized
+DEBUG - 2012-11-18 10:35:38 --> Security Class Initialized
+DEBUG - 2012-11-18 10:35:39 --> Input Class Initialized
+DEBUG - 2012-11-18 10:35:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:35:39 --> Language Class Initialized
+DEBUG - 2012-11-18 10:35:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:35:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:35:39 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:35:39 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:35:39 --> Model Class Initialized
+DEBUG - 2012-11-18 10:35:39 --> Model Class Initialized
+DEBUG - 2012-11-18 10:35:39 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 10:35:39 --> Final output sent to browser
+DEBUG - 2012-11-18 10:35:40 --> Total execution time: 1.6199
+DEBUG - 2012-11-18 10:35:43 --> Config Class Initialized
+DEBUG - 2012-11-18 10:35:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:35:44 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:35:44 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:35:44 --> URI Class Initialized
+DEBUG - 2012-11-18 10:35:44 --> Router Class Initialized
+DEBUG - 2012-11-18 10:35:44 --> Output Class Initialized
+DEBUG - 2012-11-18 10:35:44 --> Security Class Initialized
+DEBUG - 2012-11-18 10:35:44 --> Input Class Initialized
+DEBUG - 2012-11-18 10:35:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:35:44 --> Language Class Initialized
+DEBUG - 2012-11-18 10:35:44 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:35:44 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:35:45 --> Controller Class Initialized
+INFO  - 2012-11-18 10:35:45 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 10:35:45 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 10:35:45 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 10:35:45 --> Final output sent to browser
+DEBUG - 2012-11-18 10:35:45 --> Total execution time: 1.5162
+DEBUG - 2012-11-18 10:35:47 --> Config Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:35:47 --> URI Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Router Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Output Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Security Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Input Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:35:47 --> Language Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:35:47 --> Controller Class Initialized
+INFO  - 2012-11-18 10:35:48 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:35:48 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:35:48 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:35:48 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:35:48 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:35:48 --> Model Class Initialized
+DEBUG - 2012-11-18 10:35:48 --> Model Class Initialized
+INFO  - 2012-11-18 10:35:48 --> valor $indicador: P
+INFO  - 2012-11-18 10:35:48 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 10:35:48 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:35:48 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:35:48 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:35:48 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:35:48 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:35:48 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+DEBUG - 2012-11-18 10:35:48 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 10:35:48 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:35:49 --> Final output sent to browser
+DEBUG - 2012-11-18 10:35:49 --> Total execution time: 1.9743
+DEBUG - 2012-11-18 10:35:51 --> Config Class Initialized
+DEBUG - 2012-11-18 10:35:51 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:35:51 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:35:52 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:35:52 --> URI Class Initialized
+DEBUG - 2012-11-18 10:35:52 --> Router Class Initialized
+DEBUG - 2012-11-18 10:35:52 --> Output Class Initialized
+DEBUG - 2012-11-18 10:35:52 --> Security Class Initialized
+DEBUG - 2012-11-18 10:35:52 --> Input Class Initialized
+DEBUG - 2012-11-18 10:35:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:35:52 --> Language Class Initialized
+DEBUG - 2012-11-18 10:35:52 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:35:52 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:35:52 --> Controller Class Initialized
+INFO  - 2012-11-18 10:35:52 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:35:52 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:35:53 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:35:53 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:35:53 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:35:53 --> Model Class Initialized
+DEBUG - 2012-11-18 10:35:53 --> Model Class Initialized
+ERROR - 2012-11-18 10:35:53 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 41
+INFO  - 2012-11-18 10:35:53 --> valor $indicador: 
+ERROR - 2012-11-18 10:35:53 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 10:35:53 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 51
+INFO  - 2012-11-18 10:35:53 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 10:35:53 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 10:35:53 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 10:35:53 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:35:54 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:35:54 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:35:54 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+DEBUG - 2012-11-18 10:35:54 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 10:35:54 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:35:54 --> Final output sent to browser
+DEBUG - 2012-11-18 10:35:54 --> Total execution time: 2.8054
+DEBUG - 2012-11-18 10:36:15 --> Config Class Initialized
+DEBUG - 2012-11-18 10:36:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:36:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:36:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:36:16 --> URI Class Initialized
+DEBUG - 2012-11-18 10:36:16 --> Router Class Initialized
+DEBUG - 2012-11-18 10:36:16 --> Output Class Initialized
+DEBUG - 2012-11-18 10:36:16 --> Security Class Initialized
+DEBUG - 2012-11-18 10:36:16 --> Input Class Initialized
+DEBUG - 2012-11-18 10:36:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:36:16 --> Language Class Initialized
+DEBUG - 2012-11-18 10:36:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:36:16 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:36:17 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:36:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:36:17 --> Model Class Initialized
+DEBUG - 2012-11-18 10:36:17 --> Model Class Initialized
+DEBUG - 2012-11-18 10:36:17 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 10:36:17 --> Final output sent to browser
+DEBUG - 2012-11-18 10:36:17 --> Total execution time: 1.6138
+DEBUG - 2012-11-18 10:36:19 --> Config Class Initialized
+DEBUG - 2012-11-18 10:36:19 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:36:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:36:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:36:19 --> URI Class Initialized
+DEBUG - 2012-11-18 10:36:19 --> Router Class Initialized
+DEBUG - 2012-11-18 10:36:20 --> Output Class Initialized
+DEBUG - 2012-11-18 10:36:20 --> Security Class Initialized
+DEBUG - 2012-11-18 10:36:20 --> Input Class Initialized
+DEBUG - 2012-11-18 10:36:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:36:20 --> Language Class Initialized
+DEBUG - 2012-11-18 10:36:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:36:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:36:20 --> Controller Class Initialized
+INFO  - 2012-11-18 10:36:20 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 10:36:20 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 10:36:20 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 10:36:20 --> Final output sent to browser
+DEBUG - 2012-11-18 10:36:20 --> Total execution time: 1.4760
+DEBUG - 2012-11-18 10:36:22 --> Config Class Initialized
+DEBUG - 2012-11-18 10:36:22 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:36:22 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:36:22 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:36:22 --> URI Class Initialized
+DEBUG - 2012-11-18 10:36:22 --> Router Class Initialized
+DEBUG - 2012-11-18 10:36:22 --> Output Class Initialized
+DEBUG - 2012-11-18 10:36:23 --> Security Class Initialized
+DEBUG - 2012-11-18 10:36:23 --> Input Class Initialized
+DEBUG - 2012-11-18 10:36:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:36:23 --> Language Class Initialized
+DEBUG - 2012-11-18 10:36:23 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:36:23 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:36:23 --> Controller Class Initialized
+INFO  - 2012-11-18 10:36:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:36:23 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:36:23 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:36:23 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:36:23 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:36:23 --> Model Class Initialized
+DEBUG - 2012-11-18 10:36:24 --> Model Class Initialized
+INFO  - 2012-11-18 10:36:24 --> valor $indicador: P
+INFO  - 2012-11-18 10:36:24 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 10:36:24 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:36:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:36:24 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:36:24 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:36:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:36:24 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+DEBUG - 2012-11-18 10:36:24 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 10:36:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:36:24 --> Final output sent to browser
+DEBUG - 2012-11-18 10:36:24 --> Total execution time: 2.2986
+DEBUG - 2012-11-18 10:36:27 --> Config Class Initialized
+DEBUG - 2012-11-18 10:36:27 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:36:27 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:36:27 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:36:27 --> URI Class Initialized
+DEBUG - 2012-11-18 10:36:27 --> Router Class Initialized
+DEBUG - 2012-11-18 10:36:27 --> Output Class Initialized
+DEBUG - 2012-11-18 10:36:28 --> Security Class Initialized
+DEBUG - 2012-11-18 10:36:28 --> Input Class Initialized
+DEBUG - 2012-11-18 10:36:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:36:28 --> Language Class Initialized
+DEBUG - 2012-11-18 10:36:28 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:36:28 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:36:28 --> Controller Class Initialized
+INFO  - 2012-11-18 10:36:28 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:36:28 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:36:28 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:36:28 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:36:29 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:36:29 --> Model Class Initialized
+DEBUG - 2012-11-18 10:36:29 --> Model Class Initialized
+ERROR - 2012-11-18 10:36:29 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 41
+INFO  - 2012-11-18 10:36:29 --> valor $indicador: 
+ERROR - 2012-11-18 10:36:29 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 10:36:29 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 51
+INFO  - 2012-11-18 10:36:29 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 10:36:29 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 10:36:29 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 10:36:29 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:36:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:36:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:36:30 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+DEBUG - 2012-11-18 10:36:30 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 10:36:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:36:30 --> Final output sent to browser
+DEBUG - 2012-11-18 10:36:30 --> Total execution time: 2.8746
+DEBUG - 2012-11-18 10:38:18 --> Config Class Initialized
+DEBUG - 2012-11-18 10:38:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:38:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:38:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:38:18 --> URI Class Initialized
+DEBUG - 2012-11-18 10:38:19 --> Router Class Initialized
+DEBUG - 2012-11-18 10:38:19 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 10:38:19 --> Output Class Initialized
+DEBUG - 2012-11-18 10:38:19 --> Security Class Initialized
+DEBUG - 2012-11-18 10:38:19 --> Input Class Initialized
+DEBUG - 2012-11-18 10:38:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:38:19 --> Language Class Initialized
+DEBUG - 2012-11-18 10:38:19 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:38:19 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:38:19 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:38:19 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:38:20 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 10:38:20 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 10:38:20 --> Final output sent to browser
+DEBUG - 2012-11-18 10:38:20 --> Total execution time: 1.5459
+DEBUG - 2012-11-18 10:43:58 --> Config Class Initialized
+DEBUG - 2012-11-18 10:43:58 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:43:58 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:43:58 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:43:59 --> URI Class Initialized
+DEBUG - 2012-11-18 10:43:59 --> Router Class Initialized
+DEBUG - 2012-11-18 10:43:59 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 10:43:59 --> Output Class Initialized
+DEBUG - 2012-11-18 10:43:59 --> Security Class Initialized
+DEBUG - 2012-11-18 10:43:59 --> Input Class Initialized
+DEBUG - 2012-11-18 10:43:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:43:59 --> Language Class Initialized
+DEBUG - 2012-11-18 10:43:59 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:43:59 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:43:59 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:43:59 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:43:59 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 10:43:59 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 10:43:59 --> Final output sent to browser
+DEBUG - 2012-11-18 10:44:00 --> Total execution time: 1.3166
+DEBUG - 2012-11-18 10:44:04 --> Config Class Initialized
+DEBUG - 2012-11-18 10:44:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:44:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:44:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:44:04 --> URI Class Initialized
+DEBUG - 2012-11-18 10:44:04 --> Router Class Initialized
+DEBUG - 2012-11-18 10:44:04 --> Output Class Initialized
+DEBUG - 2012-11-18 10:44:04 --> Security Class Initialized
+DEBUG - 2012-11-18 10:44:04 --> Input Class Initialized
+DEBUG - 2012-11-18 10:44:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:44:05 --> Language Class Initialized
+DEBUG - 2012-11-18 10:44:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:44:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:44:05 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:44:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:44:05 --> Model Class Initialized
+DEBUG - 2012-11-18 10:44:05 --> Model Class Initialized
+DEBUG - 2012-11-18 10:44:05 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 10:44:05 --> Final output sent to browser
+DEBUG - 2012-11-18 10:44:05 --> Total execution time: 1.5242
+DEBUG - 2012-11-18 10:44:08 --> Config Class Initialized
+DEBUG - 2012-11-18 10:44:08 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:44:08 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:44:08 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:44:08 --> URI Class Initialized
+DEBUG - 2012-11-18 10:44:08 --> Router Class Initialized
+DEBUG - 2012-11-18 10:44:08 --> Output Class Initialized
+DEBUG - 2012-11-18 10:44:08 --> Security Class Initialized
+DEBUG - 2012-11-18 10:44:08 --> Input Class Initialized
+DEBUG - 2012-11-18 10:44:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:44:09 --> Language Class Initialized
+DEBUG - 2012-11-18 10:44:09 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:44:09 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:44:09 --> Controller Class Initialized
+INFO  - 2012-11-18 10:44:09 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 10:44:09 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 10:44:09 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 10:44:09 --> Final output sent to browser
+DEBUG - 2012-11-18 10:44:09 --> Total execution time: 1.0384
+DEBUG - 2012-11-18 10:44:11 --> Config Class Initialized
+DEBUG - 2012-11-18 10:44:11 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:44:11 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:44:11 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:44:11 --> URI Class Initialized
+DEBUG - 2012-11-18 10:44:11 --> Router Class Initialized
+DEBUG - 2012-11-18 10:44:11 --> Output Class Initialized
+DEBUG - 2012-11-18 10:44:12 --> Security Class Initialized
+DEBUG - 2012-11-18 10:44:12 --> Input Class Initialized
+DEBUG - 2012-11-18 10:44:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:44:12 --> Language Class Initialized
+DEBUG - 2012-11-18 10:44:12 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:44:12 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:44:12 --> Controller Class Initialized
+INFO  - 2012-11-18 10:44:12 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:44:12 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:44:12 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:44:12 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:44:13 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:44:13 --> Model Class Initialized
+DEBUG - 2012-11-18 10:44:13 --> Model Class Initialized
+INFO  - 2012-11-18 10:44:13 --> valor $indicador: P
+INFO  - 2012-11-18 10:44:13 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones sin filtro]
+INFO  - 2012-11-18 10:44:13 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:44:13 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:44:13 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:44:13 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:44:13 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:44:13 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+DEBUG - 2012-11-18 10:44:13 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 10:44:13 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:44:13 --> Final output sent to browser
+DEBUG - 2012-11-18 10:44:13 --> Total execution time: 2.5999
+DEBUG - 2012-11-18 10:44:16 --> Config Class Initialized
+DEBUG - 2012-11-18 10:44:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:44:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:44:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:44:16 --> URI Class Initialized
+DEBUG - 2012-11-18 10:44:16 --> Router Class Initialized
+DEBUG - 2012-11-18 10:44:16 --> Output Class Initialized
+DEBUG - 2012-11-18 10:44:17 --> Security Class Initialized
+DEBUG - 2012-11-18 10:44:17 --> Input Class Initialized
+DEBUG - 2012-11-18 10:44:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:44:17 --> Language Class Initialized
+DEBUG - 2012-11-18 10:44:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:44:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:44:17 --> Controller Class Initialized
+INFO  - 2012-11-18 10:44:17 --> [INICIO] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:44:17 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:44:18 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:44:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:44:18 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:44:18 --> Model Class Initialized
+DEBUG - 2012-11-18 10:44:18 --> Model Class Initialized
+ERROR - 2012-11-18 10:44:18 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+INFO  - 2012-11-18 10:44:18 --> valor $indicador: 
+ERROR - 2012-11-18 10:44:18 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 10:44:18 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 51
+INFO  - 2012-11-18 10:44:18 --> [OPERACION] [USUARIO CONECTADO: ][ACCION: Consultando operaciones por tipo de operacion: ]
+INFO  - 2012-11-18 10:44:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 10:44:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_operaciones_nombre()]
+INFO  - 2012-11-18 10:44:19 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:44:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:44:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:44:19 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+DEBUG - 2012-11-18 10:44:19 --> File loaded: application/views/Auditoria/auditoria_view.php
+INFO  - 2012-11-18 10:44:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: consultar_operaciones()]
+DEBUG - 2012-11-18 10:44:19 --> Final output sent to browser
+DEBUG - 2012-11-18 10:44:19 --> Total execution time: 3.2672
+DEBUG - 2012-11-18 10:59:05 --> Config Class Initialized
+DEBUG - 2012-11-18 10:59:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:59:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:59:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:59:06 --> URI Class Initialized
+DEBUG - 2012-11-18 10:59:06 --> Router Class Initialized
+DEBUG - 2012-11-18 10:59:06 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 10:59:06 --> Output Class Initialized
+DEBUG - 2012-11-18 10:59:06 --> Security Class Initialized
+DEBUG - 2012-11-18 10:59:06 --> Input Class Initialized
+DEBUG - 2012-11-18 10:59:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:59:07 --> Language Class Initialized
+DEBUG - 2012-11-18 10:59:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:59:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:59:07 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:59:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:59:07 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 10:59:07 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 10:59:08 --> Final output sent to browser
+DEBUG - 2012-11-18 10:59:08 --> Total execution time: 2.9524
+DEBUG - 2012-11-18 10:59:16 --> Config Class Initialized
+DEBUG - 2012-11-18 10:59:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:59:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:59:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:59:16 --> URI Class Initialized
+DEBUG - 2012-11-18 10:59:17 --> Router Class Initialized
+DEBUG - 2012-11-18 10:59:17 --> Output Class Initialized
+DEBUG - 2012-11-18 10:59:17 --> Security Class Initialized
+DEBUG - 2012-11-18 10:59:17 --> Input Class Initialized
+DEBUG - 2012-11-18 10:59:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:59:17 --> Language Class Initialized
+DEBUG - 2012-11-18 10:59:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:59:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:59:17 --> Controller Class Initialized
+DEBUG - 2012-11-18 10:59:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:59:17 --> Model Class Initialized
+DEBUG - 2012-11-18 10:59:18 --> Model Class Initialized
+DEBUG - 2012-11-18 10:59:18 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 10:59:18 --> Final output sent to browser
+DEBUG - 2012-11-18 10:59:18 --> Total execution time: 1.9409
+DEBUG - 2012-11-18 10:59:20 --> Config Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:59:20 --> URI Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Router Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Output Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Security Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Input Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:59:20 --> Language Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:59:20 --> Controller Class Initialized
+INFO  - 2012-11-18 10:59:20 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 10:59:20 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 10:59:20 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 10:59:21 --> Final output sent to browser
+DEBUG - 2012-11-18 10:59:21 --> Total execution time: 0.9926
+DEBUG - 2012-11-18 10:59:22 --> Config Class Initialized
+DEBUG - 2012-11-18 10:59:22 --> Hooks Class Initialized
+DEBUG - 2012-11-18 10:59:22 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 10:59:22 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 10:59:22 --> URI Class Initialized
+DEBUG - 2012-11-18 10:59:23 --> Router Class Initialized
+DEBUG - 2012-11-18 10:59:23 --> Output Class Initialized
+DEBUG - 2012-11-18 10:59:23 --> Security Class Initialized
+DEBUG - 2012-11-18 10:59:23 --> Input Class Initialized
+DEBUG - 2012-11-18 10:59:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 10:59:23 --> Language Class Initialized
+DEBUG - 2012-11-18 10:59:23 --> Loader Class Initialized
+DEBUG - 2012-11-18 10:59:23 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 10:59:23 --> Controller Class Initialized
+INFO  - 2012-11-18 10:59:23 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 10:59:23 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 10:59:24 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 10:59:24 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 10:59:24 --> Pagination Class Initialized
+DEBUG - 2012-11-18 10:59:24 --> Model Class Initialized
+DEBUG - 2012-11-18 10:59:24 --> Model Class Initialized
+INFO  - 2012-11-18 10:59:24 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:59:24 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:59:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:59:24 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 10:59:24 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 10:59:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+ERROR - 2012-11-18 10:59:24 --> Severity: Notice  --> Undefined variable: departamento C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 161
+DEBUG - 2012-11-18 11:00:08 --> Config Class Initialized
+DEBUG - 2012-11-18 11:00:08 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:00:08 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:00:08 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:00:08 --> URI Class Initialized
+DEBUG - 2012-11-18 11:00:08 --> Router Class Initialized
+DEBUG - 2012-11-18 11:00:08 --> Output Class Initialized
+DEBUG - 2012-11-18 11:00:08 --> Security Class Initialized
+DEBUG - 2012-11-18 11:00:09 --> Input Class Initialized
+DEBUG - 2012-11-18 11:00:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:00:09 --> Language Class Initialized
+DEBUG - 2012-11-18 11:00:09 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:00:09 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:00:09 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:00:09 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:00:09 --> Model Class Initialized
+DEBUG - 2012-11-18 11:00:09 --> Model Class Initialized
+DEBUG - 2012-11-18 11:00:10 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 11:00:10 --> Final output sent to browser
+DEBUG - 2012-11-18 11:00:10 --> Total execution time: 1.9915
+DEBUG - 2012-11-18 11:00:12 --> Config Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:00:12 --> URI Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Router Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Output Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Security Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Input Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:00:12 --> Language Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:00:12 --> Controller Class Initialized
+INFO  - 2012-11-18 11:00:12 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 11:00:13 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 11:00:13 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 11:00:13 --> Final output sent to browser
+DEBUG - 2012-11-18 11:00:13 --> Total execution time: 1.0687
+DEBUG - 2012-11-18 11:00:14 --> Config Class Initialized
+DEBUG - 2012-11-18 11:00:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:00:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:00:15 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:00:15 --> URI Class Initialized
+DEBUG - 2012-11-18 11:00:15 --> Router Class Initialized
+DEBUG - 2012-11-18 11:00:15 --> Output Class Initialized
+DEBUG - 2012-11-18 11:00:15 --> Security Class Initialized
+DEBUG - 2012-11-18 11:00:15 --> Input Class Initialized
+DEBUG - 2012-11-18 11:00:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:00:15 --> Language Class Initialized
+DEBUG - 2012-11-18 11:00:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:00:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:00:15 --> Controller Class Initialized
+INFO  - 2012-11-18 11:00:15 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 11:00:15 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 11:00:16 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:00:16 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:00:16 --> Pagination Class Initialized
+DEBUG - 2012-11-18 11:00:16 --> Model Class Initialized
+DEBUG - 2012-11-18 11:00:16 --> Model Class Initialized
+INFO  - 2012-11-18 11:00:16 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:00:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:16 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:00:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:16 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+ERROR - 2012-11-18 11:00:16 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 50
+ERROR - 2012-11-18 11:00:17 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 51
+ERROR - 2012-11-18 11:00:17 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 57
+DEBUG - 2012-11-18 11:00:17 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 11:00:17 --> Final output sent to browser
+DEBUG - 2012-11-18 11:00:17 --> Total execution time: 2.3257
+DEBUG - 2012-11-18 11:00:33 --> Config Class Initialized
+DEBUG - 2012-11-18 11:00:33 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:00:33 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:00:33 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:00:33 --> URI Class Initialized
+DEBUG - 2012-11-18 11:00:33 --> Router Class Initialized
+DEBUG - 2012-11-18 11:00:33 --> Output Class Initialized
+DEBUG - 2012-11-18 11:00:33 --> Security Class Initialized
+DEBUG - 2012-11-18 11:00:33 --> Input Class Initialized
+DEBUG - 2012-11-18 11:00:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:00:33 --> Language Class Initialized
+DEBUG - 2012-11-18 11:00:33 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:00:34 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:00:34 --> Controller Class Initialized
+INFO  - 2012-11-18 11:00:34 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 11:00:34 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 11:00:34 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:00:34 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:00:34 --> Pagination Class Initialized
+DEBUG - 2012-11-18 11:00:34 --> Model Class Initialized
+DEBUG - 2012-11-18 11:00:34 --> Model Class Initialized
+INFO  - 2012-11-18 11:00:34 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:00:34 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:34 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:00:34 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+ERROR - 2012-11-18 11:00:35 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 50
+ERROR - 2012-11-18 11:00:35 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 51
+ERROR - 2012-11-18 11:00:35 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 57
+DEBUG - 2012-11-18 11:00:35 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 11:00:35 --> Final output sent to browser
+DEBUG - 2012-11-18 11:00:35 --> Total execution time: 2.2521
+DEBUG - 2012-11-18 11:00:39 --> Config Class Initialized
+DEBUG - 2012-11-18 11:00:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:00:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:00:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:00:39 --> URI Class Initialized
+DEBUG - 2012-11-18 11:00:39 --> Router Class Initialized
+DEBUG - 2012-11-18 11:00:39 --> Output Class Initialized
+DEBUG - 2012-11-18 11:00:39 --> Security Class Initialized
+DEBUG - 2012-11-18 11:00:39 --> Input Class Initialized
+DEBUG - 2012-11-18 11:00:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:00:40 --> Language Class Initialized
+DEBUG - 2012-11-18 11:00:40 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:00:40 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:00:40 --> Controller Class Initialized
+INFO  - 2012-11-18 11:00:40 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 11:00:40 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 11:00:40 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 11:00:40 --> Final output sent to browser
+DEBUG - 2012-11-18 11:00:40 --> Total execution time: 1.4465
+DEBUG - 2012-11-18 11:00:42 --> Config Class Initialized
+DEBUG - 2012-11-18 11:00:42 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:00:42 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:00:42 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:00:42 --> URI Class Initialized
+DEBUG - 2012-11-18 11:00:42 --> Router Class Initialized
+DEBUG - 2012-11-18 11:00:42 --> Output Class Initialized
+DEBUG - 2012-11-18 11:00:42 --> Security Class Initialized
+DEBUG - 2012-11-18 11:00:42 --> Input Class Initialized
+DEBUG - 2012-11-18 11:00:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:00:42 --> Language Class Initialized
+DEBUG - 2012-11-18 11:00:43 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:00:43 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:00:43 --> Controller Class Initialized
+INFO  - 2012-11-18 11:00:43 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 11:00:43 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 11:00:43 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:00:43 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:00:43 --> Pagination Class Initialized
+DEBUG - 2012-11-18 11:00:43 --> Model Class Initialized
+DEBUG - 2012-11-18 11:00:43 --> Model Class Initialized
+INFO  - 2012-11-18 11:00:43 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:00:43 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:43 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:43 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:00:43 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:43 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:00:44 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+ERROR - 2012-11-18 11:00:44 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 50
+ERROR - 2012-11-18 11:00:44 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 51
+ERROR - 2012-11-18 11:00:44 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 57
+DEBUG - 2012-11-18 11:00:44 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 11:00:44 --> Final output sent to browser
+DEBUG - 2012-11-18 11:00:44 --> Total execution time: 1.9838
+DEBUG - 2012-11-18 11:00:51 --> Config Class Initialized
+DEBUG - 2012-11-18 11:00:52 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:00:52 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:00:52 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:00:52 --> URI Class Initialized
+DEBUG - 2012-11-18 11:00:52 --> Router Class Initialized
+DEBUG - 2012-11-18 11:00:52 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:00:52 --> Output Class Initialized
+DEBUG - 2012-11-18 11:00:52 --> Security Class Initialized
+DEBUG - 2012-11-18 11:00:52 --> Input Class Initialized
+DEBUG - 2012-11-18 11:00:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:00:52 --> Language Class Initialized
+DEBUG - 2012-11-18 11:00:53 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:00:53 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:00:53 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:00:53 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:00:53 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:00:53 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:00:53 --> Final output sent to browser
+DEBUG - 2012-11-18 11:00:53 --> Total execution time: 1.6814
+DEBUG - 2012-11-18 11:00:58 --> Config Class Initialized
+DEBUG - 2012-11-18 11:00:58 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:00:58 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:00:58 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:00:58 --> URI Class Initialized
+DEBUG - 2012-11-18 11:00:58 --> Router Class Initialized
+DEBUG - 2012-11-18 11:00:58 --> Output Class Initialized
+DEBUG - 2012-11-18 11:00:58 --> Security Class Initialized
+DEBUG - 2012-11-18 11:00:58 --> Input Class Initialized
+DEBUG - 2012-11-18 11:00:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:00:59 --> Language Class Initialized
+DEBUG - 2012-11-18 11:00:59 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:00:59 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:00:59 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:00:59 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:00:59 --> Model Class Initialized
+DEBUG - 2012-11-18 11:00:59 --> Model Class Initialized
+DEBUG - 2012-11-18 11:00:59 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 11:01:00 --> Final output sent to browser
+DEBUG - 2012-11-18 11:01:00 --> Total execution time: 2.1506
+DEBUG - 2012-11-18 11:01:09 --> Config Class Initialized
+DEBUG - 2012-11-18 11:01:09 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:01:09 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:01:09 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:01:09 --> URI Class Initialized
+DEBUG - 2012-11-18 11:01:09 --> Router Class Initialized
+DEBUG - 2012-11-18 11:01:09 --> Output Class Initialized
+DEBUG - 2012-11-18 11:01:09 --> Security Class Initialized
+DEBUG - 2012-11-18 11:01:10 --> Input Class Initialized
+DEBUG - 2012-11-18 11:01:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:01:10 --> Language Class Initialized
+DEBUG - 2012-11-18 11:01:10 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:01:10 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:01:10 --> Controller Class Initialized
+INFO  - 2012-11-18 11:01:10 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 11:01:10 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 11:01:10 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 11:01:10 --> Final output sent to browser
+DEBUG - 2012-11-18 11:01:10 --> Total execution time: 1.0100
+DEBUG - 2012-11-18 11:01:11 --> Config Class Initialized
+DEBUG - 2012-11-18 11:01:12 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:01:12 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:01:12 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:01:12 --> URI Class Initialized
+DEBUG - 2012-11-18 11:01:12 --> Router Class Initialized
+DEBUG - 2012-11-18 11:01:12 --> Output Class Initialized
+DEBUG - 2012-11-18 11:01:12 --> Security Class Initialized
+DEBUG - 2012-11-18 11:01:12 --> Input Class Initialized
+DEBUG - 2012-11-18 11:01:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:01:12 --> Language Class Initialized
+DEBUG - 2012-11-18 11:01:13 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:01:13 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:01:13 --> Controller Class Initialized
+INFO  - 2012-11-18 11:01:13 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 11:01:13 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 11:01:13 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:01:13 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:01:13 --> Pagination Class Initialized
+DEBUG - 2012-11-18 11:01:13 --> Model Class Initialized
+DEBUG - 2012-11-18 11:01:13 --> Model Class Initialized
+INFO  - 2012-11-18 11:01:13 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:01:13 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:01:13 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:01:13 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:01:13 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:01:13 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:01:14 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 11:01:14 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 11:01:14 --> Final output sent to browser
+DEBUG - 2012-11-18 11:01:14 --> Total execution time: 2.3006
+DEBUG - 2012-11-18 11:01:16 --> Config Class Initialized
+DEBUG - 2012-11-18 11:01:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:01:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:01:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:01:16 --> URI Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Router Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Output Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Security Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Input Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:01:17 --> Language Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Controller Class Initialized
+INFO  - 2012-11-18 11:01:17 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 11:01:17 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 11:01:17 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:01:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:01:17 --> Pagination Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Model Class Initialized
+DEBUG - 2012-11-18 11:01:17 --> Model Class Initialized
+ERROR - 2012-11-18 11:01:17 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 155
+ERROR - 2012-11-18 11:01:17 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 156
+INFO  - 2012-11-18 11:01:17 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:01:17 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:01:17 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:01:17 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 11:01:17 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:01:17 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 11:01:18 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 11:01:18 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 11:01:18 --> Final output sent to browser
+DEBUG - 2012-11-18 11:01:18 --> Total execution time: 1.3199
+DEBUG - 2012-11-18 11:07:47 --> Config Class Initialized
+DEBUG - 2012-11-18 11:07:47 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:07:47 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:07:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:07:48 --> URI Class Initialized
+DEBUG - 2012-11-18 11:07:48 --> Router Class Initialized
+DEBUG - 2012-11-18 11:07:48 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:07:48 --> Output Class Initialized
+DEBUG - 2012-11-18 11:07:48 --> Security Class Initialized
+DEBUG - 2012-11-18 11:07:48 --> Input Class Initialized
+DEBUG - 2012-11-18 11:07:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:07:48 --> Language Class Initialized
+DEBUG - 2012-11-18 11:07:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:07:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:07:49 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:07:49 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:07:49 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:07:49 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:07:49 --> Final output sent to browser
+DEBUG - 2012-11-18 11:07:49 --> Total execution time: 2.1246
+DEBUG - 2012-11-18 11:07:55 --> Config Class Initialized
+DEBUG - 2012-11-18 11:07:55 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:07:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:07:56 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:07:56 --> URI Class Initialized
+DEBUG - 2012-11-18 11:07:56 --> Router Class Initialized
+DEBUG - 2012-11-18 11:07:56 --> Output Class Initialized
+DEBUG - 2012-11-18 11:07:56 --> Security Class Initialized
+DEBUG - 2012-11-18 11:07:56 --> Input Class Initialized
+DEBUG - 2012-11-18 11:07:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:07:56 --> Language Class Initialized
+DEBUG - 2012-11-18 11:07:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:07:57 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:07:57 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:07:57 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:07:57 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:07:57 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:07:57 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:07:57 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:07:57 --> Ingreso al sistema
+DEBUG - 2012-11-18 11:07:57 --> Final output sent to browser
+DEBUG - 2012-11-18 11:07:57 --> Total execution time: 2.1108
+DEBUG - 2012-11-18 11:08:04 --> Config Class Initialized
+DEBUG - 2012-11-18 11:08:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:08:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:08:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:08:05 --> URI Class Initialized
+DEBUG - 2012-11-18 11:08:05 --> Router Class Initialized
+DEBUG - 2012-11-18 11:08:05 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:08:05 --> Output Class Initialized
+DEBUG - 2012-11-18 11:08:05 --> Security Class Initialized
+DEBUG - 2012-11-18 11:08:05 --> Input Class Initialized
+DEBUG - 2012-11-18 11:08:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:08:05 --> Language Class Initialized
+DEBUG - 2012-11-18 11:08:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:08:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:08:06 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:08:06 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:08:06 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:08:06 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:08:06 --> Final output sent to browser
+DEBUG - 2012-11-18 11:08:07 --> Total execution time: 2.2557
+DEBUG - 2012-11-18 11:11:16 --> Config Class Initialized
+DEBUG - 2012-11-18 11:11:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:11:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:11:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:11:16 --> URI Class Initialized
+DEBUG - 2012-11-18 11:11:16 --> Router Class Initialized
+DEBUG - 2012-11-18 11:11:16 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:11:16 --> Output Class Initialized
+DEBUG - 2012-11-18 11:11:16 --> Security Class Initialized
+DEBUG - 2012-11-18 11:11:16 --> Input Class Initialized
+DEBUG - 2012-11-18 11:11:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:11:17 --> Language Class Initialized
+DEBUG - 2012-11-18 11:11:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:11:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:11:17 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:11:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:11:17 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:11:17 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:11:17 --> Final output sent to browser
+DEBUG - 2012-11-18 11:11:17 --> Total execution time: 1.1353
+DEBUG - 2012-11-18 11:11:20 --> Config Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:11:20 --> URI Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Router Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Output Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Security Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Input Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:11:20 --> Language Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:11:20 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:11:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:11:21 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:11:21 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:11:21 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:11:21 --> Ingreso al sistema
+DEBUG - 2012-11-18 11:11:21 --> Final output sent to browser
+DEBUG - 2012-11-18 11:11:21 --> Total execution time: 1.5239
+DEBUG - 2012-11-18 11:11:23 --> Config Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Config Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:11:23 --> URI Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Router Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:11:23 --> Output Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:11:23 --> URI Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Router Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Output Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Security Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Input Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:11:23 --> Language Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Security Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:11:23 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:11:23 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:11:23 --> Final output sent to browser
+DEBUG - 2012-11-18 11:11:23 --> Total execution time: 0.2690
+DEBUG - 2012-11-18 11:11:23 --> Input Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:11:23 --> Language Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:11:23 --> Controller Class Initialized
+INFO  - 2012-11-18 11:11:24 --> Llleggueeeeeee
+DEBUG - 2012-11-18 11:11:24 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:11:24 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:11:24 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:11:24 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:11:24 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:11:24 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:11:24 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:11:24 --> Ingreso al sistema
+INFO  - 2012-11-18 11:11:24 --> False
+DEBUG - 2012-11-18 11:11:24 --> Final output sent to browser
+DEBUG - 2012-11-18 11:11:24 --> Total execution time: 1.5833
+DEBUG - 2012-11-18 11:14:59 --> Config Class Initialized
+DEBUG - 2012-11-18 11:15:00 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:15:00 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:15:00 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:15:00 --> URI Class Initialized
+DEBUG - 2012-11-18 11:15:00 --> Router Class Initialized
+DEBUG - 2012-11-18 11:15:00 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:15:00 --> Output Class Initialized
+DEBUG - 2012-11-18 11:15:00 --> Security Class Initialized
+DEBUG - 2012-11-18 11:15:00 --> Input Class Initialized
+DEBUG - 2012-11-18 11:15:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:15:00 --> Language Class Initialized
+DEBUG - 2012-11-18 11:15:01 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:15:01 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:15:01 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:15:01 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:15:01 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:15:01 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:15:01 --> Final output sent to browser
+DEBUG - 2012-11-18 11:15:01 --> Total execution time: 1.6835
+DEBUG - 2012-11-18 11:15:06 --> Config Class Initialized
+DEBUG - 2012-11-18 11:15:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:15:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:15:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:15:07 --> URI Class Initialized
+DEBUG - 2012-11-18 11:15:07 --> Router Class Initialized
+DEBUG - 2012-11-18 11:15:07 --> Output Class Initialized
+DEBUG - 2012-11-18 11:15:07 --> Security Class Initialized
+DEBUG - 2012-11-18 11:15:07 --> Input Class Initialized
+DEBUG - 2012-11-18 11:15:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:15:07 --> Language Class Initialized
+DEBUG - 2012-11-18 11:15:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:15:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:15:08 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:15:08 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:15:08 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:15:08 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:15:08 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:15:08 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:15:08 --> Ingreso al sistema
+DEBUG - 2012-11-18 11:15:08 --> Final output sent to browser
+DEBUG - 2012-11-18 11:15:08 --> Total execution time: 2.1101
+DEBUG - 2012-11-18 11:15:10 --> Config Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:15:10 --> Config Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:15:10 --> URI Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Router Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:15:10 --> URI Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Router Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Output Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Security Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Input Class Initialized
+DEBUG - 2012-11-18 11:15:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:15:10 --> Language Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Output Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Security Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Input Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:15:11 --> Language Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:15:11 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:15:11 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:15:11 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:15:11 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:15:11 --> File loaded: application/views/php/login.php
+DEBUG - 2012-11-18 11:15:11 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:15:11 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:15:11 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:15:11 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:15:11 --> Final output sent to browser
+DEBUG - 2012-11-18 11:15:11 --> Total execution time: 0.3408
+INFO  - 2012-11-18 11:15:11 --> Ingreso al sistema
+INFO  - 2012-11-18 11:15:11 --> False
+DEBUG - 2012-11-18 11:15:11 --> Final output sent to browser
+DEBUG - 2012-11-18 11:15:11 --> Total execution time: 0.8506
+DEBUG - 2012-11-18 11:22:28 --> Config Class Initialized
+DEBUG - 2012-11-18 11:22:28 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:22:28 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:22:28 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:22:28 --> URI Class Initialized
+DEBUG - 2012-11-18 11:22:28 --> Router Class Initialized
+DEBUG - 2012-11-18 11:22:28 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:22:29 --> Output Class Initialized
+DEBUG - 2012-11-18 11:22:29 --> Security Class Initialized
+DEBUG - 2012-11-18 11:22:29 --> Input Class Initialized
+DEBUG - 2012-11-18 11:22:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:22:29 --> Language Class Initialized
+DEBUG - 2012-11-18 11:22:29 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:22:29 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:22:29 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:22:30 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:22:30 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:22:30 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:22:30 --> Final output sent to browser
+DEBUG - 2012-11-18 11:22:30 --> Total execution time: 1.9917
+DEBUG - 2012-11-18 11:22:34 --> Config Class Initialized
+DEBUG - 2012-11-18 11:22:34 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:22:34 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:22:34 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:22:34 --> URI Class Initialized
+DEBUG - 2012-11-18 11:22:34 --> Router Class Initialized
+ERROR - 2012-11-18 11:22:34 --> 404 Page Not Found --> InicioController
+DEBUG - 2012-11-18 11:22:36 --> Config Class Initialized
+DEBUG - 2012-11-18 11:22:36 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:22:36 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:22:36 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:22:36 --> URI Class Initialized
+DEBUG - 2012-11-18 11:22:36 --> Router Class Initialized
+ERROR - 2012-11-18 11:22:36 --> 404 Page Not Found --> InicioController
+DEBUG - 2012-11-18 11:24:58 --> Config Class Initialized
+DEBUG - 2012-11-18 11:24:58 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:24:58 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:24:58 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:24:59 --> URI Class Initialized
+DEBUG - 2012-11-18 11:24:59 --> Router Class Initialized
+DEBUG - 2012-11-18 11:24:59 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:24:59 --> Output Class Initialized
+DEBUG - 2012-11-18 11:24:59 --> Security Class Initialized
+DEBUG - 2012-11-18 11:24:59 --> Input Class Initialized
+DEBUG - 2012-11-18 11:24:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:24:59 --> Language Class Initialized
+DEBUG - 2012-11-18 11:24:59 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:25:00 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:25:00 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:25:00 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:25:00 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:25:00 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:25:00 --> Final output sent to browser
+DEBUG - 2012-11-18 11:25:00 --> Total execution time: 2.0245
+DEBUG - 2012-11-18 11:25:05 --> Config Class Initialized
+DEBUG - 2012-11-18 11:25:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:25:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:25:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:25:06 --> URI Class Initialized
+DEBUG - 2012-11-18 11:25:06 --> Router Class Initialized
+DEBUG - 2012-11-18 11:25:06 --> Output Class Initialized
+DEBUG - 2012-11-18 11:25:06 --> Security Class Initialized
+DEBUG - 2012-11-18 11:25:06 --> Input Class Initialized
+DEBUG - 2012-11-18 11:25:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:25:07 --> Language Class Initialized
+DEBUG - 2012-11-18 11:25:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:25:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:25:07 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:25:07 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:25:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:25:07 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:25:07 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:25:07 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:25:07 --> Ingreso al sistema
+DEBUG - 2012-11-18 11:25:07 --> Final output sent to browser
+DEBUG - 2012-11-18 11:25:08 --> Total execution time: 1.9911
+DEBUG - 2012-11-18 11:25:13 --> Config Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Config Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:25:13 --> URI Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:25:13 --> URI Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Router Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Output Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Security Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Input Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:25:13 --> Language Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Router Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:25:13 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:25:13 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:25:13 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:25:13 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:25:13 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:25:13 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:25:13 --> Ingreso al sistema
+INFO  - 2012-11-18 11:25:13 --> False
+DEBUG - 2012-11-18 11:25:13 --> Final output sent to browser
+DEBUG - 2012-11-18 11:25:13 --> Total execution time: 0.6429
+DEBUG - 2012-11-18 11:25:13 --> Output Class Initialized
+DEBUG - 2012-11-18 11:25:13 --> Security Class Initialized
+DEBUG - 2012-11-18 11:25:14 --> Input Class Initialized
+DEBUG - 2012-11-18 11:25:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:25:14 --> Language Class Initialized
+DEBUG - 2012-11-18 11:25:14 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:25:14 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:25:14 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:25:14 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:25:14 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:25:14 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:25:14 --> Final output sent to browser
+DEBUG - 2012-11-18 11:25:14 --> Total execution time: 1.3378
+DEBUG - 2012-11-18 11:27:01 --> Config Class Initialized
+DEBUG - 2012-11-18 11:27:01 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:27:01 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:27:01 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:27:01 --> URI Class Initialized
+DEBUG - 2012-11-18 11:27:02 --> Router Class Initialized
+DEBUG - 2012-11-18 11:27:02 --> Output Class Initialized
+DEBUG - 2012-11-18 11:27:02 --> Security Class Initialized
+DEBUG - 2012-11-18 11:27:02 --> Input Class Initialized
+DEBUG - 2012-11-18 11:27:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:27:02 --> Language Class Initialized
+DEBUG - 2012-11-18 11:27:02 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:27:02 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:27:02 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:27:02 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:27:02 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:27:03 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:27:03 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:27:03 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:27:03 --> Ingreso al sistema
+DEBUG - 2012-11-18 11:27:03 --> Final output sent to browser
+DEBUG - 2012-11-18 11:27:03 --> Total execution time: 2.8833
+DEBUG - 2012-11-18 11:27:05 --> Config Class Initialized
+DEBUG - 2012-11-18 11:27:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:27:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:27:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:27:06 --> URI Class Initialized
+DEBUG - 2012-11-18 11:27:06 --> Router Class Initialized
+DEBUG - 2012-11-18 11:27:06 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:27:06 --> Output Class Initialized
+DEBUG - 2012-11-18 11:27:06 --> Security Class Initialized
+DEBUG - 2012-11-18 11:27:06 --> Input Class Initialized
+DEBUG - 2012-11-18 11:27:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:27:06 --> Language Class Initialized
+DEBUG - 2012-11-18 11:27:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:27:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:27:06 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:27:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:27:07 --> File loaded: application/views/inicio.php
+INFO  - 2012-11-18 11:27:07 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:27:07 --> Final output sent to browser
+DEBUG - 2012-11-18 11:27:07 --> Total execution time: 1.7181
+DEBUG - 2012-11-18 11:28:57 --> Config Class Initialized
+DEBUG - 2012-11-18 11:28:57 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:28:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:28:57 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:28:57 --> URI Class Initialized
+DEBUG - 2012-11-18 11:28:57 --> Router Class Initialized
+DEBUG - 2012-11-18 11:28:57 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:28:57 --> Output Class Initialized
+DEBUG - 2012-11-18 11:28:58 --> Security Class Initialized
+DEBUG - 2012-11-18 11:28:58 --> Input Class Initialized
+DEBUG - 2012-11-18 11:28:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:28:58 --> Language Class Initialized
+DEBUG - 2012-11-18 11:28:58 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:28:58 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:28:58 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:28:58 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:28:59 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:28:59 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:28:59 --> Final output sent to browser
+DEBUG - 2012-11-18 11:28:59 --> Total execution time: 2.1839
+DEBUG - 2012-11-18 11:29:03 --> Config Class Initialized
+DEBUG - 2012-11-18 11:29:03 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:29:03 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:29:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:29:03 --> URI Class Initialized
+DEBUG - 2012-11-18 11:29:03 --> Router Class Initialized
+DEBUG - 2012-11-18 11:29:03 --> Output Class Initialized
+DEBUG - 2012-11-18 11:29:03 --> Security Class Initialized
+DEBUG - 2012-11-18 11:29:03 --> Input Class Initialized
+DEBUG - 2012-11-18 11:29:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:29:03 --> Language Class Initialized
+DEBUG - 2012-11-18 11:29:04 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:29:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:29:04 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:29:04 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:29:04 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:29:04 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:29:04 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:29:04 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:29:04 --> Ingreso al sistema
+DEBUG - 2012-11-18 11:29:04 --> Final output sent to browser
+DEBUG - 2012-11-18 11:29:04 --> Total execution time: 1.5440
+DEBUG - 2012-11-18 11:29:05 --> Config Class Initialized
+DEBUG - 2012-11-18 11:29:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:29:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:29:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:29:06 --> URI Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Router Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Output Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Config Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:29:06 --> URI Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Router Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:29:06 --> Output Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Security Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Security Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Input Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Input Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:29:06 --> Language Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:29:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:29:06 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:29:06 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:29:06 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:29:06 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:29:06 --> File loaded: application/views/php/login.php
+DEBUG - 2012-11-18 11:29:06 --> Language Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:29:06 --> Helper loaded: url_helper
+INFO  - 2012-11-18 11:29:06 --> Ingreso al sistema
+DEBUG - 2012-11-18 11:29:06 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:29:06 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:29:06 --> Final output sent to browser
+DEBUG - 2012-11-18 11:29:06 --> Total execution time: 0.4172
+INFO  - 2012-11-18 11:29:06 --> False
+DEBUG - 2012-11-18 11:29:06 --> Final output sent to browser
+DEBUG - 2012-11-18 11:29:06 --> Total execution time: 0.8591
+DEBUG - 2012-11-18 11:35:55 --> Config Class Initialized
+DEBUG - 2012-11-18 11:35:55 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:35:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:35:55 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:35:56 --> URI Class Initialized
+DEBUG - 2012-11-18 11:35:56 --> Router Class Initialized
+DEBUG - 2012-11-18 11:35:56 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:35:56 --> Output Class Initialized
+DEBUG - 2012-11-18 11:35:56 --> Security Class Initialized
+DEBUG - 2012-11-18 11:35:56 --> Input Class Initialized
+DEBUG - 2012-11-18 11:35:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:35:56 --> Language Class Initialized
+DEBUG - 2012-11-18 11:35:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:35:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:35:56 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:35:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:35:56 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:35:56 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:35:56 --> Final output sent to browser
+DEBUG - 2012-11-18 11:35:56 --> Total execution time: 1.1251
+DEBUG - 2012-11-18 11:36:01 --> Config Class Initialized
+DEBUG - 2012-11-18 11:36:01 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:36:01 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:36:01 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:36:01 --> URI Class Initialized
+DEBUG - 2012-11-18 11:36:02 --> Router Class Initialized
+DEBUG - 2012-11-18 11:36:02 --> Output Class Initialized
+DEBUG - 2012-11-18 11:36:02 --> Security Class Initialized
+DEBUG - 2012-11-18 11:36:02 --> Input Class Initialized
+DEBUG - 2012-11-18 11:36:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:36:02 --> Language Class Initialized
+DEBUG - 2012-11-18 11:36:02 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:36:02 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:36:03 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:36:03 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:36:03 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:36:03 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:36:03 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:36:03 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:36:03 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:36:03 --> Final output sent to browser
+DEBUG - 2012-11-18 11:36:03 --> Total execution time: 2.2097
+DEBUG - 2012-11-18 11:36:05 --> Config Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Config Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:36:05 --> URI Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Router Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:36:05 --> Output Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Security Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Input Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:36:05 --> Language Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:36:05 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:36:05 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:36:05 --> Final output sent to browser
+DEBUG - 2012-11-18 11:36:05 --> Total execution time: 0.2714
+DEBUG - 2012-11-18 11:36:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:36:05 --> URI Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Router Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Output Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Security Class Initialized
+DEBUG - 2012-11-18 11:36:05 --> Input Class Initialized
+DEBUG - 2012-11-18 11:36:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:36:06 --> Language Class Initialized
+DEBUG - 2012-11-18 11:36:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:36:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:36:06 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:36:06 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:36:06 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:36:06 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:36:06 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:36:06 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:36:06 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:36:06 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:36:07 --> Ingreso al sistema
+INFO  - 2012-11-18 11:36:07 --> False
+DEBUG - 2012-11-18 11:36:07 --> Final output sent to browser
+DEBUG - 2012-11-18 11:36:07 --> Total execution time: 2.0171
+DEBUG - 2012-11-18 11:36:56 --> Config Class Initialized
+DEBUG - 2012-11-18 11:36:56 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:36:57 --> URI Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> Router Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:36:57 --> Output Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> Security Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> Input Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:36:57 --> Language Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:36:57 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:36:57 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:36:58 --> haciendo una prueba hoy2
+DEBUG - 2012-11-18 11:36:58 --> Final output sent to browser
+DEBUG - 2012-11-18 11:36:58 --> Total execution time: 1.2599
+DEBUG - 2012-11-18 11:37:03 --> Config Class Initialized
+DEBUG - 2012-11-18 11:37:03 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:37:03 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:37:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:37:03 --> URI Class Initialized
+DEBUG - 2012-11-18 11:37:03 --> Router Class Initialized
+DEBUG - 2012-11-18 11:37:04 --> Output Class Initialized
+DEBUG - 2012-11-18 11:37:04 --> Security Class Initialized
+DEBUG - 2012-11-18 11:37:04 --> Input Class Initialized
+DEBUG - 2012-11-18 11:37:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:37:04 --> Language Class Initialized
+DEBUG - 2012-11-18 11:37:04 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:37:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:37:04 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:37:04 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:37:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:37:05 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:37:05 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:37:05 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:37:05 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:37:05 --> Final output sent to browser
+DEBUG - 2012-11-18 11:37:05 --> Total execution time: 2.2048
+DEBUG - 2012-11-18 11:37:13 --> Config Class Initialized
+DEBUG - 2012-11-18 11:37:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:37:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:37:14 --> Config Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:37:14 --> URI Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Router Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:37:14 --> Output Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Security Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Input Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:37:14 --> URI Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Router Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Output Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Security Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Input Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:37:14 --> Language Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Language Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:37:14 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:37:14 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:37:14 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:37:14 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:37:14 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:37:14 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:37:14 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:37:14 --> haciendo una prueba hoy2
+DEBUG - 2012-11-18 11:37:14 --> Final output sent to browser
+DEBUG - 2012-11-18 11:37:14 --> Total execution time: 0.3696
+DEBUG - 2012-11-18 11:37:14 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:37:14 --> Ingreso al sistema
+INFO  - 2012-11-18 11:37:14 --> False
+DEBUG - 2012-11-18 11:37:14 --> Final output sent to browser
+DEBUG - 2012-11-18 11:37:14 --> Total execution time: 1.0044
+DEBUG - 2012-11-18 11:39:20 --> Config Class Initialized
+DEBUG - 2012-11-18 11:39:20 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:39:20 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:39:20 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:39:20 --> URI Class Initialized
+DEBUG - 2012-11-18 11:39:20 --> Router Class Initialized
+DEBUG - 2012-11-18 11:39:20 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:39:20 --> Output Class Initialized
+DEBUG - 2012-11-18 11:39:21 --> Security Class Initialized
+DEBUG - 2012-11-18 11:39:21 --> Input Class Initialized
+DEBUG - 2012-11-18 11:39:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:39:21 --> Language Class Initialized
+DEBUG - 2012-11-18 11:39:21 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:39:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:39:22 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:39:22 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:39:22 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:39:22 --> haciendo una prueba hoy2
+DEBUG - 2012-11-18 11:39:22 --> Final output sent to browser
+DEBUG - 2012-11-18 11:39:22 --> Total execution time: 2.7845
+DEBUG - 2012-11-18 11:39:26 --> Config Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:39:26 --> URI Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Router Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Output Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Security Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Input Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:39:26 --> Language Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:39:26 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:39:26 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:39:26 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:39:26 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:39:27 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:39:27 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:39:27 --> Final output sent to browser
+DEBUG - 2012-11-18 11:39:27 --> Total execution time: 1.3555
+DEBUG - 2012-11-18 11:39:30 --> Config Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Config Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:39:30 --> URI Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Router Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Output Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Security Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Input Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:39:30 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:39:30 --> URI Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Router Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:39:30 --> Output Class Initialized
+DEBUG - 2012-11-18 11:39:30 --> Language Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Security Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Input Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:39:31 --> Language Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:39:31 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:39:31 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:39:31 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:39:31 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:39:31 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:39:31 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:39:31 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:39:31 --> Ingreso al sistema2
+INFO  - 2012-11-18 11:39:31 --> False2
+DEBUG - 2012-11-18 11:39:31 --> Final output sent to browser
+DEBUG - 2012-11-18 11:39:31 --> Total execution time: 0.5285
+DEBUG - 2012-11-18 11:39:31 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:39:31 --> haciendo una prueba hoy2
+DEBUG - 2012-11-18 11:39:31 --> Final output sent to browser
+DEBUG - 2012-11-18 11:39:31 --> Total execution time: 0.5145
+DEBUG - 2012-11-18 11:42:44 --> Config Class Initialized
+DEBUG - 2012-11-18 11:42:45 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:42:45 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:42:45 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:42:45 --> URI Class Initialized
+DEBUG - 2012-11-18 11:42:45 --> Router Class Initialized
+DEBUG - 2012-11-18 11:42:45 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:42:45 --> Output Class Initialized
+DEBUG - 2012-11-18 11:42:45 --> Security Class Initialized
+DEBUG - 2012-11-18 11:42:45 --> Input Class Initialized
+DEBUG - 2012-11-18 11:42:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:42:46 --> Language Class Initialized
+DEBUG - 2012-11-18 11:42:46 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:42:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:42:46 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:42:46 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:42:46 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:42:46 --> haciendo una prueba hoy2
+DEBUG - 2012-11-18 11:42:46 --> Final output sent to browser
+DEBUG - 2012-11-18 11:42:46 --> Total execution time: 1.7660
+DEBUG - 2012-11-18 11:44:03 --> Config Class Initialized
+DEBUG - 2012-11-18 11:44:03 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:44:03 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:44:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:44:04 --> URI Class Initialized
+DEBUG - 2012-11-18 11:44:04 --> Router Class Initialized
+DEBUG - 2012-11-18 11:44:04 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:44:04 --> Output Class Initialized
+DEBUG - 2012-11-18 11:44:04 --> Security Class Initialized
+DEBUG - 2012-11-18 11:44:04 --> Input Class Initialized
+DEBUG - 2012-11-18 11:44:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:44:04 --> Language Class Initialized
+DEBUG - 2012-11-18 11:44:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:44:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:44:05 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:44:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:44:05 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:44:05 --> haciendo una prueba hoy2
+DEBUG - 2012-11-18 11:44:05 --> Final output sent to browser
+DEBUG - 2012-11-18 11:44:05 --> Total execution time: 2.2073
+DEBUG - 2012-11-18 11:44:27 --> Config Class Initialized
+DEBUG - 2012-11-18 11:44:27 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:44:27 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:44:27 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:44:27 --> URI Class Initialized
+DEBUG - 2012-11-18 11:44:27 --> Router Class Initialized
+DEBUG - 2012-11-18 11:44:27 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:44:28 --> Output Class Initialized
+DEBUG - 2012-11-18 11:44:28 --> Security Class Initialized
+DEBUG - 2012-11-18 11:44:28 --> Input Class Initialized
+DEBUG - 2012-11-18 11:44:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:44:28 --> Language Class Initialized
+DEBUG - 2012-11-18 11:44:28 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:44:28 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:44:28 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:44:29 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:44:29 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:44:29 --> haciendo una prueba hoy2
+DEBUG - 2012-11-18 11:44:29 --> Final output sent to browser
+DEBUG - 2012-11-18 11:44:29 --> Total execution time: 2.3351
+DEBUG - 2012-11-18 11:47:26 --> Config Class Initialized
+DEBUG - 2012-11-18 11:47:26 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:47:26 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:47:26 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:47:27 --> URI Class Initialized
+DEBUG - 2012-11-18 11:47:27 --> Router Class Initialized
+DEBUG - 2012-11-18 11:47:27 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:47:27 --> Output Class Initialized
+DEBUG - 2012-11-18 11:47:27 --> Security Class Initialized
+DEBUG - 2012-11-18 11:47:27 --> Input Class Initialized
+DEBUG - 2012-11-18 11:47:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:47:27 --> Language Class Initialized
+DEBUG - 2012-11-18 11:47:27 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:47:27 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:47:27 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:47:28 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:47:28 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:47:28 --> haciendo una prueba hoy2
+DEBUG - 2012-11-18 11:47:28 --> Final output sent to browser
+DEBUG - 2012-11-18 11:47:28 --> Total execution time: 1.7699
+DEBUG - 2012-11-18 11:48:37 --> Config Class Initialized
+DEBUG - 2012-11-18 11:48:37 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:48:37 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:48:37 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:48:37 --> URI Class Initialized
+DEBUG - 2012-11-18 11:48:37 --> Router Class Initialized
+DEBUG - 2012-11-18 11:48:38 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:48:38 --> Output Class Initialized
+DEBUG - 2012-11-18 11:48:38 --> Security Class Initialized
+DEBUG - 2012-11-18 11:48:38 --> Input Class Initialized
+DEBUG - 2012-11-18 11:48:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:48:38 --> Language Class Initialized
+DEBUG - 2012-11-18 11:48:38 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:48:38 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:48:38 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:48:38 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:48:38 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:48:38 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:48:38 --> Final output sent to browser
+DEBUG - 2012-11-18 11:48:38 --> Total execution time: 1.2629
+DEBUG - 2012-11-18 11:48:40 --> Config Class Initialized
+DEBUG - 2012-11-18 11:48:40 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:48:40 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:48:40 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:48:40 --> URI Class Initialized
+DEBUG - 2012-11-18 11:48:40 --> Router Class Initialized
+DEBUG - 2012-11-18 11:48:40 --> Output Class Initialized
+DEBUG - 2012-11-18 11:48:40 --> Security Class Initialized
+DEBUG - 2012-11-18 11:48:40 --> Input Class Initialized
+DEBUG - 2012-11-18 11:48:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:48:41 --> Language Class Initialized
+DEBUG - 2012-11-18 11:48:41 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:48:41 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:48:41 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:48:41 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:48:41 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:48:41 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:48:41 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:48:41 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:48:41 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:48:41 --> Final output sent to browser
+DEBUG - 2012-11-18 11:48:41 --> Total execution time: 1.1386
+DEBUG - 2012-11-18 11:49:00 --> Config Class Initialized
+DEBUG - 2012-11-18 11:49:00 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:49:00 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:49:00 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:49:01 --> URI Class Initialized
+DEBUG - 2012-11-18 11:49:01 --> Router Class Initialized
+DEBUG - 2012-11-18 11:49:01 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:49:01 --> Output Class Initialized
+DEBUG - 2012-11-18 11:49:01 --> Security Class Initialized
+DEBUG - 2012-11-18 11:49:01 --> Input Class Initialized
+DEBUG - 2012-11-18 11:49:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:49:01 --> Language Class Initialized
+DEBUG - 2012-11-18 11:49:01 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:49:01 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:49:02 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:49:02 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:49:02 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:49:02 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:49:02 --> Final output sent to browser
+DEBUG - 2012-11-18 11:49:02 --> Total execution time: 1.7924
+DEBUG - 2012-11-18 11:49:04 --> Config Class Initialized
+DEBUG - 2012-11-18 11:49:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:49:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:49:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:49:04 --> URI Class Initialized
+DEBUG - 2012-11-18 11:49:04 --> Router Class Initialized
+DEBUG - 2012-11-18 11:49:04 --> Output Class Initialized
+DEBUG - 2012-11-18 11:49:04 --> Security Class Initialized
+DEBUG - 2012-11-18 11:49:05 --> Input Class Initialized
+DEBUG - 2012-11-18 11:49:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:49:05 --> Language Class Initialized
+DEBUG - 2012-11-18 11:49:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:49:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:49:05 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:49:05 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:49:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:49:05 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:49:05 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:49:05 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:49:05 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:49:05 --> Final output sent to browser
+DEBUG - 2012-11-18 11:49:05 --> Total execution time: 1.4246
+DEBUG - 2012-11-18 11:49:19 --> Config Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Config Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:49:19 --> URI Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:49:19 --> Router Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:49:19 --> Output Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Security Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Input Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:49:19 --> Language Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> URI Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:49:19 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:49:20 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:49:20 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:49:20 --> Final output sent to browser
+DEBUG - 2012-11-18 11:49:20 --> Total execution time: 0.2478
+DEBUG - 2012-11-18 11:49:20 --> Router Class Initialized
+DEBUG - 2012-11-18 11:49:20 --> Output Class Initialized
+DEBUG - 2012-11-18 11:49:20 --> Security Class Initialized
+DEBUG - 2012-11-18 11:49:20 --> Input Class Initialized
+DEBUG - 2012-11-18 11:49:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:49:20 --> Language Class Initialized
+DEBUG - 2012-11-18 11:49:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:49:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:49:20 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:49:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:49:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:49:21 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:49:21 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:49:21 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:49:21 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:49:21 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:49:21 --> Ingreso al sistema2
+INFO  - 2012-11-18 11:49:21 --> False2
+DEBUG - 2012-11-18 11:49:22 --> Final output sent to browser
+DEBUG - 2012-11-18 11:49:22 --> Total execution time: 2.5495
+DEBUG - 2012-11-18 11:49:35 --> Config Class Initialized
+DEBUG - 2012-11-18 11:49:35 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:49:35 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:49:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:49:35 --> URI Class Initialized
+DEBUG - 2012-11-18 11:49:35 --> Router Class Initialized
+DEBUG - 2012-11-18 11:49:35 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:49:35 --> Output Class Initialized
+DEBUG - 2012-11-18 11:49:35 --> Security Class Initialized
+DEBUG - 2012-11-18 11:49:35 --> Input Class Initialized
+DEBUG - 2012-11-18 11:49:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:49:36 --> Language Class Initialized
+DEBUG - 2012-11-18 11:49:36 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:49:36 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:49:36 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:49:36 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:49:36 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:49:36 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:49:36 --> Final output sent to browser
+DEBUG - 2012-11-18 11:49:36 --> Total execution time: 1.4160
+DEBUG - 2012-11-18 11:49:38 --> Config Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:49:38 --> URI Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Router Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Output Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Security Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Input Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:49:38 --> Language Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:49:38 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:49:39 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:49:39 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:49:39 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:49:39 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:49:39 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:49:39 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:49:39 --> Final output sent to browser
+DEBUG - 2012-11-18 11:49:39 --> Total execution time: 1.4881
+DEBUG - 2012-11-18 11:49:41 --> Config Class Initialized
+DEBUG - 2012-11-18 11:49:41 --> Config Class Initialized
+DEBUG - 2012-11-18 11:49:41 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:49:41 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:49:41 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:49:41 --> URI Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Router Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Output Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Security Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:49:42 --> URI Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Router Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:49:42 --> Output Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Input Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:49:42 --> Language Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Security Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:49:42 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:49:42 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:49:42 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:49:42 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:49:42 --> File loaded: application/views/php/login.php
+DEBUG - 2012-11-18 11:49:42 --> Input Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:49:42 --> Language Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:49:42 --> Controller Class Initialized
+INFO  - 2012-11-18 11:49:42 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:49:42 --> Helper loaded: url_helper
+INFO  - 2012-11-18 11:49:42 --> False2
+DEBUG - 2012-11-18 11:49:42 --> Final output sent to browser
+DEBUG - 2012-11-18 11:49:42 --> Total execution time: 0.4568
+DEBUG - 2012-11-18 11:49:42 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:49:42 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:49:42 --> Final output sent to browser
+DEBUG - 2012-11-18 11:49:42 --> Total execution time: 0.6933
+DEBUG - 2012-11-18 11:51:22 --> Config Class Initialized
+DEBUG - 2012-11-18 11:51:22 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:51:22 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:51:22 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:51:22 --> URI Class Initialized
+DEBUG - 2012-11-18 11:51:22 --> Router Class Initialized
+DEBUG - 2012-11-18 11:51:22 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:51:22 --> Output Class Initialized
+DEBUG - 2012-11-18 11:51:22 --> Security Class Initialized
+DEBUG - 2012-11-18 11:51:22 --> Input Class Initialized
+DEBUG - 2012-11-18 11:51:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:51:22 --> Language Class Initialized
+DEBUG - 2012-11-18 11:51:23 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:51:23 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:51:23 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:51:23 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:51:23 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:51:23 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:51:23 --> Final output sent to browser
+DEBUG - 2012-11-18 11:51:23 --> Total execution time: 1.1880
+DEBUG - 2012-11-18 11:51:25 --> Config Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:51:25 --> URI Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Router Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Output Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Security Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Input Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:51:25 --> Language Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:51:25 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:51:25 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:51:25 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:51:25 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:51:31 --> Config Class Initialized
+DEBUG - 2012-11-18 11:51:31 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:51:31 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:51:31 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:51:31 --> URI Class Initialized
+DEBUG - 2012-11-18 11:51:31 --> Router Class Initialized
+DEBUG - 2012-11-18 11:51:31 --> Output Class Initialized
+DEBUG - 2012-11-18 11:51:31 --> Security Class Initialized
+DEBUG - 2012-11-18 11:51:31 --> Input Class Initialized
+DEBUG - 2012-11-18 11:51:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:51:32 --> Language Class Initialized
+DEBUG - 2012-11-18 11:51:32 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:51:32 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:51:32 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:51:32 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:51:32 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:51:32 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:51:32 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:51:34 --> Config Class Initialized
+DEBUG - 2012-11-18 11:51:34 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:51:35 --> URI Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> Router Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:51:35 --> Output Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> Security Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> Input Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:51:35 --> Language Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:51:35 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:51:36 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:51:36 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:51:36 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:51:36 --> Final output sent to browser
+DEBUG - 2012-11-18 11:51:36 --> Total execution time: 1.2838
+DEBUG - 2012-11-18 11:51:38 --> Config Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:51:38 --> URI Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Router Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Output Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Security Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Input Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:51:38 --> Language Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:51:38 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:51:38 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:51:38 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:51:39 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:51:57 --> Config Class Initialized
+DEBUG - 2012-11-18 11:51:57 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:51:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:51:57 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:51:58 --> URI Class Initialized
+DEBUG - 2012-11-18 11:51:58 --> Router Class Initialized
+DEBUG - 2012-11-18 11:51:58 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:51:58 --> Output Class Initialized
+DEBUG - 2012-11-18 11:51:58 --> Security Class Initialized
+DEBUG - 2012-11-18 11:51:58 --> Input Class Initialized
+DEBUG - 2012-11-18 11:51:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:51:58 --> Language Class Initialized
+DEBUG - 2012-11-18 11:51:58 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:51:58 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:51:59 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:51:59 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:51:59 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:51:59 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:51:59 --> Final output sent to browser
+DEBUG - 2012-11-18 11:51:59 --> Total execution time: 1.9327
+DEBUG - 2012-11-18 11:52:01 --> Config Class Initialized
+DEBUG - 2012-11-18 11:52:01 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:52:01 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:52:01 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:52:01 --> URI Class Initialized
+DEBUG - 2012-11-18 11:52:01 --> Router Class Initialized
+DEBUG - 2012-11-18 11:52:01 --> Output Class Initialized
+DEBUG - 2012-11-18 11:52:01 --> Security Class Initialized
+DEBUG - 2012-11-18 11:52:01 --> Input Class Initialized
+DEBUG - 2012-11-18 11:52:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:52:01 --> Language Class Initialized
+DEBUG - 2012-11-18 11:52:01 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:52:02 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:52:02 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:52:02 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:52:02 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:52:02 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:52:02 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:52:02 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:52:02 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:52:02 --> Final output sent to browser
+DEBUG - 2012-11-18 11:52:02 --> Total execution time: 1.5770
+DEBUG - 2012-11-18 11:52:04 --> Config Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Config Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:52:04 --> URI Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Router Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:52:04 --> Output Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Security Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Input Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:52:04 --> Language Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:52:04 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:52:04 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:52:04 --> Final output sent to browser
+DEBUG - 2012-11-18 11:52:04 --> Total execution time: 0.1087
+DEBUG - 2012-11-18 11:52:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:52:04 --> URI Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Router Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Output Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Security Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Input Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:52:04 --> Language Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:52:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:52:05 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:52:05 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:52:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:52:05 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:52:05 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:52:05 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:52:05 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:52:05 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:52:05 --> Ingreso al sistema2
+INFO  - 2012-11-18 11:52:05 --> False2
+DEBUG - 2012-11-18 11:52:05 --> Final output sent to browser
+DEBUG - 2012-11-18 11:52:05 --> Total execution time: 1.5841
+DEBUG - 2012-11-18 11:52:30 --> Config Class Initialized
+DEBUG - 2012-11-18 11:52:30 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:52:30 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:52:30 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:52:30 --> URI Class Initialized
+DEBUG - 2012-11-18 11:52:31 --> Router Class Initialized
+DEBUG - 2012-11-18 11:52:31 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:52:31 --> Output Class Initialized
+DEBUG - 2012-11-18 11:52:31 --> Security Class Initialized
+DEBUG - 2012-11-18 11:52:31 --> Input Class Initialized
+DEBUG - 2012-11-18 11:52:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:52:31 --> Language Class Initialized
+DEBUG - 2012-11-18 11:52:31 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:52:31 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:52:32 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:52:32 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:52:32 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:52:32 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:52:32 --> Final output sent to browser
+DEBUG - 2012-11-18 11:52:32 --> Total execution time: 2.0956
+DEBUG - 2012-11-18 11:52:34 --> Config Class Initialized
+DEBUG - 2012-11-18 11:52:34 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:52:34 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:52:35 --> URI Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> Router Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> Output Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> Security Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> Input Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:52:35 --> Language Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:52:35 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:52:35 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:52:36 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:52:36 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:52:36 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:52:36 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:52:36 --> Final output sent to browser
+DEBUG - 2012-11-18 11:52:36 --> Total execution time: 1.8448
+DEBUG - 2012-11-18 11:52:37 --> Config Class Initialized
+DEBUG - 2012-11-18 11:52:37 --> Config Class Initialized
+DEBUG - 2012-11-18 11:52:37 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:52:37 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:52:37 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:52:38 --> URI Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Router Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Output Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Security Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Input Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:52:38 --> URI Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Router Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:52:38 --> Language Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:52:38 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:52:38 --> Output Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Security Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Input Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:52:38 --> Language Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:52:38 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:52:38 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:52:38 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:52:38 --> False2
+DEBUG - 2012-11-18 11:52:38 --> Final output sent to browser
+DEBUG - 2012-11-18 11:52:38 --> Total execution time: 0.4393
+DEBUG - 2012-11-18 11:52:38 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:52:38 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:52:38 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:52:38 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:52:38 --> Final output sent to browser
+DEBUG - 2012-11-18 11:52:38 --> Total execution time: 0.7599
+DEBUG - 2012-11-18 11:57:42 --> Config Class Initialized
+DEBUG - 2012-11-18 11:57:42 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:57:42 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:57:42 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:57:42 --> URI Class Initialized
+DEBUG - 2012-11-18 11:57:42 --> Router Class Initialized
+DEBUG - 2012-11-18 11:57:42 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:57:42 --> Output Class Initialized
+DEBUG - 2012-11-18 11:57:42 --> Security Class Initialized
+DEBUG - 2012-11-18 11:57:43 --> Input Class Initialized
+DEBUG - 2012-11-18 11:57:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:57:43 --> Language Class Initialized
+DEBUG - 2012-11-18 11:57:43 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:57:43 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:57:43 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:57:43 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:57:43 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:57:43 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:57:43 --> Final output sent to browser
+DEBUG - 2012-11-18 11:57:43 --> Total execution time: 1.5024
+DEBUG - 2012-11-18 11:57:45 --> Config Class Initialized
+DEBUG - 2012-11-18 11:57:45 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:57:45 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:57:45 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:57:45 --> URI Class Initialized
+DEBUG - 2012-11-18 11:57:45 --> Router Class Initialized
+DEBUG - 2012-11-18 11:57:46 --> Output Class Initialized
+DEBUG - 2012-11-18 11:57:46 --> Security Class Initialized
+DEBUG - 2012-11-18 11:57:46 --> Input Class Initialized
+DEBUG - 2012-11-18 11:57:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:57:46 --> Language Class Initialized
+DEBUG - 2012-11-18 11:57:46 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:57:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:57:46 --> Controller Class Initialized
+ERROR - 2012-11-18 11:57:46 --> 404 Page Not Found --> inicio/cargaLogin
+DEBUG - 2012-11-18 11:57:53 --> Config Class Initialized
+DEBUG - 2012-11-18 11:57:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:57:54 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:57:54 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:57:54 --> URI Class Initialized
+DEBUG - 2012-11-18 11:57:54 --> Router Class Initialized
+DEBUG - 2012-11-18 11:57:54 --> Output Class Initialized
+DEBUG - 2012-11-18 11:57:54 --> Security Class Initialized
+DEBUG - 2012-11-18 11:57:54 --> Input Class Initialized
+DEBUG - 2012-11-18 11:57:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:57:55 --> Language Class Initialized
+DEBUG - 2012-11-18 11:57:55 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:57:55 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:57:55 --> Controller Class Initialized
+ERROR - 2012-11-18 11:57:55 --> 404 Page Not Found --> inicio/cargaLogin
+DEBUG - 2012-11-18 11:57:58 --> Config Class Initialized
+DEBUG - 2012-11-18 11:57:58 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:57:58 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:57:58 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:57:58 --> URI Class Initialized
+DEBUG - 2012-11-18 11:57:58 --> Router Class Initialized
+DEBUG - 2012-11-18 11:57:58 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:57:58 --> Output Class Initialized
+DEBUG - 2012-11-18 11:57:58 --> Security Class Initialized
+DEBUG - 2012-11-18 11:57:58 --> Input Class Initialized
+DEBUG - 2012-11-18 11:57:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:57:59 --> Language Class Initialized
+DEBUG - 2012-11-18 11:57:59 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:57:59 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:57:59 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:57:59 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:57:59 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:57:59 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:57:59 --> Final output sent to browser
+DEBUG - 2012-11-18 11:57:59 --> Total execution time: 1.4892
+DEBUG - 2012-11-18 11:58:07 --> Config Class Initialized
+DEBUG - 2012-11-18 11:58:07 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:58:07 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:58:08 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:58:08 --> URI Class Initialized
+DEBUG - 2012-11-18 11:58:08 --> Router Class Initialized
+DEBUG - 2012-11-18 11:58:08 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:58:08 --> Output Class Initialized
+DEBUG - 2012-11-18 11:58:08 --> Security Class Initialized
+DEBUG - 2012-11-18 11:58:08 --> Input Class Initialized
+DEBUG - 2012-11-18 11:58:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:58:08 --> Language Class Initialized
+DEBUG - 2012-11-18 11:58:08 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:58:09 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:58:09 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:58:09 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:58:09 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:58:09 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:58:09 --> Final output sent to browser
+DEBUG - 2012-11-18 11:58:09 --> Total execution time: 1.7036
+DEBUG - 2012-11-18 11:58:11 --> Config Class Initialized
+DEBUG - 2012-11-18 11:58:11 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:58:11 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:58:11 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:58:11 --> URI Class Initialized
+DEBUG - 2012-11-18 11:58:12 --> Router Class Initialized
+DEBUG - 2012-11-18 11:58:12 --> Output Class Initialized
+DEBUG - 2012-11-18 11:58:12 --> Security Class Initialized
+DEBUG - 2012-11-18 11:58:12 --> Input Class Initialized
+DEBUG - 2012-11-18 11:58:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:58:12 --> Language Class Initialized
+DEBUG - 2012-11-18 11:58:12 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:58:12 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:58:12 --> Controller Class Initialized
+ERROR - 2012-11-18 11:58:12 --> 404 Page Not Found --> inicio/cargaLogin
+DEBUG - 2012-11-18 11:58:45 --> Config Class Initialized
+DEBUG - 2012-11-18 11:58:45 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:58:45 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:58:45 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:58:46 --> URI Class Initialized
+DEBUG - 2012-11-18 11:58:46 --> Router Class Initialized
+DEBUG - 2012-11-18 11:58:46 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:58:46 --> Output Class Initialized
+DEBUG - 2012-11-18 11:58:46 --> Security Class Initialized
+DEBUG - 2012-11-18 11:58:46 --> Input Class Initialized
+DEBUG - 2012-11-18 11:58:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:58:46 --> Language Class Initialized
+DEBUG - 2012-11-18 11:58:46 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:58:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:58:47 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:58:47 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:58:47 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:58:47 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:58:47 --> Final output sent to browser
+DEBUG - 2012-11-18 11:58:47 --> Total execution time: 1.9143
+DEBUG - 2012-11-18 11:58:49 --> Config Class Initialized
+DEBUG - 2012-11-18 11:58:49 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:58:49 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:58:49 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:58:49 --> URI Class Initialized
+DEBUG - 2012-11-18 11:58:49 --> Router Class Initialized
+DEBUG - 2012-11-18 11:58:50 --> Output Class Initialized
+DEBUG - 2012-11-18 11:58:50 --> Security Class Initialized
+DEBUG - 2012-11-18 11:58:50 --> Input Class Initialized
+DEBUG - 2012-11-18 11:58:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:58:50 --> Language Class Initialized
+DEBUG - 2012-11-18 11:58:50 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:58:50 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:58:50 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:58:50 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:58:50 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:58:51 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:58:51 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:58:51 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:58:51 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:58:51 --> Final output sent to browser
+DEBUG - 2012-11-18 11:58:51 --> Total execution time: 2.1404
+DEBUG - 2012-11-18 11:58:53 --> Config Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Config Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:58:53 --> URI Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Router Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Output Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Security Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Input Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:58:53 --> Language Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:58:53 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:58:53 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 11:58:53 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:58:53 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:58:53 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:58:53 --> URI Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Router Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:58:53 --> Output Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Security Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Input Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:58:53 --> Language Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:58:53 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:58:53 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:58:53 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:58:53 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:58:53 --> Final output sent to browser
+DEBUG - 2012-11-18 11:58:53 --> Total execution time: 0.3182
+DEBUG - 2012-11-18 11:58:53 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:58:53 --> Ingreso al sistema2
+INFO  - 2012-11-18 11:58:53 --> False2
+DEBUG - 2012-11-18 11:58:53 --> Final output sent to browser
+DEBUG - 2012-11-18 11:58:53 --> Total execution time: 0.5414
+DEBUG - 2012-11-18 11:59:36 --> Config Class Initialized
+DEBUG - 2012-11-18 11:59:36 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:59:36 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:59:36 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:59:37 --> URI Class Initialized
+DEBUG - 2012-11-18 11:59:37 --> Router Class Initialized
+DEBUG - 2012-11-18 11:59:37 --> Output Class Initialized
+DEBUG - 2012-11-18 11:59:37 --> Security Class Initialized
+DEBUG - 2012-11-18 11:59:37 --> Input Class Initialized
+DEBUG - 2012-11-18 11:59:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:59:37 --> Language Class Initialized
+DEBUG - 2012-11-18 11:59:38 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:59:38 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:59:38 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:59:38 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:59:38 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:59:38 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:59:38 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:59:38 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 11:59:38 --> Ingreso al sistema2
+DEBUG - 2012-11-18 11:59:39 --> Final output sent to browser
+DEBUG - 2012-11-18 11:59:39 --> Total execution time: 2.5416
+DEBUG - 2012-11-18 11:59:40 --> Config Class Initialized
+DEBUG - 2012-11-18 11:59:40 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:59:40 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:59:41 --> Config Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Hooks Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 11:59:41 --> URI Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Router Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 11:59:41 --> Output Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Security Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> URI Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Router Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Output Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Security Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Input Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:59:41 --> Language Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Input Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 11:59:41 --> Language Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Loader Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:59:41 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 11:59:41 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 11:59:41 --> Final output sent to browser
+DEBUG - 2012-11-18 11:59:41 --> Controller Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 11:59:41 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 11:59:41 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 11:59:41 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 11:59:41 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 11:59:41 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 11:59:41 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2012-11-18 11:59:41 --> File loaded: application/views/php/login.php
+DEBUG - 2012-11-18 11:59:41 --> Total execution time: 0.2353
+INFO  - 2012-11-18 11:59:41 --> Ingreso al sistema2
+INFO  - 2012-11-18 11:59:41 --> False2
+DEBUG - 2012-11-18 11:59:41 --> Final output sent to browser
+DEBUG - 2012-11-18 11:59:41 --> Total execution time: 0.6765
+DEBUG - 2012-11-18 12:03:32 --> Config Class Initialized
+DEBUG - 2012-11-18 12:03:32 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:03:32 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:03:32 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:03:32 --> URI Class Initialized
+DEBUG - 2012-11-18 12:03:32 --> Router Class Initialized
+DEBUG - 2012-11-18 12:03:32 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:03:33 --> Output Class Initialized
+DEBUG - 2012-11-18 12:03:33 --> Security Class Initialized
+DEBUG - 2012-11-18 12:03:33 --> Input Class Initialized
+DEBUG - 2012-11-18 12:03:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:03:33 --> Language Class Initialized
+DEBUG - 2012-11-18 12:03:33 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:03:33 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:03:33 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:03:33 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:03:33 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:03:34 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:03:34 --> Final output sent to browser
+DEBUG - 2012-11-18 12:03:34 --> Total execution time: 2.0185
+DEBUG - 2012-11-18 12:03:36 --> Config Class Initialized
+DEBUG - 2012-11-18 12:03:36 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:03:36 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:03:36 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:03:36 --> URI Class Initialized
+DEBUG - 2012-11-18 12:03:36 --> Router Class Initialized
+DEBUG - 2012-11-18 12:03:36 --> Output Class Initialized
+DEBUG - 2012-11-18 12:03:36 --> Security Class Initialized
+DEBUG - 2012-11-18 12:03:36 --> Input Class Initialized
+DEBUG - 2012-11-18 12:03:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:03:37 --> Language Class Initialized
+DEBUG - 2012-11-18 12:03:37 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:03:37 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:03:37 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:03:37 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:03:37 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:03:37 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:03:37 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:03:37 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:03:37 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:03:37 --> Final output sent to browser
+DEBUG - 2012-11-18 12:03:37 --> Total execution time: 1.4865
+DEBUG - 2012-11-18 12:03:39 --> Config Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Config Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:03:39 --> URI Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Router Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Output Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Security Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Input Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:03:39 --> Language Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:03:39 --> URI Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Router Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:03:39 --> Output Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Security Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Input Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:03:39 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:03:40 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:03:40 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:03:40 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:03:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:03:40 --> Language Class Initialized
+DEBUG - 2012-11-18 12:03:40 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:03:40 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:03:40 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:03:40 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:03:40 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:03:40 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:03:40 --> Final output sent to browser
+DEBUG - 2012-11-18 12:03:40 --> Total execution time: 0.3797
+DEBUG - 2012-11-18 12:03:40 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 12:03:40 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:03:40 --> False2
+DEBUG - 2012-11-18 12:03:40 --> Final output sent to browser
+DEBUG - 2012-11-18 12:03:40 --> Total execution time: 0.7237
+DEBUG - 2012-11-18 12:07:06 --> Config Class Initialized
+DEBUG - 2012-11-18 12:07:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:07:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:07:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:07:06 --> URI Class Initialized
+DEBUG - 2012-11-18 12:07:06 --> Router Class Initialized
+DEBUG - 2012-11-18 12:07:07 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:07:07 --> Output Class Initialized
+DEBUG - 2012-11-18 12:07:07 --> Security Class Initialized
+DEBUG - 2012-11-18 12:07:07 --> Input Class Initialized
+DEBUG - 2012-11-18 12:07:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:07:07 --> Language Class Initialized
+DEBUG - 2012-11-18 12:07:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:07:08 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:07:08 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:07:08 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:07:08 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:07:08 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:07:08 --> Final output sent to browser
+DEBUG - 2012-11-18 12:07:08 --> Total execution time: 2.3818
+DEBUG - 2012-11-18 12:07:10 --> Config Class Initialized
+DEBUG - 2012-11-18 12:07:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:07:10 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:07:10 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:07:11 --> URI Class Initialized
+DEBUG - 2012-11-18 12:07:11 --> Router Class Initialized
+DEBUG - 2012-11-18 12:07:11 --> Output Class Initialized
+DEBUG - 2012-11-18 12:07:11 --> Security Class Initialized
+DEBUG - 2012-11-18 12:07:11 --> Input Class Initialized
+DEBUG - 2012-11-18 12:07:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:07:11 --> Language Class Initialized
+DEBUG - 2012-11-18 12:07:11 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:07:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:07:11 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:07:11 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:07:11 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:07:11 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:07:12 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:07:12 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:07:12 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:07:12 --> Final output sent to browser
+DEBUG - 2012-11-18 12:07:12 --> Total execution time: 1.5616
+DEBUG - 2012-11-18 12:07:13 --> Config Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Config Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:07:13 --> URI Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Router Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:07:13 --> Output Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Security Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Input Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:07:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Language Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:07:13 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:07:13 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:07:13 --> Final output sent to browser
+DEBUG - 2012-11-18 12:07:13 --> Total execution time: 0.1741
+DEBUG - 2012-11-18 12:07:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:07:13 --> URI Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Router Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Output Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Security Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Input Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:07:13 --> Language Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:07:13 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:07:14 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:07:14 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:07:14 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:07:14 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:07:14 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:07:14 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:07:14 --> Ingreso al sistema2
+INFO  - 2012-11-18 12:07:14 --> False2
+DEBUG - 2012-11-18 12:07:14 --> Final output sent to browser
+DEBUG - 2012-11-18 12:07:14 --> Total execution time: 1.0537
+DEBUG - 2012-11-18 12:08:48 --> Config Class Initialized
+DEBUG - 2012-11-18 12:08:48 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:08:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:08:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:08:49 --> URI Class Initialized
+DEBUG - 2012-11-18 12:08:49 --> Router Class Initialized
+DEBUG - 2012-11-18 12:08:49 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:08:49 --> Output Class Initialized
+DEBUG - 2012-11-18 12:08:49 --> Security Class Initialized
+DEBUG - 2012-11-18 12:08:49 --> Input Class Initialized
+DEBUG - 2012-11-18 12:08:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:08:49 --> Language Class Initialized
+DEBUG - 2012-11-18 12:08:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:08:50 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:08:50 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:08:50 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:08:50 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:08:50 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:08:50 --> Final output sent to browser
+DEBUG - 2012-11-18 12:08:50 --> Total execution time: 2.0377
+DEBUG - 2012-11-18 12:08:52 --> Config Class Initialized
+DEBUG - 2012-11-18 12:08:52 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:08:52 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:08:52 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:08:52 --> URI Class Initialized
+DEBUG - 2012-11-18 12:08:52 --> Router Class Initialized
+DEBUG - 2012-11-18 12:08:53 --> Output Class Initialized
+DEBUG - 2012-11-18 12:08:53 --> Security Class Initialized
+DEBUG - 2012-11-18 12:08:53 --> Input Class Initialized
+DEBUG - 2012-11-18 12:08:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:08:53 --> Language Class Initialized
+DEBUG - 2012-11-18 12:08:53 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:08:53 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:08:53 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:08:53 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:08:53 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:08:53 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:08:53 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:08:54 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:08:54 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:08:54 --> Final output sent to browser
+DEBUG - 2012-11-18 12:08:54 --> Total execution time: 1.6999
+DEBUG - 2012-11-18 12:09:04 --> Config Class Initialized
+DEBUG - 2012-11-18 12:09:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:09:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:09:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:09:04 --> URI Class Initialized
+DEBUG - 2012-11-18 12:09:04 --> Router Class Initialized
+DEBUG - 2012-11-18 12:09:04 --> Output Class Initialized
+DEBUG - 2012-11-18 12:09:04 --> Security Class Initialized
+DEBUG - 2012-11-18 12:09:05 --> Input Class Initialized
+DEBUG - 2012-11-18 12:09:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:09:05 --> Language Class Initialized
+DEBUG - 2012-11-18 12:09:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:09:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:09:05 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:09:05 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:09:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:09:06 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:09:06 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:09:06 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:09:06 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:09:06 --> Final output sent to browser
+DEBUG - 2012-11-18 12:09:06 --> Total execution time: 2.4515
+DEBUG - 2012-11-18 12:09:48 --> Config Class Initialized
+DEBUG - 2012-11-18 12:09:48 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:09:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:09:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:09:48 --> URI Class Initialized
+DEBUG - 2012-11-18 12:09:48 --> Router Class Initialized
+DEBUG - 2012-11-18 12:09:49 --> Output Class Initialized
+DEBUG - 2012-11-18 12:09:49 --> Security Class Initialized
+DEBUG - 2012-11-18 12:09:49 --> Input Class Initialized
+DEBUG - 2012-11-18 12:09:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:09:49 --> Language Class Initialized
+DEBUG - 2012-11-18 12:09:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:09:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:09:49 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:09:50 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:09:50 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:09:50 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:09:50 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:09:50 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:09:50 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:09:50 --> Final output sent to browser
+DEBUG - 2012-11-18 12:09:50 --> Total execution time: 2.5587
+DEBUG - 2012-11-18 12:11:06 --> Config Class Initialized
+DEBUG - 2012-11-18 12:11:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:11:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:11:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:11:06 --> URI Class Initialized
+DEBUG - 2012-11-18 12:11:07 --> Router Class Initialized
+DEBUG - 2012-11-18 12:11:07 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:11:07 --> Output Class Initialized
+DEBUG - 2012-11-18 12:11:07 --> Security Class Initialized
+DEBUG - 2012-11-18 12:11:07 --> Input Class Initialized
+DEBUG - 2012-11-18 12:11:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:11:07 --> Language Class Initialized
+DEBUG - 2012-11-18 12:11:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:11:08 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:11:08 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:11:08 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:11:08 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:11:08 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:11:08 --> Final output sent to browser
+DEBUG - 2012-11-18 12:11:08 --> Total execution time: 2.2363
+DEBUG - 2012-11-18 12:11:11 --> Config Class Initialized
+DEBUG - 2012-11-18 12:11:11 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:11:12 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:11:12 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:11:12 --> URI Class Initialized
+DEBUG - 2012-11-18 12:11:12 --> Router Class Initialized
+DEBUG - 2012-11-18 12:11:12 --> Output Class Initialized
+DEBUG - 2012-11-18 12:11:12 --> Security Class Initialized
+DEBUG - 2012-11-18 12:11:12 --> Input Class Initialized
+DEBUG - 2012-11-18 12:11:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:11:13 --> Language Class Initialized
+DEBUG - 2012-11-18 12:11:13 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:11:13 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:11:13 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:11:13 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:11:13 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:11:13 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:11:13 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:11:13 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:11:13 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:11:14 --> Final output sent to browser
+DEBUG - 2012-11-18 12:11:14 --> Total execution time: 2.3973
+DEBUG - 2012-11-18 12:11:16 --> Config Class Initialized
+DEBUG - 2012-11-18 12:11:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:11:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:11:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:11:16 --> URI Class Initialized
+DEBUG - 2012-11-18 12:11:16 --> Router Class Initialized
+DEBUG - 2012-11-18 12:11:16 --> Output Class Initialized
+DEBUG - 2012-11-18 12:11:16 --> Security Class Initialized
+DEBUG - 2012-11-18 12:11:16 --> Input Class Initialized
+DEBUG - 2012-11-18 12:11:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:11:16 --> Language Class Initialized
+DEBUG - 2012-11-18 12:11:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:11:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:11:17 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:11:17 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:11:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:11:17 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:11:17 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:11:17 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:11:17 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:11:17 --> Final output sent to browser
+DEBUG - 2012-11-18 12:11:17 --> Total execution time: 1.5206
+DEBUG - 2012-11-18 12:12:50 --> Config Class Initialized
+DEBUG - 2012-11-18 12:12:50 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:12:50 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:12:50 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:12:50 --> URI Class Initialized
+DEBUG - 2012-11-18 12:12:51 --> Router Class Initialized
+DEBUG - 2012-11-18 12:12:51 --> Output Class Initialized
+DEBUG - 2012-11-18 12:12:51 --> Security Class Initialized
+DEBUG - 2012-11-18 12:12:51 --> Input Class Initialized
+DEBUG - 2012-11-18 12:12:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:12:51 --> Language Class Initialized
+DEBUG - 2012-11-18 12:12:51 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:12:52 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:12:52 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:12:52 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:12:52 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:12:52 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:12:52 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:12:52 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:12:52 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:12:53 --> Final output sent to browser
+DEBUG - 2012-11-18 12:12:53 --> Total execution time: 2.6384
+DEBUG - 2012-11-18 12:14:16 --> Config Class Initialized
+DEBUG - 2012-11-18 12:14:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:14:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:14:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:14:16 --> URI Class Initialized
+DEBUG - 2012-11-18 12:14:16 --> Router Class Initialized
+DEBUG - 2012-11-18 12:14:17 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:14:17 --> Output Class Initialized
+DEBUG - 2012-11-18 12:14:17 --> Security Class Initialized
+DEBUG - 2012-11-18 12:14:17 --> Input Class Initialized
+DEBUG - 2012-11-18 12:14:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:14:17 --> Language Class Initialized
+DEBUG - 2012-11-18 12:14:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:14:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:14:17 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:14:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:14:17 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:14:17 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:14:17 --> Final output sent to browser
+DEBUG - 2012-11-18 12:14:17 --> Total execution time: 1.3206
+DEBUG - 2012-11-18 12:14:19 --> Config Class Initialized
+DEBUG - 2012-11-18 12:14:19 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:14:20 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:14:20 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:14:20 --> URI Class Initialized
+DEBUG - 2012-11-18 12:14:20 --> Router Class Initialized
+DEBUG - 2012-11-18 12:14:20 --> Output Class Initialized
+DEBUG - 2012-11-18 12:14:20 --> Security Class Initialized
+DEBUG - 2012-11-18 12:14:20 --> Input Class Initialized
+DEBUG - 2012-11-18 12:14:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:14:21 --> Language Class Initialized
+DEBUG - 2012-11-18 12:14:21 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:14:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:14:21 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:14:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:14:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:14:21 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:14:21 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:14:22 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:14:22 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:14:22 --> Final output sent to browser
+DEBUG - 2012-11-18 12:14:22 --> Total execution time: 2.4646
+DEBUG - 2012-11-18 12:14:23 --> Config Class Initialized
+DEBUG - 2012-11-18 12:14:23 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:14:24 --> URI Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Router Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Output Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Security Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Input Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:14:24 --> Language Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:14:24 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:14:24 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:14:24 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:14:24 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:14:25 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:14:25 --> Final output sent to browser
+DEBUG - 2012-11-18 12:14:25 --> Total execution time: 1.1633
+DEBUG - 2012-11-18 12:15:14 --> Config Class Initialized
+DEBUG - 2012-11-18 12:15:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:15:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:15:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:15:14 --> URI Class Initialized
+DEBUG - 2012-11-18 12:15:14 --> Router Class Initialized
+DEBUG - 2012-11-18 12:15:14 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:15:14 --> Output Class Initialized
+DEBUG - 2012-11-18 12:15:14 --> Security Class Initialized
+DEBUG - 2012-11-18 12:15:15 --> Input Class Initialized
+DEBUG - 2012-11-18 12:15:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:15:15 --> Language Class Initialized
+DEBUG - 2012-11-18 12:15:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:15:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:15:15 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:15:15 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:15:15 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:15:15 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:15:15 --> Final output sent to browser
+DEBUG - 2012-11-18 12:15:15 --> Total execution time: 1.3941
+DEBUG - 2012-11-18 12:15:17 --> Config Class Initialized
+DEBUG - 2012-11-18 12:15:17 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:15:17 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:15:17 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:15:18 --> URI Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> Router Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> Output Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> Security Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> Input Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:15:18 --> Language Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:15:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:15:18 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:15:18 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:15:18 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:15:18 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:15:19 --> Final output sent to browser
+DEBUG - 2012-11-18 12:15:19 --> Total execution time: 1.3244
+DEBUG - 2012-11-18 12:15:20 --> Config Class Initialized
+DEBUG - 2012-11-18 12:15:20 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:15:20 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:15:20 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:15:20 --> URI Class Initialized
+DEBUG - 2012-11-18 12:15:20 --> Router Class Initialized
+DEBUG - 2012-11-18 12:15:20 --> Output Class Initialized
+DEBUG - 2012-11-18 12:15:20 --> Security Class Initialized
+DEBUG - 2012-11-18 12:15:21 --> Input Class Initialized
+DEBUG - 2012-11-18 12:15:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:15:21 --> Language Class Initialized
+DEBUG - 2012-11-18 12:15:21 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:15:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:15:21 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:15:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:15:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:15:21 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:15:21 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:15:21 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:15:21 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:15:21 --> Final output sent to browser
+DEBUG - 2012-11-18 12:15:21 --> Total execution time: 1.0837
+DEBUG - 2012-11-18 12:15:37 --> Config Class Initialized
+DEBUG - 2012-11-18 12:15:37 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:15:37 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:15:37 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:15:38 --> URI Class Initialized
+DEBUG - 2012-11-18 12:15:38 --> Router Class Initialized
+DEBUG - 2012-11-18 12:15:38 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:15:38 --> Output Class Initialized
+DEBUG - 2012-11-18 12:15:38 --> Security Class Initialized
+DEBUG - 2012-11-18 12:15:38 --> Input Class Initialized
+DEBUG - 2012-11-18 12:15:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:15:38 --> Language Class Initialized
+DEBUG - 2012-11-18 12:15:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:15:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:15:39 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:15:39 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:15:39 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:15:39 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:15:39 --> Final output sent to browser
+DEBUG - 2012-11-18 12:15:40 --> Total execution time: 2.3283
+DEBUG - 2012-11-18 12:15:42 --> Config Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:15:42 --> URI Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Router Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Output Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Security Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Input Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:15:42 --> Language Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:15:42 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:15:42 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:15:43 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:15:43 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:15:43 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:15:43 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:15:43 --> Final output sent to browser
+DEBUG - 2012-11-18 12:15:43 --> Total execution time: 1.2813
+DEBUG - 2012-11-18 12:15:54 --> Config Class Initialized
+DEBUG - 2012-11-18 12:15:55 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:15:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:15:55 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:15:55 --> URI Class Initialized
+DEBUG - 2012-11-18 12:15:55 --> Router Class Initialized
+DEBUG - 2012-11-18 12:15:55 --> Output Class Initialized
+DEBUG - 2012-11-18 12:15:55 --> Security Class Initialized
+DEBUG - 2012-11-18 12:15:56 --> Input Class Initialized
+DEBUG - 2012-11-18 12:15:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:15:56 --> Language Class Initialized
+DEBUG - 2012-11-18 12:15:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:15:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:15:56 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:15:56 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:15:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:15:57 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:15:57 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:15:57 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:15:57 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:15:57 --> Final output sent to browser
+DEBUG - 2012-11-18 12:15:57 --> Total execution time: 2.6381
+DEBUG - 2012-11-18 12:16:35 --> Config Class Initialized
+DEBUG - 2012-11-18 12:16:35 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:16:35 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:16:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:16:35 --> URI Class Initialized
+DEBUG - 2012-11-18 12:16:35 --> Router Class Initialized
+DEBUG - 2012-11-18 12:16:35 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:16:35 --> Output Class Initialized
+DEBUG - 2012-11-18 12:16:35 --> Security Class Initialized
+DEBUG - 2012-11-18 12:16:35 --> Input Class Initialized
+DEBUG - 2012-11-18 12:16:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:16:35 --> Language Class Initialized
+DEBUG - 2012-11-18 12:16:36 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:16:36 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:16:36 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:16:36 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:16:36 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:16:36 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:16:36 --> Final output sent to browser
+DEBUG - 2012-11-18 12:16:36 --> Total execution time: 1.1972
+DEBUG - 2012-11-18 12:16:38 --> Config Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:16:38 --> URI Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Router Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Output Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Security Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Input Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:16:38 --> Language Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:16:38 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:16:38 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:16:39 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:16:39 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:16:39 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:16:39 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:16:39 --> Final output sent to browser
+DEBUG - 2012-11-18 12:16:39 --> Total execution time: 1.2893
+DEBUG - 2012-11-18 12:16:40 --> Config Class Initialized
+DEBUG - 2012-11-18 12:16:40 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:16:40 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:16:40 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:16:40 --> URI Class Initialized
+DEBUG - 2012-11-18 12:16:40 --> Router Class Initialized
+DEBUG - 2012-11-18 12:16:40 --> Output Class Initialized
+DEBUG - 2012-11-18 12:16:40 --> Security Class Initialized
+DEBUG - 2012-11-18 12:16:40 --> Input Class Initialized
+DEBUG - 2012-11-18 12:16:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:16:40 --> Language Class Initialized
+DEBUG - 2012-11-18 12:16:40 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:16:41 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:16:41 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:16:41 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:16:41 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:16:41 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:16:41 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:16:41 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 12:16:41 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:16:41 --> False
+DEBUG - 2012-11-18 12:16:41 --> Final output sent to browser
+DEBUG - 2012-11-18 12:16:41 --> Total execution time: 1.0573
+DEBUG - 2012-11-18 12:16:52 --> Config Class Initialized
+DEBUG - 2012-11-18 12:16:52 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:16:52 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:16:52 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:16:52 --> URI Class Initialized
+DEBUG - 2012-11-18 12:16:52 --> Router Class Initialized
+DEBUG - 2012-11-18 12:16:53 --> Output Class Initialized
+DEBUG - 2012-11-18 12:16:53 --> Security Class Initialized
+DEBUG - 2012-11-18 12:16:53 --> Input Class Initialized
+DEBUG - 2012-11-18 12:16:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:16:53 --> Language Class Initialized
+DEBUG - 2012-11-18 12:16:53 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:16:53 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:16:53 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:16:54 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:16:54 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:16:54 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:16:54 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:16:54 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 12:16:54 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:16:54 --> False
+DEBUG - 2012-11-18 12:16:54 --> Final output sent to browser
+DEBUG - 2012-11-18 12:16:55 --> Total execution time: 2.5643
+DEBUG - 2012-11-18 12:21:16 --> Config Class Initialized
+DEBUG - 2012-11-18 12:21:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:21:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:21:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:21:16 --> URI Class Initialized
+DEBUG - 2012-11-18 12:21:16 --> Router Class Initialized
+DEBUG - 2012-11-18 12:21:16 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:21:17 --> Output Class Initialized
+DEBUG - 2012-11-18 12:21:17 --> Security Class Initialized
+DEBUG - 2012-11-18 12:21:17 --> Input Class Initialized
+DEBUG - 2012-11-18 12:21:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:21:17 --> Language Class Initialized
+DEBUG - 2012-11-18 12:21:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:21:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:21:18 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:21:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:21:18 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:21:18 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:21:19 --> Final output sent to browser
+DEBUG - 2012-11-18 12:21:19 --> Total execution time: 2.9739
+DEBUG - 2012-11-18 12:21:27 --> Config Class Initialized
+DEBUG - 2012-11-18 12:21:27 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:21:27 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:21:27 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:21:27 --> URI Class Initialized
+DEBUG - 2012-11-18 12:21:27 --> Router Class Initialized
+ERROR - 2012-11-18 12:21:28 --> 404 Page Not Found --> cargarUser
+DEBUG - 2012-11-18 12:21:39 --> Config Class Initialized
+DEBUG - 2012-11-18 12:21:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:21:40 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:21:40 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:21:40 --> URI Class Initialized
+DEBUG - 2012-11-18 12:21:40 --> Router Class Initialized
+DEBUG - 2012-11-18 12:21:40 --> Output Class Initialized
+DEBUG - 2012-11-18 12:21:40 --> Security Class Initialized
+DEBUG - 2012-11-18 12:21:40 --> Input Class Initialized
+DEBUG - 2012-11-18 12:21:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:21:40 --> Language Class Initialized
+DEBUG - 2012-11-18 12:21:41 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:21:41 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:21:41 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:21:41 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:21:41 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:21:41 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:21:41 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:21:41 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:21:41 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:21:41 --> Final output sent to browser
+DEBUG - 2012-11-18 12:21:41 --> Total execution time: 2.1516
+DEBUG - 2012-11-18 12:23:31 --> Config Class Initialized
+DEBUG - 2012-11-18 12:23:31 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:23:31 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:23:31 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:23:31 --> URI Class Initialized
+DEBUG - 2012-11-18 12:23:31 --> Router Class Initialized
+DEBUG - 2012-11-18 12:23:32 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:23:32 --> Output Class Initialized
+DEBUG - 2012-11-18 12:23:32 --> Security Class Initialized
+DEBUG - 2012-11-18 12:23:32 --> Input Class Initialized
+DEBUG - 2012-11-18 12:23:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:23:32 --> Language Class Initialized
+DEBUG - 2012-11-18 12:23:32 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:23:33 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:23:33 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:23:33 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:23:33 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:23:33 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:23:33 --> Final output sent to browser
+DEBUG - 2012-11-18 12:23:33 --> Total execution time: 2.4298
+DEBUG - 2012-11-18 12:23:35 --> Config Class Initialized
+DEBUG - 2012-11-18 12:23:35 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:23:35 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:23:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:23:36 --> URI Class Initialized
+DEBUG - 2012-11-18 12:23:36 --> Router Class Initialized
+DEBUG - 2012-11-18 12:23:36 --> Output Class Initialized
+DEBUG - 2012-11-18 12:23:36 --> Security Class Initialized
+DEBUG - 2012-11-18 12:23:36 --> Input Class Initialized
+DEBUG - 2012-11-18 12:23:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:23:36 --> Language Class Initialized
+DEBUG - 2012-11-18 12:23:36 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:23:36 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:23:36 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:23:36 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:23:36 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:23:37 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:23:37 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:23:37 --> File loaded: application/views/php/login.php
+INFO  - 2012-11-18 12:23:37 --> Ingreso al sistema2
+DEBUG - 2012-11-18 12:23:37 --> Final output sent to browser
+DEBUG - 2012-11-18 12:23:37 --> Total execution time: 1.6052
+DEBUG - 2012-11-18 12:23:38 --> Config Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:23:39 --> URI Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Router Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Output Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Security Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Input Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:23:39 --> Language Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:23:39 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:23:39 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:23:39 --> Helper loaded: html_helper
+DEBUG - 2012-11-18 12:23:39 --> Form Validation Class Initialized
+DEBUG - 2012-11-18 12:23:40 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2012-11-18 12:25:04 --> Config Class Initialized
+DEBUG - 2012-11-18 12:25:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:25:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:25:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:25:05 --> URI Class Initialized
+DEBUG - 2012-11-18 12:25:05 --> Router Class Initialized
+DEBUG - 2012-11-18 12:25:05 --> Output Class Initialized
+DEBUG - 2012-11-18 12:25:05 --> Security Class Initialized
+DEBUG - 2012-11-18 12:25:05 --> Input Class Initialized
+DEBUG - 2012-11-18 12:25:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:25:05 --> Language Class Initialized
+DEBUG - 2012-11-18 12:25:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:25:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:25:06 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:25:06 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:25:06 --> Model Class Initialized
+DEBUG - 2012-11-18 12:25:06 --> Model Class Initialized
+DEBUG - 2012-11-18 12:25:06 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:25:06 --> Final output sent to browser
+DEBUG - 2012-11-18 12:25:07 --> Total execution time: 2.2252
+DEBUG - 2012-11-18 12:25:10 --> Config Class Initialized
+DEBUG - 2012-11-18 12:25:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:25:11 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:25:11 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:25:11 --> URI Class Initialized
+DEBUG - 2012-11-18 12:25:11 --> Router Class Initialized
+DEBUG - 2012-11-18 12:25:11 --> Output Class Initialized
+DEBUG - 2012-11-18 12:25:11 --> Security Class Initialized
+DEBUG - 2012-11-18 12:25:11 --> Input Class Initialized
+DEBUG - 2012-11-18 12:25:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:25:11 --> Language Class Initialized
+DEBUG - 2012-11-18 12:25:12 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:25:12 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:25:12 --> Controller Class Initialized
+INFO  - 2012-11-18 12:25:12 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:25:12 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:25:12 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:25:12 --> Final output sent to browser
+DEBUG - 2012-11-18 12:25:12 --> Total execution time: 2.0409
+DEBUG - 2012-11-18 12:25:14 --> Config Class Initialized
+DEBUG - 2012-11-18 12:25:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:25:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:25:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:25:14 --> URI Class Initialized
+DEBUG - 2012-11-18 12:25:14 --> Router Class Initialized
+DEBUG - 2012-11-18 12:25:14 --> Output Class Initialized
+DEBUG - 2012-11-18 12:25:14 --> Security Class Initialized
+DEBUG - 2012-11-18 12:25:14 --> Input Class Initialized
+DEBUG - 2012-11-18 12:25:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:25:15 --> Language Class Initialized
+DEBUG - 2012-11-18 12:25:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:25:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:25:15 --> Controller Class Initialized
+INFO  - 2012-11-18 12:25:15 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:25:15 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:25:15 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:25:15 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:25:15 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:25:15 --> Model Class Initialized
+DEBUG - 2012-11-18 12:25:15 --> Model Class Initialized
+INFO  - 2012-11-18 12:25:15 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:25:15 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:25:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:25:16 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:25:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:25:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:25:16 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:25:16 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:25:16 --> Final output sent to browser
+DEBUG - 2012-11-18 12:25:16 --> Total execution time: 2.1742
+DEBUG - 2012-11-18 12:25:19 --> Config Class Initialized
+DEBUG - 2012-11-18 12:25:19 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:25:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:25:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:25:19 --> URI Class Initialized
+DEBUG - 2012-11-18 12:25:19 --> Router Class Initialized
+DEBUG - 2012-11-18 12:25:20 --> Output Class Initialized
+DEBUG - 2012-11-18 12:25:20 --> Security Class Initialized
+DEBUG - 2012-11-18 12:25:20 --> Input Class Initialized
+DEBUG - 2012-11-18 12:25:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:25:20 --> Language Class Initialized
+DEBUG - 2012-11-18 12:25:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:25:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:25:20 --> Controller Class Initialized
+INFO  - 2012-11-18 12:25:20 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:25:21 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:25:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:25:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:25:21 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:25:21 --> Model Class Initialized
+DEBUG - 2012-11-18 12:25:21 --> Model Class Initialized
+ERROR - 2012-11-18 12:25:21 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 155
+ERROR - 2012-11-18 12:25:22 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 156
+INFO  - 2012-11-18 12:25:22 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:25:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:25:22 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:25:22 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:25:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:25:22 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:25:22 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:25:22 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:25:23 --> Final output sent to browser
+DEBUG - 2012-11-18 12:25:23 --> Total execution time: 3.7710
+DEBUG - 2012-11-18 12:26:15 --> Config Class Initialized
+DEBUG - 2012-11-18 12:26:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:26:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:26:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:26:16 --> URI Class Initialized
+DEBUG - 2012-11-18 12:26:16 --> Router Class Initialized
+DEBUG - 2012-11-18 12:26:16 --> Output Class Initialized
+DEBUG - 2012-11-18 12:26:16 --> Security Class Initialized
+DEBUG - 2012-11-18 12:26:17 --> Input Class Initialized
+DEBUG - 2012-11-18 12:26:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:26:17 --> Language Class Initialized
+DEBUG - 2012-11-18 12:26:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:26:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:26:17 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:26:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:26:17 --> Model Class Initialized
+DEBUG - 2012-11-18 12:26:18 --> Model Class Initialized
+DEBUG - 2012-11-18 12:26:18 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:26:18 --> Final output sent to browser
+DEBUG - 2012-11-18 12:26:18 --> Total execution time: 2.4005
+DEBUG - 2012-11-18 12:26:21 --> Config Class Initialized
+DEBUG - 2012-11-18 12:26:22 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:26:22 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:26:22 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:26:22 --> URI Class Initialized
+DEBUG - 2012-11-18 12:26:22 --> Router Class Initialized
+DEBUG - 2012-11-18 12:26:22 --> Output Class Initialized
+DEBUG - 2012-11-18 12:26:22 --> Security Class Initialized
+DEBUG - 2012-11-18 12:26:23 --> Input Class Initialized
+DEBUG - 2012-11-18 12:26:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:26:23 --> Language Class Initialized
+DEBUG - 2012-11-18 12:26:23 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:26:23 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:26:23 --> Controller Class Initialized
+INFO  - 2012-11-18 12:26:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:26:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:26:24 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:26:24 --> Final output sent to browser
+DEBUG - 2012-11-18 12:26:24 --> Total execution time: 2.3209
+DEBUG - 2012-11-18 12:26:28 --> Config Class Initialized
+DEBUG - 2012-11-18 12:26:28 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:26:28 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:26:28 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:26:28 --> URI Class Initialized
+DEBUG - 2012-11-18 12:26:28 --> Router Class Initialized
+DEBUG - 2012-11-18 12:26:28 --> Output Class Initialized
+DEBUG - 2012-11-18 12:26:28 --> Security Class Initialized
+DEBUG - 2012-11-18 12:26:28 --> Input Class Initialized
+DEBUG - 2012-11-18 12:26:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:26:28 --> Language Class Initialized
+DEBUG - 2012-11-18 12:26:28 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:26:29 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:26:29 --> Controller Class Initialized
+INFO  - 2012-11-18 12:26:29 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:26:29 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:26:29 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:26:29 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:26:29 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:26:30 --> Model Class Initialized
+DEBUG - 2012-11-18 12:26:30 --> Model Class Initialized
+INFO  - 2012-11-18 12:26:30 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:26:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:26:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:26:30 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:26:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:26:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:26:31 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:26:31 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:26:31 --> Final output sent to browser
+DEBUG - 2012-11-18 12:26:31 --> Total execution time: 3.2093
+DEBUG - 2012-11-18 12:26:32 --> Config Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:26:33 --> URI Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Router Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Output Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Security Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Input Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:26:33 --> Language Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:26:33 --> Controller Class Initialized
+INFO  - 2012-11-18 12:26:34 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:26:34 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:26:34 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:26:34 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:26:34 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:26:34 --> Model Class Initialized
+DEBUG - 2012-11-18 12:26:34 --> Model Class Initialized
+ERROR - 2012-11-18 12:26:34 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 155
+ERROR - 2012-11-18 12:26:34 --> Severity: Notice  --> Undefined index: nombOperacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 156
+INFO  - 2012-11-18 12:26:34 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:26:34 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:26:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:26:34 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:26:34 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:26:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:26:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:26:35 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:26:35 --> Final output sent to browser
+DEBUG - 2012-11-18 12:26:35 --> Total execution time: 2.2539
+DEBUG - 2012-11-18 12:29:22 --> Config Class Initialized
+DEBUG - 2012-11-18 12:29:23 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:29:23 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:29:23 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:29:23 --> URI Class Initialized
+DEBUG - 2012-11-18 12:29:23 --> Router Class Initialized
+DEBUG - 2012-11-18 12:29:23 --> Output Class Initialized
+DEBUG - 2012-11-18 12:29:23 --> Security Class Initialized
+DEBUG - 2012-11-18 12:29:24 --> Input Class Initialized
+DEBUG - 2012-11-18 12:29:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:29:24 --> Language Class Initialized
+DEBUG - 2012-11-18 12:29:24 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:29:24 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:29:24 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:29:24 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:29:24 --> Model Class Initialized
+DEBUG - 2012-11-18 12:29:24 --> Model Class Initialized
+DEBUG - 2012-11-18 12:29:25 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:29:25 --> Final output sent to browser
+DEBUG - 2012-11-18 12:29:25 --> Total execution time: 2.3068
+DEBUG - 2012-11-18 12:29:28 --> Config Class Initialized
+DEBUG - 2012-11-18 12:29:28 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:29:28 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:29:28 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:29:28 --> URI Class Initialized
+DEBUG - 2012-11-18 12:29:28 --> Router Class Initialized
+DEBUG - 2012-11-18 12:29:29 --> Output Class Initialized
+DEBUG - 2012-11-18 12:29:29 --> Security Class Initialized
+DEBUG - 2012-11-18 12:29:29 --> Input Class Initialized
+DEBUG - 2012-11-18 12:29:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:29:29 --> Language Class Initialized
+DEBUG - 2012-11-18 12:29:29 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:29:29 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:29:30 --> Controller Class Initialized
+INFO  - 2012-11-18 12:29:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:29:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:29:30 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:29:30 --> Final output sent to browser
+DEBUG - 2012-11-18 12:29:30 --> Total execution time: 2.1508
+DEBUG - 2012-11-18 12:29:32 --> Config Class Initialized
+DEBUG - 2012-11-18 12:29:32 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:29:32 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:29:32 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:29:32 --> URI Class Initialized
+DEBUG - 2012-11-18 12:29:33 --> Router Class Initialized
+DEBUG - 2012-11-18 12:29:33 --> Output Class Initialized
+DEBUG - 2012-11-18 12:29:33 --> Security Class Initialized
+DEBUG - 2012-11-18 12:29:33 --> Input Class Initialized
+DEBUG - 2012-11-18 12:29:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:29:33 --> Language Class Initialized
+DEBUG - 2012-11-18 12:29:33 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:29:33 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:29:33 --> Controller Class Initialized
+INFO  - 2012-11-18 12:29:33 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:29:33 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:29:33 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:29:33 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:29:34 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:29:34 --> Model Class Initialized
+DEBUG - 2012-11-18 12:29:34 --> Model Class Initialized
+INFO  - 2012-11-18 12:29:34 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:29:34 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:29:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:29:34 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:29:34 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:29:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:29:34 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:29:34 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:29:34 --> Final output sent to browser
+DEBUG - 2012-11-18 12:29:34 --> Total execution time: 2.3513
+DEBUG - 2012-11-18 12:29:38 --> Config Class Initialized
+DEBUG - 2012-11-18 12:29:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:29:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:29:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:29:38 --> URI Class Initialized
+DEBUG - 2012-11-18 12:29:38 --> Router Class Initialized
+DEBUG - 2012-11-18 12:29:38 --> Output Class Initialized
+DEBUG - 2012-11-18 12:29:39 --> Security Class Initialized
+DEBUG - 2012-11-18 12:29:39 --> Input Class Initialized
+DEBUG - 2012-11-18 12:29:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:29:39 --> Language Class Initialized
+DEBUG - 2012-11-18 12:29:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:29:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:29:39 --> Controller Class Initialized
+INFO  - 2012-11-18 12:29:40 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:29:40 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:29:40 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:29:40 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:29:40 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:29:40 --> Model Class Initialized
+DEBUG - 2012-11-18 12:29:40 --> Model Class Initialized
+ERROR - 2012-11-18 12:29:41 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 155
+ERROR - 2012-11-18 12:29:41 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 156
+INFO  - 2012-11-18 12:29:41 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:29:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:29:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:29:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:29:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:29:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:29:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:29:42 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:29:42 --> Final output sent to browser
+DEBUG - 2012-11-18 12:29:42 --> Total execution time: 4.0266
+DEBUG - 2012-11-18 12:31:19 --> Config Class Initialized
+DEBUG - 2012-11-18 12:31:19 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:31:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:31:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:31:19 --> URI Class Initialized
+DEBUG - 2012-11-18 12:31:19 --> Router Class Initialized
+DEBUG - 2012-11-18 12:31:19 --> Output Class Initialized
+DEBUG - 2012-11-18 12:31:20 --> Security Class Initialized
+DEBUG - 2012-11-18 12:31:20 --> Input Class Initialized
+DEBUG - 2012-11-18 12:31:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:31:20 --> Language Class Initialized
+DEBUG - 2012-11-18 12:31:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:31:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:31:20 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:31:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:31:21 --> Model Class Initialized
+DEBUG - 2012-11-18 12:31:21 --> Model Class Initialized
+DEBUG - 2012-11-18 12:31:21 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:31:21 --> Final output sent to browser
+DEBUG - 2012-11-18 12:31:22 --> Total execution time: 2.8129
+DEBUG - 2012-11-18 12:31:24 --> Config Class Initialized
+DEBUG - 2012-11-18 12:31:25 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:31:25 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:31:25 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:31:25 --> URI Class Initialized
+DEBUG - 2012-11-18 12:31:25 --> Router Class Initialized
+DEBUG - 2012-11-18 12:31:25 --> Output Class Initialized
+DEBUG - 2012-11-18 12:31:25 --> Security Class Initialized
+DEBUG - 2012-11-18 12:31:26 --> Input Class Initialized
+DEBUG - 2012-11-18 12:31:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:31:26 --> Language Class Initialized
+DEBUG - 2012-11-18 12:31:26 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:31:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:31:26 --> Controller Class Initialized
+INFO  - 2012-11-18 12:31:26 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:31:26 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:31:26 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:31:27 --> Final output sent to browser
+DEBUG - 2012-11-18 12:31:27 --> Total execution time: 2.2058
+DEBUG - 2012-11-18 12:31:29 --> Config Class Initialized
+DEBUG - 2012-11-18 12:31:29 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:31:29 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:31:29 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:31:29 --> URI Class Initialized
+DEBUG - 2012-11-18 12:31:29 --> Router Class Initialized
+DEBUG - 2012-11-18 12:31:29 --> Output Class Initialized
+DEBUG - 2012-11-18 12:31:29 --> Security Class Initialized
+DEBUG - 2012-11-18 12:31:29 --> Input Class Initialized
+DEBUG - 2012-11-18 12:31:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:31:30 --> Language Class Initialized
+DEBUG - 2012-11-18 12:31:30 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:31:30 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:31:30 --> Controller Class Initialized
+INFO  - 2012-11-18 12:31:30 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:31:30 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:31:30 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:31:30 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:31:30 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:31:30 --> Model Class Initialized
+DEBUG - 2012-11-18 12:31:30 --> Model Class Initialized
+INFO  - 2012-11-18 12:31:30 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:31:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:30 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:31:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:31 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:31:31 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:31:31 --> Final output sent to browser
+DEBUG - 2012-11-18 12:31:31 --> Total execution time: 1.8223
+DEBUG - 2012-11-18 12:31:33 --> Config Class Initialized
+DEBUG - 2012-11-18 12:31:33 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:31:33 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:31:33 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:31:33 --> URI Class Initialized
+DEBUG - 2012-11-18 12:31:33 --> Router Class Initialized
+DEBUG - 2012-11-18 12:31:33 --> Output Class Initialized
+DEBUG - 2012-11-18 12:31:33 --> Security Class Initialized
+DEBUG - 2012-11-18 12:31:33 --> Input Class Initialized
+DEBUG - 2012-11-18 12:31:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:31:33 --> Language Class Initialized
+DEBUG - 2012-11-18 12:31:34 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:31:34 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:31:34 --> Controller Class Initialized
+INFO  - 2012-11-18 12:31:34 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:31:34 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:31:34 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:31:34 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:31:34 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:31:34 --> Model Class Initialized
+DEBUG - 2012-11-18 12:31:34 --> Model Class Initialized
+INFO  - 2012-11-18 12:31:35 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:31:35 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:35 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:31:35 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:35 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:31:35 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:31:36 --> Final output sent to browser
+DEBUG - 2012-11-18 12:31:36 --> Total execution time: 2.7237
+DEBUG - 2012-11-18 12:31:38 --> Config Class Initialized
+DEBUG - 2012-11-18 12:31:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:31:39 --> URI Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> Router Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> Output Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> Security Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> Input Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:31:39 --> Language Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:31:39 --> Controller Class Initialized
+INFO  - 2012-11-18 12:31:40 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:31:40 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:31:40 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:31:40 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:31:40 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:31:40 --> Model Class Initialized
+DEBUG - 2012-11-18 12:31:41 --> Model Class Initialized
+INFO  - 2012-11-18 12:31:41 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:31:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:31:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:31:41 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:31:42 --> Final output sent to browser
+DEBUG - 2012-11-18 12:31:42 --> Total execution time: 3.1932
+DEBUG - 2012-11-18 12:31:44 --> Config Class Initialized
+DEBUG - 2012-11-18 12:31:44 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:31:45 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:31:45 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:31:45 --> URI Class Initialized
+DEBUG - 2012-11-18 12:31:45 --> Router Class Initialized
+DEBUG - 2012-11-18 12:31:45 --> Output Class Initialized
+DEBUG - 2012-11-18 12:31:45 --> Security Class Initialized
+DEBUG - 2012-11-18 12:31:45 --> Input Class Initialized
+DEBUG - 2012-11-18 12:31:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:31:46 --> Language Class Initialized
+DEBUG - 2012-11-18 12:31:46 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:31:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:31:46 --> Controller Class Initialized
+INFO  - 2012-11-18 12:31:46 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:31:46 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:31:46 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:31:47 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:31:47 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:31:47 --> Model Class Initialized
+DEBUG - 2012-11-18 12:31:47 --> Model Class Initialized
+ERROR - 2012-11-18 12:31:47 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 155
+ERROR - 2012-11-18 12:31:47 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 156
+INFO  - 2012-11-18 12:31:48 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:31:48 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:48 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:48 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:31:48 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:48 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:31:48 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:31:48 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:31:48 --> Final output sent to browser
+DEBUG - 2012-11-18 12:31:48 --> Total execution time: 4.1216
+DEBUG - 2012-11-18 12:44:05 --> Config Class Initialized
+DEBUG - 2012-11-18 12:44:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:44:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:44:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:44:06 --> URI Class Initialized
+DEBUG - 2012-11-18 12:44:06 --> Router Class Initialized
+DEBUG - 2012-11-18 12:44:06 --> Output Class Initialized
+DEBUG - 2012-11-18 12:44:06 --> Security Class Initialized
+DEBUG - 2012-11-18 12:44:07 --> Input Class Initialized
+DEBUG - 2012-11-18 12:44:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:44:07 --> Language Class Initialized
+DEBUG - 2012-11-18 12:44:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:44:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:44:07 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:44:08 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:44:08 --> Model Class Initialized
+DEBUG - 2012-11-18 12:44:08 --> Model Class Initialized
+DEBUG - 2012-11-18 12:44:08 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:44:08 --> Final output sent to browser
+DEBUG - 2012-11-18 12:44:08 --> Total execution time: 2.7920
+DEBUG - 2012-11-18 12:44:13 --> Config Class Initialized
+DEBUG - 2012-11-18 12:44:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:44:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:44:13 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:44:13 --> URI Class Initialized
+DEBUG - 2012-11-18 12:44:13 --> Router Class Initialized
+DEBUG - 2012-11-18 12:44:13 --> Output Class Initialized
+DEBUG - 2012-11-18 12:44:13 --> Security Class Initialized
+DEBUG - 2012-11-18 12:44:13 --> Input Class Initialized
+DEBUG - 2012-11-18 12:44:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:44:14 --> Language Class Initialized
+DEBUG - 2012-11-18 12:44:14 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:44:14 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:44:14 --> Controller Class Initialized
+INFO  - 2012-11-18 12:44:14 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:44:14 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:44:14 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:44:14 --> Final output sent to browser
+DEBUG - 2012-11-18 12:44:14 --> Total execution time: 1.8093
+DEBUG - 2012-11-18 12:44:16 --> Config Class Initialized
+DEBUG - 2012-11-18 12:44:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:44:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:44:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:44:16 --> URI Class Initialized
+DEBUG - 2012-11-18 12:44:16 --> Router Class Initialized
+DEBUG - 2012-11-18 12:44:16 --> Output Class Initialized
+DEBUG - 2012-11-18 12:44:16 --> Security Class Initialized
+DEBUG - 2012-11-18 12:44:16 --> Input Class Initialized
+DEBUG - 2012-11-18 12:44:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:44:17 --> Language Class Initialized
+DEBUG - 2012-11-18 12:44:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:44:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:44:17 --> Controller Class Initialized
+INFO  - 2012-11-18 12:44:17 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:44:17 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:44:17 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:44:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:44:18 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:44:18 --> Model Class Initialized
+DEBUG - 2012-11-18 12:44:18 --> Model Class Initialized
+INFO  - 2012-11-18 12:44:18 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:44:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:44:18 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:44:19 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:44:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:44:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:44:19 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:44:19 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:44:19 --> Final output sent to browser
+DEBUG - 2012-11-18 12:44:19 --> Total execution time: 3.4921
+DEBUG - 2012-11-18 12:44:45 --> Config Class Initialized
+DEBUG - 2012-11-18 12:44:45 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:44:45 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:44:45 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:44:45 --> URI Class Initialized
+DEBUG - 2012-11-18 12:44:46 --> Router Class Initialized
+DEBUG - 2012-11-18 12:44:46 --> Output Class Initialized
+DEBUG - 2012-11-18 12:44:46 --> Security Class Initialized
+DEBUG - 2012-11-18 12:44:46 --> Input Class Initialized
+DEBUG - 2012-11-18 12:44:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:44:46 --> Language Class Initialized
+DEBUG - 2012-11-18 12:44:46 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:44:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:44:46 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:44:47 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:44:47 --> Model Class Initialized
+DEBUG - 2012-11-18 12:44:47 --> Model Class Initialized
+DEBUG - 2012-11-18 12:44:47 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:44:47 --> Final output sent to browser
+DEBUG - 2012-11-18 12:44:47 --> Total execution time: 2.2551
+DEBUG - 2012-11-18 12:44:50 --> Config Class Initialized
+DEBUG - 2012-11-18 12:44:50 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:44:50 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:44:50 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:44:50 --> URI Class Initialized
+DEBUG - 2012-11-18 12:44:50 --> Router Class Initialized
+DEBUG - 2012-11-18 12:44:50 --> Output Class Initialized
+DEBUG - 2012-11-18 12:44:50 --> Security Class Initialized
+DEBUG - 2012-11-18 12:44:50 --> Input Class Initialized
+DEBUG - 2012-11-18 12:44:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:44:51 --> Language Class Initialized
+DEBUG - 2012-11-18 12:44:51 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:44:51 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:44:51 --> Controller Class Initialized
+INFO  - 2012-11-18 12:44:51 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:44:51 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:44:51 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:44:51 --> Final output sent to browser
+DEBUG - 2012-11-18 12:44:51 --> Total execution time: 1.2019
+DEBUG - 2012-11-18 12:44:53 --> Config Class Initialized
+DEBUG - 2012-11-18 12:44:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:44:53 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:44:53 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:44:53 --> URI Class Initialized
+DEBUG - 2012-11-18 12:44:53 --> Router Class Initialized
+DEBUG - 2012-11-18 12:44:53 --> Output Class Initialized
+DEBUG - 2012-11-18 12:44:53 --> Security Class Initialized
+DEBUG - 2012-11-18 12:44:54 --> Input Class Initialized
+DEBUG - 2012-11-18 12:44:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:44:54 --> Language Class Initialized
+DEBUG - 2012-11-18 12:44:54 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:44:54 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:44:54 --> Controller Class Initialized
+INFO  - 2012-11-18 12:44:54 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:44:54 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:44:54 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:44:54 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:44:54 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:44:54 --> Model Class Initialized
+DEBUG - 2012-11-18 12:44:54 --> Model Class Initialized
+INFO  - 2012-11-18 12:44:55 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:44:55 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:44:55 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:44:55 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:44:55 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:44:55 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:44:55 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:44:55 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:44:55 --> Final output sent to browser
+DEBUG - 2012-11-18 12:44:55 --> Total execution time: 2.1116
+DEBUG - 2012-11-18 12:44:59 --> Config Class Initialized
+DEBUG - 2012-11-18 12:44:59 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:44:59 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:44:59 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:44:59 --> URI Class Initialized
+DEBUG - 2012-11-18 12:45:00 --> Router Class Initialized
+DEBUG - 2012-11-18 12:45:00 --> Output Class Initialized
+DEBUG - 2012-11-18 12:45:00 --> Security Class Initialized
+DEBUG - 2012-11-18 12:45:00 --> Input Class Initialized
+DEBUG - 2012-11-18 12:45:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:45:00 --> Language Class Initialized
+DEBUG - 2012-11-18 12:45:00 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:45:00 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:45:00 --> Controller Class Initialized
+INFO  - 2012-11-18 12:45:01 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:45:01 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:45:01 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:45:01 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:45:01 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:45:01 --> Model Class Initialized
+DEBUG - 2012-11-18 12:45:01 --> Model Class Initialized
+ERROR - 2012-11-18 12:45:01 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 155
+ERROR - 2012-11-18 12:45:02 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 156
+INFO  - 2012-11-18 12:45:02 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:45:02 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:45:02 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:45:02 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:45:02 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:45:02 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:45:02 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:45:02 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:45:02 --> Final output sent to browser
+DEBUG - 2012-11-18 12:45:03 --> Total execution time: 3.4680
+DEBUG - 2012-11-18 12:47:50 --> Config Class Initialized
+DEBUG - 2012-11-18 12:47:50 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:47:50 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:47:51 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:47:51 --> URI Class Initialized
+DEBUG - 2012-11-18 12:47:51 --> Router Class Initialized
+DEBUG - 2012-11-18 12:47:51 --> No URI present. Default controller set.
+DEBUG - 2012-11-18 12:47:51 --> Output Class Initialized
+DEBUG - 2012-11-18 12:47:51 --> Security Class Initialized
+DEBUG - 2012-11-18 12:47:51 --> Input Class Initialized
+DEBUG - 2012-11-18 12:47:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:47:51 --> Language Class Initialized
+DEBUG - 2012-11-18 12:47:52 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:47:52 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:47:52 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:47:52 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:47:52 --> File loaded: application/views/inicio_view.php
+INFO  - 2012-11-18 12:47:52 --> haciendo una prueba hoy
+DEBUG - 2012-11-18 12:47:52 --> Final output sent to browser
+DEBUG - 2012-11-18 12:47:53 --> Total execution time: 2.3143
+DEBUG - 2012-11-18 12:47:58 --> Config Class Initialized
+DEBUG - 2012-11-18 12:47:58 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:47:58 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:47:58 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:47:58 --> URI Class Initialized
+DEBUG - 2012-11-18 12:47:58 --> Router Class Initialized
+DEBUG - 2012-11-18 12:47:58 --> Output Class Initialized
+DEBUG - 2012-11-18 12:47:59 --> Security Class Initialized
+DEBUG - 2012-11-18 12:47:59 --> Input Class Initialized
+DEBUG - 2012-11-18 12:47:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:47:59 --> Language Class Initialized
+DEBUG - 2012-11-18 12:47:59 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:47:59 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:48:00 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:48:00 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:48:00 --> Model Class Initialized
+DEBUG - 2012-11-18 12:48:00 --> Model Class Initialized
+DEBUG - 2012-11-18 12:48:00 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:48:01 --> Final output sent to browser
+DEBUG - 2012-11-18 12:48:01 --> Total execution time: 2.9512
+DEBUG - 2012-11-18 12:48:09 --> Config Class Initialized
+DEBUG - 2012-11-18 12:48:09 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:48:09 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:48:09 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:48:09 --> URI Class Initialized
+DEBUG - 2012-11-18 12:48:09 --> Router Class Initialized
+DEBUG - 2012-11-18 12:48:09 --> Output Class Initialized
+DEBUG - 2012-11-18 12:48:10 --> Security Class Initialized
+DEBUG - 2012-11-18 12:48:10 --> Input Class Initialized
+DEBUG - 2012-11-18 12:48:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:48:10 --> Language Class Initialized
+DEBUG - 2012-11-18 12:48:10 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:48:10 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:48:10 --> Controller Class Initialized
+INFO  - 2012-11-18 12:48:10 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 12:48:10 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:48:10 --> Model Class Initialized
+DEBUG - 2012-11-18 12:48:10 --> Model Class Initialized
+DEBUG - 2012-11-18 12:48:10 --> File loaded: application/views/rol/menu_view.php
+INFO  - 2012-11-18 12:48:11 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 12:48:11 --> Final output sent to browser
+DEBUG - 2012-11-18 12:48:11 --> Total execution time: 1.7290
+DEBUG - 2012-11-18 12:48:12 --> Config Class Initialized
+DEBUG - 2012-11-18 12:48:12 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:48:12 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:48:12 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:48:12 --> URI Class Initialized
+DEBUG - 2012-11-18 12:48:13 --> Router Class Initialized
+DEBUG - 2012-11-18 12:48:13 --> Output Class Initialized
+DEBUG - 2012-11-18 12:48:13 --> Security Class Initialized
+DEBUG - 2012-11-18 12:48:13 --> Input Class Initialized
+DEBUG - 2012-11-18 12:48:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:48:13 --> Language Class Initialized
+DEBUG - 2012-11-18 12:48:13 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:48:13 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:48:13 --> Controller Class Initialized
+INFO  - 2012-11-18 12:48:13 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: departamento()]
+DEBUG - 2012-11-18 12:48:13 --> File loaded: application/views/php/departamento_view.php
+INFO  - 2012-11-18 12:48:13 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: departamento()]
+DEBUG - 2012-11-18 12:48:13 --> Final output sent to browser
+DEBUG - 2012-11-18 12:48:13 --> Total execution time: 1.2358
+DEBUG - 2012-11-18 12:48:14 --> Config Class Initialized
+DEBUG - 2012-11-18 12:48:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:48:15 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:48:15 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:48:15 --> URI Class Initialized
+DEBUG - 2012-11-18 12:48:15 --> Router Class Initialized
+DEBUG - 2012-11-18 12:48:15 --> Output Class Initialized
+DEBUG - 2012-11-18 12:48:15 --> Security Class Initialized
+DEBUG - 2012-11-18 12:48:16 --> Input Class Initialized
+DEBUG - 2012-11-18 12:48:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:48:16 --> Language Class Initialized
+DEBUG - 2012-11-18 12:48:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:48:16 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:48:16 --> Controller Class Initialized
+INFO  - 2012-11-18 12:48:16 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:48:16 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:48:16 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:48:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:48:17 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:48:17 --> Model Class Initialized
+DEBUG - 2012-11-18 12:48:17 --> Model Class Initialized
+INFO  - 2012-11-18 12:48:17 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:48:17 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:48:17 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:48:17 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 12:48:17 --> Final output sent to browser
+DEBUG - 2012-11-18 12:48:17 --> Total execution time: 2.9150
+DEBUG - 2012-11-18 12:48:20 --> Config Class Initialized
+DEBUG - 2012-11-18 12:48:20 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:48:20 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:48:21 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:48:21 --> URI Class Initialized
+DEBUG - 2012-11-18 12:48:21 --> Router Class Initialized
+DEBUG - 2012-11-18 12:48:21 --> Output Class Initialized
+DEBUG - 2012-11-18 12:48:21 --> Security Class Initialized
+DEBUG - 2012-11-18 12:48:21 --> Input Class Initialized
+DEBUG - 2012-11-18 12:48:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:48:22 --> Language Class Initialized
+DEBUG - 2012-11-18 12:48:22 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:48:22 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:48:22 --> Controller Class Initialized
+INFO  - 2012-11-18 12:48:22 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:48:22 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:48:22 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:48:23 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:48:23 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:48:23 --> Model Class Initialized
+DEBUG - 2012-11-18 12:48:23 --> Model Class Initialized
+INFO  - 2012-11-18 12:48:23 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:48:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:48:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:48:23 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 12:48:24 --> Final output sent to browser
+DEBUG - 2012-11-18 12:48:24 --> Total execution time: 3.3806
+DEBUG - 2012-11-18 12:50:39 --> Config Class Initialized
+DEBUG - 2012-11-18 12:50:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:50:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:50:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:50:39 --> URI Class Initialized
+DEBUG - 2012-11-18 12:50:39 --> Router Class Initialized
+DEBUG - 2012-11-18 12:50:40 --> Output Class Initialized
+DEBUG - 2012-11-18 12:50:40 --> Security Class Initialized
+DEBUG - 2012-11-18 12:50:40 --> Input Class Initialized
+DEBUG - 2012-11-18 12:50:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:50:40 --> Language Class Initialized
+DEBUG - 2012-11-18 12:50:40 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:50:40 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:50:41 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:50:41 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:50:41 --> Model Class Initialized
+DEBUG - 2012-11-18 12:50:41 --> Model Class Initialized
+DEBUG - 2012-11-18 12:50:41 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:50:41 --> Final output sent to browser
+DEBUG - 2012-11-18 12:50:41 --> Total execution time: 2.6294
+DEBUG - 2012-11-18 12:50:46 --> Config Class Initialized
+DEBUG - 2012-11-18 12:50:46 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:50:46 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:50:46 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:50:46 --> URI Class Initialized
+DEBUG - 2012-11-18 12:50:47 --> Router Class Initialized
+DEBUG - 2012-11-18 12:50:47 --> Output Class Initialized
+DEBUG - 2012-11-18 12:50:47 --> Security Class Initialized
+DEBUG - 2012-11-18 12:50:47 --> Input Class Initialized
+DEBUG - 2012-11-18 12:50:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:50:47 --> Language Class Initialized
+DEBUG - 2012-11-18 12:50:48 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:50:48 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:50:48 --> Controller Class Initialized
+INFO  - 2012-11-18 12:50:48 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:50:48 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:50:48 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:50:48 --> Final output sent to browser
+DEBUG - 2012-11-18 12:50:49 --> Total execution time: 2.6263
+DEBUG - 2012-11-18 12:50:50 --> Config Class Initialized
+DEBUG - 2012-11-18 12:50:50 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:50:50 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:50:50 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:50:50 --> URI Class Initialized
+DEBUG - 2012-11-18 12:50:51 --> Router Class Initialized
+DEBUG - 2012-11-18 12:50:51 --> Output Class Initialized
+DEBUG - 2012-11-18 12:50:51 --> Security Class Initialized
+DEBUG - 2012-11-18 12:50:51 --> Input Class Initialized
+DEBUG - 2012-11-18 12:50:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:50:51 --> Language Class Initialized
+DEBUG - 2012-11-18 12:50:51 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:50:51 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:50:51 --> Controller Class Initialized
+INFO  - 2012-11-18 12:50:51 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:50:51 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:50:51 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:50:51 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:50:52 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:50:52 --> Model Class Initialized
+DEBUG - 2012-11-18 12:50:52 --> Model Class Initialized
+INFO  - 2012-11-18 12:50:52 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:50:52 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:50:52 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:50:52 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:50:52 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:50:52 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:50:52 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:50:52 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:50:52 --> Final output sent to browser
+DEBUG - 2012-11-18 12:50:52 --> Total execution time: 2.2635
+DEBUG - 2012-11-18 12:50:56 --> Config Class Initialized
+DEBUG - 2012-11-18 12:50:56 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:50:56 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:50:56 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:50:56 --> URI Class Initialized
+DEBUG - 2012-11-18 12:50:56 --> Router Class Initialized
+DEBUG - 2012-11-18 12:50:56 --> Output Class Initialized
+DEBUG - 2012-11-18 12:50:57 --> Security Class Initialized
+DEBUG - 2012-11-18 12:50:57 --> Input Class Initialized
+DEBUG - 2012-11-18 12:50:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:50:57 --> Language Class Initialized
+DEBUG - 2012-11-18 12:50:57 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:50:57 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:50:57 --> Controller Class Initialized
+INFO  - 2012-11-18 12:50:58 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:50:58 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:50:58 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:50:58 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:50:58 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:50:58 --> Model Class Initialized
+DEBUG - 2012-11-18 12:50:58 --> Model Class Initialized
+ERROR - 2012-11-18 12:50:59 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 155
+ERROR - 2012-11-18 12:50:59 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 156
+INFO  - 2012-11-18 12:50:59 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:50:59 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:50:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:50:59 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:50:59 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:50:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:50:59 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:51:00 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:51:00 --> Final output sent to browser
+DEBUG - 2012-11-18 12:51:00 --> Total execution time: 4.1333
+DEBUG - 2012-11-18 12:51:42 --> Config Class Initialized
+DEBUG - 2012-11-18 12:51:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:51:43 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:51:43 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:51:43 --> URI Class Initialized
+DEBUG - 2012-11-18 12:51:43 --> Router Class Initialized
+DEBUG - 2012-11-18 12:51:43 --> Output Class Initialized
+DEBUG - 2012-11-18 12:51:43 --> Security Class Initialized
+DEBUG - 2012-11-18 12:51:43 --> Input Class Initialized
+DEBUG - 2012-11-18 12:51:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:51:44 --> Language Class Initialized
+DEBUG - 2012-11-18 12:51:44 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:51:44 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:51:44 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:51:44 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:51:44 --> Model Class Initialized
+DEBUG - 2012-11-18 12:51:44 --> Model Class Initialized
+DEBUG - 2012-11-18 12:51:45 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:51:45 --> Final output sent to browser
+DEBUG - 2012-11-18 12:51:45 --> Total execution time: 2.3035
+DEBUG - 2012-11-18 12:51:47 --> Config Class Initialized
+DEBUG - 2012-11-18 12:51:47 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:51:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:51:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:51:48 --> URI Class Initialized
+DEBUG - 2012-11-18 12:51:48 --> Router Class Initialized
+DEBUG - 2012-11-18 12:51:48 --> Output Class Initialized
+DEBUG - 2012-11-18 12:51:48 --> Security Class Initialized
+DEBUG - 2012-11-18 12:51:48 --> Input Class Initialized
+DEBUG - 2012-11-18 12:51:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:51:49 --> Language Class Initialized
+DEBUG - 2012-11-18 12:51:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:51:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:51:49 --> Controller Class Initialized
+INFO  - 2012-11-18 12:51:49 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:51:49 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:51:50 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:51:50 --> Final output sent to browser
+DEBUG - 2012-11-18 12:51:50 --> Total execution time: 2.3276
+DEBUG - 2012-11-18 12:51:51 --> Config Class Initialized
+DEBUG - 2012-11-18 12:51:51 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:51:51 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:51:51 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:51:51 --> URI Class Initialized
+DEBUG - 2012-11-18 12:51:51 --> Router Class Initialized
+DEBUG - 2012-11-18 12:51:52 --> Output Class Initialized
+DEBUG - 2012-11-18 12:51:52 --> Security Class Initialized
+DEBUG - 2012-11-18 12:51:52 --> Input Class Initialized
+DEBUG - 2012-11-18 12:51:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:51:52 --> Language Class Initialized
+DEBUG - 2012-11-18 12:51:52 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:51:52 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:51:52 --> Controller Class Initialized
+INFO  - 2012-11-18 12:51:52 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:51:52 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:51:52 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:51:52 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:51:53 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:51:53 --> Model Class Initialized
+DEBUG - 2012-11-18 12:51:53 --> Model Class Initialized
+INFO  - 2012-11-18 12:51:53 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:51:53 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:51:53 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:51:53 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:51:53 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:51:53 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:51:53 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:51:53 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:51:53 --> Final output sent to browser
+DEBUG - 2012-11-18 12:51:53 --> Total execution time: 2.2095
+DEBUG - 2012-11-18 12:52:17 --> Config Class Initialized
+DEBUG - 2012-11-18 12:52:17 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:52:17 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:52:17 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:52:17 --> URI Class Initialized
+DEBUG - 2012-11-18 12:52:17 --> Router Class Initialized
+DEBUG - 2012-11-18 12:52:17 --> Output Class Initialized
+DEBUG - 2012-11-18 12:52:17 --> Security Class Initialized
+DEBUG - 2012-11-18 12:52:18 --> Input Class Initialized
+DEBUG - 2012-11-18 12:52:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:52:18 --> Language Class Initialized
+DEBUG - 2012-11-18 12:52:18 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:52:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:52:18 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:52:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:52:18 --> Model Class Initialized
+DEBUG - 2012-11-18 12:52:19 --> Model Class Initialized
+DEBUG - 2012-11-18 12:52:19 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:52:19 --> Final output sent to browser
+DEBUG - 2012-11-18 12:52:19 --> Total execution time: 2.3268
+DEBUG - 2012-11-18 12:52:21 --> Config Class Initialized
+DEBUG - 2012-11-18 12:52:21 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:52:21 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:52:21 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:52:21 --> URI Class Initialized
+DEBUG - 2012-11-18 12:52:22 --> Router Class Initialized
+DEBUG - 2012-11-18 12:52:22 --> Output Class Initialized
+DEBUG - 2012-11-18 12:52:22 --> Security Class Initialized
+DEBUG - 2012-11-18 12:52:22 --> Input Class Initialized
+DEBUG - 2012-11-18 12:52:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:52:22 --> Language Class Initialized
+DEBUG - 2012-11-18 12:52:22 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:52:22 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:52:23 --> Controller Class Initialized
+INFO  - 2012-11-18 12:52:23 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 12:52:23 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:52:23 --> Model Class Initialized
+DEBUG - 2012-11-18 12:52:23 --> Model Class Initialized
+DEBUG - 2012-11-18 12:52:23 --> File loaded: application/views/rol/menu_view.php
+INFO  - 2012-11-18 12:52:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 12:52:23 --> Final output sent to browser
+DEBUG - 2012-11-18 12:52:23 --> Total execution time: 2.6777
+DEBUG - 2012-11-18 12:52:25 --> Config Class Initialized
+DEBUG - 2012-11-18 12:52:25 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:52:25 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:52:25 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:52:26 --> URI Class Initialized
+DEBUG - 2012-11-18 12:52:26 --> Router Class Initialized
+DEBUG - 2012-11-18 12:52:26 --> Output Class Initialized
+DEBUG - 2012-11-18 12:52:26 --> Security Class Initialized
+DEBUG - 2012-11-18 12:52:26 --> Input Class Initialized
+DEBUG - 2012-11-18 12:52:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:52:26 --> Language Class Initialized
+DEBUG - 2012-11-18 12:52:26 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:52:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:52:27 --> Controller Class Initialized
+INFO  - 2012-11-18 12:52:27 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: departamento()]
+DEBUG - 2012-11-18 12:52:27 --> File loaded: application/views/php/departamento_view.php
+INFO  - 2012-11-18 12:52:27 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: departamento()]
+DEBUG - 2012-11-18 12:52:27 --> Final output sent to browser
+DEBUG - 2012-11-18 12:52:27 --> Total execution time: 1.9078
+DEBUG - 2012-11-18 12:52:28 --> Config Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:52:29 --> URI Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> Router Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> Output Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> Security Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> Input Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:52:29 --> Language Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:52:29 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:52:30 --> Controller Class Initialized
+INFO  - 2012-11-18 12:52:30 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:52:30 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:52:30 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:52:30 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:52:30 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:52:30 --> Model Class Initialized
+DEBUG - 2012-11-18 12:52:30 --> Model Class Initialized
+INFO  - 2012-11-18 12:52:31 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:52:31 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:52:31 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:52:31 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 12:52:31 --> Final output sent to browser
+DEBUG - 2012-11-18 12:52:31 --> Total execution time: 2.6961
+DEBUG - 2012-11-18 12:53:54 --> Config Class Initialized
+DEBUG - 2012-11-18 12:53:54 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:53:54 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:53:54 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:53:54 --> URI Class Initialized
+DEBUG - 2012-11-18 12:53:54 --> Router Class Initialized
+DEBUG - 2012-11-18 12:53:54 --> Output Class Initialized
+DEBUG - 2012-11-18 12:53:55 --> Security Class Initialized
+DEBUG - 2012-11-18 12:53:55 --> Input Class Initialized
+DEBUG - 2012-11-18 12:53:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:53:55 --> Language Class Initialized
+DEBUG - 2012-11-18 12:53:55 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:53:55 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:53:56 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:53:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:53:56 --> Model Class Initialized
+DEBUG - 2012-11-18 12:53:56 --> Model Class Initialized
+DEBUG - 2012-11-18 12:53:56 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:53:56 --> Final output sent to browser
+DEBUG - 2012-11-18 12:53:56 --> Total execution time: 2.5335
+DEBUG - 2012-11-18 12:53:59 --> Config Class Initialized
+DEBUG - 2012-11-18 12:53:59 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:53:59 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:53:59 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:53:59 --> URI Class Initialized
+DEBUG - 2012-11-18 12:53:59 --> Router Class Initialized
+DEBUG - 2012-11-18 12:54:00 --> Output Class Initialized
+DEBUG - 2012-11-18 12:54:00 --> Security Class Initialized
+DEBUG - 2012-11-18 12:54:00 --> Input Class Initialized
+DEBUG - 2012-11-18 12:54:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:54:00 --> Language Class Initialized
+DEBUG - 2012-11-18 12:54:00 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:54:00 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:54:00 --> Controller Class Initialized
+INFO  - 2012-11-18 12:54:00 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:54:00 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:54:00 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:54:00 --> Final output sent to browser
+DEBUG - 2012-11-18 12:54:00 --> Total execution time: 1.3044
+DEBUG - 2012-11-18 12:54:01 --> Config Class Initialized
+DEBUG - 2012-11-18 12:54:01 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:54:01 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:54:01 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:54:01 --> URI Class Initialized
+DEBUG - 2012-11-18 12:54:01 --> Router Class Initialized
+DEBUG - 2012-11-18 12:54:01 --> Output Class Initialized
+DEBUG - 2012-11-18 12:54:01 --> Security Class Initialized
+DEBUG - 2012-11-18 12:54:02 --> Input Class Initialized
+DEBUG - 2012-11-18 12:54:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:54:02 --> Language Class Initialized
+DEBUG - 2012-11-18 12:54:02 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:54:02 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:54:02 --> Controller Class Initialized
+INFO  - 2012-11-18 12:54:02 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 12:54:02 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:54:02 --> Model Class Initialized
+DEBUG - 2012-11-18 12:54:02 --> Model Class Initialized
+DEBUG - 2012-11-18 12:54:02 --> File loaded: application/views/rol/menu_view.php
+INFO  - 2012-11-18 12:54:02 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 12:54:02 --> Final output sent to browser
+DEBUG - 2012-11-18 12:54:02 --> Total execution time: 1.3386
+DEBUG - 2012-11-18 12:54:05 --> Config Class Initialized
+DEBUG - 2012-11-18 12:54:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:54:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:54:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:54:05 --> URI Class Initialized
+DEBUG - 2012-11-18 12:54:05 --> Router Class Initialized
+DEBUG - 2012-11-18 12:54:05 --> Output Class Initialized
+DEBUG - 2012-11-18 12:54:06 --> Security Class Initialized
+DEBUG - 2012-11-18 12:54:06 --> Input Class Initialized
+DEBUG - 2012-11-18 12:54:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:54:06 --> Language Class Initialized
+DEBUG - 2012-11-18 12:54:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:54:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:54:07 --> Controller Class Initialized
+INFO  - 2012-11-18 12:54:07 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: departamento()]
+DEBUG - 2012-11-18 12:54:07 --> File loaded: application/views/php/departamento_view.php
+INFO  - 2012-11-18 12:54:07 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: departamento()]
+DEBUG - 2012-11-18 12:54:07 --> Final output sent to browser
+DEBUG - 2012-11-18 12:54:07 --> Total execution time: 2.4935
+DEBUG - 2012-11-18 12:54:09 --> Config Class Initialized
+DEBUG - 2012-11-18 12:54:09 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:54:09 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:54:09 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:54:09 --> URI Class Initialized
+DEBUG - 2012-11-18 12:54:09 --> Router Class Initialized
+DEBUG - 2012-11-18 12:54:09 --> Output Class Initialized
+DEBUG - 2012-11-18 12:54:09 --> Security Class Initialized
+DEBUG - 2012-11-18 12:54:10 --> Input Class Initialized
+DEBUG - 2012-11-18 12:54:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:54:10 --> Language Class Initialized
+DEBUG - 2012-11-18 12:54:10 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:54:10 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:54:10 --> Controller Class Initialized
+INFO  - 2012-11-18 12:54:10 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:54:10 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:54:10 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:54:10 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:54:10 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:54:10 --> Model Class Initialized
+DEBUG - 2012-11-18 12:54:10 --> Model Class Initialized
+INFO  - 2012-11-18 12:54:11 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:54:11 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:54:11 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:54:11 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 12:54:11 --> Final output sent to browser
+DEBUG - 2012-11-18 12:54:11 --> Total execution time: 2.0491
+DEBUG - 2012-11-18 12:54:54 --> Config Class Initialized
+DEBUG - 2012-11-18 12:54:54 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:54:54 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:54:54 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:54:55 --> URI Class Initialized
+DEBUG - 2012-11-18 12:54:55 --> Router Class Initialized
+DEBUG - 2012-11-18 12:54:55 --> Output Class Initialized
+DEBUG - 2012-11-18 12:54:55 --> Security Class Initialized
+DEBUG - 2012-11-18 12:54:55 --> Input Class Initialized
+DEBUG - 2012-11-18 12:54:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:54:55 --> Language Class Initialized
+DEBUG - 2012-11-18 12:54:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:54:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:54:56 --> Controller Class Initialized
+INFO  - 2012-11-18 12:54:56 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:54:56 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:54:56 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:54:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:54:57 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:54:57 --> Model Class Initialized
+DEBUG - 2012-11-18 12:54:57 --> Model Class Initialized
+INFO  - 2012-11-18 12:54:57 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:54:57 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:54:57 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:54:57 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 12:54:58 --> Final output sent to browser
+DEBUG - 2012-11-18 12:54:58 --> Total execution time: 3.4998
+DEBUG - 2012-11-18 12:55:01 --> Config Class Initialized
+DEBUG - 2012-11-18 12:55:01 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:55:01 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:55:01 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:55:01 --> URI Class Initialized
+DEBUG - 2012-11-18 12:55:01 --> Router Class Initialized
+DEBUG - 2012-11-18 12:55:02 --> Output Class Initialized
+DEBUG - 2012-11-18 12:55:02 --> Security Class Initialized
+DEBUG - 2012-11-18 12:55:02 --> Input Class Initialized
+DEBUG - 2012-11-18 12:55:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:55:02 --> Language Class Initialized
+DEBUG - 2012-11-18 12:55:02 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:55:02 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:55:03 --> Controller Class Initialized
+INFO  - 2012-11-18 12:55:03 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:55:03 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:55:03 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:55:03 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:55:03 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:55:03 --> Model Class Initialized
+DEBUG - 2012-11-18 12:55:04 --> Model Class Initialized
+INFO  - 2012-11-18 12:55:04 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:55:04 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:55:04 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:55:04 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 12:55:04 --> Final output sent to browser
+DEBUG - 2012-11-18 12:55:04 --> Total execution time: 3.5587
+DEBUG - 2012-11-18 12:57:56 --> Config Class Initialized
+DEBUG - 2012-11-18 12:57:57 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:57:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:57:57 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:57:57 --> URI Class Initialized
+DEBUG - 2012-11-18 12:57:57 --> Router Class Initialized
+DEBUG - 2012-11-18 12:57:57 --> Output Class Initialized
+DEBUG - 2012-11-18 12:57:58 --> Security Class Initialized
+DEBUG - 2012-11-18 12:57:58 --> Input Class Initialized
+DEBUG - 2012-11-18 12:57:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:57:58 --> Language Class Initialized
+DEBUG - 2012-11-18 12:57:58 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:57:58 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:57:58 --> Controller Class Initialized
+DEBUG - 2012-11-18 12:57:59 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:57:59 --> Model Class Initialized
+DEBUG - 2012-11-18 12:57:59 --> Model Class Initialized
+DEBUG - 2012-11-18 12:57:59 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 12:57:59 --> Final output sent to browser
+DEBUG - 2012-11-18 12:57:59 --> Total execution time: 2.8329
+DEBUG - 2012-11-18 12:58:03 --> Config Class Initialized
+DEBUG - 2012-11-18 12:58:03 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:58:03 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:58:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:58:04 --> URI Class Initialized
+DEBUG - 2012-11-18 12:58:04 --> Router Class Initialized
+DEBUG - 2012-11-18 12:58:04 --> Output Class Initialized
+DEBUG - 2012-11-18 12:58:04 --> Security Class Initialized
+DEBUG - 2012-11-18 12:58:04 --> Input Class Initialized
+DEBUG - 2012-11-18 12:58:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:58:04 --> Language Class Initialized
+DEBUG - 2012-11-18 12:58:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:58:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:58:05 --> Controller Class Initialized
+INFO  - 2012-11-18 12:58:05 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 12:58:05 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 12:58:05 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:58:05 --> Final output sent to browser
+DEBUG - 2012-11-18 12:58:05 --> Total execution time: 2.2147
+DEBUG - 2012-11-18 12:58:07 --> Config Class Initialized
+DEBUG - 2012-11-18 12:58:07 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:58:08 --> URI Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> Router Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> Output Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> Security Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> Input Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:58:08 --> Language Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:58:08 --> Controller Class Initialized
+INFO  - 2012-11-18 12:58:08 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:58:08 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:58:09 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:58:09 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:58:09 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:58:09 --> Model Class Initialized
+DEBUG - 2012-11-18 12:58:09 --> Model Class Initialized
+INFO  - 2012-11-18 12:58:09 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:58:09 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:58:09 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:58:09 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:58:09 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:58:09 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:58:09 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:58:09 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:58:09 --> Final output sent to browser
+DEBUG - 2012-11-18 12:58:09 --> Total execution time: 2.0805
+DEBUG - 2012-11-18 12:58:12 --> Config Class Initialized
+DEBUG - 2012-11-18 12:58:12 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:58:12 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:58:12 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:58:13 --> URI Class Initialized
+DEBUG - 2012-11-18 12:58:13 --> Router Class Initialized
+DEBUG - 2012-11-18 12:58:13 --> Output Class Initialized
+DEBUG - 2012-11-18 12:58:13 --> Security Class Initialized
+DEBUG - 2012-11-18 12:58:13 --> Input Class Initialized
+DEBUG - 2012-11-18 12:58:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:58:13 --> Language Class Initialized
+DEBUG - 2012-11-18 12:58:14 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:58:14 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:58:14 --> Controller Class Initialized
+INFO  - 2012-11-18 12:58:14 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:58:14 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:58:14 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:58:14 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:58:15 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:58:15 --> Model Class Initialized
+DEBUG - 2012-11-18 12:58:15 --> Model Class Initialized
+ERROR - 2012-11-18 12:58:15 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 155
+ERROR - 2012-11-18 12:58:15 --> Severity: Notice  --> Undefined index: nomb_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 156
+INFO  - 2012-11-18 12:58:15 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:58:15 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:58:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:58:16 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:58:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:58:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model get_auditoria()]
+INFO  - 2012-11-18 12:58:16 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 12:58:16 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 12:58:16 --> Final output sent to browser
+DEBUG - 2012-11-18 12:58:16 --> Total execution time: 4.2720
+DEBUG - 2012-11-18 12:58:38 --> Config Class Initialized
+DEBUG - 2012-11-18 12:58:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:58:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:58:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:58:39 --> URI Class Initialized
+DEBUG - 2012-11-18 12:58:39 --> Router Class Initialized
+DEBUG - 2012-11-18 12:58:39 --> Output Class Initialized
+DEBUG - 2012-11-18 12:58:39 --> Security Class Initialized
+DEBUG - 2012-11-18 12:58:39 --> Input Class Initialized
+DEBUG - 2012-11-18 12:58:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:58:39 --> Language Class Initialized
+DEBUG - 2012-11-18 12:58:40 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:58:40 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:58:40 --> Controller Class Initialized
+INFO  - 2012-11-18 12:58:40 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:58:40 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:58:40 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:58:40 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:58:40 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:58:41 --> Model Class Initialized
+DEBUG - 2012-11-18 12:58:41 --> Model Class Initialized
+INFO  - 2012-11-18 12:58:41 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:58:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:58:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:58:41 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 12:58:41 --> Final output sent to browser
+DEBUG - 2012-11-18 12:58:42 --> Total execution time: 3.5026
+DEBUG - 2012-11-18 12:58:56 --> Config Class Initialized
+DEBUG - 2012-11-18 12:58:56 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:58:56 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:58:56 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:58:56 --> URI Class Initialized
+DEBUG - 2012-11-18 12:58:56 --> Router Class Initialized
+DEBUG - 2012-11-18 12:58:56 --> Output Class Initialized
+DEBUG - 2012-11-18 12:58:56 --> Security Class Initialized
+DEBUG - 2012-11-18 12:58:56 --> Input Class Initialized
+DEBUG - 2012-11-18 12:58:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:58:57 --> Language Class Initialized
+DEBUG - 2012-11-18 12:58:57 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:58:57 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:58:57 --> Controller Class Initialized
+INFO  - 2012-11-18 12:58:57 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:58:57 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:58:57 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:58:57 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:58:57 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:58:58 --> Model Class Initialized
+DEBUG - 2012-11-18 12:58:58 --> Model Class Initialized
+INFO  - 2012-11-18 12:58:58 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:58:58 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:58:58 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:58:58 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 12:58:58 --> Final output sent to browser
+DEBUG - 2012-11-18 12:58:58 --> Total execution time: 2.4763
+DEBUG - 2012-11-18 12:59:02 --> Config Class Initialized
+DEBUG - 2012-11-18 12:59:03 --> Hooks Class Initialized
+DEBUG - 2012-11-18 12:59:03 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 12:59:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 12:59:03 --> URI Class Initialized
+DEBUG - 2012-11-18 12:59:03 --> Router Class Initialized
+DEBUG - 2012-11-18 12:59:03 --> Output Class Initialized
+DEBUG - 2012-11-18 12:59:03 --> Security Class Initialized
+DEBUG - 2012-11-18 12:59:04 --> Input Class Initialized
+DEBUG - 2012-11-18 12:59:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 12:59:04 --> Language Class Initialized
+DEBUG - 2012-11-18 12:59:04 --> Loader Class Initialized
+DEBUG - 2012-11-18 12:59:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 12:59:04 --> Controller Class Initialized
+INFO  - 2012-11-18 12:59:04 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:59:04 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 12:59:05 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 12:59:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 12:59:05 --> Pagination Class Initialized
+DEBUG - 2012-11-18 12:59:05 --> Model Class Initialized
+DEBUG - 2012-11-18 12:59:05 --> Model Class Initialized
+INFO  - 2012-11-18 12:59:05 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:59:05 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 12:59:05 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarDepartamento()]
+DEBUG - 2012-11-18 12:59:06 --> File loaded: application/views/php/departamento_view.php
+DEBUG - 2012-11-18 12:59:06 --> Final output sent to browser
+DEBUG - 2012-11-18 12:59:06 --> Total execution time: 3.2983
+DEBUG - 2012-11-18 13:59:44 --> Config Class Initialized
+DEBUG - 2012-11-18 13:59:44 --> Hooks Class Initialized
+DEBUG - 2012-11-18 13:59:45 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 13:59:45 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 13:59:45 --> URI Class Initialized
+DEBUG - 2012-11-18 13:59:45 --> Router Class Initialized
+DEBUG - 2012-11-18 13:59:45 --> Output Class Initialized
+DEBUG - 2012-11-18 13:59:45 --> Security Class Initialized
+DEBUG - 2012-11-18 13:59:46 --> Input Class Initialized
+DEBUG - 2012-11-18 13:59:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 13:59:46 --> Language Class Initialized
+DEBUG - 2012-11-18 13:59:46 --> Loader Class Initialized
+DEBUG - 2012-11-18 13:59:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 13:59:46 --> Controller Class Initialized
+DEBUG - 2012-11-18 13:59:47 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 13:59:47 --> Model Class Initialized
+DEBUG - 2012-11-18 13:59:47 --> Model Class Initialized
+DEBUG - 2012-11-18 13:59:47 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 13:59:47 --> Final output sent to browser
+DEBUG - 2012-11-18 13:59:47 --> Total execution time: 2.8375
+DEBUG - 2012-11-18 13:59:49 --> Config Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> Hooks Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 13:59:50 --> URI Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> Router Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> Output Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> Security Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> Input Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 13:59:50 --> Language Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> Loader Class Initialized
+DEBUG - 2012-11-18 13:59:50 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 13:59:51 --> Controller Class Initialized
+INFO  - 2012-11-18 13:59:51 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 13:59:51 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 13:59:51 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 13:59:51 --> Final output sent to browser
+DEBUG - 2012-11-18 13:59:51 --> Total execution time: 1.8935
+DEBUG - 2012-11-18 13:59:54 --> Config Class Initialized
+DEBUG - 2012-11-18 13:59:54 --> Hooks Class Initialized
+DEBUG - 2012-11-18 13:59:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 13:59:55 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 13:59:55 --> URI Class Initialized
+DEBUG - 2012-11-18 13:59:55 --> Router Class Initialized
+DEBUG - 2012-11-18 13:59:55 --> Output Class Initialized
+DEBUG - 2012-11-18 13:59:55 --> Security Class Initialized
+DEBUG - 2012-11-18 13:59:55 --> Input Class Initialized
+DEBUG - 2012-11-18 13:59:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 13:59:56 --> Language Class Initialized
+DEBUG - 2012-11-18 13:59:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 13:59:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 13:59:56 --> Controller Class Initialized
+INFO  - 2012-11-18 13:59:56 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 13:59:56 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 13:59:56 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 13:59:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 13:59:56 --> Pagination Class Initialized
+DEBUG - 2012-11-18 13:59:57 --> Model Class Initialized
+DEBUG - 2012-11-18 13:59:57 --> Model Class Initialized
+ERROR - 2012-11-18 13:59:57 --> Severity: Notice  --> Undefined offset: 2 C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 160
+ERROR - 2012-11-18 13:59:57 --> Severity: Notice  --> Undefined offset: 1 C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 160
+ERROR - 2012-11-18 13:59:57 --> Severity: Notice  --> Undefined offset: 2 C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 161
+ERROR - 2012-11-18 13:59:57 --> Severity: Notice  --> Undefined offset: 1 C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 161
+INFO  - 2012-11-18 13:59:57 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 13:59:57 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+ERROR - 2012-11-18 13:59:57 --> Severity: Notice  --> Undefined index: $tipo_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\models\Auditoria\auditoria_model.php 38
+ERROR - 2012-11-18 13:59:57 --> Severity: Notice  --> Undefined index: $tipo_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\models\Auditoria\auditoria_model.php 38
+INFO  - 2012-11-18 13:59:58 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 13:59:58 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 13:59:58 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+ERROR - 2012-11-18 13:59:58 --> Severity: Notice  --> Undefined index: $tipo_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\models\Auditoria\auditoria_model.php 38
+ERROR - 2012-11-18 13:59:58 --> Severity: Notice  --> Undefined index: $tipo_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\models\Auditoria\auditoria_model.php 38
+INFO  - 2012-11-18 13:59:58 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 13:59:58 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 13:59:58 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 13:59:58 --> Final output sent to browser
+DEBUG - 2012-11-18 13:59:58 --> Total execution time: 3.8892
+DEBUG - 2012-11-18 14:03:18 --> Config Class Initialized
+DEBUG - 2012-11-18 14:03:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:03:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:03:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:03:18 --> URI Class Initialized
+DEBUG - 2012-11-18 14:03:18 --> Router Class Initialized
+DEBUG - 2012-11-18 14:03:19 --> Output Class Initialized
+DEBUG - 2012-11-18 14:03:19 --> Security Class Initialized
+DEBUG - 2012-11-18 14:03:19 --> Input Class Initialized
+DEBUG - 2012-11-18 14:03:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:03:19 --> Language Class Initialized
+DEBUG - 2012-11-18 14:03:19 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:03:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:03:20 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:03:20 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:03:20 --> Model Class Initialized
+DEBUG - 2012-11-18 14:03:20 --> Model Class Initialized
+DEBUG - 2012-11-18 14:03:20 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:03:20 --> Final output sent to browser
+DEBUG - 2012-11-18 14:03:20 --> Total execution time: 2.6795
+DEBUG - 2012-11-18 14:03:24 --> Config Class Initialized
+DEBUG - 2012-11-18 14:03:24 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:03:24 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:03:24 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:03:25 --> URI Class Initialized
+DEBUG - 2012-11-18 14:03:25 --> Router Class Initialized
+DEBUG - 2012-11-18 14:03:25 --> Output Class Initialized
+DEBUG - 2012-11-18 14:03:25 --> Security Class Initialized
+DEBUG - 2012-11-18 14:03:25 --> Input Class Initialized
+DEBUG - 2012-11-18 14:03:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:03:25 --> Language Class Initialized
+DEBUG - 2012-11-18 14:03:25 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:03:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:03:26 --> Controller Class Initialized
+INFO  - 2012-11-18 14:03:26 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:03:26 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:03:26 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:03:26 --> Final output sent to browser
+DEBUG - 2012-11-18 14:03:26 --> Total execution time: 2.3425
+DEBUG - 2012-11-18 14:03:28 --> Config Class Initialized
+DEBUG - 2012-11-18 14:03:28 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:03:28 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:03:29 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:03:29 --> URI Class Initialized
+DEBUG - 2012-11-18 14:03:29 --> Router Class Initialized
+DEBUG - 2012-11-18 14:03:29 --> Output Class Initialized
+DEBUG - 2012-11-18 14:03:29 --> Security Class Initialized
+DEBUG - 2012-11-18 14:03:29 --> Input Class Initialized
+DEBUG - 2012-11-18 14:03:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:03:29 --> Language Class Initialized
+DEBUG - 2012-11-18 14:03:29 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:03:29 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:03:29 --> Controller Class Initialized
+INFO  - 2012-11-18 14:03:29 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:03:29 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:03:29 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:03:30 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:03:30 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:03:30 --> Model Class Initialized
+DEBUG - 2012-11-18 14:03:30 --> Model Class Initialized
+INFO  - 2012-11-18 14:03:30 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:03:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+ERROR - 2012-11-18 14:03:30 --> Severity: Notice  --> Undefined index: $tipo_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\models\Auditoria\auditoria_model.php 38
+ERROR - 2012-11-18 14:03:30 --> Severity: Notice  --> Undefined index: $tipo_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\models\Auditoria\auditoria_model.php 38
+INFO  - 2012-11-18 14:03:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:03:30 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:03:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+ERROR - 2012-11-18 14:03:30 --> Severity: Notice  --> Undefined index: $tipo_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\models\Auditoria\auditoria_model.php 38
+ERROR - 2012-11-18 14:03:30 --> Severity: Notice  --> Undefined index: $tipo_operacion C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\models\Auditoria\auditoria_model.php 38
+INFO  - 2012-11-18 14:03:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:03:30 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:03:30 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:03:30 --> Final output sent to browser
+DEBUG - 2012-11-18 14:03:31 --> Total execution time: 2.2623
+DEBUG - 2012-11-18 14:04:10 --> Config Class Initialized
+DEBUG - 2012-11-18 14:04:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:04:11 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:04:11 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:04:11 --> URI Class Initialized
+DEBUG - 2012-11-18 14:04:11 --> Router Class Initialized
+DEBUG - 2012-11-18 14:04:11 --> Output Class Initialized
+DEBUG - 2012-11-18 14:04:11 --> Security Class Initialized
+DEBUG - 2012-11-18 14:04:11 --> Input Class Initialized
+DEBUG - 2012-11-18 14:04:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:04:11 --> Language Class Initialized
+DEBUG - 2012-11-18 14:04:11 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:04:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:04:12 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:04:12 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:04:12 --> Model Class Initialized
+DEBUG - 2012-11-18 14:04:12 --> Model Class Initialized
+DEBUG - 2012-11-18 14:04:12 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:04:12 --> Final output sent to browser
+DEBUG - 2012-11-18 14:04:12 --> Total execution time: 1.7606
+DEBUG - 2012-11-18 14:04:14 --> Config Class Initialized
+DEBUG - 2012-11-18 14:04:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:04:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:04:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:04:14 --> URI Class Initialized
+DEBUG - 2012-11-18 14:04:14 --> Router Class Initialized
+DEBUG - 2012-11-18 14:04:14 --> Output Class Initialized
+DEBUG - 2012-11-18 14:04:15 --> Security Class Initialized
+DEBUG - 2012-11-18 14:04:15 --> Input Class Initialized
+DEBUG - 2012-11-18 14:04:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:04:15 --> Language Class Initialized
+DEBUG - 2012-11-18 14:04:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:04:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:04:15 --> Controller Class Initialized
+INFO  - 2012-11-18 14:04:15 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:04:15 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:04:15 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:04:15 --> Final output sent to browser
+DEBUG - 2012-11-18 14:04:15 --> Total execution time: 1.2959
+DEBUG - 2012-11-18 14:04:16 --> Config Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:04:17 --> URI Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Router Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Output Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Security Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Input Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:04:17 --> Language Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:04:17 --> Controller Class Initialized
+INFO  - 2012-11-18 14:04:17 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:04:17 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:04:18 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:04:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:04:18 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:04:18 --> Model Class Initialized
+DEBUG - 2012-11-18 14:04:18 --> Model Class Initialized
+INFO  - 2012-11-18 14:04:18 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:04:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:04:18 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:04:18 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:04:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:04:18 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:04:18 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:04:18 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:04:18 --> Final output sent to browser
+DEBUG - 2012-11-18 14:04:18 --> Total execution time: 1.9443
+DEBUG - 2012-11-18 14:04:28 --> Config Class Initialized
+DEBUG - 2012-11-18 14:04:29 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:04:29 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:04:29 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:04:29 --> URI Class Initialized
+DEBUG - 2012-11-18 14:04:29 --> Router Class Initialized
+DEBUG - 2012-11-18 14:04:29 --> Output Class Initialized
+DEBUG - 2012-11-18 14:04:29 --> Security Class Initialized
+DEBUG - 2012-11-18 14:04:30 --> Input Class Initialized
+DEBUG - 2012-11-18 14:04:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:04:30 --> Language Class Initialized
+DEBUG - 2012-11-18 14:04:30 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:04:31 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:04:31 --> Controller Class Initialized
+INFO  - 2012-11-18 14:04:31 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:04:31 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:04:31 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:04:32 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:04:32 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:04:32 --> Model Class Initialized
+DEBUG - 2012-11-18 14:04:32 --> Model Class Initialized
+INFO  - 2012-11-18 14:04:32 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:04:32 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:04:32 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:04:32 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:04:32 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:04:33 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:04:33 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:04:33 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:04:33 --> Final output sent to browser
+DEBUG - 2012-11-18 14:04:33 --> Total execution time: 4.5410
+DEBUG - 2012-11-18 14:05:35 --> Config Class Initialized
+DEBUG - 2012-11-18 14:05:35 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:05:35 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:05:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:05:36 --> URI Class Initialized
+DEBUG - 2012-11-18 14:05:36 --> Router Class Initialized
+DEBUG - 2012-11-18 14:05:36 --> Output Class Initialized
+DEBUG - 2012-11-18 14:05:36 --> Security Class Initialized
+DEBUG - 2012-11-18 14:05:36 --> Input Class Initialized
+DEBUG - 2012-11-18 14:05:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:05:36 --> Language Class Initialized
+DEBUG - 2012-11-18 14:05:37 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:05:37 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:05:37 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:05:37 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:05:37 --> Model Class Initialized
+DEBUG - 2012-11-18 14:05:37 --> Model Class Initialized
+DEBUG - 2012-11-18 14:05:37 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:05:38 --> Final output sent to browser
+DEBUG - 2012-11-18 14:05:38 --> Total execution time: 2.8059
+DEBUG - 2012-11-18 14:05:39 --> Config Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:05:40 --> URI Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> Router Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> Output Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> Security Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> Input Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:05:40 --> Language Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:05:40 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:05:41 --> Controller Class Initialized
+INFO  - 2012-11-18 14:05:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:05:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:05:41 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:05:41 --> Final output sent to browser
+DEBUG - 2012-11-18 14:05:41 --> Total execution time: 1.3547
+DEBUG - 2012-11-18 14:05:43 --> Config Class Initialized
+DEBUG - 2012-11-18 14:05:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:05:43 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:05:43 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:05:43 --> URI Class Initialized
+DEBUG - 2012-11-18 14:05:43 --> Router Class Initialized
+DEBUG - 2012-11-18 14:05:44 --> Output Class Initialized
+DEBUG - 2012-11-18 14:05:44 --> Security Class Initialized
+DEBUG - 2012-11-18 14:05:44 --> Input Class Initialized
+DEBUG - 2012-11-18 14:05:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:05:44 --> Language Class Initialized
+DEBUG - 2012-11-18 14:05:44 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:05:44 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:05:44 --> Controller Class Initialized
+INFO  - 2012-11-18 14:05:45 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:05:45 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:05:45 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:05:45 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:05:45 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:05:45 --> Model Class Initialized
+DEBUG - 2012-11-18 14:05:45 --> Model Class Initialized
+INFO  - 2012-11-18 14:05:46 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:05:46 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:05:46 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:05:46 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:05:46 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:05:46 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:05:46 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:05:46 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:05:46 --> Final output sent to browser
+DEBUG - 2012-11-18 14:05:46 --> Total execution time: 3.5254
+DEBUG - 2012-11-18 14:07:26 --> Config Class Initialized
+DEBUG - 2012-11-18 14:07:26 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:07:26 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:07:27 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:07:27 --> URI Class Initialized
+DEBUG - 2012-11-18 14:07:27 --> Router Class Initialized
+DEBUG - 2012-11-18 14:07:27 --> Output Class Initialized
+DEBUG - 2012-11-18 14:07:27 --> Security Class Initialized
+DEBUG - 2012-11-18 14:07:27 --> Input Class Initialized
+DEBUG - 2012-11-18 14:07:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:07:27 --> Language Class Initialized
+DEBUG - 2012-11-18 14:07:28 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:07:28 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:07:28 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:07:28 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:07:28 --> Model Class Initialized
+DEBUG - 2012-11-18 14:07:28 --> Model Class Initialized
+DEBUG - 2012-11-18 14:07:29 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:07:29 --> Final output sent to browser
+DEBUG - 2012-11-18 14:07:29 --> Total execution time: 2.6696
+DEBUG - 2012-11-18 14:07:31 --> Config Class Initialized
+DEBUG - 2012-11-18 14:07:31 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:07:31 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:07:31 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:07:31 --> URI Class Initialized
+DEBUG - 2012-11-18 14:07:32 --> Router Class Initialized
+DEBUG - 2012-11-18 14:07:32 --> Output Class Initialized
+DEBUG - 2012-11-18 14:07:32 --> Security Class Initialized
+DEBUG - 2012-11-18 14:07:32 --> Input Class Initialized
+DEBUG - 2012-11-18 14:07:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:07:32 --> Language Class Initialized
+DEBUG - 2012-11-18 14:07:33 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:07:33 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:07:33 --> Controller Class Initialized
+INFO  - 2012-11-18 14:07:33 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:07:33 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:07:33 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:07:33 --> Final output sent to browser
+DEBUG - 2012-11-18 14:07:33 --> Total execution time: 2.6782
+DEBUG - 2012-11-18 14:07:35 --> Config Class Initialized
+DEBUG - 2012-11-18 14:07:35 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:07:35 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:07:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:07:35 --> URI Class Initialized
+DEBUG - 2012-11-18 14:07:35 --> Router Class Initialized
+DEBUG - 2012-11-18 14:07:35 --> Output Class Initialized
+DEBUG - 2012-11-18 14:07:35 --> Security Class Initialized
+DEBUG - 2012-11-18 14:07:36 --> Input Class Initialized
+DEBUG - 2012-11-18 14:07:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:07:36 --> Language Class Initialized
+DEBUG - 2012-11-18 14:07:36 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:07:36 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:07:36 --> Controller Class Initialized
+INFO  - 2012-11-18 14:07:36 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:07:36 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:07:36 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:07:36 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:07:37 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:07:37 --> Model Class Initialized
+DEBUG - 2012-11-18 14:07:37 --> Model Class Initialized
+INFO  - 2012-11-18 14:07:37 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:07:37 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:07:37 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:07:37 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:07:37 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:07:37 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:07:37 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:07:37 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:07:37 --> Final output sent to browser
+DEBUG - 2012-11-18 14:07:37 --> Total execution time: 2.7074
+DEBUG - 2012-11-18 14:11:06 --> Config Class Initialized
+DEBUG - 2012-11-18 14:11:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:11:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:11:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:11:07 --> URI Class Initialized
+DEBUG - 2012-11-18 14:11:07 --> Router Class Initialized
+DEBUG - 2012-11-18 14:11:07 --> Output Class Initialized
+DEBUG - 2012-11-18 14:11:07 --> Security Class Initialized
+DEBUG - 2012-11-18 14:11:07 --> Input Class Initialized
+DEBUG - 2012-11-18 14:11:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:11:07 --> Language Class Initialized
+DEBUG - 2012-11-18 14:11:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:11:08 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:11:08 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:11:08 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:11:08 --> Model Class Initialized
+DEBUG - 2012-11-18 14:11:08 --> Model Class Initialized
+DEBUG - 2012-11-18 14:11:08 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:11:09 --> Final output sent to browser
+DEBUG - 2012-11-18 14:11:09 --> Total execution time: 2.6481
+DEBUG - 2012-11-18 14:11:11 --> Config Class Initialized
+DEBUG - 2012-11-18 14:11:11 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:11:11 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:11:11 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:11:11 --> URI Class Initialized
+DEBUG - 2012-11-18 14:11:12 --> Router Class Initialized
+DEBUG - 2012-11-18 14:11:12 --> Output Class Initialized
+DEBUG - 2012-11-18 14:11:12 --> Security Class Initialized
+DEBUG - 2012-11-18 14:11:12 --> Input Class Initialized
+DEBUG - 2012-11-18 14:11:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:11:12 --> Language Class Initialized
+DEBUG - 2012-11-18 14:11:13 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:11:13 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:11:13 --> Controller Class Initialized
+INFO  - 2012-11-18 14:11:13 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:11:13 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:11:13 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:11:13 --> Final output sent to browser
+DEBUG - 2012-11-18 14:11:13 --> Total execution time: 2.6711
+DEBUG - 2012-11-18 14:11:15 --> Config Class Initialized
+DEBUG - 2012-11-18 14:11:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:11:15 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:11:15 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:11:15 --> URI Class Initialized
+DEBUG - 2012-11-18 14:11:15 --> Router Class Initialized
+DEBUG - 2012-11-18 14:11:16 --> Output Class Initialized
+DEBUG - 2012-11-18 14:11:16 --> Security Class Initialized
+DEBUG - 2012-11-18 14:11:16 --> Input Class Initialized
+DEBUG - 2012-11-18 14:11:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:11:16 --> Language Class Initialized
+DEBUG - 2012-11-18 14:11:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:11:16 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:11:16 --> Controller Class Initialized
+INFO  - 2012-11-18 14:11:16 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:11:16 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:11:16 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:11:16 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:11:16 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:11:17 --> Model Class Initialized
+DEBUG - 2012-11-18 14:11:17 --> Model Class Initialized
+INFO  - 2012-11-18 14:11:17 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:11:17 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:11:17 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:11:17 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:11:17 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:11:17 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:11:17 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:11:17 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:11:17 --> Final output sent to browser
+DEBUG - 2012-11-18 14:11:17 --> Total execution time: 2.3174
+DEBUG - 2012-11-18 14:12:12 --> Config Class Initialized
+DEBUG - 2012-11-18 14:12:12 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:12:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:12:13 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:12:13 --> URI Class Initialized
+DEBUG - 2012-11-18 14:12:13 --> Router Class Initialized
+DEBUG - 2012-11-18 14:12:13 --> Output Class Initialized
+DEBUG - 2012-11-18 14:12:13 --> Security Class Initialized
+DEBUG - 2012-11-18 14:12:14 --> Input Class Initialized
+DEBUG - 2012-11-18 14:12:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:12:14 --> Language Class Initialized
+DEBUG - 2012-11-18 14:12:14 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:12:14 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:12:15 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:12:15 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:12:15 --> Model Class Initialized
+DEBUG - 2012-11-18 14:12:15 --> Model Class Initialized
+DEBUG - 2012-11-18 14:12:15 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:12:16 --> Final output sent to browser
+DEBUG - 2012-11-18 14:12:16 --> Total execution time: 3.3779
+DEBUG - 2012-11-18 14:12:17 --> Config Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:12:18 --> URI Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> Router Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> Output Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> Security Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> Input Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:12:18 --> Language Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:12:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:12:19 --> Controller Class Initialized
+INFO  - 2012-11-18 14:12:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:12:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:12:19 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:12:19 --> Final output sent to browser
+DEBUG - 2012-11-18 14:12:19 --> Total execution time: 1.4703
+DEBUG - 2012-11-18 14:12:20 --> Config Class Initialized
+DEBUG - 2012-11-18 14:12:20 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:12:20 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:12:20 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:12:20 --> URI Class Initialized
+DEBUG - 2012-11-18 14:12:21 --> Router Class Initialized
+DEBUG - 2012-11-18 14:12:21 --> Output Class Initialized
+DEBUG - 2012-11-18 14:12:21 --> Security Class Initialized
+DEBUG - 2012-11-18 14:12:21 --> Input Class Initialized
+DEBUG - 2012-11-18 14:12:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:12:21 --> Language Class Initialized
+DEBUG - 2012-11-18 14:12:21 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:12:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:12:21 --> Controller Class Initialized
+INFO  - 2012-11-18 14:12:21 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:12:21 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:12:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:12:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:12:21 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:12:21 --> Model Class Initialized
+DEBUG - 2012-11-18 14:12:22 --> Model Class Initialized
+INFO  - 2012-11-18 14:12:22 --> NULL
+INFO  - 2012-11-18 14:12:22 --> 
+INFO  - 2012-11-18 14:12:22 --> 
+INFO  - 2012-11-18 14:12:22 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:12:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:12:22 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:12:22 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:12:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:12:22 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:12:22 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:12:22 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:12:22 --> Final output sent to browser
+DEBUG - 2012-11-18 14:12:22 --> Total execution time: 2.0451
+DEBUG - 2012-11-18 14:13:16 --> Config Class Initialized
+DEBUG - 2012-11-18 14:13:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:13:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:13:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:13:16 --> URI Class Initialized
+DEBUG - 2012-11-18 14:13:16 --> Router Class Initialized
+DEBUG - 2012-11-18 14:13:16 --> Output Class Initialized
+DEBUG - 2012-11-18 14:13:16 --> Security Class Initialized
+DEBUG - 2012-11-18 14:13:17 --> Input Class Initialized
+DEBUG - 2012-11-18 14:13:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:13:17 --> Language Class Initialized
+DEBUG - 2012-11-18 14:13:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:13:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:13:17 --> Controller Class Initialized
+INFO  - 2012-11-18 14:13:17 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:13:17 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:13:17 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:13:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:13:17 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:13:17 --> Model Class Initialized
+DEBUG - 2012-11-18 14:13:17 --> Model Class Initialized
+INFO  - 2012-11-18 14:13:18 --> NULL
+INFO  - 2012-11-18 14:13:18 --> 
+INFO  - 2012-11-18 14:13:18 --> 
+INFO  - 2012-11-18 14:13:18 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:13:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:13:18 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:13:18 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:13:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:13:18 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:13:18 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:13:18 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:13:18 --> Final output sent to browser
+DEBUG - 2012-11-18 14:13:18 --> Total execution time: 2.5577
+DEBUG - 2012-11-18 14:13:34 --> Config Class Initialized
+DEBUG - 2012-11-18 14:13:34 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:13:34 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:13:34 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:13:34 --> URI Class Initialized
+DEBUG - 2012-11-18 14:13:35 --> Router Class Initialized
+DEBUG - 2012-11-18 14:13:35 --> Output Class Initialized
+DEBUG - 2012-11-18 14:13:35 --> Security Class Initialized
+DEBUG - 2012-11-18 14:13:35 --> Input Class Initialized
+DEBUG - 2012-11-18 14:13:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:13:35 --> Language Class Initialized
+DEBUG - 2012-11-18 14:13:36 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:13:36 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:13:36 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:13:36 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:13:36 --> Model Class Initialized
+DEBUG - 2012-11-18 14:13:37 --> Model Class Initialized
+DEBUG - 2012-11-18 14:13:37 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:13:37 --> Final output sent to browser
+DEBUG - 2012-11-18 14:13:37 --> Total execution time: 3.1165
+DEBUG - 2012-11-18 14:13:39 --> Config Class Initialized
+DEBUG - 2012-11-18 14:13:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:13:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:13:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:13:39 --> URI Class Initialized
+DEBUG - 2012-11-18 14:13:40 --> Router Class Initialized
+DEBUG - 2012-11-18 14:13:40 --> Output Class Initialized
+DEBUG - 2012-11-18 14:13:40 --> Security Class Initialized
+DEBUG - 2012-11-18 14:13:40 --> Input Class Initialized
+DEBUG - 2012-11-18 14:13:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:13:40 --> Language Class Initialized
+DEBUG - 2012-11-18 14:13:40 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:13:40 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:13:40 --> Controller Class Initialized
+INFO  - 2012-11-18 14:13:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:13:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:13:41 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:13:41 --> Final output sent to browser
+DEBUG - 2012-11-18 14:13:41 --> Total execution time: 1.7963
+DEBUG - 2012-11-18 14:13:43 --> Config Class Initialized
+DEBUG - 2012-11-18 14:13:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:13:44 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:13:44 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:13:44 --> URI Class Initialized
+DEBUG - 2012-11-18 14:13:44 --> Router Class Initialized
+DEBUG - 2012-11-18 14:13:44 --> Output Class Initialized
+DEBUG - 2012-11-18 14:13:44 --> Security Class Initialized
+DEBUG - 2012-11-18 14:13:44 --> Input Class Initialized
+DEBUG - 2012-11-18 14:13:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:13:45 --> Language Class Initialized
+DEBUG - 2012-11-18 14:13:45 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:13:45 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:13:45 --> Controller Class Initialized
+INFO  - 2012-11-18 14:13:45 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:13:46 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:13:46 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:13:46 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:13:46 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:13:46 --> Model Class Initialized
+DEBUG - 2012-11-18 14:13:46 --> Model Class Initialized
+INFO  - 2012-11-18 14:13:46 --> NULL
+INFO  - 2012-11-18 14:13:46 --> 
+INFO  - 2012-11-18 14:13:47 --> 
+INFO  - 2012-11-18 14:13:47 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:13:47 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:13:47 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:13:47 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:13:47 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:13:47 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:13:47 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:13:47 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:13:47 --> Final output sent to browser
+DEBUG - 2012-11-18 14:13:47 --> Total execution time: 4.2126
+DEBUG - 2012-11-18 14:15:57 --> Config Class Initialized
+DEBUG - 2012-11-18 14:15:57 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:15:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:15:57 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:15:57 --> URI Class Initialized
+DEBUG - 2012-11-18 14:15:57 --> Router Class Initialized
+DEBUG - 2012-11-18 14:15:58 --> Output Class Initialized
+DEBUG - 2012-11-18 14:15:58 --> Security Class Initialized
+DEBUG - 2012-11-18 14:15:58 --> Input Class Initialized
+DEBUG - 2012-11-18 14:15:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:15:58 --> Language Class Initialized
+DEBUG - 2012-11-18 14:15:58 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:15:58 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:15:59 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:15:59 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:15:59 --> Model Class Initialized
+DEBUG - 2012-11-18 14:15:59 --> Model Class Initialized
+DEBUG - 2012-11-18 14:15:59 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:15:59 --> Final output sent to browser
+DEBUG - 2012-11-18 14:15:59 --> Total execution time: 2.5447
+DEBUG - 2012-11-18 14:16:01 --> Config Class Initialized
+DEBUG - 2012-11-18 14:16:01 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:16:01 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:16:01 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:16:02 --> URI Class Initialized
+DEBUG - 2012-11-18 14:16:02 --> Router Class Initialized
+DEBUG - 2012-11-18 14:16:02 --> Output Class Initialized
+DEBUG - 2012-11-18 14:16:02 --> Security Class Initialized
+DEBUG - 2012-11-18 14:16:02 --> Input Class Initialized
+DEBUG - 2012-11-18 14:16:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:16:02 --> Language Class Initialized
+DEBUG - 2012-11-18 14:16:03 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:16:03 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:16:03 --> Controller Class Initialized
+INFO  - 2012-11-18 14:16:03 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:16:03 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:16:03 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:16:03 --> Final output sent to browser
+DEBUG - 2012-11-18 14:16:04 --> Total execution time: 2.4165
+DEBUG - 2012-11-18 14:16:05 --> Config Class Initialized
+DEBUG - 2012-11-18 14:16:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:16:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:16:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:16:06 --> URI Class Initialized
+DEBUG - 2012-11-18 14:16:06 --> Router Class Initialized
+DEBUG - 2012-11-18 14:16:06 --> Output Class Initialized
+DEBUG - 2012-11-18 14:16:06 --> Security Class Initialized
+DEBUG - 2012-11-18 14:16:06 --> Input Class Initialized
+DEBUG - 2012-11-18 14:16:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:16:06 --> Language Class Initialized
+DEBUG - 2012-11-18 14:16:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:16:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:16:06 --> Controller Class Initialized
+INFO  - 2012-11-18 14:16:06 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:16:06 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:16:06 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:16:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:16:07 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:16:07 --> Model Class Initialized
+DEBUG - 2012-11-18 14:16:07 --> Model Class Initialized
+INFO  - 2012-11-18 14:16:07 --> 
+INFO  - 2012-11-18 14:16:07 --> 
+INFO  - 2012-11-18 14:16:07 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:16:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:16:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:16:07 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:16:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:16:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:16:08 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:16:08 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:16:08 --> Final output sent to browser
+DEBUG - 2012-11-18 14:16:08 --> Total execution time: 2.6184
+DEBUG - 2012-11-18 14:16:48 --> Config Class Initialized
+DEBUG - 2012-11-18 14:16:48 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:16:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:16:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:16:48 --> URI Class Initialized
+DEBUG - 2012-11-18 14:16:48 --> Router Class Initialized
+DEBUG - 2012-11-18 14:16:49 --> Output Class Initialized
+DEBUG - 2012-11-18 14:16:49 --> Security Class Initialized
+DEBUG - 2012-11-18 14:16:49 --> Input Class Initialized
+DEBUG - 2012-11-18 14:16:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:16:49 --> Language Class Initialized
+DEBUG - 2012-11-18 14:16:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:16:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:16:50 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:16:50 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:16:50 --> Model Class Initialized
+DEBUG - 2012-11-18 14:16:50 --> Model Class Initialized
+DEBUG - 2012-11-18 14:16:51 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:16:51 --> Final output sent to browser
+DEBUG - 2012-11-18 14:16:51 --> Total execution time: 3.3240
+DEBUG - 2012-11-18 14:16:53 --> Config Class Initialized
+DEBUG - 2012-11-18 14:16:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:16:54 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:16:54 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:16:54 --> URI Class Initialized
+DEBUG - 2012-11-18 14:16:54 --> Router Class Initialized
+DEBUG - 2012-11-18 14:16:54 --> Output Class Initialized
+DEBUG - 2012-11-18 14:16:55 --> Security Class Initialized
+DEBUG - 2012-11-18 14:16:55 --> Input Class Initialized
+DEBUG - 2012-11-18 14:16:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:16:55 --> Language Class Initialized
+DEBUG - 2012-11-18 14:16:55 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:16:55 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:16:56 --> Controller Class Initialized
+INFO  - 2012-11-18 14:16:56 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:16:56 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:16:56 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:16:56 --> Final output sent to browser
+DEBUG - 2012-11-18 14:16:56 --> Total execution time: 2.6976
+DEBUG - 2012-11-18 14:16:57 --> Config Class Initialized
+DEBUG - 2012-11-18 14:16:57 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:16:58 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:16:58 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:16:58 --> URI Class Initialized
+DEBUG - 2012-11-18 14:16:58 --> Router Class Initialized
+DEBUG - 2012-11-18 14:16:58 --> Output Class Initialized
+DEBUG - 2012-11-18 14:16:58 --> Security Class Initialized
+DEBUG - 2012-11-18 14:16:58 --> Input Class Initialized
+DEBUG - 2012-11-18 14:16:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:16:58 --> Language Class Initialized
+DEBUG - 2012-11-18 14:16:58 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:16:59 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:16:59 --> Controller Class Initialized
+INFO  - 2012-11-18 14:16:59 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:16:59 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:16:59 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:16:59 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:16:59 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:16:59 --> Model Class Initialized
+DEBUG - 2012-11-18 14:16:59 --> Model Class Initialized
+INFO  - 2012-11-18 14:16:59 --> 1
+INFO  - 2012-11-18 14:16:59 --> 
+INFO  - 2012-11-18 14:16:59 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:17:00 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:17:00 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:17:00 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:17:00 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:17:00 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:17:00 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:17:00 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:17:00 --> Final output sent to browser
+DEBUG - 2012-11-18 14:17:00 --> Total execution time: 2.7743
+DEBUG - 2012-11-18 14:17:59 --> Config Class Initialized
+DEBUG - 2012-11-18 14:17:59 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:17:59 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:17:59 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:17:59 --> URI Class Initialized
+DEBUG - 2012-11-18 14:17:59 --> Router Class Initialized
+DEBUG - 2012-11-18 14:17:59 --> Output Class Initialized
+DEBUG - 2012-11-18 14:17:59 --> Security Class Initialized
+DEBUG - 2012-11-18 14:17:59 --> Input Class Initialized
+DEBUG - 2012-11-18 14:17:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:17:59 --> Language Class Initialized
+DEBUG - 2012-11-18 14:18:00 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:18:00 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:18:00 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:18:00 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:18:00 --> Model Class Initialized
+DEBUG - 2012-11-18 14:18:00 --> Model Class Initialized
+DEBUG - 2012-11-18 14:18:00 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:18:00 --> Final output sent to browser
+DEBUG - 2012-11-18 14:18:01 --> Total execution time: 1.7712
+DEBUG - 2012-11-18 14:18:02 --> Config Class Initialized
+DEBUG - 2012-11-18 14:18:02 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:18:02 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:18:02 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:18:02 --> URI Class Initialized
+DEBUG - 2012-11-18 14:18:03 --> Router Class Initialized
+DEBUG - 2012-11-18 14:18:03 --> Output Class Initialized
+DEBUG - 2012-11-18 14:18:03 --> Security Class Initialized
+DEBUG - 2012-11-18 14:18:03 --> Input Class Initialized
+DEBUG - 2012-11-18 14:18:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:18:03 --> Language Class Initialized
+DEBUG - 2012-11-18 14:18:03 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:18:03 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:18:03 --> Controller Class Initialized
+INFO  - 2012-11-18 14:18:03 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:18:03 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:18:03 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:18:03 --> Final output sent to browser
+DEBUG - 2012-11-18 14:18:03 --> Total execution time: 1.1530
+DEBUG - 2012-11-18 14:18:05 --> Config Class Initialized
+DEBUG - 2012-11-18 14:18:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:18:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:18:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:18:06 --> URI Class Initialized
+DEBUG - 2012-11-18 14:18:06 --> Router Class Initialized
+DEBUG - 2012-11-18 14:18:06 --> Output Class Initialized
+DEBUG - 2012-11-18 14:18:06 --> Security Class Initialized
+DEBUG - 2012-11-18 14:18:06 --> Input Class Initialized
+DEBUG - 2012-11-18 14:18:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:18:06 --> Language Class Initialized
+DEBUG - 2012-11-18 14:18:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:18:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:18:07 --> Controller Class Initialized
+INFO  - 2012-11-18 14:18:07 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:18:07 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:18:07 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:18:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:18:07 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:18:08 --> Model Class Initialized
+DEBUG - 2012-11-18 14:18:08 --> Model Class Initialized
+INFO  - 2012-11-18 14:18:08 --> 1
+INFO  - 2012-11-18 14:18:08 --> 1
+INFO  - 2012-11-18 14:18:08 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:18:08 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:18:08 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:18:08 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:18:09 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:18:09 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:18:09 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:18:09 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:18:09 --> Final output sent to browser
+DEBUG - 2012-11-18 14:18:09 --> Total execution time: 3.6698
+DEBUG - 2012-11-18 14:19:07 --> Config Class Initialized
+DEBUG - 2012-11-18 14:19:08 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:19:08 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:19:08 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:19:08 --> URI Class Initialized
+DEBUG - 2012-11-18 14:19:08 --> Router Class Initialized
+DEBUG - 2012-11-18 14:19:08 --> Output Class Initialized
+DEBUG - 2012-11-18 14:19:09 --> Security Class Initialized
+DEBUG - 2012-11-18 14:19:09 --> Input Class Initialized
+DEBUG - 2012-11-18 14:19:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:19:09 --> Language Class Initialized
+DEBUG - 2012-11-18 14:19:10 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:19:10 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:19:10 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:19:10 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:19:10 --> Model Class Initialized
+DEBUG - 2012-11-18 14:19:11 --> Model Class Initialized
+DEBUG - 2012-11-18 14:19:11 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:19:11 --> Final output sent to browser
+DEBUG - 2012-11-18 14:19:11 --> Total execution time: 3.4711
+DEBUG - 2012-11-18 14:19:13 --> Config Class Initialized
+DEBUG - 2012-11-18 14:19:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:19:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:19:13 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:19:13 --> URI Class Initialized
+DEBUG - 2012-11-18 14:19:13 --> Router Class Initialized
+DEBUG - 2012-11-18 14:19:14 --> Output Class Initialized
+DEBUG - 2012-11-18 14:19:14 --> Security Class Initialized
+DEBUG - 2012-11-18 14:19:14 --> Input Class Initialized
+DEBUG - 2012-11-18 14:19:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:19:14 --> Language Class Initialized
+DEBUG - 2012-11-18 14:19:14 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:19:14 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:19:14 --> Controller Class Initialized
+INFO  - 2012-11-18 14:19:14 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:19:14 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:19:14 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:19:14 --> Final output sent to browser
+DEBUG - 2012-11-18 14:19:14 --> Total execution time: 1.3330
+DEBUG - 2012-11-18 14:19:16 --> Config Class Initialized
+DEBUG - 2012-11-18 14:19:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:19:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:19:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:19:17 --> URI Class Initialized
+DEBUG - 2012-11-18 14:19:17 --> Router Class Initialized
+DEBUG - 2012-11-18 14:19:17 --> Output Class Initialized
+DEBUG - 2012-11-18 14:19:17 --> Security Class Initialized
+DEBUG - 2012-11-18 14:19:17 --> Input Class Initialized
+DEBUG - 2012-11-18 14:19:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:19:17 --> Language Class Initialized
+DEBUG - 2012-11-18 14:19:18 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:19:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:19:18 --> Controller Class Initialized
+INFO  - 2012-11-18 14:19:18 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:19:18 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:19:18 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:19:19 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:19:19 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:19:19 --> Model Class Initialized
+DEBUG - 2012-11-18 14:19:19 --> Model Class Initialized
+INFO  - 2012-11-18 14:19:19 --> Array
+INFO  - 2012-11-18 14:19:19 --> 1
+INFO  - 2012-11-18 14:19:19 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:19:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:19:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:19:20 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:19:20 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:19:20 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:19:20 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:19:20 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:19:20 --> Final output sent to browser
+DEBUG - 2012-11-18 14:19:20 --> Total execution time: 4.0984
+DEBUG - 2012-11-18 14:20:04 --> Config Class Initialized
+DEBUG - 2012-11-18 14:20:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:20:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:20:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:20:05 --> URI Class Initialized
+DEBUG - 2012-11-18 14:20:05 --> Router Class Initialized
+DEBUG - 2012-11-18 14:20:05 --> Output Class Initialized
+DEBUG - 2012-11-18 14:20:05 --> Security Class Initialized
+DEBUG - 2012-11-18 14:20:05 --> Input Class Initialized
+DEBUG - 2012-11-18 14:20:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:20:05 --> Language Class Initialized
+DEBUG - 2012-11-18 14:20:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:20:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:20:06 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:20:06 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:20:06 --> Model Class Initialized
+DEBUG - 2012-11-18 14:20:06 --> Model Class Initialized
+DEBUG - 2012-11-18 14:20:07 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:20:07 --> Final output sent to browser
+DEBUG - 2012-11-18 14:20:07 --> Total execution time: 2.8281
+DEBUG - 2012-11-18 14:20:09 --> Config Class Initialized
+DEBUG - 2012-11-18 14:20:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:20:10 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:20:10 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:20:10 --> URI Class Initialized
+DEBUG - 2012-11-18 14:20:10 --> Router Class Initialized
+DEBUG - 2012-11-18 14:20:10 --> Output Class Initialized
+DEBUG - 2012-11-18 14:20:11 --> Security Class Initialized
+DEBUG - 2012-11-18 14:20:11 --> Input Class Initialized
+DEBUG - 2012-11-18 14:20:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:20:11 --> Language Class Initialized
+DEBUG - 2012-11-18 14:20:11 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:20:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:20:11 --> Controller Class Initialized
+INFO  - 2012-11-18 14:20:11 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:20:12 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:20:12 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:20:12 --> Final output sent to browser
+DEBUG - 2012-11-18 14:20:12 --> Total execution time: 2.2421
+DEBUG - 2012-11-18 14:20:14 --> Config Class Initialized
+DEBUG - 2012-11-18 14:20:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:20:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:20:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:20:14 --> URI Class Initialized
+DEBUG - 2012-11-18 14:20:14 --> Router Class Initialized
+DEBUG - 2012-11-18 14:20:15 --> Output Class Initialized
+DEBUG - 2012-11-18 14:20:15 --> Security Class Initialized
+DEBUG - 2012-11-18 14:20:15 --> Input Class Initialized
+DEBUG - 2012-11-18 14:20:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:20:15 --> Language Class Initialized
+DEBUG - 2012-11-18 14:20:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:20:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:20:15 --> Controller Class Initialized
+INFO  - 2012-11-18 14:20:15 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:20:15 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:20:15 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:20:15 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:20:15 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:20:15 --> Model Class Initialized
+DEBUG - 2012-11-18 14:20:16 --> Model Class Initialized
+INFO  - 2012-11-18 14:20:16 --> Array
+INFO  - 2012-11-18 14:20:16 --> 1
+INFO  - 2012-11-18 14:20:16 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:20:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:20:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:20:16 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:20:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:20:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:20:16 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:20:16 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:20:16 --> Final output sent to browser
+DEBUG - 2012-11-18 14:20:16 --> Total execution time: 2.2663
+DEBUG - 2012-11-18 14:23:23 --> Config Class Initialized
+DEBUG - 2012-11-18 14:23:23 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:23:23 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:23:23 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:23:24 --> URI Class Initialized
+DEBUG - 2012-11-18 14:23:24 --> Router Class Initialized
+DEBUG - 2012-11-18 14:23:24 --> Output Class Initialized
+DEBUG - 2012-11-18 14:23:24 --> Security Class Initialized
+DEBUG - 2012-11-18 14:23:24 --> Input Class Initialized
+DEBUG - 2012-11-18 14:23:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:23:25 --> Language Class Initialized
+DEBUG - 2012-11-18 14:23:25 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:23:25 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:23:25 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:23:25 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:23:25 --> Model Class Initialized
+DEBUG - 2012-11-18 14:23:26 --> Model Class Initialized
+DEBUG - 2012-11-18 14:23:26 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:23:26 --> Final output sent to browser
+DEBUG - 2012-11-18 14:23:26 --> Total execution time: 3.2030
+DEBUG - 2012-11-18 14:23:28 --> Config Class Initialized
+DEBUG - 2012-11-18 14:23:28 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:23:29 --> URI Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> Router Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> Output Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> Security Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> Input Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:23:29 --> Language Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:23:29 --> Controller Class Initialized
+INFO  - 2012-11-18 14:23:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:23:30 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:23:30 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:23:30 --> Final output sent to browser
+DEBUG - 2012-11-18 14:23:30 --> Total execution time: 1.8622
+DEBUG - 2012-11-18 14:23:33 --> Config Class Initialized
+DEBUG - 2012-11-18 14:23:33 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:23:33 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:23:33 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:23:33 --> URI Class Initialized
+DEBUG - 2012-11-18 14:23:33 --> Router Class Initialized
+DEBUG - 2012-11-18 14:23:33 --> Output Class Initialized
+DEBUG - 2012-11-18 14:23:33 --> Security Class Initialized
+DEBUG - 2012-11-18 14:23:34 --> Input Class Initialized
+DEBUG - 2012-11-18 14:23:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:23:34 --> Language Class Initialized
+DEBUG - 2012-11-18 14:23:34 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:23:34 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:23:34 --> Controller Class Initialized
+INFO  - 2012-11-18 14:23:34 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:23:34 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:23:34 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:23:35 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:23:35 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:23:35 --> Model Class Initialized
+DEBUG - 2012-11-18 14:23:35 --> Model Class Initialized
+INFO  - 2012-11-18 14:23:35 --> 
+INFO  - 2012-11-18 14:23:35 --> 1
+INFO  - 2012-11-18 14:23:35 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:23:35 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:23:35 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:23:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:23:35 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:23:35 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:23:36 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:23:36 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:23:36 --> Final output sent to browser
+DEBUG - 2012-11-18 14:23:36 --> Total execution time: 3.1039
+DEBUG - 2012-11-18 14:24:14 --> Config Class Initialized
+DEBUG - 2012-11-18 14:24:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:24:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:24:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:24:14 --> URI Class Initialized
+DEBUG - 2012-11-18 14:24:14 --> Router Class Initialized
+DEBUG - 2012-11-18 14:24:15 --> Output Class Initialized
+DEBUG - 2012-11-18 14:24:15 --> Security Class Initialized
+DEBUG - 2012-11-18 14:24:15 --> Input Class Initialized
+DEBUG - 2012-11-18 14:24:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:24:15 --> Language Class Initialized
+DEBUG - 2012-11-18 14:24:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:24:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:24:16 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:24:16 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:24:16 --> Model Class Initialized
+DEBUG - 2012-11-18 14:24:16 --> Model Class Initialized
+DEBUG - 2012-11-18 14:24:16 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:24:16 --> Final output sent to browser
+DEBUG - 2012-11-18 14:24:16 --> Total execution time: 2.7016
+DEBUG - 2012-11-18 14:24:18 --> Config Class Initialized
+DEBUG - 2012-11-18 14:24:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:24:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:24:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:24:19 --> URI Class Initialized
+DEBUG - 2012-11-18 14:24:19 --> Router Class Initialized
+DEBUG - 2012-11-18 14:24:19 --> Output Class Initialized
+DEBUG - 2012-11-18 14:24:19 --> Security Class Initialized
+DEBUG - 2012-11-18 14:24:19 --> Input Class Initialized
+DEBUG - 2012-11-18 14:24:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:24:20 --> Language Class Initialized
+DEBUG - 2012-11-18 14:24:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:24:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:24:20 --> Controller Class Initialized
+INFO  - 2012-11-18 14:24:20 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:24:21 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:24:21 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:24:21 --> Final output sent to browser
+DEBUG - 2012-11-18 14:24:21 --> Total execution time: 2.6197
+DEBUG - 2012-11-18 14:24:23 --> Config Class Initialized
+DEBUG - 2012-11-18 14:24:23 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:24:23 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:24:23 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:24:23 --> URI Class Initialized
+DEBUG - 2012-11-18 14:24:23 --> Router Class Initialized
+DEBUG - 2012-11-18 14:24:24 --> Output Class Initialized
+DEBUG - 2012-11-18 14:24:24 --> Security Class Initialized
+DEBUG - 2012-11-18 14:24:24 --> Input Class Initialized
+DEBUG - 2012-11-18 14:24:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:24:24 --> Language Class Initialized
+DEBUG - 2012-11-18 14:24:24 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:24:24 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:24:24 --> Controller Class Initialized
+INFO  - 2012-11-18 14:24:24 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:24:24 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:24:24 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:24:24 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:24:25 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:24:25 --> Model Class Initialized
+DEBUG - 2012-11-18 14:24:25 --> Model Class Initialized
+INFO  - 2012-11-18 14:24:25 --> NULL
+INFO  - 2012-11-18 14:24:25 --> 1
+INFO  - 2012-11-18 14:24:25 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:24:25 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:24:25 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:24:25 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:24:25 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:24:25 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:24:25 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:24:25 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:24:25 --> Final output sent to browser
+DEBUG - 2012-11-18 14:24:26 --> Total execution time: 2.4908
+DEBUG - 2012-11-18 14:25:09 --> Config Class Initialized
+DEBUG - 2012-11-18 14:25:09 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:25:09 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:25:10 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:25:10 --> URI Class Initialized
+DEBUG - 2012-11-18 14:25:10 --> Router Class Initialized
+DEBUG - 2012-11-18 14:25:10 --> Output Class Initialized
+DEBUG - 2012-11-18 14:25:10 --> Security Class Initialized
+DEBUG - 2012-11-18 14:25:10 --> Input Class Initialized
+DEBUG - 2012-11-18 14:25:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:25:11 --> Language Class Initialized
+DEBUG - 2012-11-18 14:25:11 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:25:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:25:11 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:25:12 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:25:12 --> Model Class Initialized
+DEBUG - 2012-11-18 14:25:12 --> Model Class Initialized
+DEBUG - 2012-11-18 14:25:12 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:25:12 --> Final output sent to browser
+DEBUG - 2012-11-18 14:25:12 --> Total execution time: 3.2760
+DEBUG - 2012-11-18 14:25:16 --> Config Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:25:16 --> URI Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Router Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Output Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Security Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Input Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:25:16 --> Language Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:25:16 --> Controller Class Initialized
+INFO  - 2012-11-18 14:25:17 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:25:17 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:25:17 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:25:17 --> Final output sent to browser
+DEBUG - 2012-11-18 14:25:17 --> Total execution time: 1.2097
+DEBUG - 2012-11-18 14:25:18 --> Config Class Initialized
+DEBUG - 2012-11-18 14:25:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:25:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:25:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:25:19 --> URI Class Initialized
+DEBUG - 2012-11-18 14:25:19 --> Router Class Initialized
+DEBUG - 2012-11-18 14:25:19 --> Output Class Initialized
+DEBUG - 2012-11-18 14:25:19 --> Security Class Initialized
+DEBUG - 2012-11-18 14:25:19 --> Input Class Initialized
+DEBUG - 2012-11-18 14:25:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:25:20 --> Language Class Initialized
+DEBUG - 2012-11-18 14:25:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:25:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:25:20 --> Controller Class Initialized
+INFO  - 2012-11-18 14:25:20 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:25:20 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:25:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:25:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:25:21 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:25:21 --> Model Class Initialized
+DEBUG - 2012-11-18 14:25:21 --> Model Class Initialized
+INFO  - 2012-11-18 14:25:21 --> NULL
+INFO  - 2012-11-18 14:25:21 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:25:21 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:25:21 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:25:22 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:25:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:25:22 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:25:22 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:25:22 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:25:22 --> Final output sent to browser
+DEBUG - 2012-11-18 14:25:22 --> Total execution time: 3.7115
+DEBUG - 2012-11-18 14:26:48 --> Config Class Initialized
+DEBUG - 2012-11-18 14:26:48 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:26:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:26:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:26:48 --> URI Class Initialized
+DEBUG - 2012-11-18 14:26:49 --> Router Class Initialized
+DEBUG - 2012-11-18 14:26:49 --> Output Class Initialized
+DEBUG - 2012-11-18 14:26:49 --> Security Class Initialized
+DEBUG - 2012-11-18 14:26:49 --> Input Class Initialized
+DEBUG - 2012-11-18 14:26:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:26:49 --> Language Class Initialized
+DEBUG - 2012-11-18 14:26:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:26:50 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:26:50 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:26:50 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:26:50 --> Model Class Initialized
+DEBUG - 2012-11-18 14:26:50 --> Model Class Initialized
+DEBUG - 2012-11-18 14:26:51 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:26:51 --> Final output sent to browser
+DEBUG - 2012-11-18 14:26:51 --> Total execution time: 2.8991
+DEBUG - 2012-11-18 14:26:53 --> Config Class Initialized
+DEBUG - 2012-11-18 14:26:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:26:53 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:26:53 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:26:54 --> URI Class Initialized
+DEBUG - 2012-11-18 14:26:54 --> Router Class Initialized
+DEBUG - 2012-11-18 14:26:54 --> Output Class Initialized
+DEBUG - 2012-11-18 14:26:54 --> Security Class Initialized
+DEBUG - 2012-11-18 14:26:54 --> Input Class Initialized
+DEBUG - 2012-11-18 14:26:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:26:54 --> Language Class Initialized
+DEBUG - 2012-11-18 14:26:55 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:26:55 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:26:55 --> Controller Class Initialized
+INFO  - 2012-11-18 14:26:55 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:26:55 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:26:55 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:26:55 --> Final output sent to browser
+DEBUG - 2012-11-18 14:26:55 --> Total execution time: 2.6025
+DEBUG - 2012-11-18 14:26:57 --> Config Class Initialized
+DEBUG - 2012-11-18 14:26:57 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:26:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:26:57 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:26:57 --> URI Class Initialized
+DEBUG - 2012-11-18 14:26:57 --> Router Class Initialized
+DEBUG - 2012-11-18 14:26:57 --> Output Class Initialized
+DEBUG - 2012-11-18 14:26:57 --> Security Class Initialized
+DEBUG - 2012-11-18 14:26:57 --> Input Class Initialized
+DEBUG - 2012-11-18 14:26:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:26:57 --> Language Class Initialized
+DEBUG - 2012-11-18 14:26:58 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:26:58 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:26:58 --> Controller Class Initialized
+INFO  - 2012-11-18 14:26:58 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:26:58 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:26:58 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:26:58 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:26:58 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:26:58 --> Model Class Initialized
+DEBUG - 2012-11-18 14:26:58 --> Model Class Initialized
+INFO  - 2012-11-18 14:26:58 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:26:58 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:26:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:26:59 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:26:59 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:26:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:26:59 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:26:59 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:26:59 --> Final output sent to browser
+DEBUG - 2012-11-18 14:26:59 --> Total execution time: 2.4694
+DEBUG - 2012-11-18 14:28:39 --> Config Class Initialized
+DEBUG - 2012-11-18 14:28:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:28:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:28:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:28:40 --> URI Class Initialized
+DEBUG - 2012-11-18 14:28:40 --> Router Class Initialized
+DEBUG - 2012-11-18 14:28:40 --> Output Class Initialized
+DEBUG - 2012-11-18 14:28:40 --> Security Class Initialized
+DEBUG - 2012-11-18 14:28:40 --> Input Class Initialized
+DEBUG - 2012-11-18 14:28:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:28:41 --> Language Class Initialized
+DEBUG - 2012-11-18 14:28:41 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:28:41 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:28:41 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:28:41 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:28:41 --> Model Class Initialized
+DEBUG - 2012-11-18 14:28:41 --> Model Class Initialized
+DEBUG - 2012-11-18 14:28:42 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:28:42 --> Final output sent to browser
+DEBUG - 2012-11-18 14:28:42 --> Total execution time: 2.7697
+DEBUG - 2012-11-18 14:28:44 --> Config Class Initialized
+DEBUG - 2012-11-18 14:28:44 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:28:44 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:28:44 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:28:44 --> URI Class Initialized
+DEBUG - 2012-11-18 14:28:44 --> Router Class Initialized
+DEBUG - 2012-11-18 14:28:44 --> Output Class Initialized
+DEBUG - 2012-11-18 14:28:44 --> Security Class Initialized
+DEBUG - 2012-11-18 14:28:45 --> Input Class Initialized
+DEBUG - 2012-11-18 14:28:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:28:45 --> Language Class Initialized
+DEBUG - 2012-11-18 14:28:45 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:28:45 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:28:45 --> Controller Class Initialized
+INFO  - 2012-11-18 14:28:46 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:28:46 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:28:46 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:28:46 --> Final output sent to browser
+DEBUG - 2012-11-18 14:28:46 --> Total execution time: 2.2650
+DEBUG - 2012-11-18 14:28:48 --> Config Class Initialized
+DEBUG - 2012-11-18 14:28:48 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:28:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:28:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:28:48 --> URI Class Initialized
+DEBUG - 2012-11-18 14:28:48 --> Router Class Initialized
+DEBUG - 2012-11-18 14:28:49 --> Output Class Initialized
+DEBUG - 2012-11-18 14:28:49 --> Security Class Initialized
+DEBUG - 2012-11-18 14:28:49 --> Input Class Initialized
+DEBUG - 2012-11-18 14:28:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:28:49 --> Language Class Initialized
+DEBUG - 2012-11-18 14:28:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:28:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:28:49 --> Controller Class Initialized
+INFO  - 2012-11-18 14:28:49 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:28:49 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:28:50 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:28:50 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:28:50 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:28:50 --> Model Class Initialized
+DEBUG - 2012-11-18 14:28:50 --> Model Class Initialized
+INFO  - 2012-11-18 14:28:50 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:28:50 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:28:50 --> 
+INFO  - 2012-11-18 14:28:50 --> 
+INFO  - 2012-11-18 14:28:50 --> NULL
+INFO  - 2012-11-18 14:28:50 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:28:51 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:28:51 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:28:51 --> 
+INFO  - 2012-11-18 14:28:51 --> 
+INFO  - 2012-11-18 14:28:51 --> NULL
+INFO  - 2012-11-18 14:28:51 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:28:51 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:28:51 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:28:51 --> Final output sent to browser
+DEBUG - 2012-11-18 14:28:51 --> Total execution time: 3.2029
+DEBUG - 2012-11-18 14:32:10 --> Config Class Initialized
+DEBUG - 2012-11-18 14:32:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:32:10 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:32:11 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:32:11 --> URI Class Initialized
+DEBUG - 2012-11-18 14:32:11 --> Router Class Initialized
+DEBUG - 2012-11-18 14:32:11 --> Output Class Initialized
+DEBUG - 2012-11-18 14:32:11 --> Security Class Initialized
+DEBUG - 2012-11-18 14:32:12 --> Input Class Initialized
+DEBUG - 2012-11-18 14:32:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:32:12 --> Language Class Initialized
+DEBUG - 2012-11-18 14:32:12 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:32:12 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:32:13 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:32:13 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:32:13 --> Model Class Initialized
+DEBUG - 2012-11-18 14:32:13 --> Model Class Initialized
+DEBUG - 2012-11-18 14:32:13 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:32:13 --> Final output sent to browser
+DEBUG - 2012-11-18 14:32:13 --> Total execution time: 3.2702
+DEBUG - 2012-11-18 14:32:15 --> Config Class Initialized
+DEBUG - 2012-11-18 14:32:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:32:16 --> URI Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> Router Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> Output Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> Security Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> Input Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:32:16 --> Language Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:32:16 --> Controller Class Initialized
+INFO  - 2012-11-18 14:32:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:32:17 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:32:17 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:32:17 --> Final output sent to browser
+DEBUG - 2012-11-18 14:32:17 --> Total execution time: 1.3464
+DEBUG - 2012-11-18 14:32:19 --> Config Class Initialized
+DEBUG - 2012-11-18 14:32:19 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:32:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:32:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:32:19 --> URI Class Initialized
+DEBUG - 2012-11-18 14:32:19 --> Router Class Initialized
+DEBUG - 2012-11-18 14:32:20 --> Output Class Initialized
+DEBUG - 2012-11-18 14:32:20 --> Security Class Initialized
+DEBUG - 2012-11-18 14:32:20 --> Input Class Initialized
+DEBUG - 2012-11-18 14:32:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:32:20 --> Language Class Initialized
+DEBUG - 2012-11-18 14:32:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:32:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:32:21 --> Controller Class Initialized
+INFO  - 2012-11-18 14:32:21 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:32:21 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:32:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:32:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:32:21 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:32:22 --> Model Class Initialized
+DEBUG - 2012-11-18 14:32:22 --> Model Class Initialized
+INFO  - 2012-11-18 14:32:22 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:32:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:32:22 --> 
+INFO  - 2012-11-18 14:32:22 --> 
+INFO  - 2012-11-18 14:32:22 --> NULL
+INFO  - 2012-11-18 14:32:22 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:32:22 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:32:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:32:23 --> 
+INFO  - 2012-11-18 14:32:23 --> 
+INFO  - 2012-11-18 14:32:23 --> NULL
+INFO  - 2012-11-18 14:32:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:32:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:32:23 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:32:23 --> Final output sent to browser
+DEBUG - 2012-11-18 14:32:23 --> Total execution time: 4.6147
+DEBUG - 2012-11-18 14:32:33 --> Config Class Initialized
+DEBUG - 2012-11-18 14:32:33 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:32:33 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:32:33 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:32:33 --> URI Class Initialized
+DEBUG - 2012-11-18 14:32:33 --> Router Class Initialized
+DEBUG - 2012-11-18 14:32:34 --> Output Class Initialized
+DEBUG - 2012-11-18 14:32:34 --> Security Class Initialized
+DEBUG - 2012-11-18 14:32:34 --> Input Class Initialized
+DEBUG - 2012-11-18 14:32:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:32:34 --> Language Class Initialized
+DEBUG - 2012-11-18 14:32:34 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:32:34 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:32:35 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:32:35 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:32:35 --> Model Class Initialized
+DEBUG - 2012-11-18 14:32:35 --> Model Class Initialized
+DEBUG - 2012-11-18 14:32:35 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:32:36 --> Final output sent to browser
+DEBUG - 2012-11-18 14:32:36 --> Total execution time: 2.9850
+DEBUG - 2012-11-18 14:32:38 --> Config Class Initialized
+DEBUG - 2012-11-18 14:32:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:32:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:32:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:32:39 --> URI Class Initialized
+DEBUG - 2012-11-18 14:32:39 --> Router Class Initialized
+DEBUG - 2012-11-18 14:32:39 --> Output Class Initialized
+DEBUG - 2012-11-18 14:32:39 --> Security Class Initialized
+DEBUG - 2012-11-18 14:32:39 --> Input Class Initialized
+DEBUG - 2012-11-18 14:32:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:32:40 --> Language Class Initialized
+DEBUG - 2012-11-18 14:32:40 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:32:40 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:32:40 --> Controller Class Initialized
+INFO  - 2012-11-18 14:32:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:32:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:32:41 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:32:41 --> Final output sent to browser
+DEBUG - 2012-11-18 14:32:41 --> Total execution time: 2.7348
+DEBUG - 2012-11-18 14:32:44 --> Config Class Initialized
+DEBUG - 2012-11-18 14:32:44 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:32:44 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:32:44 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:32:44 --> URI Class Initialized
+DEBUG - 2012-11-18 14:32:44 --> Router Class Initialized
+DEBUG - 2012-11-18 14:32:44 --> Output Class Initialized
+DEBUG - 2012-11-18 14:32:44 --> Security Class Initialized
+DEBUG - 2012-11-18 14:32:45 --> Input Class Initialized
+DEBUG - 2012-11-18 14:32:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:32:45 --> Language Class Initialized
+DEBUG - 2012-11-18 14:32:45 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:32:45 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:32:45 --> Controller Class Initialized
+INFO  - 2012-11-18 14:32:45 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:32:45 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:32:45 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:32:45 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:32:45 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:32:45 --> Model Class Initialized
+DEBUG - 2012-11-18 14:32:46 --> Model Class Initialized
+INFO  - 2012-11-18 14:32:46 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:32:46 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:32:46 --> 
+INFO  - 2012-11-18 14:32:46 --> 
+INFO  - 2012-11-18 14:32:46 --> NULL
+INFO  - 2012-11-18 14:32:46 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:32:46 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:32:46 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:32:46 --> 
+INFO  - 2012-11-18 14:32:46 --> 
+INFO  - 2012-11-18 14:32:47 --> NULL
+INFO  - 2012-11-18 14:32:47 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:32:47 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:32:47 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:32:47 --> Final output sent to browser
+DEBUG - 2012-11-18 14:32:48 --> Total execution time: 3.5772
+DEBUG - 2012-11-18 14:38:19 --> Config Class Initialized
+DEBUG - 2012-11-18 14:38:19 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:38:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:38:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:38:19 --> URI Class Initialized
+DEBUG - 2012-11-18 14:38:20 --> Router Class Initialized
+DEBUG - 2012-11-18 14:38:20 --> Output Class Initialized
+DEBUG - 2012-11-18 14:38:20 --> Security Class Initialized
+DEBUG - 2012-11-18 14:38:20 --> Input Class Initialized
+DEBUG - 2012-11-18 14:38:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:38:20 --> Language Class Initialized
+DEBUG - 2012-11-18 14:38:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:38:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:38:21 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:38:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:38:21 --> Model Class Initialized
+DEBUG - 2012-11-18 14:38:21 --> Model Class Initialized
+DEBUG - 2012-11-18 14:38:21 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:38:21 --> Final output sent to browser
+DEBUG - 2012-11-18 14:38:21 --> Total execution time: 2.6888
+DEBUG - 2012-11-18 14:38:24 --> Config Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:38:24 --> URI Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Router Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Output Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Security Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Input Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:38:24 --> Language Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:38:24 --> Controller Class Initialized
+INFO  - 2012-11-18 14:38:25 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:38:25 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:38:25 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:38:25 --> Final output sent to browser
+DEBUG - 2012-11-18 14:38:25 --> Total execution time: 1.2117
+DEBUG - 2012-11-18 14:38:31 --> Config Class Initialized
+DEBUG - 2012-11-18 14:38:31 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:38:32 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:38:32 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:38:32 --> URI Class Initialized
+DEBUG - 2012-11-18 14:38:32 --> Router Class Initialized
+DEBUG - 2012-11-18 14:38:32 --> Output Class Initialized
+DEBUG - 2012-11-18 14:38:32 --> Security Class Initialized
+DEBUG - 2012-11-18 14:38:32 --> Input Class Initialized
+DEBUG - 2012-11-18 14:38:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:38:33 --> Language Class Initialized
+DEBUG - 2012-11-18 14:38:33 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:38:33 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:38:33 --> Controller Class Initialized
+INFO  - 2012-11-18 14:38:34 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:38:34 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:38:34 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:38:34 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:38:34 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:38:34 --> Model Class Initialized
+DEBUG - 2012-11-18 14:38:34 --> Model Class Initialized
+INFO  - 2012-11-18 14:38:35 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:38:35 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:38:35 --> 
+INFO  - 2012-11-18 14:38:35 --> 
+INFO  - 2012-11-18 14:38:35 --> NULL
+INFO  - 2012-11-18 14:38:35 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:38:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:38:35 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:38:35 --> 
+INFO  - 2012-11-18 14:38:35 --> 
+INFO  - 2012-11-18 14:38:36 --> NULL
+INFO  - 2012-11-18 14:38:36 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:38:36 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:38:36 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:38:36 --> Final output sent to browser
+DEBUG - 2012-11-18 14:38:36 --> Total execution time: 4.7624
+DEBUG - 2012-11-18 14:39:24 --> Config Class Initialized
+DEBUG - 2012-11-18 14:39:24 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:39:25 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:39:25 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:39:25 --> URI Class Initialized
+DEBUG - 2012-11-18 14:39:25 --> Router Class Initialized
+DEBUG - 2012-11-18 14:39:25 --> Output Class Initialized
+DEBUG - 2012-11-18 14:39:25 --> Security Class Initialized
+DEBUG - 2012-11-18 14:39:26 --> Input Class Initialized
+DEBUG - 2012-11-18 14:39:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:39:26 --> Language Class Initialized
+DEBUG - 2012-11-18 14:39:26 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:39:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:39:27 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:39:27 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:39:27 --> Model Class Initialized
+DEBUG - 2012-11-18 14:39:27 --> Model Class Initialized
+DEBUG - 2012-11-18 14:39:27 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:39:28 --> Final output sent to browser
+DEBUG - 2012-11-18 14:39:28 --> Total execution time: 3.3913
+DEBUG - 2012-11-18 14:39:30 --> Config Class Initialized
+DEBUG - 2012-11-18 14:39:30 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:39:31 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:39:31 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:39:31 --> URI Class Initialized
+DEBUG - 2012-11-18 14:39:31 --> Router Class Initialized
+DEBUG - 2012-11-18 14:39:31 --> Output Class Initialized
+DEBUG - 2012-11-18 14:39:32 --> Security Class Initialized
+DEBUG - 2012-11-18 14:39:32 --> Input Class Initialized
+DEBUG - 2012-11-18 14:39:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:39:32 --> Language Class Initialized
+DEBUG - 2012-11-18 14:39:32 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:39:32 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:39:33 --> Controller Class Initialized
+INFO  - 2012-11-18 14:39:33 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:39:33 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:39:33 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:39:33 --> Final output sent to browser
+DEBUG - 2012-11-18 14:39:33 --> Total execution time: 2.9662
+DEBUG - 2012-11-18 14:39:35 --> Config Class Initialized
+DEBUG - 2012-11-18 14:39:35 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:39:36 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:39:36 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:39:36 --> URI Class Initialized
+DEBUG - 2012-11-18 14:39:36 --> Router Class Initialized
+DEBUG - 2012-11-18 14:39:36 --> Output Class Initialized
+DEBUG - 2012-11-18 14:39:36 --> Security Class Initialized
+DEBUG - 2012-11-18 14:39:36 --> Input Class Initialized
+DEBUG - 2012-11-18 14:39:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:39:37 --> Language Class Initialized
+DEBUG - 2012-11-18 14:39:37 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:39:37 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:39:37 --> Controller Class Initialized
+INFO  - 2012-11-18 14:39:37 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:39:37 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:39:37 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:39:37 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:39:38 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:39:38 --> Model Class Initialized
+DEBUG - 2012-11-18 14:39:38 --> Model Class Initialized
+INFO  - 2012-11-18 14:39:38 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:39:38 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:39:38 --> 
+INFO  - 2012-11-18 14:39:38 --> 
+INFO  - 2012-11-18 14:39:38 --> NULL
+INFO  - 2012-11-18 14:39:38 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:39:38 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:39:39 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:39:39 --> 
+INFO  - 2012-11-18 14:39:39 --> 
+INFO  - 2012-11-18 14:39:39 --> NULL
+INFO  - 2012-11-18 14:39:39 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:39:39 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:39:39 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:39:39 --> Final output sent to browser
+DEBUG - 2012-11-18 14:39:39 --> Total execution time: 4.1260
+DEBUG - 2012-11-18 14:40:10 --> Config Class Initialized
+DEBUG - 2012-11-18 14:40:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:40:11 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:40:11 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:40:11 --> URI Class Initialized
+DEBUG - 2012-11-18 14:40:11 --> Router Class Initialized
+DEBUG - 2012-11-18 14:40:11 --> Output Class Initialized
+DEBUG - 2012-11-18 14:40:12 --> Security Class Initialized
+DEBUG - 2012-11-18 14:40:12 --> Input Class Initialized
+DEBUG - 2012-11-18 14:40:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:40:12 --> Language Class Initialized
+DEBUG - 2012-11-18 14:40:12 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:40:12 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:40:12 --> Controller Class Initialized
+INFO  - 2012-11-18 14:40:13 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:40:13 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:40:13 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:40:13 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:40:13 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:40:13 --> Model Class Initialized
+DEBUG - 2012-11-18 14:40:13 --> Model Class Initialized
+INFO  - 2012-11-18 14:40:14 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:40:14 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:14 --> 
+INFO  - 2012-11-18 14:40:14 --> 
+INFO  - 2012-11-18 14:40:14 --> ACTUALIZAR
+INFO  - 2012-11-18 14:40:14 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:14 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:40:14 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:14 --> 
+INFO  - 2012-11-18 14:40:15 --> 
+INFO  - 2012-11-18 14:40:15 --> ACTUALIZAR
+INFO  - 2012-11-18 14:40:15 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:15 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:40:15 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:40:15 --> Final output sent to browser
+DEBUG - 2012-11-18 14:40:15 --> Total execution time: 4.8993
+DEBUG - 2012-11-18 14:40:23 --> Config Class Initialized
+DEBUG - 2012-11-18 14:40:24 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:40:24 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:40:24 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:40:24 --> URI Class Initialized
+DEBUG - 2012-11-18 14:40:24 --> Router Class Initialized
+DEBUG - 2012-11-18 14:40:25 --> Output Class Initialized
+DEBUG - 2012-11-18 14:40:25 --> Security Class Initialized
+DEBUG - 2012-11-18 14:40:25 --> Input Class Initialized
+DEBUG - 2012-11-18 14:40:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:40:25 --> Language Class Initialized
+DEBUG - 2012-11-18 14:40:25 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:40:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:40:26 --> Controller Class Initialized
+INFO  - 2012-11-18 14:40:26 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:40:26 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:40:26 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:40:27 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:40:27 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:40:27 --> Model Class Initialized
+DEBUG - 2012-11-18 14:40:27 --> Model Class Initialized
+INFO  - 2012-11-18 14:40:27 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:40:27 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:27 --> 
+INFO  - 2012-11-18 14:40:27 --> 
+INFO  - 2012-11-18 14:40:27 --> NULL
+INFO  - 2012-11-18 14:40:28 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:28 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:40:28 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:28 --> 
+INFO  - 2012-11-18 14:40:28 --> 
+INFO  - 2012-11-18 14:40:28 --> NULL
+INFO  - 2012-11-18 14:40:28 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:28 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:40:28 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:40:28 --> Final output sent to browser
+DEBUG - 2012-11-18 14:40:29 --> Total execution time: 4.9716
+DEBUG - 2012-11-18 14:40:47 --> Config Class Initialized
+DEBUG - 2012-11-18 14:40:47 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:40:47 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:40:47 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:40:48 --> URI Class Initialized
+DEBUG - 2012-11-18 14:40:48 --> Router Class Initialized
+DEBUG - 2012-11-18 14:40:48 --> Output Class Initialized
+DEBUG - 2012-11-18 14:40:48 --> Security Class Initialized
+DEBUG - 2012-11-18 14:40:48 --> Input Class Initialized
+DEBUG - 2012-11-18 14:40:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:40:48 --> Language Class Initialized
+DEBUG - 2012-11-18 14:40:48 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:40:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:40:49 --> Controller Class Initialized
+INFO  - 2012-11-18 14:40:49 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:40:49 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:40:49 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:40:49 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:40:49 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:40:50 --> Model Class Initialized
+DEBUG - 2012-11-18 14:40:50 --> Model Class Initialized
+INFO  - 2012-11-18 14:40:50 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:40:50 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:50 --> 
+INFO  - 2012-11-18 14:40:50 --> 
+INFO  - 2012-11-18 14:40:50 --> NULL
+INFO  - 2012-11-18 14:40:50 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:51 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:40:51 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:51 --> 
+INFO  - 2012-11-18 14:40:51 --> 
+INFO  - 2012-11-18 14:40:51 --> NULL
+INFO  - 2012-11-18 14:40:52 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:40:52 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:40:52 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:40:52 --> Final output sent to browser
+DEBUG - 2012-11-18 14:40:52 --> Total execution time: 5.3277
+DEBUG - 2012-11-18 14:41:02 --> Config Class Initialized
+DEBUG - 2012-11-18 14:41:03 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:41:03 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:41:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:41:03 --> URI Class Initialized
+DEBUG - 2012-11-18 14:41:03 --> Router Class Initialized
+DEBUG - 2012-11-18 14:41:03 --> Output Class Initialized
+DEBUG - 2012-11-18 14:41:04 --> Security Class Initialized
+DEBUG - 2012-11-18 14:41:04 --> Input Class Initialized
+DEBUG - 2012-11-18 14:41:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:41:04 --> Language Class Initialized
+DEBUG - 2012-11-18 14:41:04 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:41:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:41:05 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:41:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:41:05 --> Model Class Initialized
+DEBUG - 2012-11-18 14:41:05 --> Model Class Initialized
+DEBUG - 2012-11-18 14:41:05 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:41:05 --> Final output sent to browser
+DEBUG - 2012-11-18 14:41:06 --> Total execution time: 3.0729
+DEBUG - 2012-11-18 14:41:09 --> Config Class Initialized
+DEBUG - 2012-11-18 14:41:09 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:41:09 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:41:09 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:41:09 --> URI Class Initialized
+DEBUG - 2012-11-18 14:41:10 --> Router Class Initialized
+DEBUG - 2012-11-18 14:41:10 --> Output Class Initialized
+DEBUG - 2012-11-18 14:41:10 --> Security Class Initialized
+DEBUG - 2012-11-18 14:41:10 --> Input Class Initialized
+DEBUG - 2012-11-18 14:41:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:41:10 --> Language Class Initialized
+DEBUG - 2012-11-18 14:41:10 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:41:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:41:11 --> Controller Class Initialized
+INFO  - 2012-11-18 14:41:11 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:41:11 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:41:11 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:41:11 --> Final output sent to browser
+DEBUG - 2012-11-18 14:41:11 --> Total execution time: 2.2823
+DEBUG - 2012-11-18 14:41:14 --> Config Class Initialized
+DEBUG - 2012-11-18 14:41:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:41:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:41:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:41:14 --> URI Class Initialized
+DEBUG - 2012-11-18 14:41:14 --> Router Class Initialized
+DEBUG - 2012-11-18 14:41:14 --> Output Class Initialized
+DEBUG - 2012-11-18 14:41:14 --> Security Class Initialized
+DEBUG - 2012-11-18 14:41:14 --> Input Class Initialized
+DEBUG - 2012-11-18 14:41:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:41:14 --> Language Class Initialized
+DEBUG - 2012-11-18 14:41:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:41:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:41:15 --> Controller Class Initialized
+INFO  - 2012-11-18 14:41:15 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:41:15 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:41:16 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:41:16 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:41:16 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:41:16 --> Model Class Initialized
+DEBUG - 2012-11-18 14:41:16 --> Model Class Initialized
+INFO  - 2012-11-18 14:41:16 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:41:17 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:41:17 --> 
+INFO  - 2012-11-18 14:41:17 --> 
+INFO  - 2012-11-18 14:41:17 --> NULL
+INFO  - 2012-11-18 14:41:17 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:41:17 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:41:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:41:18 --> 
+INFO  - 2012-11-18 14:41:18 --> 
+INFO  - 2012-11-18 14:41:18 --> NULL
+INFO  - 2012-11-18 14:41:18 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:41:18 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:41:18 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:41:18 --> Final output sent to browser
+DEBUG - 2012-11-18 14:41:18 --> Total execution time: 4.8562
+DEBUG - 2012-11-18 14:44:35 --> Config Class Initialized
+DEBUG - 2012-11-18 14:44:36 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:44:36 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:44:36 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:44:36 --> URI Class Initialized
+DEBUG - 2012-11-18 14:44:36 --> Router Class Initialized
+DEBUG - 2012-11-18 14:44:36 --> Output Class Initialized
+DEBUG - 2012-11-18 14:44:37 --> Security Class Initialized
+DEBUG - 2012-11-18 14:44:37 --> Input Class Initialized
+DEBUG - 2012-11-18 14:44:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:44:37 --> Language Class Initialized
+DEBUG - 2012-11-18 14:44:37 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:44:37 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:44:37 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:44:37 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:44:38 --> Model Class Initialized
+DEBUG - 2012-11-18 14:44:38 --> Model Class Initialized
+DEBUG - 2012-11-18 14:44:38 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:44:38 --> Final output sent to browser
+DEBUG - 2012-11-18 14:44:38 --> Total execution time: 2.5597
+DEBUG - 2012-11-18 14:44:41 --> Config Class Initialized
+DEBUG - 2012-11-18 14:44:42 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:44:42 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:44:42 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:44:42 --> URI Class Initialized
+DEBUG - 2012-11-18 14:44:42 --> Router Class Initialized
+DEBUG - 2012-11-18 14:44:43 --> Output Class Initialized
+DEBUG - 2012-11-18 14:44:43 --> Security Class Initialized
+DEBUG - 2012-11-18 14:44:43 --> Input Class Initialized
+DEBUG - 2012-11-18 14:44:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:44:43 --> Language Class Initialized
+DEBUG - 2012-11-18 14:44:43 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:44:43 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:44:44 --> Controller Class Initialized
+INFO  - 2012-11-18 14:44:44 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:44:44 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:44:44 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:44:44 --> Final output sent to browser
+DEBUG - 2012-11-18 14:44:44 --> Total execution time: 2.8204
+DEBUG - 2012-11-18 14:44:46 --> Config Class Initialized
+DEBUG - 2012-11-18 14:44:46 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:44:46 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:44:46 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:44:47 --> URI Class Initialized
+DEBUG - 2012-11-18 14:44:47 --> Router Class Initialized
+DEBUG - 2012-11-18 14:44:47 --> Output Class Initialized
+DEBUG - 2012-11-18 14:44:47 --> Security Class Initialized
+DEBUG - 2012-11-18 14:44:47 --> Input Class Initialized
+DEBUG - 2012-11-18 14:44:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:44:47 --> Language Class Initialized
+DEBUG - 2012-11-18 14:44:48 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:44:48 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:44:48 --> Controller Class Initialized
+INFO  - 2012-11-18 14:44:48 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:44:48 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:44:48 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:44:48 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:44:49 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:44:49 --> Model Class Initialized
+DEBUG - 2012-11-18 14:44:49 --> Model Class Initialized
+INFO  - 2012-11-18 14:44:49 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:44:49 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:44:50 --> 
+INFO  - 2012-11-18 14:44:50 --> 
+INFO  - 2012-11-18 14:44:50 --> NULL
+INFO  - 2012-11-18 14:44:50 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:44:50 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:44:50 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:44:50 --> 
+INFO  - 2012-11-18 14:44:50 --> 
+INFO  - 2012-11-18 14:44:50 --> NULL
+INFO  - 2012-11-18 14:44:51 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:44:51 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:44:51 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:44:51 --> Final output sent to browser
+DEBUG - 2012-11-18 14:44:51 --> Total execution time: 4.7400
+DEBUG - 2012-11-18 14:45:15 --> Config Class Initialized
+DEBUG - 2012-11-18 14:45:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:45:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:45:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:45:16 --> URI Class Initialized
+DEBUG - 2012-11-18 14:45:16 --> Router Class Initialized
+DEBUG - 2012-11-18 14:45:16 --> Output Class Initialized
+DEBUG - 2012-11-18 14:45:16 --> Security Class Initialized
+DEBUG - 2012-11-18 14:45:17 --> Input Class Initialized
+DEBUG - 2012-11-18 14:45:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:45:17 --> Language Class Initialized
+DEBUG - 2012-11-18 14:45:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:45:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:45:17 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:45:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:45:17 --> Model Class Initialized
+DEBUG - 2012-11-18 14:45:17 --> Model Class Initialized
+DEBUG - 2012-11-18 14:45:18 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:45:18 --> Final output sent to browser
+DEBUG - 2012-11-18 14:45:18 --> Total execution time: 2.3556
+DEBUG - 2012-11-18 14:45:20 --> Config Class Initialized
+DEBUG - 2012-11-18 14:45:20 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:45:20 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:45:20 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:45:20 --> URI Class Initialized
+DEBUG - 2012-11-18 14:45:20 --> Router Class Initialized
+DEBUG - 2012-11-18 14:45:20 --> Output Class Initialized
+DEBUG - 2012-11-18 14:45:20 --> Security Class Initialized
+DEBUG - 2012-11-18 14:45:20 --> Input Class Initialized
+DEBUG - 2012-11-18 14:45:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:45:20 --> Language Class Initialized
+DEBUG - 2012-11-18 14:45:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:45:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:45:21 --> Controller Class Initialized
+INFO  - 2012-11-18 14:45:21 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:45:21 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:45:21 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:45:21 --> Final output sent to browser
+DEBUG - 2012-11-18 14:45:22 --> Total execution time: 1.5730
+DEBUG - 2012-11-18 14:45:23 --> Config Class Initialized
+DEBUG - 2012-11-18 14:45:23 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:45:24 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:45:24 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:45:24 --> URI Class Initialized
+DEBUG - 2012-11-18 14:45:24 --> Router Class Initialized
+DEBUG - 2012-11-18 14:45:24 --> Output Class Initialized
+DEBUG - 2012-11-18 14:45:24 --> Security Class Initialized
+DEBUG - 2012-11-18 14:45:24 --> Input Class Initialized
+DEBUG - 2012-11-18 14:45:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:45:24 --> Language Class Initialized
+DEBUG - 2012-11-18 14:45:25 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:45:25 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:45:25 --> Controller Class Initialized
+INFO  - 2012-11-18 14:45:25 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:45:25 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:45:25 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:45:25 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:45:26 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:45:26 --> Model Class Initialized
+DEBUG - 2012-11-18 14:45:26 --> Model Class Initialized
+INFO  - 2012-11-18 14:45:26 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:45:26 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:45:26 --> 
+INFO  - 2012-11-18 14:45:26 --> 
+INFO  - 2012-11-18 14:45:26 --> NULL
+DEBUG - 2012-11-18 14:45:26 --> DB Transaction Failure
+ERROR - 2012-11-18 14:45:26 --> Query error: Algo está equivocado en su sintax cerca 'is null) or (fecha_operacion BETWEEN "" AND ""))
+AND ((NULL is null) or (operaci' en la linea 3
+DEBUG - 2012-11-18 14:45:27 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2012-11-18 14:45:59 --> Config Class Initialized
+DEBUG - 2012-11-18 14:45:59 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:45:59 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:45:59 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:45:59 --> URI Class Initialized
+DEBUG - 2012-11-18 14:46:00 --> Router Class Initialized
+DEBUG - 2012-11-18 14:46:00 --> Output Class Initialized
+DEBUG - 2012-11-18 14:46:00 --> Security Class Initialized
+DEBUG - 2012-11-18 14:46:00 --> Input Class Initialized
+DEBUG - 2012-11-18 14:46:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:46:01 --> Language Class Initialized
+DEBUG - 2012-11-18 14:46:01 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:46:01 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:46:01 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:46:02 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:46:02 --> Model Class Initialized
+DEBUG - 2012-11-18 14:46:02 --> Model Class Initialized
+DEBUG - 2012-11-18 14:46:02 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:46:02 --> Final output sent to browser
+DEBUG - 2012-11-18 14:46:03 --> Total execution time: 3.7637
+DEBUG - 2012-11-18 14:46:04 --> Config Class Initialized
+DEBUG - 2012-11-18 14:46:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:46:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:46:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:46:05 --> URI Class Initialized
+DEBUG - 2012-11-18 14:46:05 --> Router Class Initialized
+DEBUG - 2012-11-18 14:46:05 --> Output Class Initialized
+DEBUG - 2012-11-18 14:46:05 --> Security Class Initialized
+DEBUG - 2012-11-18 14:46:05 --> Input Class Initialized
+DEBUG - 2012-11-18 14:46:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:46:05 --> Language Class Initialized
+DEBUG - 2012-11-18 14:46:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:46:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:46:06 --> Controller Class Initialized
+INFO  - 2012-11-18 14:46:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:46:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:46:07 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:46:07 --> Final output sent to browser
+DEBUG - 2012-11-18 14:46:07 --> Total execution time: 2.3992
+DEBUG - 2012-11-18 14:46:08 --> Config Class Initialized
+DEBUG - 2012-11-18 14:46:09 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:46:09 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:46:09 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:46:09 --> URI Class Initialized
+DEBUG - 2012-11-18 14:46:09 --> Router Class Initialized
+DEBUG - 2012-11-18 14:46:09 --> Output Class Initialized
+DEBUG - 2012-11-18 14:46:09 --> Security Class Initialized
+DEBUG - 2012-11-18 14:46:09 --> Input Class Initialized
+DEBUG - 2012-11-18 14:46:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:46:10 --> Language Class Initialized
+DEBUG - 2012-11-18 14:46:10 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:46:10 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:46:10 --> Controller Class Initialized
+INFO  - 2012-11-18 14:46:10 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:46:10 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:46:11 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:46:11 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:46:11 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:46:11 --> Model Class Initialized
+DEBUG - 2012-11-18 14:46:11 --> Model Class Initialized
+INFO  - 2012-11-18 14:46:11 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:46:11 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:46:11 --> NULL
+INFO  - 2012-11-18 14:46:11 --> null
+INFO  - 2012-11-18 14:46:11 --> NULL
+INFO  - 2012-11-18 14:46:11 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:46:11 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:46:11 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:46:12 --> NULL
+INFO  - 2012-11-18 14:46:12 --> null
+INFO  - 2012-11-18 14:46:12 --> NULL
+INFO  - 2012-11-18 14:46:12 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:46:12 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:46:12 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:46:12 --> Final output sent to browser
+DEBUG - 2012-11-18 14:46:12 --> Total execution time: 3.6709
+DEBUG - 2012-11-18 14:46:21 --> Config Class Initialized
+DEBUG - 2012-11-18 14:46:21 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:46:21 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:46:21 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:46:21 --> URI Class Initialized
+DEBUG - 2012-11-18 14:46:21 --> Router Class Initialized
+DEBUG - 2012-11-18 14:46:22 --> Output Class Initialized
+DEBUG - 2012-11-18 14:46:22 --> Security Class Initialized
+DEBUG - 2012-11-18 14:46:22 --> Input Class Initialized
+DEBUG - 2012-11-18 14:46:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:46:22 --> Language Class Initialized
+DEBUG - 2012-11-18 14:46:22 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:46:22 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:46:23 --> Controller Class Initialized
+INFO  - 2012-11-18 14:46:23 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:46:23 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:46:23 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:46:23 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:46:23 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:46:23 --> Model Class Initialized
+DEBUG - 2012-11-18 14:46:23 --> Model Class Initialized
+INFO  - 2012-11-18 14:46:24 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:46:24 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:46:24 --> NULL
+INFO  - 2012-11-18 14:46:24 --> null
+INFO  - 2012-11-18 14:46:24 --> ACTUALIZAR
+DEBUG - 2012-11-18 14:46:24 --> DB Transaction Failure
+ERROR - 2012-11-18 14:46:24 --> Query error: La columna 'ACTUALIZAR' en where clause es desconocida
+DEBUG - 2012-11-18 14:46:24 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2012-11-18 14:48:13 --> Config Class Initialized
+DEBUG - 2012-11-18 14:48:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:48:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:48:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:48:14 --> URI Class Initialized
+DEBUG - 2012-11-18 14:48:14 --> Router Class Initialized
+DEBUG - 2012-11-18 14:48:14 --> Output Class Initialized
+DEBUG - 2012-11-18 14:48:14 --> Security Class Initialized
+DEBUG - 2012-11-18 14:48:14 --> Input Class Initialized
+DEBUG - 2012-11-18 14:48:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:48:15 --> Language Class Initialized
+DEBUG - 2012-11-18 14:48:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:48:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:48:15 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:48:15 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:48:15 --> Model Class Initialized
+DEBUG - 2012-11-18 14:48:15 --> Model Class Initialized
+DEBUG - 2012-11-18 14:48:16 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:48:16 --> Final output sent to browser
+DEBUG - 2012-11-18 14:48:16 --> Total execution time: 2.5542
+DEBUG - 2012-11-18 14:48:18 --> Config Class Initialized
+DEBUG - 2012-11-18 14:48:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:48:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:48:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:48:18 --> URI Class Initialized
+DEBUG - 2012-11-18 14:48:18 --> Router Class Initialized
+DEBUG - 2012-11-18 14:48:18 --> Output Class Initialized
+DEBUG - 2012-11-18 14:48:18 --> Security Class Initialized
+DEBUG - 2012-11-18 14:48:19 --> Input Class Initialized
+DEBUG - 2012-11-18 14:48:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:48:19 --> Language Class Initialized
+DEBUG - 2012-11-18 14:48:19 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:48:19 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:48:19 --> Controller Class Initialized
+INFO  - 2012-11-18 14:48:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:48:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:48:19 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:48:19 --> Final output sent to browser
+DEBUG - 2012-11-18 14:48:19 --> Total execution time: 1.3554
+DEBUG - 2012-11-18 14:48:29 --> Config Class Initialized
+DEBUG - 2012-11-18 14:48:29 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:48:29 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:48:29 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:48:29 --> URI Class Initialized
+DEBUG - 2012-11-18 14:48:30 --> Router Class Initialized
+DEBUG - 2012-11-18 14:48:30 --> Output Class Initialized
+DEBUG - 2012-11-18 14:48:30 --> Security Class Initialized
+DEBUG - 2012-11-18 14:48:30 --> Input Class Initialized
+DEBUG - 2012-11-18 14:48:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:48:30 --> Language Class Initialized
+DEBUG - 2012-11-18 14:48:30 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:48:31 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:48:31 --> Controller Class Initialized
+INFO  - 2012-11-18 14:48:31 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:48:31 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:48:31 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:48:32 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:48:32 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:48:32 --> Model Class Initialized
+DEBUG - 2012-11-18 14:48:32 --> Model Class Initialized
+INFO  - 2012-11-18 14:48:32 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:48:32 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:48:32 --> 2012-09-01
+INFO  - 2012-11-18 14:48:33 --> 2012-11-18
+INFO  - 2012-11-18 14:48:33 --> NULL
+INFO  - 2012-11-18 14:48:33 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:48:33 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:48:33 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:48:33 --> 2012-09-01
+INFO  - 2012-11-18 14:48:33 --> 2012-11-18
+INFO  - 2012-11-18 14:48:33 --> NULL
+INFO  - 2012-11-18 14:48:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:48:34 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:48:34 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:48:34 --> Final output sent to browser
+DEBUG - 2012-11-18 14:48:34 --> Total execution time: 5.2632
+DEBUG - 2012-11-18 14:49:00 --> Config Class Initialized
+DEBUG - 2012-11-18 14:49:00 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:49:00 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:49:00 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:49:00 --> URI Class Initialized
+DEBUG - 2012-11-18 14:49:00 --> Router Class Initialized
+DEBUG - 2012-11-18 14:49:01 --> Output Class Initialized
+DEBUG - 2012-11-18 14:49:01 --> Security Class Initialized
+DEBUG - 2012-11-18 14:49:01 --> Input Class Initialized
+DEBUG - 2012-11-18 14:49:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:49:01 --> Language Class Initialized
+DEBUG - 2012-11-18 14:49:01 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:49:01 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:49:02 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:49:02 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:49:02 --> Model Class Initialized
+DEBUG - 2012-11-18 14:49:02 --> Model Class Initialized
+DEBUG - 2012-11-18 14:49:02 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:49:02 --> Final output sent to browser
+DEBUG - 2012-11-18 14:49:02 --> Total execution time: 2.7176
+DEBUG - 2012-11-18 14:49:04 --> Config Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:49:05 --> URI Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> Router Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> Output Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> Security Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> Input Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:49:05 --> Language Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:49:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:49:06 --> Controller Class Initialized
+INFO  - 2012-11-18 14:49:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:49:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:49:06 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:49:06 --> Final output sent to browser
+DEBUG - 2012-11-18 14:49:06 --> Total execution time: 1.3301
+DEBUG - 2012-11-18 14:49:10 --> Config Class Initialized
+DEBUG - 2012-11-18 14:49:10 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:49:10 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:49:11 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:49:11 --> URI Class Initialized
+DEBUG - 2012-11-18 14:49:11 --> Router Class Initialized
+DEBUG - 2012-11-18 14:49:11 --> Output Class Initialized
+DEBUG - 2012-11-18 14:49:11 --> Security Class Initialized
+DEBUG - 2012-11-18 14:49:11 --> Input Class Initialized
+DEBUG - 2012-11-18 14:49:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:49:12 --> Language Class Initialized
+DEBUG - 2012-11-18 14:49:12 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:49:12 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:49:12 --> Controller Class Initialized
+INFO  - 2012-11-18 14:49:12 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:49:12 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:49:13 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:49:13 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:49:13 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:49:13 --> Model Class Initialized
+DEBUG - 2012-11-18 14:49:13 --> Model Class Initialized
+INFO  - 2012-11-18 14:49:13 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:49:13 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:49:14 --> NULL
+INFO  - 2012-11-18 14:49:14 --> NULL
+INFO  - 2012-11-18 14:49:14 --> ACTUALIZAR
+DEBUG - 2012-11-18 14:49:14 --> DB Transaction Failure
+ERROR - 2012-11-18 14:49:14 --> Query error: La columna 'ACTUALIZAR' en where clause es desconocida
+DEBUG - 2012-11-18 14:49:14 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2012-11-18 14:52:03 --> Config Class Initialized
+DEBUG - 2012-11-18 14:52:03 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:52:03 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:52:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:52:03 --> URI Class Initialized
+DEBUG - 2012-11-18 14:52:04 --> Router Class Initialized
+DEBUG - 2012-11-18 14:52:04 --> Output Class Initialized
+DEBUG - 2012-11-18 14:52:04 --> Security Class Initialized
+DEBUG - 2012-11-18 14:52:04 --> Input Class Initialized
+DEBUG - 2012-11-18 14:52:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:52:05 --> Language Class Initialized
+DEBUG - 2012-11-18 14:52:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:52:05 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:52:05 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:52:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:52:05 --> Model Class Initialized
+DEBUG - 2012-11-18 14:52:06 --> Model Class Initialized
+DEBUG - 2012-11-18 14:52:06 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:52:06 --> Final output sent to browser
+DEBUG - 2012-11-18 14:52:06 --> Total execution time: 3.2043
+DEBUG - 2012-11-18 14:52:08 --> Config Class Initialized
+DEBUG - 2012-11-18 14:52:08 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:52:08 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:52:09 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:52:09 --> URI Class Initialized
+DEBUG - 2012-11-18 14:52:09 --> Router Class Initialized
+DEBUG - 2012-11-18 14:52:09 --> Output Class Initialized
+DEBUG - 2012-11-18 14:52:09 --> Security Class Initialized
+DEBUG - 2012-11-18 14:52:09 --> Input Class Initialized
+DEBUG - 2012-11-18 14:52:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:52:09 --> Language Class Initialized
+DEBUG - 2012-11-18 14:52:09 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:52:09 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:52:10 --> Controller Class Initialized
+INFO  - 2012-11-18 14:52:10 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:52:10 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:52:10 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:52:10 --> Final output sent to browser
+DEBUG - 2012-11-18 14:52:10 --> Total execution time: 1.6062
+DEBUG - 2012-11-18 14:52:12 --> Config Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:52:13 --> URI Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> Router Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> Output Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> Security Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> Input Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:52:13 --> Language Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:52:13 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:52:14 --> Controller Class Initialized
+INFO  - 2012-11-18 14:52:14 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:52:14 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:52:14 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:52:14 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:52:14 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:52:14 --> Model Class Initialized
+DEBUG - 2012-11-18 14:52:14 --> Model Class Initialized
+INFO  - 2012-11-18 14:52:14 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:52:14 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:14 --> NULL
+INFO  - 2012-11-18 14:52:14 --> NULL
+INFO  - 2012-11-18 14:52:14 --> ACTUALIZAR
+INFO  - 2012-11-18 14:52:14 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:15 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:52:15 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:15 --> NULL
+INFO  - 2012-11-18 14:52:15 --> NULL
+INFO  - 2012-11-18 14:52:15 --> ACTUALIZAR
+INFO  - 2012-11-18 14:52:15 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:15 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:52:15 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:52:15 --> Final output sent to browser
+DEBUG - 2012-11-18 14:52:15 --> Total execution time: 2.7018
+DEBUG - 2012-11-18 14:52:18 --> Config Class Initialized
+DEBUG - 2012-11-18 14:52:19 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:52:19 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:52:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:52:19 --> URI Class Initialized
+DEBUG - 2012-11-18 14:52:19 --> Router Class Initialized
+DEBUG - 2012-11-18 14:52:19 --> Output Class Initialized
+DEBUG - 2012-11-18 14:52:20 --> Security Class Initialized
+DEBUG - 2012-11-18 14:52:20 --> Input Class Initialized
+DEBUG - 2012-11-18 14:52:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:52:20 --> Language Class Initialized
+DEBUG - 2012-11-18 14:52:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:52:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:52:21 --> Controller Class Initialized
+INFO  - 2012-11-18 14:52:21 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:52:21 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:52:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:52:22 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:52:22 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:52:22 --> Model Class Initialized
+DEBUG - 2012-11-18 14:52:22 --> Model Class Initialized
+INFO  - 2012-11-18 14:52:22 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:52:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:22 --> NULL
+INFO  - 2012-11-18 14:52:23 --> NULL
+INFO  - 2012-11-18 14:52:23 --> NULL
+INFO  - 2012-11-18 14:52:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:52:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:23 --> NULL
+INFO  - 2012-11-18 14:52:23 --> NULL
+INFO  - 2012-11-18 14:52:23 --> NULL
+INFO  - 2012-11-18 14:52:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:52:24 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:52:24 --> Final output sent to browser
+DEBUG - 2012-11-18 14:52:24 --> Total execution time: 5.2459
+DEBUG - 2012-11-18 14:52:42 --> Config Class Initialized
+DEBUG - 2012-11-18 14:52:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:52:43 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:52:43 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:52:43 --> URI Class Initialized
+DEBUG - 2012-11-18 14:52:43 --> Router Class Initialized
+DEBUG - 2012-11-18 14:52:43 --> Output Class Initialized
+DEBUG - 2012-11-18 14:52:44 --> Security Class Initialized
+DEBUG - 2012-11-18 14:52:44 --> Input Class Initialized
+DEBUG - 2012-11-18 14:52:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:52:44 --> Language Class Initialized
+DEBUG - 2012-11-18 14:52:44 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:52:44 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:52:44 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:52:45 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:52:45 --> Model Class Initialized
+DEBUG - 2012-11-18 14:52:45 --> Model Class Initialized
+DEBUG - 2012-11-18 14:52:45 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:52:45 --> Final output sent to browser
+DEBUG - 2012-11-18 14:52:45 --> Total execution time: 2.7060
+DEBUG - 2012-11-18 14:52:47 --> Config Class Initialized
+DEBUG - 2012-11-18 14:52:47 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:52:47 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:52:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:52:48 --> URI Class Initialized
+DEBUG - 2012-11-18 14:52:48 --> Router Class Initialized
+DEBUG - 2012-11-18 14:52:48 --> Output Class Initialized
+DEBUG - 2012-11-18 14:52:48 --> Security Class Initialized
+DEBUG - 2012-11-18 14:52:48 --> Input Class Initialized
+DEBUG - 2012-11-18 14:52:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:52:48 --> Language Class Initialized
+DEBUG - 2012-11-18 14:52:48 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:52:48 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:52:48 --> Controller Class Initialized
+INFO  - 2012-11-18 14:52:48 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:52:49 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:52:49 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:52:49 --> Final output sent to browser
+DEBUG - 2012-11-18 14:52:49 --> Total execution time: 1.3701
+DEBUG - 2012-11-18 14:52:52 --> Config Class Initialized
+DEBUG - 2012-11-18 14:52:52 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:52:52 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:52:52 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:52:52 --> URI Class Initialized
+DEBUG - 2012-11-18 14:52:52 --> Router Class Initialized
+DEBUG - 2012-11-18 14:52:52 --> Output Class Initialized
+DEBUG - 2012-11-18 14:52:52 --> Security Class Initialized
+DEBUG - 2012-11-18 14:52:52 --> Input Class Initialized
+DEBUG - 2012-11-18 14:52:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:52:53 --> Language Class Initialized
+DEBUG - 2012-11-18 14:52:53 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:52:53 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:52:53 --> Controller Class Initialized
+INFO  - 2012-11-18 14:52:53 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:52:53 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:52:53 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:52:53 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:52:53 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:52:53 --> Model Class Initialized
+DEBUG - 2012-11-18 14:52:53 --> Model Class Initialized
+INFO  - 2012-11-18 14:52:53 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:52:53 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:54 --> NULL
+INFO  - 2012-11-18 14:52:54 --> NULL
+INFO  - 2012-11-18 14:52:54 --> ACTUALIZAR
+INFO  - 2012-11-18 14:52:54 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:54 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:52:54 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:54 --> NULL
+INFO  - 2012-11-18 14:52:54 --> NULL
+INFO  - 2012-11-18 14:52:54 --> ACTUALIZAR
+INFO  - 2012-11-18 14:52:54 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:52:54 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:52:54 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:52:54 --> Final output sent to browser
+DEBUG - 2012-11-18 14:52:54 --> Total execution time: 2.5505
+DEBUG - 2012-11-18 14:52:57 --> Config Class Initialized
+DEBUG - 2012-11-18 14:52:57 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:52:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:52:58 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:52:58 --> URI Class Initialized
+DEBUG - 2012-11-18 14:52:58 --> Router Class Initialized
+DEBUG - 2012-11-18 14:52:58 --> Output Class Initialized
+DEBUG - 2012-11-18 14:52:58 --> Security Class Initialized
+DEBUG - 2012-11-18 14:52:58 --> Input Class Initialized
+DEBUG - 2012-11-18 14:52:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:52:59 --> Language Class Initialized
+DEBUG - 2012-11-18 14:52:59 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:52:59 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:52:59 --> Controller Class Initialized
+INFO  - 2012-11-18 14:52:59 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:52:59 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:52:59 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:53:00 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:53:00 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:53:00 --> Model Class Initialized
+DEBUG - 2012-11-18 14:53:00 --> Model Class Initialized
+INFO  - 2012-11-18 14:53:00 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:53:00 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:53:00 --> NULL
+INFO  - 2012-11-18 14:53:01 --> NULL
+INFO  - 2012-11-18 14:53:01 --> NULL
+INFO  - 2012-11-18 14:53:01 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:53:01 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:53:01 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:53:01 --> NULL
+INFO  - 2012-11-18 14:53:01 --> NULL
+INFO  - 2012-11-18 14:53:01 --> NULL
+INFO  - 2012-11-18 14:53:01 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:53:02 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:53:02 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:53:02 --> Final output sent to browser
+DEBUG - 2012-11-18 14:53:02 --> Total execution time: 4.6475
+DEBUG - 2012-11-18 14:55:30 --> Config Class Initialized
+DEBUG - 2012-11-18 14:55:31 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:55:31 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:55:31 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:55:31 --> URI Class Initialized
+DEBUG - 2012-11-18 14:55:31 --> Router Class Initialized
+DEBUG - 2012-11-18 14:55:31 --> Output Class Initialized
+DEBUG - 2012-11-18 14:55:32 --> Security Class Initialized
+DEBUG - 2012-11-18 14:55:32 --> Input Class Initialized
+DEBUG - 2012-11-18 14:55:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:55:32 --> Language Class Initialized
+DEBUG - 2012-11-18 14:55:32 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:55:32 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:55:33 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:55:33 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:55:33 --> Model Class Initialized
+DEBUG - 2012-11-18 14:55:33 --> Model Class Initialized
+DEBUG - 2012-11-18 14:55:33 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:55:33 --> Final output sent to browser
+DEBUG - 2012-11-18 14:55:33 --> Total execution time: 2.8431
+DEBUG - 2012-11-18 14:55:35 --> Config Class Initialized
+DEBUG - 2012-11-18 14:55:35 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:55:36 --> URI Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> Router Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> Output Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> Security Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> Input Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:55:36 --> Language Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:55:36 --> Controller Class Initialized
+INFO  - 2012-11-18 14:55:37 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:55:37 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:55:37 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:55:37 --> Final output sent to browser
+DEBUG - 2012-11-18 14:55:37 --> Total execution time: 1.3761
+DEBUG - 2012-11-18 14:55:38 --> Config Class Initialized
+DEBUG - 2012-11-18 14:55:38 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:55:38 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:55:39 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:55:39 --> URI Class Initialized
+DEBUG - 2012-11-18 14:55:39 --> Router Class Initialized
+DEBUG - 2012-11-18 14:55:39 --> Output Class Initialized
+DEBUG - 2012-11-18 14:55:39 --> Security Class Initialized
+DEBUG - 2012-11-18 14:55:39 --> Input Class Initialized
+DEBUG - 2012-11-18 14:55:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:55:39 --> Language Class Initialized
+DEBUG - 2012-11-18 14:55:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:55:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:55:39 --> Controller Class Initialized
+INFO  - 2012-11-18 14:55:39 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:55:40 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:55:40 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:55:40 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:55:40 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:55:40 --> Model Class Initialized
+DEBUG - 2012-11-18 14:55:40 --> Model Class Initialized
+INFO  - 2012-11-18 14:55:40 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:55:40 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:55:40 --> NULL
+INFO  - 2012-11-18 14:55:40 --> NULL
+INFO  - 2012-11-18 14:55:40 --> NULL
+INFO  - 2012-11-18 14:55:40 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:55:40 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:55:40 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:55:41 --> NULL
+INFO  - 2012-11-18 14:55:41 --> NULL
+INFO  - 2012-11-18 14:55:41 --> NULL
+INFO  - 2012-11-18 14:55:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:55:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:55:41 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:55:41 --> Final output sent to browser
+DEBUG - 2012-11-18 14:55:41 --> Total execution time: 2.7609
+DEBUG - 2012-11-18 14:59:46 --> Config Class Initialized
+DEBUG - 2012-11-18 14:59:46 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:59:47 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:59:47 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:59:47 --> URI Class Initialized
+DEBUG - 2012-11-18 14:59:47 --> Router Class Initialized
+DEBUG - 2012-11-18 14:59:47 --> Output Class Initialized
+DEBUG - 2012-11-18 14:59:47 --> Security Class Initialized
+DEBUG - 2012-11-18 14:59:48 --> Input Class Initialized
+DEBUG - 2012-11-18 14:59:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:59:48 --> Language Class Initialized
+DEBUG - 2012-11-18 14:59:48 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:59:48 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:59:49 --> Controller Class Initialized
+DEBUG - 2012-11-18 14:59:49 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:59:49 --> Model Class Initialized
+DEBUG - 2012-11-18 14:59:49 --> Model Class Initialized
+DEBUG - 2012-11-18 14:59:50 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 14:59:50 --> Final output sent to browser
+DEBUG - 2012-11-18 14:59:50 --> Total execution time: 3.5192
+DEBUG - 2012-11-18 14:59:51 --> Config Class Initialized
+DEBUG - 2012-11-18 14:59:52 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:59:52 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:59:52 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:59:52 --> URI Class Initialized
+DEBUG - 2012-11-18 14:59:52 --> Router Class Initialized
+DEBUG - 2012-11-18 14:59:52 --> Output Class Initialized
+DEBUG - 2012-11-18 14:59:52 --> Security Class Initialized
+DEBUG - 2012-11-18 14:59:52 --> Input Class Initialized
+DEBUG - 2012-11-18 14:59:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:59:52 --> Language Class Initialized
+DEBUG - 2012-11-18 14:59:52 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:59:53 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:59:53 --> Controller Class Initialized
+INFO  - 2012-11-18 14:59:53 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 14:59:53 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 14:59:53 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 14:59:53 --> Final output sent to browser
+DEBUG - 2012-11-18 14:59:53 --> Total execution time: 1.4687
+DEBUG - 2012-11-18 14:59:55 --> Config Class Initialized
+DEBUG - 2012-11-18 14:59:55 --> Hooks Class Initialized
+DEBUG - 2012-11-18 14:59:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 14:59:55 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 14:59:56 --> URI Class Initialized
+DEBUG - 2012-11-18 14:59:56 --> Router Class Initialized
+DEBUG - 2012-11-18 14:59:56 --> Output Class Initialized
+DEBUG - 2012-11-18 14:59:56 --> Security Class Initialized
+DEBUG - 2012-11-18 14:59:56 --> Input Class Initialized
+DEBUG - 2012-11-18 14:59:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 14:59:57 --> Language Class Initialized
+DEBUG - 2012-11-18 14:59:57 --> Loader Class Initialized
+DEBUG - 2012-11-18 14:59:57 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 14:59:57 --> Controller Class Initialized
+INFO  - 2012-11-18 14:59:57 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 14:59:58 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 14:59:58 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 14:59:58 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 14:59:58 --> Pagination Class Initialized
+DEBUG - 2012-11-18 14:59:58 --> Model Class Initialized
+DEBUG - 2012-11-18 14:59:58 --> Model Class Initialized
+INFO  - 2012-11-18 14:59:58 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:59:58 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:59:59 --> NULL
+INFO  - 2012-11-18 14:59:59 --> NULL
+INFO  - 2012-11-18 14:59:59 --> NULL
+INFO  - 2012-11-18 14:59:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:59:59 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 14:59:59 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 14:59:59 --> NULL
+INFO  - 2012-11-18 14:59:59 --> NULL
+INFO  - 2012-11-18 14:59:59 --> NULL
+INFO  - 2012-11-18 14:59:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:00:00 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:00:00 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:00:00 --> Final output sent to browser
+DEBUG - 2012-11-18 15:00:00 --> Total execution time: 4.9393
+DEBUG - 2012-11-18 15:00:05 --> Config Class Initialized
+DEBUG - 2012-11-18 15:00:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:00:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:00:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:00:06 --> URI Class Initialized
+DEBUG - 2012-11-18 15:00:06 --> Router Class Initialized
+DEBUG - 2012-11-18 15:00:06 --> Output Class Initialized
+DEBUG - 2012-11-18 15:00:06 --> Security Class Initialized
+DEBUG - 2012-11-18 15:00:07 --> Input Class Initialized
+DEBUG - 2012-11-18 15:00:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:00:07 --> Language Class Initialized
+DEBUG - 2012-11-18 15:00:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:00:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:00:08 --> Controller Class Initialized
+INFO  - 2012-11-18 15:00:08 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:00:08 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:00:08 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:00:08 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:00:09 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:00:09 --> Model Class Initialized
+DEBUG - 2012-11-18 15:00:09 --> Model Class Initialized
+INFO  - 2012-11-18 15:00:09 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:00:09 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:00:09 --> NULL
+INFO  - 2012-11-18 15:00:09 --> NULL
+INFO  - 2012-11-18 15:00:10 --> ACTUALIZAR
+INFO  - 2012-11-18 15:00:10 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:00:10 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:00:10 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:00:10 --> NULL
+INFO  - 2012-11-18 15:00:10 --> NULL
+INFO  - 2012-11-18 15:00:10 --> ACTUALIZAR
+INFO  - 2012-11-18 15:00:10 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:00:10 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:00:11 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:00:11 --> Final output sent to browser
+DEBUG - 2012-11-18 15:00:11 --> Total execution time: 5.5175
+DEBUG - 2012-11-18 15:00:44 --> Config Class Initialized
+DEBUG - 2012-11-18 15:00:44 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:00:44 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:00:44 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:00:44 --> URI Class Initialized
+DEBUG - 2012-11-18 15:00:45 --> Router Class Initialized
+DEBUG - 2012-11-18 15:00:45 --> Output Class Initialized
+DEBUG - 2012-11-18 15:00:45 --> Security Class Initialized
+DEBUG - 2012-11-18 15:00:45 --> Input Class Initialized
+DEBUG - 2012-11-18 15:00:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:00:45 --> Language Class Initialized
+DEBUG - 2012-11-18 15:00:45 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:00:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:00:46 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:00:46 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:00:46 --> Model Class Initialized
+DEBUG - 2012-11-18 15:00:46 --> Model Class Initialized
+DEBUG - 2012-11-18 15:00:46 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:00:46 --> Final output sent to browser
+DEBUG - 2012-11-18 15:00:47 --> Total execution time: 2.9396
+DEBUG - 2012-11-18 15:00:49 --> Config Class Initialized
+DEBUG - 2012-11-18 15:00:49 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:00:49 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:00:49 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:00:49 --> URI Class Initialized
+DEBUG - 2012-11-18 15:00:49 --> Router Class Initialized
+DEBUG - 2012-11-18 15:00:49 --> Output Class Initialized
+DEBUG - 2012-11-18 15:00:50 --> Security Class Initialized
+DEBUG - 2012-11-18 15:00:50 --> Input Class Initialized
+DEBUG - 2012-11-18 15:00:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:00:50 --> Language Class Initialized
+DEBUG - 2012-11-18 15:00:50 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:00:50 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:00:50 --> Controller Class Initialized
+INFO  - 2012-11-18 15:00:50 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:00:50 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:00:50 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:00:50 --> Final output sent to browser
+DEBUG - 2012-11-18 15:00:50 --> Total execution time: 1.4262
+DEBUG - 2012-11-18 15:00:52 --> Config Class Initialized
+DEBUG - 2012-11-18 15:00:52 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:00:52 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:00:52 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:00:52 --> URI Class Initialized
+DEBUG - 2012-11-18 15:00:52 --> Router Class Initialized
+DEBUG - 2012-11-18 15:00:53 --> Output Class Initialized
+DEBUG - 2012-11-18 15:00:53 --> Security Class Initialized
+DEBUG - 2012-11-18 15:00:53 --> Input Class Initialized
+DEBUG - 2012-11-18 15:00:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:00:53 --> Language Class Initialized
+DEBUG - 2012-11-18 15:00:53 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:00:53 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:00:53 --> Controller Class Initialized
+INFO  - 2012-11-18 15:00:53 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:00:53 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:00:53 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:00:53 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:00:54 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:00:54 --> Model Class Initialized
+DEBUG - 2012-11-18 15:00:55 --> Model Class Initialized
+INFO  - 2012-11-18 15:00:55 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:00:55 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:00:55 --> NULL
+INFO  - 2012-11-18 15:00:55 --> NULL
+INFO  - 2012-11-18 15:00:55 --> NULL
+INFO  - 2012-11-18 15:00:56 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:00:56 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:00:56 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:00:56 --> NULL
+INFO  - 2012-11-18 15:00:56 --> NULL
+INFO  - 2012-11-18 15:00:56 --> NULL
+INFO  - 2012-11-18 15:00:56 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:00:57 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:00:57 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:00:57 --> Final output sent to browser
+DEBUG - 2012-11-18 15:00:57 --> Total execution time: 4.7694
+DEBUG - 2012-11-18 15:01:57 --> Config Class Initialized
+DEBUG - 2012-11-18 15:01:57 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:01:57 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:01:57 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:01:58 --> URI Class Initialized
+DEBUG - 2012-11-18 15:01:58 --> Router Class Initialized
+DEBUG - 2012-11-18 15:01:58 --> Output Class Initialized
+DEBUG - 2012-11-18 15:01:58 --> Security Class Initialized
+DEBUG - 2012-11-18 15:01:58 --> Input Class Initialized
+DEBUG - 2012-11-18 15:01:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:01:59 --> Language Class Initialized
+DEBUG - 2012-11-18 15:01:59 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:01:59 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:01:59 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:02:00 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:02:00 --> Model Class Initialized
+DEBUG - 2012-11-18 15:02:00 --> Model Class Initialized
+DEBUG - 2012-11-18 15:02:00 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:02:00 --> Final output sent to browser
+DEBUG - 2012-11-18 15:02:01 --> Total execution time: 3.6773
+DEBUG - 2012-11-18 15:02:02 --> Config Class Initialized
+DEBUG - 2012-11-18 15:02:02 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:02:03 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:02:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:02:03 --> URI Class Initialized
+DEBUG - 2012-11-18 15:02:03 --> Router Class Initialized
+DEBUG - 2012-11-18 15:02:03 --> Output Class Initialized
+DEBUG - 2012-11-18 15:02:03 --> Security Class Initialized
+DEBUG - 2012-11-18 15:02:03 --> Input Class Initialized
+DEBUG - 2012-11-18 15:02:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:02:03 --> Language Class Initialized
+DEBUG - 2012-11-18 15:02:03 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:02:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:02:04 --> Controller Class Initialized
+INFO  - 2012-11-18 15:02:04 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:02:04 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:02:04 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:02:04 --> Final output sent to browser
+DEBUG - 2012-11-18 15:02:04 --> Total execution time: 1.6528
+DEBUG - 2012-11-18 15:02:06 --> Config Class Initialized
+DEBUG - 2012-11-18 15:02:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:02:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:02:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:02:06 --> URI Class Initialized
+DEBUG - 2012-11-18 15:02:07 --> Router Class Initialized
+DEBUG - 2012-11-18 15:02:07 --> Output Class Initialized
+DEBUG - 2012-11-18 15:02:07 --> Security Class Initialized
+DEBUG - 2012-11-18 15:02:07 --> Input Class Initialized
+DEBUG - 2012-11-18 15:02:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:02:07 --> Language Class Initialized
+DEBUG - 2012-11-18 15:02:07 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:02:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:02:07 --> Controller Class Initialized
+INFO  - 2012-11-18 15:02:07 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:02:07 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:02:07 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:02:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:02:07 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:02:08 --> Model Class Initialized
+DEBUG - 2012-11-18 15:02:08 --> Model Class Initialized
+INFO  - 2012-11-18 15:02:08 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:02:08 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:08 --> NULL
+INFO  - 2012-11-18 15:02:08 --> NULL
+INFO  - 2012-11-18 15:02:08 --> NULL
+INFO  - 2012-11-18 15:02:08 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:08 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:02:08 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:08 --> NULL
+INFO  - 2012-11-18 15:02:08 --> NULL
+INFO  - 2012-11-18 15:02:08 --> NULL
+INFO  - 2012-11-18 15:02:09 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:09 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:02:09 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:02:09 --> Final output sent to browser
+DEBUG - 2012-11-18 15:02:09 --> Total execution time: 2.5736
+DEBUG - 2012-11-18 15:02:14 --> Config Class Initialized
+DEBUG - 2012-11-18 15:02:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:02:15 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:02:15 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:02:15 --> URI Class Initialized
+DEBUG - 2012-11-18 15:02:15 --> Router Class Initialized
+DEBUG - 2012-11-18 15:02:16 --> Output Class Initialized
+DEBUG - 2012-11-18 15:02:16 --> Security Class Initialized
+DEBUG - 2012-11-18 15:02:16 --> Input Class Initialized
+DEBUG - 2012-11-18 15:02:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:02:16 --> Language Class Initialized
+DEBUG - 2012-11-18 15:02:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:02:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:02:17 --> Controller Class Initialized
+INFO  - 2012-11-18 15:02:17 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:02:17 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:02:17 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:02:17 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:02:17 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:02:18 --> Model Class Initialized
+DEBUG - 2012-11-18 15:02:18 --> Model Class Initialized
+INFO  - 2012-11-18 15:02:18 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:02:18 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:18 --> NULL
+INFO  - 2012-11-18 15:02:18 --> NULL
+INFO  - 2012-11-18 15:02:18 --> ACTUALIZAR
+INFO  - 2012-11-18 15:02:18 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:19 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:02:19 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:19 --> NULL
+INFO  - 2012-11-18 15:02:19 --> NULL
+INFO  - 2012-11-18 15:02:19 --> ACTUALIZAR
+INFO  - 2012-11-18 15:02:19 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:19 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:02:19 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:02:20 --> Final output sent to browser
+DEBUG - 2012-11-18 15:02:20 --> Total execution time: 5.1756
+DEBUG - 2012-11-18 15:02:39 --> Config Class Initialized
+DEBUG - 2012-11-18 15:02:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:02:40 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:02:40 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:02:40 --> URI Class Initialized
+DEBUG - 2012-11-18 15:02:40 --> Router Class Initialized
+DEBUG - 2012-11-18 15:02:41 --> Output Class Initialized
+DEBUG - 2012-11-18 15:02:41 --> Security Class Initialized
+DEBUG - 2012-11-18 15:02:41 --> Input Class Initialized
+DEBUG - 2012-11-18 15:02:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:02:41 --> Language Class Initialized
+DEBUG - 2012-11-18 15:02:41 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:02:42 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:02:42 --> Controller Class Initialized
+INFO  - 2012-11-18 15:02:42 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:02:42 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:02:42 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:02:42 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:02:42 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:02:43 --> Model Class Initialized
+DEBUG - 2012-11-18 15:02:43 --> Model Class Initialized
+INFO  - 2012-11-18 15:02:43 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:02:43 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:43 --> 2012-09-11
+INFO  - 2012-11-18 15:02:43 --> 2012-09-28
+INFO  - 2012-11-18 15:02:43 --> ACTUALIZAR
+INFO  - 2012-11-18 15:02:43 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:43 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:02:44 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:44 --> 2012-09-11
+INFO  - 2012-11-18 15:02:44 --> 2012-09-28
+INFO  - 2012-11-18 15:02:44 --> ACTUALIZAR
+INFO  - 2012-11-18 15:02:44 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:02:44 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:02:44 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:02:44 --> Final output sent to browser
+DEBUG - 2012-11-18 15:02:44 --> Total execution time: 5.1108
+DEBUG - 2012-11-18 15:03:04 --> Config Class Initialized
+DEBUG - 2012-11-18 15:03:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:03:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:03:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:03:04 --> URI Class Initialized
+DEBUG - 2012-11-18 15:03:04 --> Router Class Initialized
+DEBUG - 2012-11-18 15:03:05 --> Output Class Initialized
+DEBUG - 2012-11-18 15:03:05 --> Security Class Initialized
+DEBUG - 2012-11-18 15:03:05 --> Input Class Initialized
+DEBUG - 2012-11-18 15:03:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:03:05 --> Language Class Initialized
+DEBUG - 2012-11-18 15:03:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:03:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:03:06 --> Controller Class Initialized
+INFO  - 2012-11-18 15:03:06 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:03:07 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:03:07 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:03:07 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:03:07 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:03:07 --> Model Class Initialized
+DEBUG - 2012-11-18 15:03:07 --> Model Class Initialized
+INFO  - 2012-11-18 15:03:08 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:03:08 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:03:08 --> 2012-09-11
+INFO  - 2012-11-18 15:03:08 --> 2012-09-28
+INFO  - 2012-11-18 15:03:08 --> ACTUALIZAR
+INFO  - 2012-11-18 15:03:08 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:03:08 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:03:08 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:03:08 --> 2012-09-11
+INFO  - 2012-11-18 15:03:09 --> 2012-09-28
+INFO  - 2012-11-18 15:03:09 --> ACTUALIZAR
+INFO  - 2012-11-18 15:03:09 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:03:09 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:03:09 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:03:09 --> Final output sent to browser
+DEBUG - 2012-11-18 15:03:09 --> Total execution time: 5.4747
+DEBUG - 2012-11-18 15:03:15 --> Config Class Initialized
+DEBUG - 2012-11-18 15:03:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:03:16 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:03:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:03:16 --> URI Class Initialized
+DEBUG - 2012-11-18 15:03:16 --> Router Class Initialized
+DEBUG - 2012-11-18 15:03:16 --> Output Class Initialized
+DEBUG - 2012-11-18 15:03:17 --> Security Class Initialized
+DEBUG - 2012-11-18 15:03:17 --> Input Class Initialized
+DEBUG - 2012-11-18 15:03:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:03:17 --> Language Class Initialized
+DEBUG - 2012-11-18 15:03:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:03:17 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:03:18 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:03:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:03:18 --> Model Class Initialized
+DEBUG - 2012-11-18 15:03:18 --> Model Class Initialized
+DEBUG - 2012-11-18 15:03:18 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:03:18 --> Final output sent to browser
+DEBUG - 2012-11-18 15:03:18 --> Total execution time: 3.0097
+DEBUG - 2012-11-18 15:03:21 --> Config Class Initialized
+DEBUG - 2012-11-18 15:03:21 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:03:21 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:03:21 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:03:21 --> URI Class Initialized
+DEBUG - 2012-11-18 15:03:21 --> Router Class Initialized
+DEBUG - 2012-11-18 15:03:21 --> Output Class Initialized
+DEBUG - 2012-11-18 15:03:21 --> Security Class Initialized
+DEBUG - 2012-11-18 15:03:21 --> Input Class Initialized
+DEBUG - 2012-11-18 15:03:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:03:21 --> Language Class Initialized
+DEBUG - 2012-11-18 15:03:21 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:03:22 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:03:22 --> Controller Class Initialized
+INFO  - 2012-11-18 15:03:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:03:22 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:03:22 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:03:22 --> Final output sent to browser
+DEBUG - 2012-11-18 15:03:22 --> Total execution time: 1.4225
+DEBUG - 2012-11-18 15:03:37 --> Config Class Initialized
+DEBUG - 2012-11-18 15:03:37 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:03:37 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:03:37 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:03:37 --> URI Class Initialized
+DEBUG - 2012-11-18 15:03:38 --> Router Class Initialized
+DEBUG - 2012-11-18 15:03:38 --> Output Class Initialized
+DEBUG - 2012-11-18 15:03:38 --> Security Class Initialized
+DEBUG - 2012-11-18 15:03:38 --> Input Class Initialized
+DEBUG - 2012-11-18 15:03:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:03:38 --> Language Class Initialized
+DEBUG - 2012-11-18 15:03:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:03:39 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:03:39 --> Controller Class Initialized
+INFO  - 2012-11-18 15:03:39 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:03:39 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:03:39 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:03:39 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:03:40 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:03:40 --> Model Class Initialized
+DEBUG - 2012-11-18 15:03:40 --> Model Class Initialized
+INFO  - 2012-11-18 15:03:40 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:03:40 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:03:40 --> 2012-09-11
+INFO  - 2012-11-18 15:03:40 --> 2012-09-28
+INFO  - 2012-11-18 15:03:41 --> ACTUALIZAR
+INFO  - 2012-11-18 15:03:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:03:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:03:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:03:41 --> 2012-09-11
+INFO  - 2012-11-18 15:03:41 --> 2012-09-28
+INFO  - 2012-11-18 15:03:41 --> ACTUALIZAR
+INFO  - 2012-11-18 15:03:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:03:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:03:42 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:03:42 --> Final output sent to browser
+DEBUG - 2012-11-18 15:03:42 --> Total execution time: 5.0427
+DEBUG - 2012-11-18 15:09:30 --> Config Class Initialized
+DEBUG - 2012-11-18 15:09:30 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:09:30 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:09:30 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:09:31 --> URI Class Initialized
+DEBUG - 2012-11-18 15:09:31 --> Router Class Initialized
+DEBUG - 2012-11-18 15:09:31 --> Output Class Initialized
+DEBUG - 2012-11-18 15:09:31 --> Security Class Initialized
+DEBUG - 2012-11-18 15:09:31 --> Input Class Initialized
+DEBUG - 2012-11-18 15:09:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:09:32 --> Language Class Initialized
+DEBUG - 2012-11-18 15:09:32 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:09:32 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:09:32 --> Controller Class Initialized
+INFO  - 2012-11-18 15:09:32 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:09:32 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:09:32 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:09:33 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:09:33 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:09:33 --> Model Class Initialized
+DEBUG - 2012-11-18 15:09:33 --> Model Class Initialized
+INFO  - 2012-11-18 15:09:33 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:09:33 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:09:33 --> 2012-09-11
+INFO  - 2012-11-18 15:09:33 --> 2012-09-28
+INFO  - 2012-11-18 15:09:34 --> ACTUALIZAR
+INFO  - 2012-11-18 15:09:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:09:34 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:09:34 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:09:34 --> 2012-09-11
+INFO  - 2012-11-18 15:09:34 --> 2012-09-28
+INFO  - 2012-11-18 15:09:34 --> ACTUALIZAR
+INFO  - 2012-11-18 15:09:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:09:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:09:35 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:09:35 --> Final output sent to browser
+DEBUG - 2012-11-18 15:09:35 --> Total execution time: 4.9389
+DEBUG - 2012-11-18 15:12:24 --> Config Class Initialized
+DEBUG - 2012-11-18 15:12:24 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:12:25 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:12:25 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:12:25 --> URI Class Initialized
+DEBUG - 2012-11-18 15:12:25 --> Router Class Initialized
+DEBUG - 2012-11-18 15:12:25 --> Output Class Initialized
+DEBUG - 2012-11-18 15:12:26 --> Security Class Initialized
+DEBUG - 2012-11-18 15:12:26 --> Input Class Initialized
+DEBUG - 2012-11-18 15:12:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:12:26 --> Language Class Initialized
+DEBUG - 2012-11-18 15:12:26 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:12:27 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:12:27 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:12:27 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:12:27 --> Model Class Initialized
+DEBUG - 2012-11-18 15:12:27 --> Model Class Initialized
+DEBUG - 2012-11-18 15:12:28 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:12:28 --> Final output sent to browser
+DEBUG - 2012-11-18 15:12:28 --> Total execution time: 3.6710
+DEBUG - 2012-11-18 15:12:30 --> Config Class Initialized
+DEBUG - 2012-11-18 15:12:30 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:12:30 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:12:30 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:12:30 --> URI Class Initialized
+DEBUG - 2012-11-18 15:12:30 --> Router Class Initialized
+DEBUG - 2012-11-18 15:12:30 --> Output Class Initialized
+DEBUG - 2012-11-18 15:12:31 --> Security Class Initialized
+DEBUG - 2012-11-18 15:12:31 --> Input Class Initialized
+DEBUG - 2012-11-18 15:12:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:12:31 --> Language Class Initialized
+DEBUG - 2012-11-18 15:12:31 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:12:32 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:12:32 --> Controller Class Initialized
+INFO  - 2012-11-18 15:12:32 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:12:32 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:12:32 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:12:32 --> Final output sent to browser
+DEBUG - 2012-11-18 15:12:33 --> Total execution time: 2.6417
+DEBUG - 2012-11-18 15:12:34 --> Config Class Initialized
+DEBUG - 2012-11-18 15:12:34 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:12:34 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:12:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:12:35 --> URI Class Initialized
+DEBUG - 2012-11-18 15:12:35 --> Router Class Initialized
+DEBUG - 2012-11-18 15:12:35 --> Output Class Initialized
+DEBUG - 2012-11-18 15:12:35 --> Security Class Initialized
+DEBUG - 2012-11-18 15:12:36 --> Input Class Initialized
+DEBUG - 2012-11-18 15:12:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:12:36 --> Language Class Initialized
+DEBUG - 2012-11-18 15:12:36 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:12:36 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:12:36 --> Controller Class Initialized
+INFO  - 2012-11-18 15:12:37 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:12:37 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:12:37 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:12:37 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:12:37 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:12:37 --> Model Class Initialized
+DEBUG - 2012-11-18 15:12:37 --> Model Class Initialized
+INFO  - 2012-11-18 15:12:37 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:12:37 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:12:38 --> NULL
+INFO  - 2012-11-18 15:12:38 --> NULL
+INFO  - 2012-11-18 15:12:38 --> NULL
+INFO  - 2012-11-18 15:12:38 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:12:38 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:12:38 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:12:38 --> NULL
+INFO  - 2012-11-18 15:12:38 --> NULL
+INFO  - 2012-11-18 15:12:38 --> NULL
+INFO  - 2012-11-18 15:12:38 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:12:39 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:12:39 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:12:39 --> Final output sent to browser
+DEBUG - 2012-11-18 15:12:39 --> Total execution time: 4.7368
+DEBUG - 2012-11-18 15:12:41 --> Config Class Initialized
+DEBUG - 2012-11-18 15:12:42 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:12:42 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:12:42 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:12:42 --> URI Class Initialized
+DEBUG - 2012-11-18 15:12:42 --> Router Class Initialized
+DEBUG - 2012-11-18 15:12:43 --> Output Class Initialized
+DEBUG - 2012-11-18 15:12:43 --> Security Class Initialized
+DEBUG - 2012-11-18 15:12:43 --> Input Class Initialized
+DEBUG - 2012-11-18 15:12:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:12:43 --> Language Class Initialized
+DEBUG - 2012-11-18 15:12:44 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:12:44 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:12:44 --> Controller Class Initialized
+INFO  - 2012-11-18 15:12:44 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:12:44 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:12:44 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:12:44 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:12:45 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:12:45 --> Model Class Initialized
+DEBUG - 2012-11-18 15:12:45 --> Model Class Initialized
+ERROR - 2012-11-18 15:12:45 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 48
+ERROR - 2012-11-18 15:12:45 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:12:45 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 51
+ERROR - 2012-11-18 15:12:45 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+ERROR - 2012-11-18 15:12:46 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 54
+INFO  - 2012-11-18 15:12:46 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:12:46 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:12:46 --> NULL
+INFO  - 2012-11-18 15:12:46 --> NULL
+INFO  - 2012-11-18 15:12:46 --> 
+INFO  - 2012-11-18 15:12:46 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:12:46 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:12:46 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:12:47 --> NULL
+INFO  - 2012-11-18 15:12:47 --> NULL
+INFO  - 2012-11-18 15:12:47 --> 
+INFO  - 2012-11-18 15:12:47 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:12:47 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:12:47 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:12:47 --> Final output sent to browser
+DEBUG - 2012-11-18 15:12:47 --> Total execution time: 5.9062
+DEBUG - 2012-11-18 15:14:16 --> Config Class Initialized
+DEBUG - 2012-11-18 15:14:17 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:14:17 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:14:17 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:14:17 --> URI Class Initialized
+DEBUG - 2012-11-18 15:14:17 --> Router Class Initialized
+DEBUG - 2012-11-18 15:14:18 --> Output Class Initialized
+DEBUG - 2012-11-18 15:14:18 --> Security Class Initialized
+DEBUG - 2012-11-18 15:14:18 --> Input Class Initialized
+DEBUG - 2012-11-18 15:14:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:14:18 --> Language Class Initialized
+DEBUG - 2012-11-18 15:14:18 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:14:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:14:19 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:14:19 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:14:19 --> Model Class Initialized
+DEBUG - 2012-11-18 15:14:19 --> Model Class Initialized
+DEBUG - 2012-11-18 15:14:19 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:14:19 --> Final output sent to browser
+DEBUG - 2012-11-18 15:14:19 --> Total execution time: 3.0258
+DEBUG - 2012-11-18 15:14:22 --> Config Class Initialized
+DEBUG - 2012-11-18 15:14:22 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:14:22 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:14:22 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:14:23 --> URI Class Initialized
+DEBUG - 2012-11-18 15:14:23 --> Router Class Initialized
+DEBUG - 2012-11-18 15:14:23 --> Output Class Initialized
+DEBUG - 2012-11-18 15:14:23 --> Security Class Initialized
+DEBUG - 2012-11-18 15:14:23 --> Input Class Initialized
+DEBUG - 2012-11-18 15:14:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:14:24 --> Language Class Initialized
+DEBUG - 2012-11-18 15:14:24 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:14:24 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:14:24 --> Controller Class Initialized
+INFO  - 2012-11-18 15:14:24 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:14:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+ERROR - 2012-11-18 15:14:24 --> Severity: Notice  --> Undefined variable: registro_operaciones C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 52
+ERROR - 2012-11-18 15:14:24 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 52
+ERROR - 2012-11-18 15:14:25 --> Severity: Notice  --> Undefined property: CI_Loader::$pagination C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 63
+DEBUG - 2012-11-18 15:14:28 --> Config Class Initialized
+DEBUG - 2012-11-18 15:14:28 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:14:28 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:14:28 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:14:28 --> URI Class Initialized
+DEBUG - 2012-11-18 15:14:28 --> Router Class Initialized
+DEBUG - 2012-11-18 15:14:29 --> Output Class Initialized
+DEBUG - 2012-11-18 15:14:29 --> Security Class Initialized
+DEBUG - 2012-11-18 15:14:29 --> Input Class Initialized
+DEBUG - 2012-11-18 15:14:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:14:29 --> Language Class Initialized
+DEBUG - 2012-11-18 15:14:29 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:14:29 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:14:30 --> Controller Class Initialized
+INFO  - 2012-11-18 15:14:30 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:14:30 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:14:30 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:14:30 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:14:31 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:14:31 --> Model Class Initialized
+DEBUG - 2012-11-18 15:14:31 --> Model Class Initialized
+INFO  - 2012-11-18 15:14:31 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:14:31 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:14:31 --> NULL
+INFO  - 2012-11-18 15:14:32 --> NULL
+INFO  - 2012-11-18 15:14:32 --> NULL
+INFO  - 2012-11-18 15:14:32 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:14:32 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:14:32 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:14:32 --> NULL
+INFO  - 2012-11-18 15:14:32 --> NULL
+INFO  - 2012-11-18 15:14:32 --> NULL
+INFO  - 2012-11-18 15:14:33 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:14:33 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:14:33 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:14:33 --> Final output sent to browser
+DEBUG - 2012-11-18 15:14:33 --> Total execution time: 5.1190
+DEBUG - 2012-11-18 15:14:36 --> Config Class Initialized
+DEBUG - 2012-11-18 15:14:36 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:14:36 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:14:37 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:14:37 --> URI Class Initialized
+DEBUG - 2012-11-18 15:14:37 --> Router Class Initialized
+DEBUG - 2012-11-18 15:14:37 --> Output Class Initialized
+DEBUG - 2012-11-18 15:14:37 --> Security Class Initialized
+DEBUG - 2012-11-18 15:14:38 --> Input Class Initialized
+DEBUG - 2012-11-18 15:14:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:14:38 --> Language Class Initialized
+DEBUG - 2012-11-18 15:14:38 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:14:38 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:14:39 --> Controller Class Initialized
+INFO  - 2012-11-18 15:14:39 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:14:39 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:14:39 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:14:39 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:14:39 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:14:40 --> Model Class Initialized
+DEBUG - 2012-11-18 15:14:40 --> Model Class Initialized
+ERROR - 2012-11-18 15:14:40 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:14:40 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:14:40 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:14:40 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:14:40 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:14:40 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:14:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:14:41 --> NULL
+INFO  - 2012-11-18 15:14:41 --> NULL
+INFO  - 2012-11-18 15:14:41 --> 
+INFO  - 2012-11-18 15:14:41 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:14:41 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:14:41 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:14:42 --> NULL
+INFO  - 2012-11-18 15:14:42 --> NULL
+INFO  - 2012-11-18 15:14:42 --> 
+INFO  - 2012-11-18 15:14:42 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:14:42 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:14:42 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:14:42 --> Final output sent to browser
+DEBUG - 2012-11-18 15:14:42 --> Total execution time: 6.1863
+DEBUG - 2012-11-18 15:17:18 --> Config Class Initialized
+DEBUG - 2012-11-18 15:17:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:17:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:17:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:17:19 --> URI Class Initialized
+DEBUG - 2012-11-18 15:17:19 --> Router Class Initialized
+DEBUG - 2012-11-18 15:17:19 --> Output Class Initialized
+DEBUG - 2012-11-18 15:17:19 --> Security Class Initialized
+DEBUG - 2012-11-18 15:17:19 --> Input Class Initialized
+DEBUG - 2012-11-18 15:17:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:17:20 --> Language Class Initialized
+DEBUG - 2012-11-18 15:17:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:17:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:17:20 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:17:20 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:17:20 --> Model Class Initialized
+DEBUG - 2012-11-18 15:17:21 --> Model Class Initialized
+DEBUG - 2012-11-18 15:17:21 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:17:21 --> Final output sent to browser
+DEBUG - 2012-11-18 15:17:21 --> Total execution time: 2.8508
+DEBUG - 2012-11-18 15:17:24 --> Config Class Initialized
+DEBUG - 2012-11-18 15:17:25 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:17:25 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:17:25 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:17:25 --> URI Class Initialized
+DEBUG - 2012-11-18 15:17:25 --> Router Class Initialized
+DEBUG - 2012-11-18 15:17:25 --> Output Class Initialized
+DEBUG - 2012-11-18 15:17:26 --> Security Class Initialized
+DEBUG - 2012-11-18 15:17:26 --> Input Class Initialized
+DEBUG - 2012-11-18 15:17:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:17:26 --> Language Class Initialized
+DEBUG - 2012-11-18 15:17:26 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:17:26 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:17:26 --> Controller Class Initialized
+INFO  - 2012-11-18 15:17:27 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 15:17:27 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:17:27 --> Model Class Initialized
+DEBUG - 2012-11-18 15:17:27 --> Model Class Initialized
+DEBUG - 2012-11-18 15:17:27 --> File loaded: application/views/rol/menu_view.php
+INFO  - 2012-11-18 15:17:27 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: subMenu()]
+DEBUG - 2012-11-18 15:17:27 --> Final output sent to browser
+DEBUG - 2012-11-18 15:17:27 --> Total execution time: 2.9510
+DEBUG - 2012-11-18 15:17:29 --> Config Class Initialized
+DEBUG - 2012-11-18 15:17:29 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:17:29 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:17:29 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:17:29 --> URI Class Initialized
+DEBUG - 2012-11-18 15:17:29 --> Router Class Initialized
+DEBUG - 2012-11-18 15:17:29 --> Output Class Initialized
+DEBUG - 2012-11-18 15:17:29 --> Security Class Initialized
+DEBUG - 2012-11-18 15:17:30 --> Input Class Initialized
+DEBUG - 2012-11-18 15:17:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:17:30 --> Language Class Initialized
+DEBUG - 2012-11-18 15:17:30 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:17:30 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:17:30 --> Controller Class Initialized
+INFO  - 2012-11-18 15:17:30 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: rol()]
+DEBUG - 2012-11-18 15:17:30 --> File loaded: application/views/rol/crearRol_view.php
+INFO  - 2012-11-18 15:17:30 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: rol()]
+DEBUG - 2012-11-18 15:17:30 --> Final output sent to browser
+DEBUG - 2012-11-18 15:17:30 --> Total execution time: 1.6315
+DEBUG - 2012-11-18 15:17:33 --> Config Class Initialized
+DEBUG - 2012-11-18 15:17:33 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:17:33 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:17:33 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:17:33 --> URI Class Initialized
+DEBUG - 2012-11-18 15:17:33 --> Router Class Initialized
+DEBUG - 2012-11-18 15:17:33 --> Output Class Initialized
+DEBUG - 2012-11-18 15:17:33 --> Security Class Initialized
+DEBUG - 2012-11-18 15:17:33 --> Input Class Initialized
+DEBUG - 2012-11-18 15:17:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:17:33 --> Language Class Initialized
+DEBUG - 2012-11-18 15:17:33 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:17:34 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:17:34 --> Controller Class Initialized
+INFO  - 2012-11-18 15:17:34 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarRol()]
+DEBUG - 2012-11-18 15:17:34 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:17:34 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:17:34 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:17:34 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:17:34 --> Model Class Initialized
+DEBUG - 2012-11-18 15:17:34 --> Model Class Initialized
+INFO  - 2012-11-18 15:17:35 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:17:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:17:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarRol()]
+DEBUG - 2012-11-18 15:17:35 --> File loaded: application/views/rol/crearRol_view.php
+DEBUG - 2012-11-18 15:17:35 --> Final output sent to browser
+DEBUG - 2012-11-18 15:17:35 --> Total execution time: 2.7862
+DEBUG - 2012-11-18 15:17:39 --> Config Class Initialized
+DEBUG - 2012-11-18 15:17:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:17:40 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:17:40 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:17:40 --> URI Class Initialized
+DEBUG - 2012-11-18 15:17:40 --> Router Class Initialized
+DEBUG - 2012-11-18 15:17:40 --> Output Class Initialized
+DEBUG - 2012-11-18 15:17:40 --> Security Class Initialized
+DEBUG - 2012-11-18 15:17:41 --> Input Class Initialized
+DEBUG - 2012-11-18 15:17:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:17:41 --> Language Class Initialized
+DEBUG - 2012-11-18 15:17:41 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:17:41 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:17:41 --> Controller Class Initialized
+INFO  - 2012-11-18 15:17:41 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarRol()]
+DEBUG - 2012-11-18 15:17:41 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:17:41 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:17:41 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:17:41 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:17:42 --> Model Class Initialized
+DEBUG - 2012-11-18 15:17:42 --> Model Class Initialized
+INFO  - 2012-11-18 15:17:42 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:17:42 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:17:42 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarRol()]
+DEBUG - 2012-11-18 15:17:42 --> File loaded: application/views/rol/crearRol_view.php
+DEBUG - 2012-11-18 15:17:42 --> Final output sent to browser
+DEBUG - 2012-11-18 15:17:42 --> Total execution time: 2.9752
+DEBUG - 2012-11-18 15:17:44 --> Config Class Initialized
+DEBUG - 2012-11-18 15:17:45 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:17:45 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:17:45 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:17:45 --> URI Class Initialized
+DEBUG - 2012-11-18 15:17:45 --> Router Class Initialized
+DEBUG - 2012-11-18 15:17:45 --> Output Class Initialized
+DEBUG - 2012-11-18 15:17:46 --> Security Class Initialized
+DEBUG - 2012-11-18 15:17:46 --> Input Class Initialized
+DEBUG - 2012-11-18 15:17:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:17:46 --> Language Class Initialized
+DEBUG - 2012-11-18 15:17:46 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:17:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:17:47 --> Controller Class Initialized
+INFO  - 2012-11-18 15:17:47 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: buscarRol()]
+DEBUG - 2012-11-18 15:17:47 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:17:47 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:17:47 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:17:48 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:17:48 --> Model Class Initialized
+DEBUG - 2012-11-18 15:17:48 --> Model Class Initialized
+INFO  - 2012-11-18 15:17:48 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:17:48 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:17:48 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: buscarRol()]
+DEBUG - 2012-11-18 15:17:48 --> File loaded: application/views/rol/crearRol_view.php
+DEBUG - 2012-11-18 15:17:49 --> Final output sent to browser
+DEBUG - 2012-11-18 15:17:49 --> Total execution time: 4.2735
+DEBUG - 2012-11-18 15:23:59 --> Config Class Initialized
+DEBUG - 2012-11-18 15:23:59 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:23:59 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:23:59 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:24:00 --> URI Class Initialized
+DEBUG - 2012-11-18 15:24:00 --> Router Class Initialized
+DEBUG - 2012-11-18 15:24:00 --> Output Class Initialized
+DEBUG - 2012-11-18 15:24:00 --> Security Class Initialized
+DEBUG - 2012-11-18 15:24:00 --> Input Class Initialized
+DEBUG - 2012-11-18 15:24:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:24:00 --> Language Class Initialized
+DEBUG - 2012-11-18 15:24:01 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:24:01 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:24:01 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:24:01 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:24:01 --> Model Class Initialized
+DEBUG - 2012-11-18 15:24:01 --> Model Class Initialized
+DEBUG - 2012-11-18 15:24:02 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:24:02 --> Final output sent to browser
+DEBUG - 2012-11-18 15:24:02 --> Total execution time: 2.8571
+DEBUG - 2012-11-18 15:24:04 --> Config Class Initialized
+DEBUG - 2012-11-18 15:24:04 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:24:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:24:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:24:04 --> URI Class Initialized
+DEBUG - 2012-11-18 15:24:05 --> Router Class Initialized
+DEBUG - 2012-11-18 15:24:05 --> Output Class Initialized
+DEBUG - 2012-11-18 15:24:05 --> Security Class Initialized
+DEBUG - 2012-11-18 15:24:05 --> Input Class Initialized
+DEBUG - 2012-11-18 15:24:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:24:05 --> Language Class Initialized
+DEBUG - 2012-11-18 15:24:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:24:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:24:06 --> Controller Class Initialized
+INFO  - 2012-11-18 15:24:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:24:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:24:07 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:24:07 --> Final output sent to browser
+DEBUG - 2012-11-18 15:24:07 --> Total execution time: 2.6194
+DEBUG - 2012-11-18 15:24:08 --> Config Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:24:09 --> URI Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> Router Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> Output Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> Security Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> Input Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:24:09 --> Language Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:24:09 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:24:10 --> Controller Class Initialized
+INFO  - 2012-11-18 15:24:10 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:24:10 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:24:10 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:24:10 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:24:10 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:24:10 --> Model Class Initialized
+DEBUG - 2012-11-18 15:24:10 --> Model Class Initialized
+INFO  - 2012-11-18 15:24:11 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:24:11 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:11 --> NULL
+INFO  - 2012-11-18 15:24:11 --> NULL
+INFO  - 2012-11-18 15:24:11 --> NULL
+INFO  - 2012-11-18 15:24:11 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:11 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:24:11 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:11 --> NULL
+INFO  - 2012-11-18 15:24:11 --> NULL
+INFO  - 2012-11-18 15:24:11 --> NULL
+INFO  - 2012-11-18 15:24:11 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:11 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:24:12 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:24:12 --> Final output sent to browser
+DEBUG - 2012-11-18 15:24:12 --> Total execution time: 3.3634
+DEBUG - 2012-11-18 15:24:15 --> Config Class Initialized
+DEBUG - 2012-11-18 15:24:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:24:15 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:24:16 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:24:16 --> URI Class Initialized
+DEBUG - 2012-11-18 15:24:16 --> Router Class Initialized
+DEBUG - 2012-11-18 15:24:16 --> Output Class Initialized
+DEBUG - 2012-11-18 15:24:16 --> Security Class Initialized
+DEBUG - 2012-11-18 15:24:17 --> Input Class Initialized
+DEBUG - 2012-11-18 15:24:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:24:17 --> Language Class Initialized
+DEBUG - 2012-11-18 15:24:17 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:24:18 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:24:18 --> Controller Class Initialized
+INFO  - 2012-11-18 15:24:18 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:24:18 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:24:18 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:24:18 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:24:19 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:24:19 --> Model Class Initialized
+DEBUG - 2012-11-18 15:24:19 --> Model Class Initialized
+ERROR - 2012-11-18 15:24:19 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:24:19 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:24:19 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:24:19 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:24:20 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:24:20 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:24:20 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:20 --> NULL
+INFO  - 2012-11-18 15:24:20 --> NULL
+INFO  - 2012-11-18 15:24:20 --> 
+INFO  - 2012-11-18 15:24:20 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:20 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:24:21 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:21 --> NULL
+INFO  - 2012-11-18 15:24:21 --> NULL
+INFO  - 2012-11-18 15:24:21 --> 
+INFO  - 2012-11-18 15:24:21 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:21 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:24:21 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:24:21 --> Final output sent to browser
+DEBUG - 2012-11-18 15:24:21 --> Total execution time: 6.2431
+DEBUG - 2012-11-18 15:24:40 --> Config Class Initialized
+DEBUG - 2012-11-18 15:24:40 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:24:40 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:24:41 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:24:41 --> URI Class Initialized
+DEBUG - 2012-11-18 15:24:41 --> Router Class Initialized
+DEBUG - 2012-11-18 15:24:41 --> Output Class Initialized
+DEBUG - 2012-11-18 15:24:41 --> Security Class Initialized
+DEBUG - 2012-11-18 15:24:41 --> Input Class Initialized
+DEBUG - 2012-11-18 15:24:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:24:42 --> Language Class Initialized
+DEBUG - 2012-11-18 15:24:42 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:24:42 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:24:43 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:24:43 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:24:43 --> Model Class Initialized
+DEBUG - 2012-11-18 15:24:43 --> Model Class Initialized
+DEBUG - 2012-11-18 15:24:43 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:24:43 --> Final output sent to browser
+DEBUG - 2012-11-18 15:24:44 --> Total execution time: 3.6020
+DEBUG - 2012-11-18 15:24:45 --> Config Class Initialized
+DEBUG - 2012-11-18 15:24:45 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:24:45 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:24:46 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:24:46 --> URI Class Initialized
+DEBUG - 2012-11-18 15:24:46 --> Router Class Initialized
+DEBUG - 2012-11-18 15:24:46 --> Output Class Initialized
+DEBUG - 2012-11-18 15:24:46 --> Security Class Initialized
+DEBUG - 2012-11-18 15:24:46 --> Input Class Initialized
+DEBUG - 2012-11-18 15:24:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:24:46 --> Language Class Initialized
+DEBUG - 2012-11-18 15:24:46 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:24:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:24:46 --> Controller Class Initialized
+INFO  - 2012-11-18 15:24:47 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:24:47 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:24:47 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:24:47 --> Final output sent to browser
+DEBUG - 2012-11-18 15:24:47 --> Total execution time: 1.4715
+DEBUG - 2012-11-18 15:24:48 --> Config Class Initialized
+DEBUG - 2012-11-18 15:24:48 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:24:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:24:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:24:49 --> URI Class Initialized
+DEBUG - 2012-11-18 15:24:49 --> Router Class Initialized
+DEBUG - 2012-11-18 15:24:49 --> Output Class Initialized
+DEBUG - 2012-11-18 15:24:49 --> Security Class Initialized
+DEBUG - 2012-11-18 15:24:49 --> Input Class Initialized
+DEBUG - 2012-11-18 15:24:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:24:49 --> Language Class Initialized
+DEBUG - 2012-11-18 15:24:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:24:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:24:49 --> Controller Class Initialized
+INFO  - 2012-11-18 15:24:49 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:24:50 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:24:50 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:24:50 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:24:50 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:24:50 --> Model Class Initialized
+DEBUG - 2012-11-18 15:24:50 --> Model Class Initialized
+INFO  - 2012-11-18 15:24:50 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:24:50 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:50 --> NULL
+INFO  - 2012-11-18 15:24:50 --> NULL
+INFO  - 2012-11-18 15:24:50 --> NULL
+INFO  - 2012-11-18 15:24:50 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:51 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:24:51 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:51 --> NULL
+INFO  - 2012-11-18 15:24:51 --> NULL
+INFO  - 2012-11-18 15:24:51 --> NULL
+INFO  - 2012-11-18 15:24:51 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:51 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:24:51 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:24:51 --> Final output sent to browser
+DEBUG - 2012-11-18 15:24:51 --> Total execution time: 2.9860
+DEBUG - 2012-11-18 15:24:53 --> Config Class Initialized
+DEBUG - 2012-11-18 15:24:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:24:54 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:24:54 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:24:54 --> URI Class Initialized
+DEBUG - 2012-11-18 15:24:54 --> Router Class Initialized
+DEBUG - 2012-11-18 15:24:54 --> Output Class Initialized
+DEBUG - 2012-11-18 15:24:54 --> Security Class Initialized
+DEBUG - 2012-11-18 15:24:54 --> Input Class Initialized
+DEBUG - 2012-11-18 15:24:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:24:55 --> Language Class Initialized
+DEBUG - 2012-11-18 15:24:55 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:24:55 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:24:55 --> Controller Class Initialized
+INFO  - 2012-11-18 15:24:55 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:24:56 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:24:56 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:24:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:24:56 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:24:56 --> Model Class Initialized
+DEBUG - 2012-11-18 15:24:56 --> Model Class Initialized
+ERROR - 2012-11-18 15:24:56 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:24:57 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:24:57 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:24:57 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:24:57 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:24:57 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:24:57 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:57 --> NULL
+INFO  - 2012-11-18 15:24:57 --> NULL
+INFO  - 2012-11-18 15:24:57 --> 
+INFO  - 2012-11-18 15:24:58 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:58 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:24:58 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:58 --> NULL
+INFO  - 2012-11-18 15:24:58 --> NULL
+INFO  - 2012-11-18 15:24:58 --> 
+INFO  - 2012-11-18 15:24:58 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:24:58 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:24:58 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:24:58 --> Final output sent to browser
+DEBUG - 2012-11-18 15:24:59 --> Total execution time: 5.2087
+DEBUG - 2012-11-18 15:29:35 --> Config Class Initialized
+DEBUG - 2012-11-18 15:29:36 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:29:36 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:29:36 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:29:36 --> URI Class Initialized
+DEBUG - 2012-11-18 15:29:36 --> Router Class Initialized
+DEBUG - 2012-11-18 15:29:37 --> Output Class Initialized
+DEBUG - 2012-11-18 15:29:37 --> Security Class Initialized
+DEBUG - 2012-11-18 15:29:37 --> Input Class Initialized
+DEBUG - 2012-11-18 15:29:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:29:37 --> Language Class Initialized
+DEBUG - 2012-11-18 15:29:37 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:29:37 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:29:38 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:29:38 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:29:38 --> Model Class Initialized
+DEBUG - 2012-11-18 15:29:38 --> Model Class Initialized
+DEBUG - 2012-11-18 15:29:38 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:29:38 --> Final output sent to browser
+DEBUG - 2012-11-18 15:29:39 --> Total execution time: 2.9605
+DEBUG - 2012-11-18 15:29:41 --> Config Class Initialized
+DEBUG - 2012-11-18 15:29:42 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:29:42 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:29:42 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:29:42 --> URI Class Initialized
+DEBUG - 2012-11-18 15:29:42 --> Router Class Initialized
+DEBUG - 2012-11-18 15:29:43 --> Output Class Initialized
+DEBUG - 2012-11-18 15:29:43 --> Security Class Initialized
+DEBUG - 2012-11-18 15:29:43 --> Input Class Initialized
+DEBUG - 2012-11-18 15:29:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:29:43 --> Language Class Initialized
+DEBUG - 2012-11-18 15:29:43 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:29:44 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:29:44 --> Controller Class Initialized
+INFO  - 2012-11-18 15:29:44 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:29:44 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+ERROR - 2012-11-18 15:29:44 --> Severity: Notice  --> Undefined variable: numReg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoriaP_view.php 39
+ERROR - 2012-11-18 15:29:44 --> Severity: Notice  --> Undefined variable: numReg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoriaP_view.php 40
+ERROR - 2012-11-18 15:29:44 --> Severity: Notice  --> Undefined variable: registro_operaciones C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoriaP_view.php 60
+ERROR - 2012-11-18 15:29:44 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoriaP_view.php 60
+ERROR - 2012-11-18 15:29:45 --> Severity: Notice  --> Undefined property: CI_Loader::$pagination C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoriaP_view.php 72
+DEBUG - 2012-11-18 15:31:08 --> Config Class Initialized
+DEBUG - 2012-11-18 15:31:08 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:31:08 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:31:08 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:31:09 --> URI Class Initialized
+DEBUG - 2012-11-18 15:31:09 --> Router Class Initialized
+DEBUG - 2012-11-18 15:31:09 --> Output Class Initialized
+DEBUG - 2012-11-18 15:31:09 --> Security Class Initialized
+DEBUG - 2012-11-18 15:31:10 --> Input Class Initialized
+DEBUG - 2012-11-18 15:31:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:31:10 --> Language Class Initialized
+DEBUG - 2012-11-18 15:31:10 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:31:11 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:31:11 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:31:11 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:31:11 --> Model Class Initialized
+DEBUG - 2012-11-18 15:31:11 --> Model Class Initialized
+DEBUG - 2012-11-18 15:31:11 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:31:12 --> Final output sent to browser
+DEBUG - 2012-11-18 15:31:12 --> Total execution time: 3.8315
+DEBUG - 2012-11-18 15:31:14 --> Config Class Initialized
+DEBUG - 2012-11-18 15:31:14 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:31:14 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:31:14 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:31:15 --> URI Class Initialized
+DEBUG - 2012-11-18 15:31:15 --> Router Class Initialized
+DEBUG - 2012-11-18 15:31:15 --> Output Class Initialized
+DEBUG - 2012-11-18 15:31:15 --> Security Class Initialized
+DEBUG - 2012-11-18 15:31:15 --> Input Class Initialized
+DEBUG - 2012-11-18 15:31:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:31:15 --> Language Class Initialized
+DEBUG - 2012-11-18 15:31:15 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:31:15 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:31:15 --> Controller Class Initialized
+INFO  - 2012-11-18 15:31:15 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:31:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:31:16 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:31:16 --> Final output sent to browser
+DEBUG - 2012-11-18 15:31:16 --> Total execution time: 1.6821
+DEBUG - 2012-11-18 15:32:45 --> Config Class Initialized
+DEBUG - 2012-11-18 15:32:45 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:32:45 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:32:45 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:32:46 --> URI Class Initialized
+DEBUG - 2012-11-18 15:32:46 --> Router Class Initialized
+DEBUG - 2012-11-18 15:32:46 --> Output Class Initialized
+DEBUG - 2012-11-18 15:32:46 --> Security Class Initialized
+DEBUG - 2012-11-18 15:32:47 --> Input Class Initialized
+DEBUG - 2012-11-18 15:32:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:32:47 --> Language Class Initialized
+DEBUG - 2012-11-18 15:32:47 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:32:48 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:32:48 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:32:48 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:32:48 --> Model Class Initialized
+DEBUG - 2012-11-18 15:32:48 --> Model Class Initialized
+DEBUG - 2012-11-18 15:32:48 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:32:49 --> Final output sent to browser
+DEBUG - 2012-11-18 15:32:49 --> Total execution time: 3.8701
+DEBUG - 2012-11-18 15:32:51 --> Config Class Initialized
+DEBUG - 2012-11-18 15:32:51 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:32:51 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:32:51 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:32:51 --> URI Class Initialized
+DEBUG - 2012-11-18 15:32:51 --> Router Class Initialized
+DEBUG - 2012-11-18 15:32:52 --> Output Class Initialized
+DEBUG - 2012-11-18 15:32:52 --> Security Class Initialized
+DEBUG - 2012-11-18 15:32:52 --> Input Class Initialized
+DEBUG - 2012-11-18 15:32:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:32:52 --> Language Class Initialized
+DEBUG - 2012-11-18 15:32:52 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:32:52 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:32:52 --> Controller Class Initialized
+INFO  - 2012-11-18 15:32:52 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:32:52 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:32:52 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:32:53 --> Final output sent to browser
+DEBUG - 2012-11-18 15:32:53 --> Total execution time: 1.5561
+DEBUG - 2012-11-18 15:33:23 --> Config Class Initialized
+DEBUG - 2012-11-18 15:33:23 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:33:23 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:33:23 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:33:23 --> URI Class Initialized
+DEBUG - 2012-11-18 15:33:24 --> Router Class Initialized
+DEBUG - 2012-11-18 15:33:24 --> Output Class Initialized
+DEBUG - 2012-11-18 15:33:24 --> Security Class Initialized
+DEBUG - 2012-11-18 15:33:24 --> Input Class Initialized
+DEBUG - 2012-11-18 15:33:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:33:24 --> Language Class Initialized
+DEBUG - 2012-11-18 15:33:24 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:33:25 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:33:25 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:33:25 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:33:25 --> Model Class Initialized
+DEBUG - 2012-11-18 15:33:26 --> Model Class Initialized
+DEBUG - 2012-11-18 15:33:26 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:33:26 --> Final output sent to browser
+DEBUG - 2012-11-18 15:33:26 --> Total execution time: 3.0639
+DEBUG - 2012-11-18 15:33:28 --> Config Class Initialized
+DEBUG - 2012-11-18 15:33:28 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:33:28 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:33:28 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:33:28 --> URI Class Initialized
+DEBUG - 2012-11-18 15:33:28 --> Router Class Initialized
+DEBUG - 2012-11-18 15:33:28 --> Output Class Initialized
+DEBUG - 2012-11-18 15:33:28 --> Security Class Initialized
+DEBUG - 2012-11-18 15:33:28 --> Input Class Initialized
+DEBUG - 2012-11-18 15:33:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:33:29 --> Language Class Initialized
+DEBUG - 2012-11-18 15:33:29 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:33:29 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:33:29 --> Controller Class Initialized
+INFO  - 2012-11-18 15:33:29 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:33:29 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:33:29 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:33:29 --> Final output sent to browser
+DEBUG - 2012-11-18 15:33:29 --> Total execution time: 1.6221
+DEBUG - 2012-11-18 15:33:30 --> Config Class Initialized
+DEBUG - 2012-11-18 15:33:31 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:33:31 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:33:31 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:33:31 --> URI Class Initialized
+DEBUG - 2012-11-18 15:33:31 --> Router Class Initialized
+DEBUG - 2012-11-18 15:33:31 --> Output Class Initialized
+DEBUG - 2012-11-18 15:33:31 --> Security Class Initialized
+DEBUG - 2012-11-18 15:33:31 --> Input Class Initialized
+DEBUG - 2012-11-18 15:33:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:33:31 --> Language Class Initialized
+DEBUG - 2012-11-18 15:33:32 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:33:32 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:33:32 --> Controller Class Initialized
+INFO  - 2012-11-18 15:33:32 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:33:32 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:33:32 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:33:32 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:33:32 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:33:32 --> Model Class Initialized
+DEBUG - 2012-11-18 15:33:32 --> Model Class Initialized
+ERROR - 2012-11-18 15:33:33 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:33:33 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:33:33 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:33:33 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:33:33 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:33:33 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:33:33 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:33:33 --> NULL
+INFO  - 2012-11-18 15:33:34 --> NULL
+INFO  - 2012-11-18 15:33:34 --> 
+INFO  - 2012-11-18 15:33:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:33:34 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:33:34 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:33:34 --> NULL
+INFO  - 2012-11-18 15:33:34 --> NULL
+INFO  - 2012-11-18 15:33:34 --> 
+INFO  - 2012-11-18 15:33:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:33:34 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+ERROR - 2012-11-18 15:33:35 --> Severity: Notice  --> Undefined variable: numReg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoriaP_view.php 40
+ERROR - 2012-11-18 15:33:35 --> Severity: Notice  --> Undefined variable: numReg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoriaP_view.php 41
+DEBUG - 2012-11-18 15:33:35 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:33:35 --> Final output sent to browser
+DEBUG - 2012-11-18 15:33:35 --> Total execution time: 4.3482
+DEBUG - 2012-11-18 15:34:40 --> Config Class Initialized
+DEBUG - 2012-11-18 15:34:41 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:34:41 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:34:41 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:34:41 --> URI Class Initialized
+DEBUG - 2012-11-18 15:34:41 --> Router Class Initialized
+DEBUG - 2012-11-18 15:34:42 --> Output Class Initialized
+DEBUG - 2012-11-18 15:34:42 --> Security Class Initialized
+DEBUG - 2012-11-18 15:34:42 --> Input Class Initialized
+DEBUG - 2012-11-18 15:34:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:34:43 --> Language Class Initialized
+DEBUG - 2012-11-18 15:34:43 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:34:43 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:34:43 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:34:44 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:34:44 --> Model Class Initialized
+DEBUG - 2012-11-18 15:34:44 --> Model Class Initialized
+DEBUG - 2012-11-18 15:34:44 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:34:44 --> Final output sent to browser
+DEBUG - 2012-11-18 15:34:45 --> Total execution time: 3.9583
+DEBUG - 2012-11-18 15:34:47 --> Config Class Initialized
+DEBUG - 2012-11-18 15:34:47 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:34:47 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:34:47 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:34:47 --> URI Class Initialized
+DEBUG - 2012-11-18 15:34:47 --> Router Class Initialized
+DEBUG - 2012-11-18 15:34:47 --> Output Class Initialized
+DEBUG - 2012-11-18 15:34:48 --> Security Class Initialized
+DEBUG - 2012-11-18 15:34:48 --> Input Class Initialized
+DEBUG - 2012-11-18 15:34:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:34:48 --> Language Class Initialized
+DEBUG - 2012-11-18 15:34:48 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:34:48 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:34:48 --> Controller Class Initialized
+INFO  - 2012-11-18 15:34:48 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:34:48 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:34:48 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:34:48 --> Final output sent to browser
+DEBUG - 2012-11-18 15:34:49 --> Total execution time: 1.5333
+DEBUG - 2012-11-18 15:34:50 --> Config Class Initialized
+DEBUG - 2012-11-18 15:34:50 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:34:51 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:34:51 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:34:51 --> URI Class Initialized
+DEBUG - 2012-11-18 15:34:51 --> Router Class Initialized
+DEBUG - 2012-11-18 15:34:51 --> Output Class Initialized
+DEBUG - 2012-11-18 15:34:52 --> Security Class Initialized
+DEBUG - 2012-11-18 15:34:52 --> Input Class Initialized
+DEBUG - 2012-11-18 15:34:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:34:52 --> Language Class Initialized
+DEBUG - 2012-11-18 15:34:52 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:34:52 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:34:53 --> Controller Class Initialized
+INFO  - 2012-11-18 15:34:53 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:34:53 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:34:53 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:34:53 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:34:53 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:34:53 --> Model Class Initialized
+DEBUG - 2012-11-18 15:34:54 --> Model Class Initialized
+ERROR - 2012-11-18 15:34:54 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:34:54 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:34:54 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:34:54 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:34:54 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:34:54 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:34:54 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:34:55 --> NULL
+INFO  - 2012-11-18 15:34:55 --> NULL
+INFO  - 2012-11-18 15:34:55 --> 
+INFO  - 2012-11-18 15:34:55 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:34:55 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:34:55 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:34:55 --> NULL
+INFO  - 2012-11-18 15:34:55 --> NULL
+INFO  - 2012-11-18 15:34:55 --> 
+INFO  - 2012-11-18 15:34:56 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:34:56 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:34:56 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:34:56 --> Final output sent to browser
+DEBUG - 2012-11-18 15:34:56 --> Total execution time: 5.6728
+DEBUG - 2012-11-18 15:35:53 --> Config Class Initialized
+DEBUG - 2012-11-18 15:35:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:35:53 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:35:53 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:35:54 --> URI Class Initialized
+DEBUG - 2012-11-18 15:35:54 --> Router Class Initialized
+DEBUG - 2012-11-18 15:35:54 --> Output Class Initialized
+DEBUG - 2012-11-18 15:35:54 --> Security Class Initialized
+DEBUG - 2012-11-18 15:35:54 --> Input Class Initialized
+DEBUG - 2012-11-18 15:35:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:35:55 --> Language Class Initialized
+DEBUG - 2012-11-18 15:35:55 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:35:55 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:35:55 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:35:55 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:35:56 --> Model Class Initialized
+DEBUG - 2012-11-18 15:35:56 --> Model Class Initialized
+DEBUG - 2012-11-18 15:35:56 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:35:56 --> Final output sent to browser
+DEBUG - 2012-11-18 15:35:56 --> Total execution time: 3.2469
+DEBUG - 2012-11-18 15:35:58 --> Config Class Initialized
+DEBUG - 2012-11-18 15:35:58 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:35:58 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:35:58 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:35:59 --> URI Class Initialized
+DEBUG - 2012-11-18 15:35:59 --> Router Class Initialized
+DEBUG - 2012-11-18 15:35:59 --> Output Class Initialized
+DEBUG - 2012-11-18 15:35:59 --> Security Class Initialized
+DEBUG - 2012-11-18 15:35:59 --> Input Class Initialized
+DEBUG - 2012-11-18 15:35:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:35:59 --> Language Class Initialized
+DEBUG - 2012-11-18 15:35:59 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:35:59 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:35:59 --> Controller Class Initialized
+INFO  - 2012-11-18 15:36:00 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:36:00 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:36:00 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:36:00 --> Final output sent to browser
+DEBUG - 2012-11-18 15:36:00 --> Total execution time: 2.0605
+DEBUG - 2012-11-18 15:36:02 --> Config Class Initialized
+DEBUG - 2012-11-18 15:36:02 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:36:02 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:36:03 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:36:03 --> URI Class Initialized
+DEBUG - 2012-11-18 15:36:03 --> Router Class Initialized
+DEBUG - 2012-11-18 15:36:03 --> Output Class Initialized
+DEBUG - 2012-11-18 15:36:03 --> Security Class Initialized
+DEBUG - 2012-11-18 15:36:03 --> Input Class Initialized
+DEBUG - 2012-11-18 15:36:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:36:03 --> Language Class Initialized
+DEBUG - 2012-11-18 15:36:04 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:36:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:36:04 --> Controller Class Initialized
+INFO  - 2012-11-18 15:36:04 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:36:04 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:36:04 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:36:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:36:05 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:36:05 --> Model Class Initialized
+DEBUG - 2012-11-18 15:36:05 --> Model Class Initialized
+ERROR - 2012-11-18 15:36:05 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:36:05 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:36:05 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:36:05 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:36:05 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:36:06 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:36:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:36:06 --> NULL
+INFO  - 2012-11-18 15:36:06 --> NULL
+INFO  - 2012-11-18 15:36:06 --> 
+INFO  - 2012-11-18 15:36:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:36:06 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:36:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:36:06 --> NULL
+INFO  - 2012-11-18 15:36:06 --> NULL
+INFO  - 2012-11-18 15:36:07 --> 
+INFO  - 2012-11-18 15:36:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:36:07 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:36:07 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:36:07 --> Final output sent to browser
+DEBUG - 2012-11-18 15:36:07 --> Total execution time: 4.7994
+DEBUG - 2012-11-18 15:36:53 --> Config Class Initialized
+DEBUG - 2012-11-18 15:36:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:36:54 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:36:54 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:36:54 --> URI Class Initialized
+DEBUG - 2012-11-18 15:36:54 --> Router Class Initialized
+DEBUG - 2012-11-18 15:36:55 --> Output Class Initialized
+DEBUG - 2012-11-18 15:36:55 --> Security Class Initialized
+DEBUG - 2012-11-18 15:36:55 --> Input Class Initialized
+DEBUG - 2012-11-18 15:36:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:36:55 --> Language Class Initialized
+DEBUG - 2012-11-18 15:36:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:36:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:36:56 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:36:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:36:56 --> Model Class Initialized
+DEBUG - 2012-11-18 15:36:56 --> Model Class Initialized
+DEBUG - 2012-11-18 15:36:57 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:36:57 --> Final output sent to browser
+DEBUG - 2012-11-18 15:36:57 --> Total execution time: 3.4816
+DEBUG - 2012-11-18 15:36:59 --> Config Class Initialized
+DEBUG - 2012-11-18 15:36:59 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:36:59 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:36:59 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:37:00 --> URI Class Initialized
+DEBUG - 2012-11-18 15:37:00 --> Router Class Initialized
+DEBUG - 2012-11-18 15:37:00 --> Output Class Initialized
+DEBUG - 2012-11-18 15:37:00 --> Security Class Initialized
+DEBUG - 2012-11-18 15:37:00 --> Input Class Initialized
+DEBUG - 2012-11-18 15:37:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:37:01 --> Language Class Initialized
+DEBUG - 2012-11-18 15:37:01 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:37:01 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:37:01 --> Controller Class Initialized
+INFO  - 2012-11-18 15:37:01 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:37:01 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:37:01 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:37:02 --> Final output sent to browser
+DEBUG - 2012-11-18 15:37:02 --> Total execution time: 2.6594
+DEBUG - 2012-11-18 15:37:03 --> Config Class Initialized
+DEBUG - 2012-11-18 15:37:03 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:37:04 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:37:04 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:37:04 --> URI Class Initialized
+DEBUG - 2012-11-18 15:37:04 --> Router Class Initialized
+DEBUG - 2012-11-18 15:37:04 --> Output Class Initialized
+DEBUG - 2012-11-18 15:37:05 --> Security Class Initialized
+DEBUG - 2012-11-18 15:37:05 --> Input Class Initialized
+DEBUG - 2012-11-18 15:37:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:37:05 --> Language Class Initialized
+DEBUG - 2012-11-18 15:37:05 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:37:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:37:06 --> Controller Class Initialized
+INFO  - 2012-11-18 15:37:06 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:37:06 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:37:06 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:37:06 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:37:06 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:37:07 --> Model Class Initialized
+DEBUG - 2012-11-18 15:37:07 --> Model Class Initialized
+ERROR - 2012-11-18 15:37:07 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:37:07 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:37:07 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:37:07 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:37:07 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:37:07 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:37:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:37:08 --> NULL
+INFO  - 2012-11-18 15:37:08 --> NULL
+INFO  - 2012-11-18 15:37:08 --> 
+INFO  - 2012-11-18 15:37:08 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:37:08 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:37:08 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:37:08 --> NULL
+INFO  - 2012-11-18 15:37:08 --> NULL
+INFO  - 2012-11-18 15:37:08 --> 
+INFO  - 2012-11-18 15:37:09 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:37:09 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:37:09 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:37:09 --> Final output sent to browser
+DEBUG - 2012-11-18 15:37:09 --> Total execution time: 5.7409
+DEBUG - 2012-11-18 15:37:55 --> Config Class Initialized
+DEBUG - 2012-11-18 15:37:55 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:37:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:37:55 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:37:55 --> URI Class Initialized
+DEBUG - 2012-11-18 15:37:55 --> Router Class Initialized
+DEBUG - 2012-11-18 15:37:56 --> Output Class Initialized
+DEBUG - 2012-11-18 15:37:56 --> Security Class Initialized
+DEBUG - 2012-11-18 15:37:56 --> Input Class Initialized
+DEBUG - 2012-11-18 15:37:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:37:56 --> Language Class Initialized
+DEBUG - 2012-11-18 15:37:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:37:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:37:56 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:37:57 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:37:57 --> Model Class Initialized
+DEBUG - 2012-11-18 15:37:57 --> Model Class Initialized
+DEBUG - 2012-11-18 15:37:57 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:37:57 --> Final output sent to browser
+DEBUG - 2012-11-18 15:37:57 --> Total execution time: 2.6764
+DEBUG - 2012-11-18 15:38:00 --> Config Class Initialized
+DEBUG - 2012-11-18 15:38:00 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:38:00 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:38:00 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:38:01 --> URI Class Initialized
+DEBUG - 2012-11-18 15:38:01 --> Router Class Initialized
+DEBUG - 2012-11-18 15:38:01 --> Output Class Initialized
+DEBUG - 2012-11-18 15:38:01 --> Security Class Initialized
+DEBUG - 2012-11-18 15:38:01 --> Input Class Initialized
+DEBUG - 2012-11-18 15:38:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:38:02 --> Language Class Initialized
+DEBUG - 2012-11-18 15:38:02 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:38:02 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:38:02 --> Controller Class Initialized
+INFO  - 2012-11-18 15:38:02 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:38:02 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:38:03 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:38:03 --> Final output sent to browser
+DEBUG - 2012-11-18 15:38:03 --> Total execution time: 2.9964
+DEBUG - 2012-11-18 15:38:05 --> Config Class Initialized
+DEBUG - 2012-11-18 15:38:05 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:38:05 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:38:05 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:38:05 --> URI Class Initialized
+DEBUG - 2012-11-18 15:38:05 --> Router Class Initialized
+DEBUG - 2012-11-18 15:38:05 --> Output Class Initialized
+DEBUG - 2012-11-18 15:38:06 --> Security Class Initialized
+DEBUG - 2012-11-18 15:38:06 --> Input Class Initialized
+DEBUG - 2012-11-18 15:38:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:38:06 --> Language Class Initialized
+DEBUG - 2012-11-18 15:38:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:38:06 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:38:06 --> Controller Class Initialized
+INFO  - 2012-11-18 15:38:06 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:38:06 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:38:06 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:38:06 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:38:07 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:38:07 --> Model Class Initialized
+DEBUG - 2012-11-18 15:38:07 --> Model Class Initialized
+INFO  - 2012-11-18 15:38:07 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:38:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:38:07 --> NULL
+INFO  - 2012-11-18 15:38:07 --> NULL
+INFO  - 2012-11-18 15:38:07 --> NULL
+INFO  - 2012-11-18 15:38:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:38:07 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:38:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:38:07 --> NULL
+INFO  - 2012-11-18 15:38:08 --> NULL
+INFO  - 2012-11-18 15:38:08 --> NULL
+INFO  - 2012-11-18 15:38:08 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:38:08 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:38:08 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:38:08 --> Final output sent to browser
+DEBUG - 2012-11-18 15:38:08 --> Total execution time: 3.2489
+DEBUG - 2012-11-18 15:38:18 --> Config Class Initialized
+DEBUG - 2012-11-18 15:38:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:38:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:38:19 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:38:19 --> URI Class Initialized
+DEBUG - 2012-11-18 15:38:19 --> Router Class Initialized
+DEBUG - 2012-11-18 15:38:19 --> Output Class Initialized
+DEBUG - 2012-11-18 15:38:19 --> Security Class Initialized
+DEBUG - 2012-11-18 15:38:20 --> Input Class Initialized
+DEBUG - 2012-11-18 15:38:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:38:20 --> Language Class Initialized
+DEBUG - 2012-11-18 15:38:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:38:21 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:38:21 --> Controller Class Initialized
+INFO  - 2012-11-18 15:38:21 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:38:21 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:38:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:38:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:38:22 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:38:22 --> Model Class Initialized
+DEBUG - 2012-11-18 15:38:22 --> Model Class Initialized
+ERROR - 2012-11-18 15:38:22 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:38:22 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:38:22 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:38:22 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:38:23 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:38:23 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:38:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:38:23 --> NULL
+INFO  - 2012-11-18 15:38:23 --> NULL
+INFO  - 2012-11-18 15:38:23 --> 
+INFO  - 2012-11-18 15:38:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:38:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:38:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:38:24 --> NULL
+INFO  - 2012-11-18 15:38:24 --> NULL
+INFO  - 2012-11-18 15:38:24 --> 
+INFO  - 2012-11-18 15:38:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:38:24 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:38:24 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:38:24 --> Final output sent to browser
+DEBUG - 2012-11-18 15:38:24 --> Total execution time: 6.2553
+DEBUG - 2012-11-18 15:39:43 --> Config Class Initialized
+DEBUG - 2012-11-18 15:39:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:39:43 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:39:43 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:39:43 --> URI Class Initialized
+DEBUG - 2012-11-18 15:39:44 --> Router Class Initialized
+DEBUG - 2012-11-18 15:39:44 --> Output Class Initialized
+DEBUG - 2012-11-18 15:39:44 --> Security Class Initialized
+DEBUG - 2012-11-18 15:39:44 --> Input Class Initialized
+DEBUG - 2012-11-18 15:39:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:39:45 --> Language Class Initialized
+DEBUG - 2012-11-18 15:39:45 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:39:45 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:39:45 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:39:45 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:39:45 --> Model Class Initialized
+DEBUG - 2012-11-18 15:39:46 --> Model Class Initialized
+DEBUG - 2012-11-18 15:39:46 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:39:46 --> Final output sent to browser
+DEBUG - 2012-11-18 15:39:46 --> Total execution time: 3.2710
+DEBUG - 2012-11-18 15:39:49 --> Config Class Initialized
+DEBUG - 2012-11-18 15:39:49 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:39:49 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:39:49 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:39:49 --> URI Class Initialized
+DEBUG - 2012-11-18 15:39:49 --> Router Class Initialized
+DEBUG - 2012-11-18 15:39:50 --> Output Class Initialized
+DEBUG - 2012-11-18 15:39:50 --> Security Class Initialized
+DEBUG - 2012-11-18 15:39:50 --> Input Class Initialized
+DEBUG - 2012-11-18 15:39:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:39:50 --> Language Class Initialized
+DEBUG - 2012-11-18 15:39:51 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:39:51 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:39:51 --> Controller Class Initialized
+INFO  - 2012-11-18 15:39:51 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:39:51 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:39:51 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:39:52 --> Final output sent to browser
+DEBUG - 2012-11-18 15:39:52 --> Total execution time: 3.1094
+DEBUG - 2012-11-18 15:39:54 --> Config Class Initialized
+DEBUG - 2012-11-18 15:39:54 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:39:54 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:39:54 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:39:54 --> URI Class Initialized
+DEBUG - 2012-11-18 15:39:55 --> Router Class Initialized
+DEBUG - 2012-11-18 15:39:55 --> Output Class Initialized
+DEBUG - 2012-11-18 15:39:55 --> Security Class Initialized
+DEBUG - 2012-11-18 15:39:55 --> Input Class Initialized
+DEBUG - 2012-11-18 15:39:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:39:56 --> Language Class Initialized
+DEBUG - 2012-11-18 15:39:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:39:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:39:56 --> Controller Class Initialized
+INFO  - 2012-11-18 15:39:56 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:39:56 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:39:56 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:39:57 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:39:57 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:39:57 --> Model Class Initialized
+DEBUG - 2012-11-18 15:39:57 --> Model Class Initialized
+INFO  - 2012-11-18 15:39:57 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:39:57 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:39:58 --> NULL
+INFO  - 2012-11-18 15:39:58 --> NULL
+INFO  - 2012-11-18 15:39:58 --> NULL
+INFO  - 2012-11-18 15:39:58 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:39:58 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:39:59 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:39:59 --> NULL
+INFO  - 2012-11-18 15:39:59 --> NULL
+INFO  - 2012-11-18 15:39:59 --> NULL
+INFO  - 2012-11-18 15:39:59 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:39:59 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:39:59 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:39:59 --> Final output sent to browser
+DEBUG - 2012-11-18 15:39:59 --> Total execution time: 5.3065
+DEBUG - 2012-11-18 15:40:26 --> Config Class Initialized
+DEBUG - 2012-11-18 15:40:26 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:40:26 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:40:27 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:40:27 --> URI Class Initialized
+DEBUG - 2012-11-18 15:40:27 --> Router Class Initialized
+DEBUG - 2012-11-18 15:40:27 --> Output Class Initialized
+DEBUG - 2012-11-18 15:40:27 --> Security Class Initialized
+DEBUG - 2012-11-18 15:40:27 --> Input Class Initialized
+DEBUG - 2012-11-18 15:40:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:40:28 --> Language Class Initialized
+DEBUG - 2012-11-18 15:40:28 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:40:28 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:40:28 --> Controller Class Initialized
+INFO  - 2012-11-18 15:40:28 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:40:29 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:40:29 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:40:29 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:40:29 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:40:29 --> Model Class Initialized
+DEBUG - 2012-11-18 15:40:29 --> Model Class Initialized
+ERROR - 2012-11-18 15:40:30 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:40:30 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:40:30 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:40:30 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:40:30 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:40:30 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:40:30 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:40:31 --> NULL
+INFO  - 2012-11-18 15:40:31 --> NULL
+INFO  - 2012-11-18 15:40:31 --> 
+INFO  - 2012-11-18 15:40:31 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:40:31 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:40:31 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:40:31 --> NULL
+INFO  - 2012-11-18 15:40:31 --> NULL
+INFO  - 2012-11-18 15:40:31 --> 
+INFO  - 2012-11-18 15:40:32 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:40:32 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:40:32 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:40:32 --> Final output sent to browser
+DEBUG - 2012-11-18 15:40:32 --> Total execution time: 5.8206
+DEBUG - 2012-11-18 15:43:54 --> Config Class Initialized
+DEBUG - 2012-11-18 15:43:54 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:43:55 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:43:55 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:43:55 --> URI Class Initialized
+DEBUG - 2012-11-18 15:43:55 --> Router Class Initialized
+DEBUG - 2012-11-18 15:43:55 --> Output Class Initialized
+DEBUG - 2012-11-18 15:43:55 --> Security Class Initialized
+DEBUG - 2012-11-18 15:43:56 --> Input Class Initialized
+DEBUG - 2012-11-18 15:43:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:43:56 --> Language Class Initialized
+DEBUG - 2012-11-18 15:43:56 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:43:56 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:43:56 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:43:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:43:57 --> Model Class Initialized
+DEBUG - 2012-11-18 15:43:57 --> Model Class Initialized
+DEBUG - 2012-11-18 15:43:57 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:43:57 --> Final output sent to browser
+DEBUG - 2012-11-18 15:43:57 --> Total execution time: 3.0956
+DEBUG - 2012-11-18 15:44:00 --> Config Class Initialized
+DEBUG - 2012-11-18 15:44:00 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:44:01 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:44:01 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:44:01 --> URI Class Initialized
+DEBUG - 2012-11-18 15:44:01 --> Router Class Initialized
+DEBUG - 2012-11-18 15:44:02 --> Output Class Initialized
+DEBUG - 2012-11-18 15:44:02 --> Security Class Initialized
+DEBUG - 2012-11-18 15:44:02 --> Input Class Initialized
+DEBUG - 2012-11-18 15:44:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:44:02 --> Language Class Initialized
+DEBUG - 2012-11-18 15:44:02 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:44:03 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:44:03 --> Controller Class Initialized
+INFO  - 2012-11-18 15:44:03 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:44:03 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:44:03 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:44:03 --> Final output sent to browser
+DEBUG - 2012-11-18 15:44:04 --> Total execution time: 3.1609
+DEBUG - 2012-11-18 15:44:05 --> Config Class Initialized
+DEBUG - 2012-11-18 15:44:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:44:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:44:06 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:44:06 --> URI Class Initialized
+DEBUG - 2012-11-18 15:44:06 --> Router Class Initialized
+DEBUG - 2012-11-18 15:44:06 --> Output Class Initialized
+DEBUG - 2012-11-18 15:44:06 --> Security Class Initialized
+DEBUG - 2012-11-18 15:44:06 --> Input Class Initialized
+DEBUG - 2012-11-18 15:44:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:44:06 --> Language Class Initialized
+DEBUG - 2012-11-18 15:44:06 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:44:07 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:44:07 --> Controller Class Initialized
+INFO  - 2012-11-18 15:44:07 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:44:07 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:44:07 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:44:08 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:44:08 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:44:08 --> Model Class Initialized
+DEBUG - 2012-11-18 15:44:08 --> Model Class Initialized
+INFO  - 2012-11-18 15:44:08 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:44:09 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:44:09 --> NULL
+INFO  - 2012-11-18 15:44:09 --> NULL
+INFO  - 2012-11-18 15:44:09 --> NULL
+INFO  - 2012-11-18 15:44:09 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:44:10 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:44:10 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:44:10 --> NULL
+INFO  - 2012-11-18 15:44:10 --> NULL
+INFO  - 2012-11-18 15:44:10 --> NULL
+INFO  - 2012-11-18 15:44:10 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:44:10 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:44:11 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:44:11 --> Final output sent to browser
+DEBUG - 2012-11-18 15:44:11 --> Total execution time: 5.3330
+DEBUG - 2012-11-18 15:44:17 --> Config Class Initialized
+DEBUG - 2012-11-18 15:44:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:44:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:44:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:44:18 --> URI Class Initialized
+DEBUG - 2012-11-18 15:44:19 --> Router Class Initialized
+DEBUG - 2012-11-18 15:44:19 --> Output Class Initialized
+DEBUG - 2012-11-18 15:44:19 --> Security Class Initialized
+DEBUG - 2012-11-18 15:44:19 --> Input Class Initialized
+DEBUG - 2012-11-18 15:44:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:44:20 --> Language Class Initialized
+DEBUG - 2012-11-18 15:44:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:44:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:44:20 --> Controller Class Initialized
+INFO  - 2012-11-18 15:44:21 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:44:21 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:44:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:44:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:44:21 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:44:21 --> Model Class Initialized
+DEBUG - 2012-11-18 15:44:22 --> Model Class Initialized
+ERROR - 2012-11-18 15:44:22 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:44:22 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:44:22 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:44:22 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:44:22 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:44:22 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:44:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:44:23 --> NULL
+INFO  - 2012-11-18 15:44:23 --> NULL
+INFO  - 2012-11-18 15:44:23 --> 
+INFO  - 2012-11-18 15:44:23 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:44:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:44:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:44:23 --> NULL
+INFO  - 2012-11-18 15:44:23 --> NULL
+INFO  - 2012-11-18 15:44:24 --> 
+INFO  - 2012-11-18 15:44:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:44:24 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:44:24 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:44:24 --> Final output sent to browser
+DEBUG - 2012-11-18 15:44:24 --> Total execution time: 6.5734
+DEBUG - 2012-11-18 15:44:45 --> Config Class Initialized
+DEBUG - 2012-11-18 15:44:45 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:44:46 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:44:46 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:44:46 --> URI Class Initialized
+DEBUG - 2012-11-18 15:44:46 --> Router Class Initialized
+DEBUG - 2012-11-18 15:44:46 --> Output Class Initialized
+DEBUG - 2012-11-18 15:44:47 --> Security Class Initialized
+DEBUG - 2012-11-18 15:44:47 --> Input Class Initialized
+DEBUG - 2012-11-18 15:44:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:44:47 --> Language Class Initialized
+DEBUG - 2012-11-18 15:44:47 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:44:47 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:44:48 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:44:48 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:44:48 --> Model Class Initialized
+DEBUG - 2012-11-18 15:44:48 --> Model Class Initialized
+DEBUG - 2012-11-18 15:44:48 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:44:48 --> Final output sent to browser
+DEBUG - 2012-11-18 15:44:49 --> Total execution time: 3.2870
+DEBUG - 2012-11-18 15:44:50 --> Config Class Initialized
+DEBUG - 2012-11-18 15:44:51 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:44:51 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:44:51 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:44:51 --> URI Class Initialized
+DEBUG - 2012-11-18 15:44:51 --> Router Class Initialized
+DEBUG - 2012-11-18 15:44:51 --> Output Class Initialized
+DEBUG - 2012-11-18 15:44:51 --> Security Class Initialized
+DEBUG - 2012-11-18 15:44:51 --> Input Class Initialized
+DEBUG - 2012-11-18 15:44:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:44:51 --> Language Class Initialized
+DEBUG - 2012-11-18 15:44:52 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:44:52 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:44:52 --> Controller Class Initialized
+INFO  - 2012-11-18 15:44:52 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:44:53 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:44:53 --> File loaded: application/views/Auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:44:53 --> Final output sent to browser
+DEBUG - 2012-11-18 15:44:53 --> Total execution time: 2.7498
+DEBUG - 2012-11-18 15:44:56 --> Config Class Initialized
+DEBUG - 2012-11-18 15:44:56 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:44:56 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:44:56 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:44:57 --> URI Class Initialized
+DEBUG - 2012-11-18 15:44:57 --> Router Class Initialized
+DEBUG - 2012-11-18 15:44:57 --> Output Class Initialized
+DEBUG - 2012-11-18 15:44:57 --> Security Class Initialized
+DEBUG - 2012-11-18 15:44:57 --> Input Class Initialized
+DEBUG - 2012-11-18 15:44:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:44:58 --> Language Class Initialized
+DEBUG - 2012-11-18 15:44:58 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:44:58 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:44:58 --> Controller Class Initialized
+INFO  - 2012-11-18 15:44:58 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:44:58 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:44:58 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:44:59 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:44:59 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:44:59 --> Model Class Initialized
+DEBUG - 2012-11-18 15:44:59 --> Model Class Initialized
+INFO  - 2012-11-18 15:44:59 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:44:59 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:44:59 --> NULL
+INFO  - 2012-11-18 15:44:59 --> NULL
+INFO  - 2012-11-18 15:45:00 --> NULL
+INFO  - 2012-11-18 15:45:00 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:45:00 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:45:00 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:45:00 --> NULL
+INFO  - 2012-11-18 15:45:00 --> NULL
+INFO  - 2012-11-18 15:45:00 --> NULL
+INFO  - 2012-11-18 15:45:00 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:45:00 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:45:01 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:45:01 --> Final output sent to browser
+DEBUG - 2012-11-18 15:45:01 --> Total execution time: 4.9146
+DEBUG - 2012-11-18 15:45:06 --> Config Class Initialized
+DEBUG - 2012-11-18 15:45:06 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:45:06 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:45:07 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:45:07 --> URI Class Initialized
+DEBUG - 2012-11-18 15:45:07 --> Router Class Initialized
+DEBUG - 2012-11-18 15:45:07 --> Output Class Initialized
+DEBUG - 2012-11-18 15:45:07 --> Security Class Initialized
+DEBUG - 2012-11-18 15:45:08 --> Input Class Initialized
+DEBUG - 2012-11-18 15:45:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:45:08 --> Language Class Initialized
+DEBUG - 2012-11-18 15:45:08 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:45:08 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:45:09 --> Controller Class Initialized
+INFO  - 2012-11-18 15:45:09 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:45:09 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:45:09 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:45:09 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:45:10 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:45:10 --> Model Class Initialized
+DEBUG - 2012-11-18 15:45:10 --> Model Class Initialized
+ERROR - 2012-11-18 15:45:10 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:45:10 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:45:10 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:45:10 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:45:10 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:45:11 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:45:11 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:45:11 --> NULL
+INFO  - 2012-11-18 15:45:11 --> NULL
+INFO  - 2012-11-18 15:45:11 --> 
+INFO  - 2012-11-18 15:45:11 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:45:11 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:45:12 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:45:12 --> NULL
+INFO  - 2012-11-18 15:45:12 --> NULL
+INFO  - 2012-11-18 15:45:12 --> 
+INFO  - 2012-11-18 15:45:12 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:45:12 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:45:12 --> File loaded: application/views/auditoria/auditoriaP_view.php
+DEBUG - 2012-11-18 15:45:13 --> Final output sent to browser
+DEBUG - 2012-11-18 15:45:13 --> Total execution time: 6.7353
+DEBUG - 2012-11-18 15:47:37 --> Config Class Initialized
+DEBUG - 2012-11-18 15:47:37 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:47:37 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:47:38 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:47:38 --> URI Class Initialized
+DEBUG - 2012-11-18 15:47:38 --> Router Class Initialized
+DEBUG - 2012-11-18 15:47:38 --> Output Class Initialized
+DEBUG - 2012-11-18 15:47:38 --> Security Class Initialized
+DEBUG - 2012-11-18 15:47:39 --> Input Class Initialized
+DEBUG - 2012-11-18 15:47:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:47:39 --> Language Class Initialized
+DEBUG - 2012-11-18 15:47:39 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:47:40 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:47:40 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:47:40 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:47:40 --> Model Class Initialized
+DEBUG - 2012-11-18 15:47:40 --> Model Class Initialized
+DEBUG - 2012-11-18 15:47:40 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:47:41 --> Final output sent to browser
+DEBUG - 2012-11-18 15:47:41 --> Total execution time: 3.7773
+DEBUG - 2012-11-18 15:47:43 --> Config Class Initialized
+DEBUG - 2012-11-18 15:47:43 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:47:44 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:47:44 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:47:44 --> URI Class Initialized
+DEBUG - 2012-11-18 15:47:44 --> Router Class Initialized
+DEBUG - 2012-11-18 15:47:44 --> Output Class Initialized
+DEBUG - 2012-11-18 15:47:45 --> Security Class Initialized
+DEBUG - 2012-11-18 15:47:45 --> Input Class Initialized
+DEBUG - 2012-11-18 15:47:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:47:46 --> Language Class Initialized
+DEBUG - 2012-11-18 15:47:46 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:47:46 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:47:46 --> Controller Class Initialized
+INFO  - 2012-11-18 15:47:46 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:47:47 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+ERROR - 2012-11-18 15:47:47 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 51
+ERROR - 2012-11-18 15:47:47 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 52
+ERROR - 2012-11-18 15:47:47 --> Severity: Notice  --> Undefined variable: registro_operaciones C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 70
+ERROR - 2012-11-18 15:47:47 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 70
+ERROR - 2012-11-18 15:47:47 --> Severity: Notice  --> Undefined property: CI_Loader::$pagination C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 81
+DEBUG - 2012-11-18 15:48:26 --> Config Class Initialized
+DEBUG - 2012-11-18 15:48:27 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:48:27 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:48:27 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:48:27 --> URI Class Initialized
+DEBUG - 2012-11-18 15:48:28 --> Router Class Initialized
+DEBUG - 2012-11-18 15:48:28 --> Output Class Initialized
+DEBUG - 2012-11-18 15:48:28 --> Security Class Initialized
+DEBUG - 2012-11-18 15:48:28 --> Input Class Initialized
+DEBUG - 2012-11-18 15:48:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:48:29 --> Language Class Initialized
+DEBUG - 2012-11-18 15:48:29 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:48:29 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:48:29 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:48:29 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:48:30 --> Model Class Initialized
+DEBUG - 2012-11-18 15:48:30 --> Model Class Initialized
+DEBUG - 2012-11-18 15:48:30 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:48:30 --> Final output sent to browser
+DEBUG - 2012-11-18 15:48:30 --> Total execution time: 3.4939
+DEBUG - 2012-11-18 15:48:32 --> Config Class Initialized
+DEBUG - 2012-11-18 15:48:32 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:48:32 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:48:32 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:48:32 --> URI Class Initialized
+DEBUG - 2012-11-18 15:48:32 --> Router Class Initialized
+DEBUG - 2012-11-18 15:48:32 --> Output Class Initialized
+DEBUG - 2012-11-18 15:48:33 --> Security Class Initialized
+DEBUG - 2012-11-18 15:48:33 --> Input Class Initialized
+DEBUG - 2012-11-18 15:48:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:48:33 --> Language Class Initialized
+DEBUG - 2012-11-18 15:48:33 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:48:33 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:48:33 --> Controller Class Initialized
+INFO  - 2012-11-18 15:48:33 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:48:33 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+ERROR - 2012-11-18 15:48:33 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 51
+ERROR - 2012-11-18 15:48:34 --> Severity: Notice  --> Undefined variable: num_reg C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 52
+ERROR - 2012-11-18 15:48:34 --> Severity: Notice  --> Undefined variable: registro_operaciones C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 70
+ERROR - 2012-11-18 15:48:34 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 70
+ERROR - 2012-11-18 15:48:34 --> Severity: Notice  --> Undefined property: CI_Loader::$pagination C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\views\Auditoria\auditoria_view.php 81
+DEBUG - 2012-11-18 15:50:11 --> Config Class Initialized
+DEBUG - 2012-11-18 15:50:11 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:50:11 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:50:11 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:50:11 --> URI Class Initialized
+DEBUG - 2012-11-18 15:50:11 --> Router Class Initialized
+DEBUG - 2012-11-18 15:50:11 --> Output Class Initialized
+DEBUG - 2012-11-18 15:50:12 --> Security Class Initialized
+DEBUG - 2012-11-18 15:50:12 --> Input Class Initialized
+DEBUG - 2012-11-18 15:50:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:50:12 --> Language Class Initialized
+DEBUG - 2012-11-18 15:50:12 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:50:12 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:50:12 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:50:12 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:50:12 --> Model Class Initialized
+DEBUG - 2012-11-18 15:50:12 --> Model Class Initialized
+DEBUG - 2012-11-18 15:50:12 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:50:13 --> Final output sent to browser
+DEBUG - 2012-11-18 15:50:13 --> Total execution time: 1.6932
+DEBUG - 2012-11-18 15:50:15 --> Config Class Initialized
+DEBUG - 2012-11-18 15:50:15 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:50:15 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:50:15 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:50:15 --> URI Class Initialized
+DEBUG - 2012-11-18 15:50:15 --> Router Class Initialized
+DEBUG - 2012-11-18 15:50:15 --> Output Class Initialized
+DEBUG - 2012-11-18 15:50:15 --> Security Class Initialized
+DEBUG - 2012-11-18 15:50:15 --> Input Class Initialized
+DEBUG - 2012-11-18 15:50:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:50:16 --> Language Class Initialized
+DEBUG - 2012-11-18 15:50:16 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:50:16 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:50:16 --> Controller Class Initialized
+INFO  - 2012-11-18 15:50:16 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:50:16 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:50:16 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:50:16 --> Final output sent to browser
+DEBUG - 2012-11-18 15:50:16 --> Total execution time: 1.4177
+DEBUG - 2012-11-18 15:50:20 --> Config Class Initialized
+DEBUG - 2012-11-18 15:50:21 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:50:21 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:50:21 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:50:21 --> URI Class Initialized
+DEBUG - 2012-11-18 15:50:21 --> Router Class Initialized
+DEBUG - 2012-11-18 15:50:22 --> Output Class Initialized
+DEBUG - 2012-11-18 15:50:22 --> Security Class Initialized
+DEBUG - 2012-11-18 15:50:22 --> Input Class Initialized
+DEBUG - 2012-11-18 15:50:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:50:22 --> Language Class Initialized
+DEBUG - 2012-11-18 15:50:23 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:50:23 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:50:23 --> Controller Class Initialized
+INFO  - 2012-11-18 15:50:23 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:50:23 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:50:23 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:50:23 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:50:24 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:50:24 --> Model Class Initialized
+DEBUG - 2012-11-18 15:50:24 --> Model Class Initialized
+INFO  - 2012-11-18 15:50:24 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:50:24 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:50:25 --> NULL
+INFO  - 2012-11-18 15:50:25 --> NULL
+INFO  - 2012-11-18 15:50:25 --> NULL
+INFO  - 2012-11-18 15:50:25 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:50:25 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:50:25 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:50:26 --> NULL
+INFO  - 2012-11-18 15:50:26 --> NULL
+INFO  - 2012-11-18 15:50:26 --> NULL
+INFO  - 2012-11-18 15:50:26 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:50:26 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:50:26 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:50:26 --> Final output sent to browser
+DEBUG - 2012-11-18 15:50:26 --> Total execution time: 5.9984
+DEBUG - 2012-11-18 15:50:30 --> Config Class Initialized
+DEBUG - 2012-11-18 15:50:30 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:50:31 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:50:31 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:50:31 --> URI Class Initialized
+DEBUG - 2012-11-18 15:50:31 --> Router Class Initialized
+DEBUG - 2012-11-18 15:50:31 --> Output Class Initialized
+DEBUG - 2012-11-18 15:50:32 --> Security Class Initialized
+DEBUG - 2012-11-18 15:50:32 --> Input Class Initialized
+DEBUG - 2012-11-18 15:50:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:50:32 --> Language Class Initialized
+DEBUG - 2012-11-18 15:50:32 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:50:33 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:50:33 --> Controller Class Initialized
+INFO  - 2012-11-18 15:50:33 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:50:33 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:50:33 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:50:34 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:50:34 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:50:34 --> Model Class Initialized
+DEBUG - 2012-11-18 15:50:34 --> Model Class Initialized
+ERROR - 2012-11-18 15:50:34 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:50:34 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:50:34 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:50:34 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:50:35 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:50:35 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:50:35 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:50:35 --> NULL
+INFO  - 2012-11-18 15:50:35 --> NULL
+INFO  - 2012-11-18 15:50:35 --> 
+INFO  - 2012-11-18 15:50:35 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:50:35 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:50:35 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:50:36 --> NULL
+INFO  - 2012-11-18 15:50:36 --> NULL
+INFO  - 2012-11-18 15:50:36 --> 
+INFO  - 2012-11-18 15:50:36 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:50:36 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:50:36 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:50:36 --> Final output sent to browser
+DEBUG - 2012-11-18 15:50:36 --> Total execution time: 6.1256
+DEBUG - 2012-11-18 15:52:01 --> Config Class Initialized
+DEBUG - 2012-11-18 15:52:02 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:52:02 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:52:02 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:52:02 --> URI Class Initialized
+DEBUG - 2012-11-18 15:52:02 --> Router Class Initialized
+DEBUG - 2012-11-18 15:52:02 --> Output Class Initialized
+DEBUG - 2012-11-18 15:52:03 --> Security Class Initialized
+DEBUG - 2012-11-18 15:52:03 --> Input Class Initialized
+DEBUG - 2012-11-18 15:52:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:52:03 --> Language Class Initialized
+DEBUG - 2012-11-18 15:52:03 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:52:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:52:04 --> Controller Class Initialized
+INFO  - 2012-11-18 15:52:04 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:52:04 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:52:04 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:52:04 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:52:05 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:52:05 --> Model Class Initialized
+DEBUG - 2012-11-18 15:52:05 --> Model Class Initialized
+INFO  - 2012-11-18 15:52:05 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:52:05 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:05 --> NULL
+INFO  - 2012-11-18 15:52:05 --> NULL
+INFO  - 2012-11-18 15:52:06 --> NULL
+INFO  - 2012-11-18 15:52:06 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:06 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:52:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:06 --> NULL
+INFO  - 2012-11-18 15:52:06 --> NULL
+INFO  - 2012-11-18 15:52:06 --> NULL
+INFO  - 2012-11-18 15:52:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:07 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:52:07 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:52:07 --> Final output sent to browser
+DEBUG - 2012-11-18 15:52:07 --> Total execution time: 5.5580
+DEBUG - 2012-11-18 15:52:17 --> Config Class Initialized
+DEBUG - 2012-11-18 15:52:18 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:52:18 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:52:18 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:52:18 --> URI Class Initialized
+DEBUG - 2012-11-18 15:52:18 --> Router Class Initialized
+DEBUG - 2012-11-18 15:52:19 --> Output Class Initialized
+DEBUG - 2012-11-18 15:52:19 --> Security Class Initialized
+DEBUG - 2012-11-18 15:52:19 --> Input Class Initialized
+DEBUG - 2012-11-18 15:52:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:52:20 --> Language Class Initialized
+DEBUG - 2012-11-18 15:52:20 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:52:20 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:52:20 --> Controller Class Initialized
+INFO  - 2012-11-18 15:52:20 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:52:21 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:52:21 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:52:21 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:52:21 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:52:21 --> Model Class Initialized
+DEBUG - 2012-11-18 15:52:21 --> Model Class Initialized
+INFO  - 2012-11-18 15:52:22 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:52:22 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:22 --> 2012-10-03
+INFO  - 2012-11-18 15:52:22 --> 2012-11-18
+INFO  - 2012-11-18 15:52:22 --> NULL
+INFO  - 2012-11-18 15:52:22 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:23 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:52:23 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:23 --> 2012-10-03
+INFO  - 2012-11-18 15:52:23 --> 2012-11-18
+INFO  - 2012-11-18 15:52:23 --> NULL
+INFO  - 2012-11-18 15:52:24 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:24 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:52:24 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:52:24 --> Final output sent to browser
+DEBUG - 2012-11-18 15:52:24 --> Total execution time: 6.7157
+DEBUG - 2012-11-18 15:52:28 --> Config Class Initialized
+DEBUG - 2012-11-18 15:52:28 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:52:28 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:52:28 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:52:28 --> URI Class Initialized
+DEBUG - 2012-11-18 15:52:29 --> Router Class Initialized
+DEBUG - 2012-11-18 15:52:29 --> Output Class Initialized
+DEBUG - 2012-11-18 15:52:29 --> Security Class Initialized
+DEBUG - 2012-11-18 15:52:29 --> Input Class Initialized
+DEBUG - 2012-11-18 15:52:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:52:30 --> Language Class Initialized
+DEBUG - 2012-11-18 15:52:30 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:52:30 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:52:30 --> Controller Class Initialized
+INFO  - 2012-11-18 15:52:30 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:52:31 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:52:31 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:52:31 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:52:31 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:52:31 --> Model Class Initialized
+DEBUG - 2012-11-18 15:52:32 --> Model Class Initialized
+ERROR - 2012-11-18 15:52:32 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:52:32 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:52:32 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:52:32 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:52:32 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:52:32 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:52:33 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:33 --> NULL
+INFO  - 2012-11-18 15:52:33 --> NULL
+INFO  - 2012-11-18 15:52:33 --> 
+INFO  - 2012-11-18 15:52:33 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:33 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:52:33 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:33 --> NULL
+INFO  - 2012-11-18 15:52:34 --> NULL
+INFO  - 2012-11-18 15:52:34 --> 
+INFO  - 2012-11-18 15:52:34 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:52:34 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:52:34 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:52:34 --> Final output sent to browser
+DEBUG - 2012-11-18 15:52:34 --> Total execution time: 6.6619
+DEBUG - 2012-11-18 15:54:29 --> Config Class Initialized
+DEBUG - 2012-11-18 15:54:29 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:54:30 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:54:30 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:54:30 --> URI Class Initialized
+DEBUG - 2012-11-18 15:54:30 --> Router Class Initialized
+DEBUG - 2012-11-18 15:54:30 --> Output Class Initialized
+DEBUG - 2012-11-18 15:54:31 --> Security Class Initialized
+DEBUG - 2012-11-18 15:54:31 --> Input Class Initialized
+DEBUG - 2012-11-18 15:54:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:54:31 --> Language Class Initialized
+DEBUG - 2012-11-18 15:54:31 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:54:31 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:54:32 --> Controller Class Initialized
+DEBUG - 2012-11-18 15:54:32 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:54:32 --> Model Class Initialized
+DEBUG - 2012-11-18 15:54:32 --> Model Class Initialized
+DEBUG - 2012-11-18 15:54:32 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 15:54:32 --> Final output sent to browser
+DEBUG - 2012-11-18 15:54:33 --> Total execution time: 3.1804
+DEBUG - 2012-11-18 15:54:34 --> Config Class Initialized
+DEBUG - 2012-11-18 15:54:35 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:54:35 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:54:35 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:54:35 --> URI Class Initialized
+DEBUG - 2012-11-18 15:54:35 --> Router Class Initialized
+DEBUG - 2012-11-18 15:54:36 --> Output Class Initialized
+DEBUG - 2012-11-18 15:54:36 --> Security Class Initialized
+DEBUG - 2012-11-18 15:54:36 --> Input Class Initialized
+DEBUG - 2012-11-18 15:54:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:54:36 --> Language Class Initialized
+DEBUG - 2012-11-18 15:54:36 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:54:37 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:54:37 --> Controller Class Initialized
+INFO  - 2012-11-18 15:54:37 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 15:54:37 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 15:54:37 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:54:37 --> Final output sent to browser
+DEBUG - 2012-11-18 15:54:38 --> Total execution time: 2.9964
+DEBUG - 2012-11-18 15:54:39 --> Config Class Initialized
+DEBUG - 2012-11-18 15:54:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:54:40 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:54:40 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:54:40 --> URI Class Initialized
+DEBUG - 2012-11-18 15:54:40 --> Router Class Initialized
+DEBUG - 2012-11-18 15:54:40 --> Output Class Initialized
+DEBUG - 2012-11-18 15:54:41 --> Security Class Initialized
+DEBUG - 2012-11-18 15:54:41 --> Input Class Initialized
+DEBUG - 2012-11-18 15:54:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:54:41 --> Language Class Initialized
+DEBUG - 2012-11-18 15:54:41 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:54:42 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:54:42 --> Controller Class Initialized
+INFO  - 2012-11-18 15:54:42 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:54:42 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:54:42 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:54:42 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:54:42 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:54:43 --> Model Class Initialized
+DEBUG - 2012-11-18 15:54:43 --> Model Class Initialized
+INFO  - 2012-11-18 15:54:43 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:54:43 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:54:43 --> NULL
+INFO  - 2012-11-18 15:54:43 --> NULL
+INFO  - 2012-11-18 15:54:43 --> NULL
+INFO  - 2012-11-18 15:54:43 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:54:44 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:54:44 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:54:44 --> NULL
+INFO  - 2012-11-18 15:54:44 --> NULL
+INFO  - 2012-11-18 15:54:44 --> NULL
+INFO  - 2012-11-18 15:54:44 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:54:44 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:54:44 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:54:44 --> Final output sent to browser
+DEBUG - 2012-11-18 15:54:45 --> Total execution time: 5.3610
+DEBUG - 2012-11-18 15:54:47 --> Config Class Initialized
+DEBUG - 2012-11-18 15:54:48 --> Hooks Class Initialized
+DEBUG - 2012-11-18 15:54:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 15:54:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 15:54:48 --> URI Class Initialized
+DEBUG - 2012-11-18 15:54:48 --> Router Class Initialized
+DEBUG - 2012-11-18 15:54:48 --> Output Class Initialized
+DEBUG - 2012-11-18 15:54:49 --> Security Class Initialized
+DEBUG - 2012-11-18 15:54:49 --> Input Class Initialized
+DEBUG - 2012-11-18 15:54:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 15:54:49 --> Language Class Initialized
+DEBUG - 2012-11-18 15:54:49 --> Loader Class Initialized
+DEBUG - 2012-11-18 15:54:49 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 15:54:49 --> Controller Class Initialized
+INFO  - 2012-11-18 15:54:50 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:54:50 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 15:54:50 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 15:54:50 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 15:54:50 --> Pagination Class Initialized
+DEBUG - 2012-11-18 15:54:51 --> Model Class Initialized
+DEBUG - 2012-11-18 15:54:51 --> Model Class Initialized
+ERROR - 2012-11-18 15:54:51 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 15:54:51 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 15:54:52 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 15:54:52 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 15:54:52 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 15:54:52 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:54:52 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:54:52 --> NULL
+INFO  - 2012-11-18 15:54:52 --> NULL
+INFO  - 2012-11-18 15:54:53 --> 
+INFO  - 2012-11-18 15:54:53 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:54:53 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 15:54:53 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:54:53 --> NULL
+INFO  - 2012-11-18 15:54:53 --> NULL
+INFO  - 2012-11-18 15:54:53 --> 
+INFO  - 2012-11-18 15:54:53 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 15:54:54 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 15:54:54 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 15:54:54 --> Final output sent to browser
+DEBUG - 2012-11-18 15:54:54 --> Total execution time: 6.5005
+DEBUG - 2012-11-18 16:01:39 --> Config Class Initialized
+DEBUG - 2012-11-18 16:01:39 --> Hooks Class Initialized
+DEBUG - 2012-11-18 16:01:39 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 16:01:40 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 16:01:40 --> URI Class Initialized
+DEBUG - 2012-11-18 16:01:40 --> Router Class Initialized
+DEBUG - 2012-11-18 16:01:40 --> Output Class Initialized
+DEBUG - 2012-11-18 16:01:40 --> Security Class Initialized
+DEBUG - 2012-11-18 16:01:40 --> Input Class Initialized
+DEBUG - 2012-11-18 16:01:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 16:01:41 --> Language Class Initialized
+DEBUG - 2012-11-18 16:01:41 --> Loader Class Initialized
+DEBUG - 2012-11-18 16:01:41 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 16:01:41 --> Controller Class Initialized
+DEBUG - 2012-11-18 16:01:41 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 16:01:42 --> Model Class Initialized
+DEBUG - 2012-11-18 16:01:42 --> Model Class Initialized
+DEBUG - 2012-11-18 16:01:42 --> File loaded: application/views/carga.php
+DEBUG - 2012-11-18 16:01:42 --> Final output sent to browser
+DEBUG - 2012-11-18 16:01:42 --> Total execution time: 3.2819
+DEBUG - 2012-11-18 16:01:47 --> Config Class Initialized
+DEBUG - 2012-11-18 16:01:47 --> Hooks Class Initialized
+DEBUG - 2012-11-18 16:01:48 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 16:01:48 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 16:01:48 --> URI Class Initialized
+DEBUG - 2012-11-18 16:01:48 --> Router Class Initialized
+DEBUG - 2012-11-18 16:01:48 --> Output Class Initialized
+DEBUG - 2012-11-18 16:01:49 --> Security Class Initialized
+DEBUG - 2012-11-18 16:01:49 --> Input Class Initialized
+DEBUG - 2012-11-18 16:01:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 16:01:49 --> Language Class Initialized
+DEBUG - 2012-11-18 16:01:50 --> Loader Class Initialized
+DEBUG - 2012-11-18 16:01:50 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 16:01:50 --> Controller Class Initialized
+INFO  - 2012-11-18 16:01:50 --> [INICIO] [USUARIO CONECTADO: ][ACCION: auditoria()]
+INFO  - 2012-11-18 16:01:51 --> [FIN] [USUARIO CONECTADO: ][ACCION: auditoria()]
+DEBUG - 2012-11-18 16:01:51 --> File loaded: application/views/Auditoria/auditoria_view.php
+DEBUG - 2012-11-18 16:01:51 --> Final output sent to browser
+DEBUG - 2012-11-18 16:01:51 --> Total execution time: 3.7863
+DEBUG - 2012-11-18 16:01:53 --> Config Class Initialized
+DEBUG - 2012-11-18 16:01:53 --> Hooks Class Initialized
+DEBUG - 2012-11-18 16:01:53 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 16:01:54 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 16:01:54 --> URI Class Initialized
+DEBUG - 2012-11-18 16:01:54 --> Router Class Initialized
+DEBUG - 2012-11-18 16:01:54 --> Output Class Initialized
+DEBUG - 2012-11-18 16:01:54 --> Security Class Initialized
+DEBUG - 2012-11-18 16:01:55 --> Input Class Initialized
+DEBUG - 2012-11-18 16:01:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 16:01:55 --> Language Class Initialized
+DEBUG - 2012-11-18 16:01:55 --> Loader Class Initialized
+DEBUG - 2012-11-18 16:01:55 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 16:01:55 --> Controller Class Initialized
+INFO  - 2012-11-18 16:01:55 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 16:01:55 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 16:01:56 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 16:01:56 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 16:01:56 --> Pagination Class Initialized
+DEBUG - 2012-11-18 16:01:56 --> Model Class Initialized
+DEBUG - 2012-11-18 16:01:56 --> Model Class Initialized
+INFO  - 2012-11-18 16:01:56 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 16:01:57 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 16:01:57 --> NULL
+INFO  - 2012-11-18 16:01:57 --> NULL
+INFO  - 2012-11-18 16:01:57 --> NULL
+INFO  - 2012-11-18 16:01:57 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 16:01:57 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 16:01:57 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 16:01:58 --> NULL
+INFO  - 2012-11-18 16:01:58 --> NULL
+INFO  - 2012-11-18 16:01:58 --> NULL
+INFO  - 2012-11-18 16:01:58 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 16:01:58 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 16:01:58 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 16:01:58 --> Final output sent to browser
+DEBUG - 2012-11-18 16:01:58 --> Total execution time: 5.3304
+DEBUG - 2012-11-18 16:02:02 --> Config Class Initialized
+DEBUG - 2012-11-18 16:02:02 --> Hooks Class Initialized
+DEBUG - 2012-11-18 16:02:02 --> Utf8 Class Initialized
+DEBUG - 2012-11-18 16:02:02 --> UTF-8 Support Enabled
+DEBUG - 2012-11-18 16:02:02 --> URI Class Initialized
+DEBUG - 2012-11-18 16:02:03 --> Router Class Initialized
+DEBUG - 2012-11-18 16:02:03 --> Output Class Initialized
+DEBUG - 2012-11-18 16:02:03 --> Security Class Initialized
+DEBUG - 2012-11-18 16:02:03 --> Input Class Initialized
+DEBUG - 2012-11-18 16:02:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2012-11-18 16:02:03 --> Language Class Initialized
+DEBUG - 2012-11-18 16:02:03 --> Loader Class Initialized
+DEBUG - 2012-11-18 16:02:04 --> Database Driver Class Initialized
+DEBUG - 2012-11-18 16:02:04 --> Controller Class Initialized
+INFO  - 2012-11-18 16:02:04 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 16:02:04 --> Helper loaded: text_helper
+DEBUG - 2012-11-18 16:02:04 --> Helper loaded: form_helper
+DEBUG - 2012-11-18 16:02:05 --> Helper loaded: url_helper
+DEBUG - 2012-11-18 16:02:05 --> Pagination Class Initialized
+DEBUG - 2012-11-18 16:02:05 --> Model Class Initialized
+DEBUG - 2012-11-18 16:02:05 --> Model Class Initialized
+ERROR - 2012-11-18 16:02:05 --> Severity: Notice  --> Undefined index: indicador C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 47
+ERROR - 2012-11-18 16:02:06 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 49
+ERROR - 2012-11-18 16:02:06 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 50
+ERROR - 2012-11-18 16:02:06 --> Severity: Notice  --> Undefined index: fecha_desde C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 52
+ERROR - 2012-11-18 16:02:06 --> Severity: Notice  --> Undefined index: fecha_hasta C:\Program Files\EasyPHP-5.3.9\www\SIGE_CRISTAL\application\controllers\Auditoria\auditoria_controller.php 53
+INFO  - 2012-11-18 16:02:06 --> [INICIO] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 16:02:06 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 16:02:06 --> NULL
+INFO  - 2012-11-18 16:02:07 --> NULL
+INFO  - 2012-11-18 16:02:07 --> 
+INFO  - 2012-11-18 16:02:07 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 16:02:07 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: paginacion()]
+INFO  - 2012-11-18 16:02:07 --> [INICIO] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 16:02:07 --> NULL
+INFO  - 2012-11-18 16:02:07 --> NULL
+INFO  - 2012-11-18 16:02:07 --> 
+INFO  - 2012-11-18 16:02:08 --> [FIN] [USUARIO CONECTADO: ][ACCION: model buscar_auditoria()]
+INFO  - 2012-11-18 16:02:08 --> [FIN] [USUARIO CONECTADO: usuario][ACCION: consultarAuditoria()]
+DEBUG - 2012-11-18 16:02:08 --> File loaded: application/views/auditoria/auditoria_view.php
+DEBUG - 2012-11-18 16:02:08 --> Final output sent to browser
+DEBUG - 2012-11-18 16:02:08 --> Total execution time: 6.3348

@@ -26,7 +26,7 @@
             $this->db->from('rol r');
             $this->db->where('((' . $codigo .' is null) or (cod_rol = ' . $codigo .'))and (("'. $nombre .'" is null or tipo_rol LIKE "%' . $nombre .'%"))');
             $this->db->where('cod_rol != 0');
-            $this->db->limit(10, $this->uri->segment(20));
+            $this->db->limit(10, $this->uri->segment(4));
             $contacto = $this->db->get();    
             return $contacto;
         }	
@@ -151,7 +151,7 @@
             $this->db->where('((' . $codigo .' is null) or (rs.cod_rol = ' . $codigo .'))');   
             $this->db->where('s.tipo_serv', 'G');    
             $this->db->where('s.ruta != "inicio/subMenu"');
-            $this->db->limit(10, $this->uri->segment(20));
+            $this->db->limit(10, $this->uri->segment(4));
             $servicio = $this->db->get();
             return $servicio;
 
@@ -272,8 +272,7 @@
           */         
         function buscarRolUser($cedula, $user)
 
-        {   
-           
+        {           
             $this->db->select('u.*, e.nombre, e.apellido, r.tipo_rol');
             $this->db->from('usuario u');
             $this->db->join('empleado e', 'e.cedula = u.cedula');
@@ -281,7 +280,7 @@
             $this->db->where('e.estado = "A"');
             $this->db->where('((' . $cedula .' is null) or (e.cedula = ' . $cedula .'))and (("'. $user .'" is null or u.usuario LIKE "%' . $user .'%"))');
             $this->db->where('r.cod_rol != 0');
-            $this->db->limit(10, $this->uri->segment(20));
+            $this->db->limit(10, $this->uri->segment(4));
             $servicio = $this->db->get();
             return $servicio;
 

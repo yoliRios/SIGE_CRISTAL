@@ -26,7 +26,7 @@
             $this->db->from('departamento d');
             $this->db->where('((' . $codigo .' is null) or (cod_dpto = ' . $codigo .'))and (("'. $nombre .'" is null or nombre_dpto LIKE "%' . $nombre .'%"))');
             $this->db->where('cod_dpto !=', '0');
-            $this->db->limit(10, $this->uri->segment(20));
+            $this->db->limit(10, $this->uri->segment(3));
             $contacto = $this->db->get();
             return $contacto;
 
@@ -116,7 +116,7 @@
             $this->db->from('sucursal s');
             $this->db->where('((' . $codigo .' is null) or (cod_sucursal = ' . $codigo .'))and (("'. $nombre .'" is null or nombre_sucursal LIKE "%' . $nombre .'%"))');
             $this->db->where('estado', 'A');
-            $this->db->limit(10, $this->uri->segment(20));
+            $this->db->limit(10, $this->uri->segment(3));
             $contacto = $this->db->get();
             return $contacto;
 
